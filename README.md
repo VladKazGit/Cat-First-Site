@@ -9,7 +9,7 @@
 |---|---|
 | Генератор страниц | `tools/build.py` |
 | Копирование контента, строк и картинок из Android-репозитория | `tools/sync_from_app.py` |
-| Снимки экранов приложения для первого экрана | `tools/import_hero.py` → `src/hero/` |
+| Телефоны первого экрана и значки магазинов (из `src/originals/`) | `tools/import_hero.py` → `src/hero/`, `src/badges/` |
 | Проверка полноты, ссылок и правил | `tools/check.py` |
 | Снимки страниц (Chrome без окна) | `tools/shots.py` → `screens/` |
 | Тексты интерфейса сайта по языкам | `src/i18n/<язык>.json` |
