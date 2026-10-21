@@ -53,5 +53,7 @@
  "support_app": "También puedes enviar el correo desde la app: «{settings}» → «{section}».",
  "support_privacy": "En este sitio no hay formularios: el correo se envía desde tu propia app de correo.",
  "no_cookies": "Sin cookies ni recogida de datos",
- "choose_lang": "Elige un idioma"
+ "choose_lang": "Elige un idioma",
+ "prev": "Imagen anterior",
+ "next": "Imagen siguiente"
 }

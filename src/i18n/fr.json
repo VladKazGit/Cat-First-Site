@@ -53,5 +53,7 @@
  "support_app": "Vous pouvez aussi envoyer l'e-mail depuis l'application : « {settings} » → « {section} ».",
  "support_privacy": "Ce site n'a aucun formulaire : l'e-mail part de votre propre messagerie.",
  "no_cookies": "Sans cookies ni collecte de données",
- "choose_lang": "Choisissez une langue"
+ "choose_lang": "Choisissez une langue",
+ "prev": "Image précédente",
+ "next": "Image suivante"
 }

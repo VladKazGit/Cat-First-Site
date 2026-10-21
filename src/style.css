@@ -132,8 +132,20 @@ button{font:inherit;font-size:12px;color:var(--pri);background:none;border:0;cur
 img.wide{width:100%;height:auto;border-radius:16px;margin:12px 0}
 img.wide.head{max-width:760px;margin-top:20px}
 img.wide.portrait{width:auto;max-height:620px;margin-left:auto;margin-right:auto}
-.comics{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;max-width:1000px}
-.comics img{width:100%;height:auto;border-radius:16px;background:var(--card)}
+/* gallery: one picture at a time; without JS it is a plain horizontal scroll strip */
+.gallery{position:relative;max-width:900px}
+.gtrack{display:flex;align-items:center;overflow-x:auto;scroll-snap-type:x mandatory;border-radius:20px;background:var(--card);border:1px solid var(--line)}
+.gallery.js .gtrack{scrollbar-width:none}.gallery.js .gtrack::-webkit-scrollbar{display:none}
+.gslide{flex:0 0 100%;margin:0;scroll-snap-align:start}
+.gslide img{width:100%;height:auto}
+.gnav,.gdots{display:none}
+.gallery.js .gnav{display:flex;position:absolute;top:calc(50% - 22px);transform:translateY(-50%);width:44px;height:44px;border-radius:50%;
+  align-items:center;justify-content:center;background:rgba(255,255,255,.92);border:1px solid var(--line);color:var(--head);transition:opacity .2s}
+.gnav.prev{left:12px}.gnav.next{right:12px}.gnav:hover{background:#fff;color:var(--pri)}
+.gnav:disabled{opacity:0;pointer-events:none}
+.gallery.js .gdots{display:flex;justify-content:center;gap:8px;margin-top:14px;height:30px;align-items:center}
+.gdots button{width:10px;height:10px;border-radius:999px;background:var(--line);transition:width .2s,background .2s}
+.gdots button[aria-current=true]{width:26px;background:var(--pri)}
 .art{display:grid;grid-template-columns:260px minmax(0,1fr);gap:32px;align-items:start;margin-top:28px}
 .toc{position:sticky;top:20px;background:var(--card);border:1px solid var(--line);border-radius:20px;padding:20px;max-height:calc(100vh - 40px);overflow:auto}
 .toch{display:flex;justify-content:space-between;align-items:center;gap:8px;font-size:12px;text-transform:uppercase;letter-spacing:.06em}
@@ -148,7 +160,7 @@ img.wide.portrait{width:auto;max-height:620px;margin-left:auto;margin-right:auto
 .tip .slabel{color:var(--pri)}.warn .slabel{color:var(--red-text)}
 .num{width:30px;height:30px;border-radius:50%;background:var(--bg);display:flex;align-items:center;justify-content:center;font-size:13px;font-weight:600;color:var(--muted);flex-shrink:0}
 .chev{transition:transform .25s}.sec[open] .chev{transform:rotate(180deg)}
-.sb{padding:0 28px 24px 68px}
+.sb{padding:0 28px 24px 68px}.sec:not(:has(.num)) .sb{padding-left:24px}
 .sub{font-size:17px;font-weight:600;margin:18px 0 6px}
 .sec.tip{background:var(--tip);border-left:4px solid var(--pri)}
 .sec.warn{background:var(--red-bg);border-left:4px solid var(--red)}

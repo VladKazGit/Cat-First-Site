@@ -33,6 +33,8 @@ SIZES = json.loads((DATA / 'image_sizes.json').read_text(encoding='utf-8'))
 P = {  # outline icons, 24x24, stroke = currentColor
     'arrow': '<path d="M5 12h14M13 6l6 6-6 6"/>',
     'chev': '<path d="M6 9l6 6 6-6"/>',
+    'chevl': '<path d="M15 5l-7 7 7 7"/>',
+    'chevr': '<path d="M9 5l7 7-7 7"/>',
     'ok': '<circle cx="12" cy="12" r="9"/><path d="M8 12.5l3 3 5-6"/>',
     'no': '<circle cx="12" cy="12" r="9"/><path d="M9 9l6 6M15 9l-6 6"/>',
     'bulb': '<path d="M9 18h6M10 21h4M12 3a6 6 0 0 0-4 10.5c.8.8 1 1.5 1 2.5h6c0-1 .2-1.7 1-2.5A6 6 0 0 0 12 3z"/>',
@@ -227,11 +229,12 @@ def render(pg, title, body, desc, active=None):
           f'<meta property="og:description" content="{E(desc)}"><meta property="og:locale" content="{t["og_locale"]}">'
           + (f'<meta property="og:image" content="{BASE_URL}icons/icon-192.png"><meta property="og:url" content="{BASE_URL}{pg.path}">' if BASE_URL else ''))
     full_title = title if title == 'Cat First' else f'{title} — Cat First'
+    script = f'<script src="{pg.url("gallery.js")}" defer></script>' if 'data-gallery' in body else ''
     doc = f'''<!doctype html>
 <html lang="{t["html_lang"]}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="color-scheme" content="light"><title>{E(full_title)}</title><meta name="description" content="{E(desc)}">
 <link rel="icon" href="{pg.url("favicon.ico")}" sizes="48x48"><link rel="icon" type="image/png" href="{pg.url("icons/icon-192.png")}" sizes="192x192">
-<link rel="apple-touch-icon" href="{pg.url("icons/icon-180.png")}">{canon}{alts}{og}<link rel="stylesheet" href="{pg.url("style.css")}"></head>
+<link rel="apple-touch-icon" href="{pg.url("icons/icon-180.png")}">{canon}{alts}{og}<link rel="stylesheet" href="{pg.url("style.css")}">{script}</head>
 <body><a class="skip" href="#main">{E(t["skip"])}</a>
 <header class="top"><div class="wrap row"><a class="logo" href="{pg.link("index")}"><img src="{pg.url("icons/icon-64.png")}" width="32" height="32" alt="">Cat First</a>
 <nav class="nav" aria-label="{E(t["menu"])}">{nav}</nav>{lang_switch(pg)}
@@ -320,7 +323,7 @@ def p_dom(lang, C):
                                     (pg.pic(b['image'], s['heading']) if b.get('image') else '') for b in blocks)
             else:
                 inner = prose(s.get('body'), True) + pg.pic(s.get('image'), s['heading'])
-            secs += (f'<details class="sec{cls}" id="s{i}" data-sec open><summary><span class="num">{i}</span>'
+            secs += (f'<details class="sec{cls}" id="s{i}" data-sec open><summary>{num_badge(i, s["heading"])}'
                      f'<h2 class="sh">{E(s["heading"])}</h2>{lab}{ic("chev", "ic sm chev")}</summary><div class="sb">{inner}</div></details>')
         others = [DC[(k + j) % len(DC)] for j in (1, 2, 3)]
         more = ''.join(row_card(pg.link('dom/' + o['id']), 'home', (k + j) % 6, o['title'], E(o.get('subtitle') or ''))
@@ -334,8 +337,14 @@ def p_dom(lang, C):
         render(pg, art['title'], body, art.get('intro') or c.get('subtitle') or art['title'], 'dom/index')
 
 
+def num_badge(i, heading):
+    """The section's number in a circle, unless the heading already starts with its own ('1. ...' in Knowledge)."""
+    return '' if NUMBERED.match(heading) else f'<span class="num">{i}</span>'
+
+
 def article_body(pg, sections, secs):
-    toc = ''.join(f'<li><a href="#s{i}">{i}. {E(s["heading"])}</a></li>' for i, s in enumerate(sections, 1))
+    toc = ''.join(f'<li><a href="#s{i}">{"" if NUMBERED.match(s["heading"]) else f"{i}. "}{E(s["heading"])}</a></li>'
+                  for i, s in enumerate(sections, 1))
     t, a = pg.t, pg.a
     toggle = (f'<button type="button" onclick="var d=document.querySelectorAll(\'details.sec\'),o=![].some.call(d,function(x){{return !x.open}});'
               f'[].forEach.call(d,function(x){{x.open=!o}})">{E(a["generic_collapse"])} / {E(a["generic_expand"])}</button>')
@@ -362,17 +371,14 @@ def p_knowledge(lang, C):
     for k, c in enumerate(KN):
         pg = Page(lang, 'znaniya/' + c['id'])
         comics = c.get('comicImages') or []
-        strip = ''
-        if comics:
-            strip = ('<section class="wrap"><div class="comics">' + ''.join(
-                pg.pic(n, f'{c["title"]} ({j}/{len(comics)})', 'frame', lazy=j > 1) for j, n in enumerate(comics, 1)) + '</div></section>')
+        strip = gallery(pg, comics, c['title']) if comics else ''
         secs = ''
         for i, s in enumerate(c['sections'], 1):
             if s.get('blocks'):
                 inner = ''.join(prose(b['text']) if b.get('text') else pg.pic(b.get('image'), s['heading']) for b in s['blocks'])
             else:
                 inner = prose(s.get('body')) + ''.join(pg.pic(n, s['heading']) for n in (s.get('images') or []))
-            secs += (f'<details class="sec" id="s{i}" data-sec open><summary><span class="num">{i}</span>'
+            secs += (f'<details class="sec" id="s{i}" data-sec open><summary>{num_badge(i, s["heading"])}'
                      f'<h2 class="sh">{E(s["heading"])}</h2>{ic("chev", "ic sm chev")}</summary><div class="sb">{inner}</div></details>')
         others = [KN[(k + j) % len(KN)] for j in (1, 2, 3)]
         more = ''.join(row_card(pg.link('znaniya/' + o['id']), 'book', (k + j) % 6, o['title'], E(o.get('subtitle') or ''))
@@ -384,6 +390,19 @@ def p_knowledge(lang, C):
                 f'<section class="wrap"><div class="shead"><h2 class="h2">{E(t["more_in_section"])}</h2></div><div class="grid3">{more}</div></section>' +
                 disclaimer(pg) + cta(pg))
         render(pg, c['title'], body, c.get('subtitle') or c['title'], 'znaniya/index')
+
+
+def gallery(pg, names, title):
+    """One picture at a time, like the app's comic pager: swipe/scroll (works without JS), arrows and dots (gallery.js)."""
+    n = len(names)
+    slides = ''.join(f'<figure class="gslide">{pg.pic(name, f"{title} ({j}/{n})", "frame", lazy=j > 1)}</figure>'
+                     for j, name in enumerate(names, 1))
+    dots = ''.join(f'<button type="button" aria-label="{j} / {n}"></button>' for j in range(1, n + 1))
+    return (f'<section class="wrap"><div class="gallery" data-gallery><div class="gtrack" tabindex="0" role="region" '
+            f'aria-label="{E(title)}">{slides}</div>'
+            f'<button type="button" class="gnav prev" aria-label="{E(pg.t["prev"])}">{ic("chevl")}</button>'
+            f'<button type="button" class="gnav next" aria-label="{E(pg.t["next"])}">{ic("chevr")}</button>'
+            f'<div class="gdots">{dots}</div></div></section>')
 
 
 CL_ICONS = ['aid', 'home', 'shield', 'home', 'globe', 'aid', 'shield', 'home', 'aid', 'info']
@@ -518,6 +537,7 @@ def main():
     for old in DIST.iterdir():  # empty dist/ but keep the folder itself (a local server may be running in it)
         shutil.rmtree(old) if old.is_dir() else old.unlink()
     shutil.copy(SRC / 'style.css', DIST / 'style.css')
+    shutil.copy(SRC / 'gallery.js', DIST / 'gallery.js')
     shutil.copytree(SRC / 'img', DIST / 'img')
     shutil.copytree(SRC / 'hero', DIST / 'img/hero')
     shutil.copytree(SRC / 'badges', DIST / 'img/badges')

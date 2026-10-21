@@ -53,5 +53,7 @@
  "support_app": "E-postayı uygulamadan da gönderebilirsiniz: “{settings}” → “{section}”.",
  "support_privacy": "Bu sitede form yoktur: e-posta kendi e-posta uygulamanızdan gönderilir.",
  "no_cookies": "Çerez yok, veri toplanmaz",
- "choose_lang": "Bir dil seçin"
+ "choose_lang": "Bir dil seçin",
+ "prev": "Önceki görsel",
+ "next": "Sonraki görsel"
 }

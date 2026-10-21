@@ -53,5 +53,7 @@
  "support_app": "Puoi inviare l'e-mail anche dall'app: «{settings}» → «{section}».",
  "support_privacy": "Su questo sito non ci sono moduli: l'e-mail parte dalla tua app di posta.",
  "no_cookies": "Niente cookie, nessuna raccolta di dati",
- "choose_lang": "Scegli la lingua"
+ "choose_lang": "Scegli la lingua",
+ "prev": "Immagine precedente",
+ "next": "Immagine successiva"
 }

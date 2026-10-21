@@ -153,6 +153,11 @@ def check_links_and_rules():
                     ids_cache[target] = set(re.findall(r'\bid="([^"]+)"', target.read_text(encoding='utf-8')))
                 if u.fragment not in ids_cache[target]:
                     problems.append(f'{f.relative_to(DIST)}: missing anchor {url}')
+    for js in DIST.rglob('*.js'):
+        src = js.read_text(encoding='utf-8')
+        for bad in ('localStorage', 'sessionStorage', 'indexedDB', 'cookie', 'fetch(', 'XMLHttpRequest', 'http:', 'https:', 'sendBeacon'):
+            if bad in src:
+                problems.append(f'{js.relative_to(DIST)}: contains {bad}')
     for css in DIST.rglob('*.css'):
         if re.search(r'url\(|@import', css.read_text(encoding='utf-8')):
             problems.append(f'{css.relative_to(DIST)}: url()/@import')

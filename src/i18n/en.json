@@ -53,5 +53,7 @@
  "support_app": "You can also send an email from the app: “{settings}” → “{section}”.",
  "support_privacy": "There are no forms on this site: the email is sent from your own mail app.",
  "no_cookies": "No cookies, no data collection",
- "choose_lang": "Choose a language"
+ "choose_lang": "Choose a language",
+ "prev": "Previous image",
+ "next": "Next image"
 }

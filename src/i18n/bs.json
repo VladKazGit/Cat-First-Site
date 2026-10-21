@@ -53,5 +53,7 @@
  "support_app": "Poruku možete poslati i iz aplikacije: „{settings}“ → „{section}“.",
  "support_privacy": "Na stranici nema obrazaca: poruka se šalje iz vašeg programa za poštu.",
  "no_cookies": "Bez kolačića i prikupljanja podataka",
- "choose_lang": "Izaberite jezik"
+ "choose_lang": "Izaberite jezik",
+ "prev": "Prethodna slika",
+ "next": "Sljedeća slika"
 }

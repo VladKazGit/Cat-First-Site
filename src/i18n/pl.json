@@ -53,5 +53,7 @@
  "support_app": "Wiadomość możesz też wysłać z aplikacji: „{settings}” → „{section}”.",
  "support_privacy": "Na tej stronie nie ma formularzy: wiadomość wysyłasz z własnej poczty.",
  "no_cookies": "Bez plików cookie i zbierania danych",
- "choose_lang": "Wybierz język"
+ "choose_lang": "Wybierz język",
+ "prev": "Poprzedni obraz",
+ "next": "Następny obraz"
 }
