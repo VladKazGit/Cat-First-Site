@@ -232,7 +232,7 @@ def render(pg, title, body, desc, active=None):
     script = f'<script src="{pg.url("gallery.js")}" defer></script>' if 'data-gallery' in body else ''
     doc = f'''<!doctype html>
 <html lang="{t["html_lang"]}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<meta name="color-scheme" content="light"><title>{E(full_title)}</title><meta name="description" content="{E(desc)}">
+<meta name="color-scheme" content="light dark"><meta name="theme-color" content="#F2EEE6" media="(prefers-color-scheme: light)"><meta name="theme-color" content="#1B1B19" media="(prefers-color-scheme: dark)"><title>{E(full_title)}</title><meta name="description" content="{E(desc)}">
 <link rel="icon" href="{pg.url("favicon.ico")}" sizes="48x48"><link rel="icon" type="image/png" href="{pg.url("icons/icon-192.png")}" sizes="192x192">
 <link rel="apple-touch-icon" href="{pg.url("icons/icon-180.png")}">{canon}{alts}{og}<link rel="stylesheet" href="{pg.url("style.css")}">{script}</head>
 <body><a class="skip" href="#main">{E(t["skip"])}</a>
@@ -508,7 +508,7 @@ def p_root():
     alts = ''.join(f'<link rel="alternate" hreflang="{I18N[l]["html_lang"]}" href="{BASE_URL}{l}/index.html">' for l in LANGS)
     doc = f'''<!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<meta name="color-scheme" content="light"><title>Cat First</title><meta name="description" content="{E(I18N["en"]["site_desc"])}">
+<meta name="color-scheme" content="light dark"><meta name="theme-color" content="#F2EEE6" media="(prefers-color-scheme: light)"><meta name="theme-color" content="#1B1B19" media="(prefers-color-scheme: dark)"><title>Cat First</title><meta name="description" content="{E(I18N["en"]["site_desc"])}">
 <link rel="icon" href="favicon.ico" sizes="48x48"><link rel="icon" type="image/png" href="icons/icon-192.png" sizes="192x192">
 <link rel="apple-touch-icon" href="icons/icon-180.png">{alts}<link rel="stylesheet" href="style.css"></head>
 <body><main class="wrap langpage"><img src="icons/icon-192.png" width="96" height="96" alt=""><h1>Cat First</h1>

@@ -1,11 +1,18 @@
-/* Cat First website. Stitch "Serene Feline Care" look, app palette, light theme only, system fonts, no external files. */
+/* Cat First website. Stitch "Serene Feline Care" look, app palette, system fonts, no external files.
+   Light and dark theme follow the system setting (nothing is stored); dark colors are the app's dark palette (Color.kt). */
 :root{
-  color-scheme:light;
+  color-scheme:light dark;
   --bg:#F2EEE6;--card:#FFFFFF;--line:#E6E1D8;--text:#2B2B28;--muted:#6B6B6B;--head:#1F4E3D;--pri:#2F6F5A;--pri-dark:#1F4E3D;
   --terra:#8A5A44;--peach:#FBE6D9;--mint:#DCEEE6;--lav:#E6E1F5;--rose:#F6E1E6;--sky:#DCEAF5;--sage:#E7EEDD;--tile:#E3E5E0;
   --red:#D64545;--red-text:#B83232;--red-bg:#FDECEC;--note:#FFF0B8;--note-text:#4A3900;--tip:#E9F3EC;--foot:#1F4E3D;--foot-text:#DCEEE6;
+  --top:#F6F3EE;--nic:rgba(255,255,255,.5);--cta:#1F4E3D;--on-pri:#FFFFFF;
   --font:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
 }
+@media (prefers-color-scheme:dark){:root{
+  --bg:#1B1B19;--card:#242422;--line:#353532;--text:#ECE8E0;--muted:#AFAFAF;--head:#F2EEE6;--pri:#7FD9BB;--pri-dark:#7FD9BB;
+  --terra:#D9A98A;--peach:#3D2E22;--mint:#23372E;--lav:#2E293D;--rose:#3D2429;--sky:#20313D;--sage:#2B3323;--tile:#2E302D;
+  --red:#E28686;--red-text:#E28686;--red-bg:#3A2222;--note:#4A3F17;--note-text:#FFE9A6;--tip:#1F3229;--foot:#132E25;--foot-text:#CFE7DC;
+  --top:#20201E;--nic:rgba(255,255,255,.08);--cta:#183D30;--on-pri:#1B1B19}}
 *{box-sizing:border-box}
 html{background:var(--foot)}
 body{margin:0;background:var(--bg);color:var(--text);font:400 16px/1.7 var(--font);-webkit-font-smoothing:antialiased;overflow-wrap:break-word}
@@ -27,7 +34,7 @@ main>section,main>nav{margin-top:48px}main>nav.crumbs{margin-top:28px}
 .ic.sm{width:16px;height:16px}.ic.xs{width:12px;height:12px}.ic.big{width:30px;height:30px}.ic.red{color:var(--red)}
 .skip{position:absolute;left:-9999px;top:8px;background:var(--card);padding:8px 14px;border-radius:10px;z-index:10}.skip:focus{left:8px}
 /* header + footer */
-.top{background:#F6F3EE;border-bottom:1px solid var(--line)}
+.top{background:var(--top);border-bottom:1px solid var(--line)}
 .top .row{min-height:68px}
 .logo{display:flex;align-items:center;gap:10px;font-weight:600;font-size:20px;color:var(--head)}
 .logo img{width:32px;height:32px;border-radius:8px}
@@ -52,7 +59,7 @@ main>section,main>nav{margin-top:48px}main>nav.crumbs{margin-top:28px}
 .chip{display:inline-flex;align-items:center;gap:6px;background:var(--peach);color:var(--terra);font-size:12px;font-weight:600;padding:4px 12px;border-radius:999px;letter-spacing:.02em;line-height:1.5}
 .chip.red{background:var(--red-bg);color:var(--red-text)}.chip.soft{background:var(--bg);color:var(--muted)}
 .chip.light{background:rgba(255,255,255,.14);color:#DCEEE6}
-.btn{display:inline-flex;align-items:center;gap:8px;border-radius:999px;padding:10px 20px;font-weight:600;font-size:14px;background:var(--pri);color:#fff}
+.btn{display:inline-flex;align-items:center;gap:8px;border-radius:999px;padding:10px 20px;font-weight:600;font-size:14px;background:var(--pri);color:var(--on-pri)}
 .btn.ghost{background:transparent;color:var(--pri);border:1.5px solid var(--pri)}
 .btn.big{font-size:17px;padding:14px 26px;margin:8px 0 6px;word-break:break-all}
 button{font:inherit;font-size:12px;color:var(--pri);background:none;border:0;cursor:pointer;padding:0;text-align:right}
@@ -115,12 +122,12 @@ button{font:inherit;font-size:12px;color:var(--pri);background:none;border:0;cur
 /* notes */
 .note{display:flex;gap:16px;background:var(--note);color:var(--note-text);border-radius:20px;padding:24px 28px}
 .note b{display:block;font-weight:600;margin-bottom:4px}.note p{margin:0;font-size:14px}
-.nic{width:34px;height:34px;padding:6px;border-radius:50%;background:rgba(255,255,255,.5)}
+.nic{width:34px;height:34px;padding:6px;border-radius:50%;background:var(--nic)}
 .alarm{display:flex;gap:16px;background:var(--red-bg);border-left:4px solid var(--red);padding:20px 24px;border-radius:4px 16px 16px 4px}
 .alarm b{color:var(--red-text);font-size:18px;font-weight:600}.alarm p{margin:4px 0 0}
 .urgent{border-color:color-mix(in srgb,var(--red) 30%,var(--line))}
 .emblock{margin-top:16px}.emblock .h2{margin-bottom:8px}
-.cta{display:flex;justify-content:space-between;align-items:center;gap:32px;background:#1F4E3D;color:#DCEEE6;border-radius:24px;padding:40px 44px}
+.cta{display:flex;justify-content:space-between;align-items:center;gap:32px;background:var(--cta);color:#DCEEE6;border-radius:24px;padding:40px 44px}
 .cta h2{color:#fff;font-size:28px;font-weight:500;margin:12px 0 8px}.cta p{margin:0}.cta .stores{margin:0}
 /* knowledge cards */
 .kcard{background:var(--card);border:1px solid var(--line);border-radius:24px;padding:28px 32px;display:flex;flex-direction:column;gap:10px;min-height:250px}
@@ -140,8 +147,8 @@ img.wide.portrait{width:auto;max-height:620px;margin-left:auto;margin-right:auto
 .gslide img{width:100%;height:auto}
 .gnav,.gdots{display:none}
 .gallery.js .gnav{display:flex;position:absolute;top:calc(50% - 22px);transform:translateY(-50%);width:44px;height:44px;border-radius:50%;
-  align-items:center;justify-content:center;background:rgba(255,255,255,.92);border:1px solid var(--line);color:var(--head);transition:opacity .2s}
-.gnav.prev{left:12px}.gnav.next{right:12px}.gnav:hover{background:#fff;color:var(--pri)}
+  align-items:center;justify-content:center;background:color-mix(in srgb,var(--card) 92%,transparent);border:1px solid var(--line);color:var(--head);transition:opacity .2s}
+.gnav.prev{left:12px}.gnav.next{right:12px}.gnav:hover{background:var(--card);color:var(--pri)}
 .gnav:disabled{opacity:0;pointer-events:none}
 .gallery.js .gdots{display:flex;justify-content:center;gap:8px;margin-top:14px;height:30px;align-items:center}
 .gdots button{width:10px;height:10px;border-radius:999px;background:var(--line);transition:width .2s,background .2s}
