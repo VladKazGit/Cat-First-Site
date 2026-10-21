@@ -1,0 +1,528 @@
+[
+  {
+    "id": "bezopasnost",
+    "title": "Safety",
+    "intro": "Your home is a fortress for your cat. Make sure every corner of it is safe and comfortable.",
+    "heroImage": "dom_bezopasnost_hero",
+    "sections": [
+      {
+        "heading": "Window screens",
+        "body": "Ordinary mosquito screens won't hold up against a cat's jump or claws. And open windows can lead to a cat getting stuck or falling out.\n\nThere are two main types of screens for protecting cats:\n1) \"Anti-cat screens\" — made from high-strength steel mesh and securely attached to the frame with metal fasteners around the entire perimeter.\n2) Plastic restrictors for open window gaps — also known as \"tilt-and-turn window guards.\"",
+        "style": "plain",
+        "image": "dom_bezopasnost_setki"
+      },
+      {
+        "heading": "Protecting corners and gaps",
+        "body": "Check the gaps between furniture and walls. Cats can get stuck in narrow spaces. Common spots include:\n• between cabinets and the wall;\n• behind the refrigerator;\n• behind the washing machine;\n• between the sofa and the wall.\n\nThe simple rule: either the cat shouldn't be able to fit into a space at all, or it must be able to get back out.",
+        "style": "plain",
+        "image": "dom_bezopasnost_uglov"
+      },
+      {
+        "heading": "Electricity",
+        "body": "Hide cords in cable covers. Kittens love to chew on cords, which can cause electric shock, death, or burns to the mouth.\n\nDangerous spots:\n• extension cords;\n• phone chargers;\n• computer cables;\n• string lights;\n• TV wires.\n\nUsing dedicated cable covers to bundle wires together and conceal them really helps.\n\nKeep in mind that cats may chew on cords out of curiosity, because of a smell, or in reaction to a person's behavior. If this happens, don't scare the cat or yell at it — calmly and gently distract it from the cords instead.",
+        "style": "plain",
+        "image": "dom_bezopasnost_elektro"
+      },
+      {
+        "heading": "Heavy furniture",
+        "body": "Anchor bookshelves and TVs to the wall. Cats are excellent jumpers, and their weight can tip over unsecured items, which can injure the cat or people nearby.\n\nMain items to watch:\n• bookcases;\n• dressers;\n• shelving units;\n• TVs;\n• wall shelves;\n• wine cabinets.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Household chemicals",
+        "body": "Any household chemical is dangerous for animals. This includes products for:\n• cleaning glass;\n• cleaning the bathroom;\n• washing floors;\n• washing dishes, and so on.\n\nEven if a chemical gets on a cat's fur, the cat will lick it off and it will end up in its internal organs. Keep all products away from your cat's living areas and behind closed cabinet doors.\n\nEspecially dangerous: bleach, drain cleaners, oven cleaner, dishwasher tablets, laundry pods, and concentrated cleaning solutions.",
+        "style": "warning",
+        "image": "dom_bezopasnost_himiya"
+      },
+      {
+        "heading": "Balcony",
+        "body": "Being able to enjoy fresh air is an important part of an animal's life. But besides fresh air and sunshine, a balcony can also hide danger.\n\nThe first and most important rule is having dedicated safety netting around the entire perimeter of the balcony. You should also seal off any technical openings — cats are curious and will poke their noses in anywhere they can.",
+        "style": "plain",
+        "image": "dom_bezopasnost_balkon"
+      },
+      {
+        "heading": "Additional points",
+        "body": "Kitchen: a hot stovetop; knives; an open oven; the trash can.\n\nBathroom: keep the toilet lid closed; always check the washing machine before starting it; keep cabinets closed; store pills and capsules securely.\n\nCandles and fragrances: essential oils; diffusers; incense; candles.\n\nBags and film: plastic bags; packaging film; stretch wrap.\n\nThread and elastics: sewing thread; embroidery floss; rubber bands; hair ties.",
+        "style": "plain",
+        "image": "dom_bezopasnost_dop"
+      }
+    ]
+  },
+  {
+    "id": "eda_i_voda",
+    "title": "Food and water",
+    "intro": "Create the ideal feeding space for your cat by following the principles of comfort and natural needs.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "1. Choosing bowls",
+        "body": "Material matters. Plastic accumulates bacteria and can cause feline acne. Recommended materials: glass, ceramic, and stainless steel.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "2. The ideal location",
+        "body": "Cats are creatures of habit and security. Never place food near the litter box.\n• A quiet corner free of drafts;\n• Away from noisy appliances;\n• A view of the room for a sense of safety.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "3. A comfortable height",
+        "body": "Bowls on a stand reduce strain on the neck and joints, especially in older cats. Tilting the bowl to the correct 15-degree angle makes swallowing more natural. Choose the height based on how tall your cat is while standing.",
+        "style": "plain",
+        "image": "dom_eda_vysota"
+      },
+      {
+        "heading": "Tip: bowl dimensions",
+        "body": "Bowl width: the inner diameter should be at least 1.5–2 times the width of the cat's face (including whiskers). For most adult cats, the optimal diameter is 15–18 cm; for large breeds (such as Maine Coons), 18–22 cm. If the diameter is under 12–13 cm, the cat's whiskers will keep brushing against the sides.\n\nBowl depth: 2–4 cm is ideal for both dry and wet food. The rim height should be about 1/2–3/4 of the height of the cat's face. Rims taller than 5–6 cm are only suitable for large food volumes and are less convenient for everyday feeding.",
+        "style": "tip",
+        "image": "dom_eda_sovet"
+      }
+    ]
+  },
+  {
+    "id": "klimat",
+    "title": "Heat and cold",
+    "intro": "How to protect your pet from overheating and hypothermia.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "Summer heat",
+        "body": "• Always keep a bowl of fresh water within reach. Cats drink more when they're hot.\n• Use cooling mats or damp towels, but don't force your cat to lie on them.\n• Avoid direct drafts from the air conditioner — ideally, the cool air should not blow directly on the cat. Clean the AC filters as needed.\nDon't: don't pour ice water on your cat; don't apply ice directly to its body; don't force it to drink.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Heatstroke risk!",
+        "body": "Watch for: rapid open-mouthed breathing; severe lethargy; bright red gums; refusal to eat or drink; loss of coordination.\nIf these symptoms appear, urgent veterinary care may be needed.",
+        "style": "warning",
+        "image": null
+      },
+      {
+        "heading": "Winter",
+        "body": "Cozy beds off the floor, plus humidifying dry indoor air. Create warm spots around the house: bedding and a draft-free location will help retain warmth.\n\nIn winter it's important to: avoid drafts; not place the bed near a cold window; maintain 40–60% humidity; and wipe your cat's paws after walks (if it goes outside).",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Hidden dangers",
+        "body": "Hot radiators — prolonged contact can cause burns. Tilted-open windows — a risk of hypothermia and injury.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Something to keep in mind",
+        "body": "Cats choose their own comfortable temperature. If your pet keeps lying on the cold floor, hiding under a blanket, or staying by the radiator, that's a sign it's too hot or too cold for it.",
+        "style": "tip",
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "igry",
+    "title": "Play",
+    "intro": "For an indoor cat, play isn't just entertainment — it's an outlet for the hunting instinct. Daily 15–30 minute sessions help prevent stress, obesity, and destructive behavior.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "Safety first: choosing materials",
+        "body": "Material matters for toys. Cats play with their paws, but they also take toys into their mouths.\n\nNatural materials: wool, feathers, cotton and linen, jute and sisal, wood.\nSynthetic materials: fleece, food-grade silicone, quality ABS plastic.\n\nAvoid cheap plastic with a strong smell (it breaks quickly, has sharp edges, and smells toxic), long fibers and tinsel (threads tear off easily and can cause intestinal blockage if swallowed), and foam rubber (a cat can chew through it, and small pieces get stuck in the stomach).\n\nSmall parts: no beads, glued-on eyes, or buttons — a cat can easily bite them off and swallow them, leading to serious gastrointestinal injury.",
+        "style": "warning",
+        "image": "dom_igry_materialy"
+      },
+      {
+        "heading": "General toy list",
+        "body": "Textile and wool: a soft squeaky toy made of cotton/linen; felted balls of 100% wool; fabric mice and fish with no glued-on parts; catnip pouches; plush fleece pillow toys.\n\nWood and natural fibers: matatabi (silvervine) chew sticks; pressed catnip balls; wooden puzzle mazes; sisal/jute rope balls; scratching posts and mats.\n\nSilicone and rubber: food-grade silicone chew toys; dental massage toothbrush toys; rings made of durable rubber.\n\nPlastic interactive toys (ABS plastic only): multi-level ball-track towers; interactive puzzle feeders; treat-dispensing wobble toys; enclosed plastic balls with a bell.\n\nToys for play together: wand teasers with fleece ribbons or natural feathers; long textile snake-like cords.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Self-entertainment",
+        "body": "Puzzle toys and maze feeders keep your cat occupied while you're away. The best motivation is a favorite dry treat.\n\nExamples: puzzle feeders with lids the cat slides open with its paw; the Catit Senses Food Tree; Nina Ottosson puzzle toys of various difficulty levels; interactive treat balls; snuffle mats; peekaboo puzzle boxes.",
+        "style": "plain",
+        "image": "dom_igry_samorazvlech"
+      },
+      {
+        "heading": "Caution",
+        "body": "Laser pointers: these can cause frustration, since the \"prey\" can never actually be caught. Always end the game with a real toy the cat can grip and squeeze with its paws.\n\nRibbons: never leave a cat unsupervised with ribbons or string — there's a risk of choking or swallowing the thread. It's best to keep these stored in closed boxes the cat can't access.",
+        "style": "warning",
+        "image": null
+      },
+      {
+        "heading": "The golden rule: supervision",
+        "body": "No toy is 100% safe. Regularly check your cat's toy collection for wear, torn-off parts, or tears. Your attention is the best guarantee of safety.",
+        "style": "tip",
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "tualet",
+    "title": "The litter box",
+    "intro": "Choosing the right litter box and litter has a direct effect on whether your cat will use the bathroom where it's supposed to.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "Choosing a litter box",
+        "body": "Open type (\"classic\") — maximum visibility for the cat, ideal for kittens and older cats. Choose sides 15–20 cm high, with a box length of 1.5–2 times the cat's body length.\n\nCovered box (\"privacy\") — hides odors and litter, and prevents scatter. Some cats may feel trapped inside — try removing the door at first.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Where to place the litter box",
+        "body": "A quiet spot — away from noisy appliances and busy hallways.\nAway from food — cats don't like relieving themselves where they eat or drink.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Types of litter",
+        "body": "Clumping mineral (bentonite clay) — holds odor very well and forms firm clumps, but produces dust when poured.\n\nWood-based (pressed sawdust, absorbent) — budget-friendly, breaks down into crumbs when wet, can be flushed down the toilet in small amounts, and is eco-friendly.\n\nSilica gel (absorbent) — maximum absorbency and odor control, but crunches loudly and may scare off timid cats.\n\nPlant-based litters (soy, corn, wheat) — flush perfectly, dissolve without residue, are safe if accidentally eaten, but cost more and can attract rodents if stored at a country house.",
+        "style": "plain",
+        "image": "dom_tualet_mineralny",
+        "blocks": [
+          {
+            "text": "Clumping mineral (bentonite clay) — holds odor very well and forms firm clumps, but produces dust when poured."
+          },
+          {
+            "image": "dom_tualet_mineralny"
+          },
+          {
+            "text": "Wood-based (pressed sawdust, absorbent) — budget-friendly, breaks down into crumbs when wet, can be flushed down the toilet in small amounts, and is eco-friendly."
+          },
+          {
+            "image": "dom_tualet_drevesny"
+          },
+          {
+            "text": "Silica gel (absorbent) — maximum absorbency and odor control, but crunches loudly and may scare off timid cats."
+          },
+          {
+            "image": "dom_tualet_silikagel"
+          },
+          {
+            "text": "Plant-based litters (soy, corn, wheat) — flush perfectly, dissolve without residue, are safe if accidentally eaten, but cost more and can attract rodents if stored at a country house."
+          },
+          {
+            "image": "dom_tualet_rastitelny"
+          }
+        ]
+      },
+      {
+        "heading": "The golden rule of litter boxes: N + 1",
+        "body": "You should have one more litter box than you have cats in the house. This helps prevent stress and territorial conflicts.",
+        "style": "tip",
+        "image": null
+      },
+      {
+        "heading": "Care and hygiene",
+        "body": "Daily: scoop clumps and solid waste 1–2 times a day.\nEvery 2 weeks/month: fully replace the litter and wash the box with a mild cleaner.\n\nMaterial matters: plastic is more affordable, but absorbs odors over time and its chips and scratches can harbor bacteria. Ceramic or metal boxes disinfect more hygienically but cost more.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Hidden threats",
+        "body": "Fragrances: a lavender scent may be pleasant to you, but it repels a cat's sensitive nose.\nNoisy locations: a litter box next to the washing machine is a recipe for sudden fright and the cat refusing to use that spot.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "If your cat ignores the litter box",
+        "body": "Medical: first rule out cystitis or urinary stones with a vet.\nBehavioral: check cleanliness, and try changing the litter type or the box's location.\n\nCats may ignore the litter box due to stress, unsuitable litter, a strong odor, or being frightened by the sounds and feel of certain litter particles.",
+        "style": "plain",
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "uhod",
+    "title": "Grooming and care",
+    "intro": "Regular care helps you catch changes in your cat's health early. Most routines take just a few minutes, but it's more important to do them calmly and consistently.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "What to check at home",
+        "body": "• eyes — no discharge, excessive tearing, or redness;\n• nose — no unusual discharge;\n• ears — no strong odor, excessive wax, or constant scratching;\n• teeth and gums — plaque, bad breath, redness;\n• skin and coat — dandruff, scabs, hair loss, parasites, matting;\n• paws and claws — cracks, damage, overly long claws;\n• weight and body condition — sudden changes need attention;\n• behavior — appetite, activity, sleep, litter box use.",
+        "style": "plain",
+        "image": "dom_uhod_provera"
+      },
+      {
+        "heading": "Daily / periodic care",
+        "body": "Daily: fresh water; normal appetite; a clean litter box; a quick health check; activity and play.\n\nPeriodic: brushing; nail checks; teeth cleaning; ear and eye checks; weight monitoring.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Important",
+        "body": "Home care doesn't replace a veterinary exam. A new lump, prolonged lethargy, refusal to eat, a sudden change in behavior, constant scratching, or other unusual symptoms are all reasons to see a vet.",
+        "style": "warning",
+        "image": null
+      },
+      {
+        "heading": "Nail trimming",
+        "body": "Cats usually don't need their claws shortened by much. The main goal is just to remove the sharp tip, without touching the quick (the living part of the claw).\n\nHow to prepare: cat nail clippers; good lighting; a calm location; a treat for after the procedure.\n\nHow to trim: 1) let the cat get used to having its paws touched calmly; 2) gently press the paw pad so the claw extends; 3) find the light/pink inner part of the claw; 4) trim only the clear, sharp tip (a couple of millimeters); 5) if the cat gets anxious, do one or two paws and continue later.\n\nHow often: check the claws regularly — frequency depends on age, activity level, and whether the cat uses a scratching post. If you accidentally cut into the quick, there may be bleeding and pain — use a styptic product made for animals, and don't force the procedure to continue. Scratching posts remain an important part of a cat's natural claw care and behavior.",
+        "style": "plain",
+        "image": "dom_uhod_kogti"
+      },
+      {
+        "heading": "Brushing",
+        "body": "Brushing helps remove loose fur and reduces the amount of hair a cat swallows while grooming itself.\n\nBenefits: less shed hair around the house; fewer mats; easier to monitor skin condition; easier to spot parasites, irritation, and wounds; especially useful for long-haired cats.\n\nHow to choose a tool: short coat — a soft brush or rubber grooming glove; medium coat — a brush with appropriately spaced teeth and a comb; long coat — a comb and brush that can gently work through the fur down to the roots.",
+        "style": "plain",
+        "image": "dom_uhod_vychesyvanie"
+      }
+    ]
+  },
+  {
+    "id": "samovygul",
+    "title": "Free roaming outdoors",
+    "intro": "Letting a cat roam freely outside may seem \"natural,\" but the modern urban environment hides deadly dangers. Statistically, indoor cats with proper care live 15–20 years, while cats living outdoors live only 4–5 years.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "Main risks",
+        "body": "Traffic and poisoning by malicious people are the most common causes of death for cats in cities.\n\nPredators and dogs: stray packs and wild animals pose a threat.\nInfections: feline leukemia, immunodeficiency virus, and rabies can be transmitted by animals the cat might catch and eat.\nCruelty from people: poisoners, dog-hunters, and simply ill-wishers can harm a defenseless, trusting animal.",
+        "style": "warning",
+        "image": null
+      },
+      {
+        "heading": "Alternatives to free roaming: leash walks",
+        "body": "Safe exploration of the world under your supervision. Not every cat enjoys walking on a leash, but with the right preparation, it can be a great source of variety in a cat's days.\n\nImportant during walks: make sure vaccinations are up to date; don't let the cat eat anything or interact with anyone outside — it should only eat from your hands or from home.",
+        "style": "plain",
+        "image": "dom_samovygul_shleyka"
+      },
+      {
+        "heading": "Catio (outdoor enclosure)",
+        "body": "A mesh-enclosed extension that lets your cat breathe fresh air. If you have a private house, you can build a separate cat enclosure. The main goal of such structures is to create a safe outdoor space.\n\nThese enclosures are usually built from solid wood and mesh. If dangerous animals may be nearby, use reinforced mesh and anti-digging measures.",
+        "style": "plain",
+        "image": "dom_samovygul_volier"
+      }
+    ]
+  },
+  {
+    "id": "cvety",
+    "title": "Flowers and plants",
+    "intro": "Cats love exploring plants, but some are toxic and life-threatening. This guide will help you choose safe plants and protect your pet.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "List of dangerous flowers",
+        "body": "Lilies and daylilies — especially dangerous, can cause severe kidney damage.\nDieffenbachia — irritation and swelling of the mouth and throat.\nPhilodendron — irritation of mucous membranes, drooling, difficulty swallowing.\nMonstera — contains insoluble calcium oxalates, causes burning and swelling in the mouth.\nCaladium — mouth irritation, swelling of the tongue and lips.\nPeace lily (Spathiphyllum) — irritation of mucous membranes and drooling.\nSnake plant (Sansevieria) — can cause vomiting and diarrhea.\nIvy — possible vomiting, diarrhea, and abdominal pain.\nSago palm (Cycas) — extremely toxic, can cause severe liver damage.\nAzalea and rhododendron — vomiting, weakness, heart rhythm disturbances.\nOleander — highly toxic, capable of causing severe heart problems.\nTulips — the bulbs are especially dangerous, causing vomiting and GI irritation.\nDaffodils — the bulbs are toxic, causing vomiting, diarrhea, and neurological symptoms.\nHyacinths — the bulbs cause GI irritation.\nChrysanthemums — drooling, vomiting, diarrhea, loss of coordination.\nKalanchoe — toxic to heart function.\nAloe vera — vomiting, diarrhea, and lethargy.",
+        "style": "warning",
+        "image": null
+      },
+      {
+        "heading": "Prevention",
+        "body": "Prevention is the key to safety. If you're not sure whether a plant is safe for your cat, it's best to place it somewhere your pet can't reach. When in doubt, choose a different plant.",
+        "style": "tip",
+        "image": null
+      },
+      {
+        "heading": "What to do in case of poisoning",
+        "body": "1. Don't panic, and isolate the cat — remove any remaining plant from its mouth if possible, and don't let it eat anything else.\n2. Take a photo of the plant — the vet needs to know exactly which toxin caused the poisoning in order to choose the right antidote.\n3. Go to the clinic immediately — don't try to induce vomiting yourself without a vet's instruction. Every minute can count.",
+        "style": "plain",
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "aktivnost",
+    "title": "Activity",
+    "intro": "Movement is the key to your cat's health and longevity. Create a space for an active life.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "Daily exercise",
+        "body": "Regular play sessions (15–30 minutes a day) help prevent obesity and maintain muscle tone. Use wand toys and laser pointers to mimic hunting.\n\nBenefits: reduces stress; decreases nighttime activity; prevents destructive behavior; helps control weight; satisfies the hunting instinct.",
+        "style": "plain",
+        "image": "dom_aktivnost_ezhednevnye"
+      },
+      {
+        "heading": "Vertical routes",
+        "body": "Using cat trees and wall-mounted steps lets a cat act on its climbing instinct and feel safe up high.\n\nWhat this includes: scratching posts at least 80 cm tall; wall shelves; cat trees; window hammocks; bridges.",
+        "style": "plain",
+        "image": "dom_aktivnost_vertikalnye"
+      },
+      {
+        "heading": "How to tell your cat needs more playtime",
+        "body": "If a cat is bored, it may:\n• wake you up at night;\n• scratch furniture;\n• meow loudly;\n• overeat;\n• overgroom to the point of bald patches;\n• attack your legs.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "The play process",
+        "body": "The general cycle: hunt → catch → eat → rest. In other words: play, then give a small treat or portion of food, then let the cat rest. This cycle closely mirrors natural behavior.\n\n1. Searching for prey — move the toy slowly, hide it behind furniture, and let the cat watch and \"stalk\" it.\n2. The chase — vary the speed and direction, mimic the behavior of a bird or mouse, and let the cat sneak up.\n3. The catch — don't keep pulling the toy away constantly; let the cat successfully catch the \"prey\" several times, and allow it to hold and bite it.\n\nHow to tell your cat has had enough: it rests calmly after play; it doesn't demand constant attention; it maintains a normal weight; it damages furniture less; it shows interest in its toys.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Exercise wheel",
+        "body": "Helps an indoor cat burn energy, especially if it lives in an apartment without free access to the outdoors. A good addition to playtime, but not a replacement for interaction with you.\n\nBenefits: reduces the risk of obesity; keeps muscles and joints in good condition; reduces boredom and stress; useful for active breeds (Bengal, Abyssinian, Oriental, Savannah).\n\nGood to know: not every cat starts using the wheel right away — some need several weeks to get used to it; never force a cat to run; encourage interest with treats; the wheel should turn smoothly and nearly silently.",
+        "style": "plain",
+        "image": "dom_aktivnost_koleso"
+      },
+      {
+        "heading": "Mental stimulation",
+        "body": "Puzzle feeders and interactive toys make a cat \"work\" for its food, which mimics natural behavior and prevents boredom.\n\nExamples: jars with sliding lids; treat-dispensing balls; treat mazes; boxes with holes; snuffle mats.",
+        "style": "plain",
+        "image": "dom_aktivnost_intellekt"
+      },
+      {
+        "heading": "Tips",
+        "body": "\"Rotate your cat's toys every week. Novelty is the best stimulus for feline curiosity.\"\nTwo short 10–15 minute play sessions are better than one long one — this way the cat doesn't get tired too soon and stays interested.",
+        "style": "tip",
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "rabochee_mesto",
+    "title": "Your workspace",
+    "intro": "Setting up a cat-friendly home office requires balancing your comfort with your pet's safety.",
+    "heroImage": "dom_rabota_hero",
+    "sections": [
+      {
+        "heading": "01. Dividing the space",
+        "body": "Cats like to be at the center of things. Instead of constantly shooing them off the desk, give them their own designated spot: a spot by the window (perfect for bird-watching) or a second shelf on a unit next to the desk for the cat to rest on.\n\nA good option is a bracket-mounted shelf that attaches to the desktop and can swivel in different directions — the cat stays close by without getting in the way of your workspace.",
+        "style": "plain",
+        "image": "dom_rabota_razdelenie"
+      },
+      {
+        "heading": "02. Organizing cables",
+        "body": "Cable boxes — hide power strips inside dedicated boxes to keep the cat away from outlets.\nCable conduits — use rigid tubing for cords the cat tends to chew on (chargers, monitor cables).",
+        "style": "plain",
+        "image": "dom_rabota_provoda"
+      },
+      {
+        "heading": "03. Keyboard protection",
+        "body": "The infamous \"walk across the keyboard\" can lead to accidentally deleted files or odd messages sent to coworkers.\n\nUse a clear acrylic bridge stand over the keyboard, or set up a \"decoy keyboard\" — an old keyboard placed nearby can draw your cat's attention away.",
+        "style": "plain",
+        "image": "dom_rabota_klaviatura"
+      },
+      {
+        "heading": "04. Ergonomics and height",
+        "body": "Choose furniture with both your pet's jumping habits and your own health in mind.\n\nAn adjustable-height desk (recommended): lets you quickly raise the work surface if the cat gets too insistent. Important: keep in mind that when adjusting the desk's height, the moving mechanism and gaps between panels can pinch the cat.\n\nChair stability (important): a five-point base with locking wheels will prevent tipping if the cat suddenly jumps onto the backrest, or if it's napping under the chair's wheels.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Caution: not recommended",
+        "body": "• Leaving a mug of coffee next to your laptop;\n• using scented candles near the cat;\n• keeping medication on the desk;\n• leaving scissors open;\n• storing thread and hair ties at your workspace.",
+        "style": "warning",
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "opasnosti",
+    "title": "Hazards around the home",
+    "intro": "Your home is a fortress, but for a curious cat it's full of hidden traps. Learn how to prevent tragedy.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "Tilt-open windows",
+        "body": "A tilted-open window is a deadly trap. Cats try to squeeze out, slip into the narrow gap, and get stuck, which can lead to suffocation, tissue necrosis, or spinal injury.\n\nThe solution: side safety grilles or \"anti-cat\" window systems (not mosquito screens).",
+        "style": "warning",
+        "image": "dom_opasnosti_provetrivanie"
+      },
+      {
+        "heading": "Small objects",
+        "body": "Hair ties, needles, and thread can look like a new toy to a cat. The hunting instinct in these cases can lead to injuries to the paws or internal organs. A swallowed thread can bunch up the intestines like an accordion.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Risk zone: the kitchen",
+        "body": "Hot stovetops, open dishwashers, and washing machine drums — cats look there for warmth or a hiding spot. It's important that the stove can't turn on just because a cat climbed on it. The best options are mechanical knobs or a lock on the touch panel.",
+        "style": "plain",
+        "image": "dom_opasnosti_kuhnya"
+      },
+      {
+        "heading": "Toxic substances",
+        "body": "Many everyday household items are safe for people but can be dangerous or even fatally toxic to cats, even in small amounts.\n\nHousehold chemicals: floor cleaners, bleach, plumbing/drain cleaners, oven cleaners, laundry pods.\nEssential oils: tea tree, eucalyptus, peppermint, citrus, cinnamon, clove.\nMedications: acetaminophen, ibuprofen, antidepressants, iron-containing vitamins, cold remedies. Never give a cat human medication without a veterinarian's guidance.",
+        "style": "warning",
+        "image": "dom_opasnosti_toksiny"
+      },
+      {
+        "heading": "Risk zone: beds",
+        "body": "Dangerous materials: choose beds made of safe fabrics and fillings, avoid materials with a strong chemical smell, and check that the fabric doesn't shed or leave loose fibers.\n\nRisk of swallowing parts: avoid beds with sewn-on beads, buttons, or decorative cords; regularly check toys and beds for damage.\n\nStructural stability: securely anchor wall-mounted shelves, and replace any item at the first signs of tearing.\n\nOverheating risk: don't place beds near heaters or radiators.\n\nCleanliness and allergens: regularly wash removable covers, and use materials that are easy to clean.",
+        "style": "plain",
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "vybor_korma",
+    "title": "Your pet's diet",
+    "intro": "A guide to proper nutrition in a compact format.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "Quick rules for good food",
+        "body": "Pros: meat as the first ingredient; taurine present; vitamins and minerals.\n\nCons: sugar and sweeteners; artificial colors; vague \"by-products\" listed without specifics.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Dry or wet food",
+        "body": "Dry food — convenient to store and portion, can be left in the bowl longer, more economical, works well with automatic feeders. Downsides: low moisture content (about 8–10%), requires constant access to water.\n\nWet food — contains 70–85% water, helps maintain water balance, more appealing to cats that don't drink much. Downsides: more expensive, spoils quickly once opened, can't be left in the bowl for long.\n\nCombined feeding: for example, wet food in the morning, a small portion of dry food midday, and wet food again in the evening.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Choosing food by ingredients",
+        "body": "Focus on nutritional completeness and how trustworthy the information is. The label should state that the food is complete and balanced, and suitable for your cat's specific age and condition.\n\nCheck the guaranteed analysis (minimum % crude protein and fat, maximum % fiber and moisture). AAFCO standards recommend at least 26% crude protein in dry food for adult cats and 30% for kittens.\n\nProtein: cats are obligate carnivores, so the base of the food should be meat or fish. The first items in the ingredient list should be specific ingredients (\"chicken,\" \"turkey,\" \"salmon\"), not vague terms like \"meat and by-products.\" Taurine must be present.\n\nFats: animal sources are preferable (chicken fat, fish oil, salmon oil) — a source of omega-3 and omega-6.\n\nCarbohydrates and fiber: cats don't need many carbohydrates, so corn/wheat/rice aren't ideal as a base ingredient. Fiber is beneficial in moderate amounts (around 3–6%).\n\nAdditives: natural preservatives are preferable (vitamin E, vitamin C, rosemary extract) — avoid BHA, BHT, and ethoxyquin.\n\nRisks of low-quality food: allergies, digestive issues, obesity, nutrient deficiencies.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Marketing buzzwords: don't be fooled",
+        "body": "Labels like \"Premium,\" \"Super-premium,\" \"Holistic,\" \"GMO-free,\" and \"Natural\" are used often and mean very little — focus on the actual ingredient list and guaranteed analysis rather than marketing labels.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Checklist for choosing food",
+        "body": "• Complete and balanced food — the packaging should say \"Complete\"/\"Complete and balanced\" and be suited to the right life stage (kitten/adult/spayed-neutered/senior);\n• The first ingredients are protein, named specifically (\"chicken,\" \"salmon,\" \"turkey\"), not vague terms like \"meat\";\n• Fats are listed specifically (chicken fat, fish oil), not vaguely;\n• No BHA, BHT, ethoxyquin, artificial colors, or flavor enhancers among the additives;\n• Vitamins and minerals are present, and the guaranteed analysis meets AAFCO standards;\n• The packaging is checked: verify the expiration date and that the seal is intact before buying.",
+        "style": "tip",
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "son_i_otdyh",
+    "title": "Sleep and rest: creating the perfect spot",
+    "intro": "How you organize your space has a direct effect on your pet's physical and mental health.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "General rule: quiet retreats",
+        "body": "Every cat should have a place where nothing will disturb it: boxes, tunnels, or fleece cocoons.",
+        "style": "plain",
+        "image": "dom_son_ubezhische"
+      },
+      {
+        "heading": "A variety of surfaces",
+        "body": "Cats appreciate having options — from soft plush beds to simple cardboard boxes, each spot serving its own purpose at different times of day. Watch to see what your particular cat prefers.\n\nOptions: soft beds, boxes, shelves.",
+        "style": "plain",
+        "image": "dom_son_poverhnosti"
+      },
+      {
+        "heading": "Vertical space",
+        "body": "High vantage points let cats keep an eye on their territory, which reduces stress and anxiety. It's important that there are several ways to get to and from this area.\n\nMinimalist wall shelves; multi-level cat activity towers.",
+        "style": "plain",
+        "image": "dom_son_vertikal"
+      },
+      {
+        "heading": "Harmony in a multi-cat household",
+        "body": "In a home with multiple pets, the formula for ideal rest is simple: N + 1. The number of beds should exceed the number of cats by one, to avoid competition over resources. And more — spread across different spots — is even better.",
+        "style": "plain",
+        "image": "dom_son_garmoniya"
+      },
+      {
+        "heading": "Types of beds",
+        "body": "Enclosed cave beds — ideal for cats that prefer to hide away while resting.\nBeds with raised edges — soft baskets with high sides, ideal for cats that like to curl up into a ball while sleeping.\nHammocks — hanging setups mounted to radiators, chair legs, or windows; a favorite spot for active pets that prefer resting up high.\nMats and pads — flat, portable bedding, suited to larger cats or ones that like to sleep stretched out.\nCushion beds — square or rectangular soft options for everyday use.",
+        "style": "plain",
+        "image": "dom_son_lezhanki"
+      }
+    ]
+  }
+]

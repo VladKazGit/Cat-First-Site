@@ -1,0 +1,323 @@
+[
+  {
+    "icon": "Pets",
+    "title": "Encontrou um animal na rua",
+    "blocks": [
+      {
+        "heading": null,
+        "body": "Nem todos os gatos encontrados precisam de ser levados imediatamente para casa. Mas se o animal estiver em perigo, ferido, debilitado ou precisar claramente de ajuda, aja com calma e de forma organizada."
+      },
+      {
+        "heading": "Primeiro, a sua segurança",
+        "body": "Apanhar apenas com luvas ou através de uma toalha. Em caso de mordidela ou arranhão, lavar a ferida com água e sabão e ir ao médico no mesmo dia."
+      },
+      {
+        "heading": "1. Primeiro avalie a situação",
+        "body": "Antes de se aproximar do animal, certifique-se de que é seguro tanto para si como para o gato.\nPreste atenção:\n• Se há uma estrada movimentada por perto.\n• Se o gato pode correr para debaixo de um carro.\n• Se há cães ou outras fontes de perigo por perto.\n• Se o gato não está preso (debaixo de um carro, num poço, numa árvore, etc.).\nSe o local for perigoso, tente primeiro retirar o animal da zona de risco."
+      },
+      {
+        "heading": "2. Não tente pegar logo no gato ao colo",
+        "body": "Mesmo o gato mais calmo, quando sente dor ou muito medo, pode:\n• morder;\n• arranhar;\n• soltar-se e fugir.\nÉ melhor:\n• falar calmamente;\n• agachar-se a uma certa distância;\n• não fixar o olhar nos olhos dele;\n• aproximar-se lentamente.\nSe tiver ração ou petiscos, coloque-os perto dele."
+      },
+      {
+        "heading": "3. Se conseguir apanhar o gato",
+        "body": "O melhor é usar:\n• uma caixa de transporte;\n• uma caixa de cartão com furos;\n• uma toalha grossa para o segurar com cuidado.\nNão transporte o gato ao colo ou num cesto aberto."
+      },
+      {
+        "heading": "4. Verifique o estado do animal (tenha em conta o possível estado de choque após a captura)",
+        "body": "Preste atenção a:\nRespiração\n• calma;\n• acelerada;\n• pesada;\n• boca aberta.\nEstado de consciência\n• reage;\n• está deitado sem se mexer;\n• tenta levantar-se;\n• está desorientado.\nFerimentos visíveis\n• sangue;\n• fraturas;\n• queimaduras;\n• feridas;\n• coxeadura acentuada.\nEstado geral\n• debilidade;\n• desidratação;\n• pelo sujo;\n• secreções nos olhos ou no nariz;\n• emagrecimento acentuado."
+      },
+      {
+        "heading": "5. Não dê muita comida de imediato",
+        "body": "Um gato muito faminto não deve receber de repente uma grande quantidade de comida.\nSe o animal estiver debilitado:\n• ofereça uma pequena quantidade de água;\n• depois uma pequena porção de ração húmida.\nNão dê: leite; enchidos; ossos; comida da mesa."
+      },
+      {
+        "heading": "6. Se o gato estiver ferido",
+        "body": "Até à consulta veterinária:\n• mantenha o animal aquecido;\n• limite os movimentos;\n• não tente reduzir fraturas por conta própria;\n• não trate feridas profundas com álcool ou iodo.\nSe a hemorragia for intensa, pressione um pano limpo sobre a ferida e dirija-se à clínica o mais depressa possível."
+      },
+      {
+        "heading": "7. Não apresente logo aos seus animais",
+        "body": "Mesmo que o gato pareça saudável. É importante lembrar que ele pode ser portador de infeções ou parasitas.\nPor isso é necessário:\n• uma divisão separada;\n• uma caixa de areia separada;\n• tigelas separadas;\n• evitar o contacto direto.\nO ideal é manter a quarentena até à consulta com o veterinário."
+      },
+      {
+        "heading": "8. Vá a uma clínica veterinária",
+        "body": "O ideal é fazê-lo já no primeiro dia. O veterinário poderá:\n• verificar se tem microchip;\n• determinar a idade aproximada;\n• avaliar o estado de saúde;\n• verificar a presença de pulgas e carraças;\n• indicar um tratamento antiparasitário;\n• realizar os exames necessários;\n• elaborar um calendário de vacinação."
+      },
+      {
+        "heading": "9. Tente encontrar o dono",
+        "body": "Antes de decidir ficar com o gato:\n• verifique se tem placa de identificação;\n• peça ao veterinário para ler o microchip;\n• publique anúncios em grupos e chats locais;\n• informe os abrigos mais próximos.\nÉ possível que o animal se tenha perdido há pouco tempo. Ou pode não ser o caso. Infelizmente, nem todos os donos tratam bem os seus animais nem lhes desejam o melhor."
+      },
+      {
+        "heading": "10. Se decidir ficar com o gato",
+        "body": "Depois da quarentena, é necessário:\n• fazer o tratamento antiparasitário;\n• vacinar;\n• esterilizar ou castrar (se necessário);\n• apresentá-lo gradualmente a outros animais;\n• escolher uma dieta adequada;\n• organizar um espaço seguro em casa."
+      },
+      {
+        "heading": "Quando é preciso ir imediatamente ao veterinário",
+        "body": "Não adie a visita se o gato apresentar pelo menos um destes sinais:\n• dificuldade em respirar;\n• hemorragia intensa;\n• incapacidade de se levantar;\n• fratura;\n• ferida aberta;\n• perda de consciência;\n• convulsões;\n• suspeita de envenenamento;\n• emagrecimento muito acentuado;\n• um gatinho com menos de 8 semanas encontrado sozinho, sem a mãe."
+      },
+      {
+        "heading": "Conselho importante",
+        "body": "Mesmo que o gato encontrado pareça doméstico e saudável, não o solte de volta na rua logo após a captura.\nVerifique primeiro se tem microchip e tente encontrar o dono através de clínicas veterinárias, abrigos e comunidades locais. Se o dono não for encontrado, o animal vai precisar, ainda assim, de uma consulta veterinária, quarentena e tratamento antiparasitário antes de ser apresentado a outros animais de estimação."
+      }
+    ]
+  },
+  {
+    "icon": "Pets",
+    "title": "Encontrou um gatinho na rua",
+    "blocks": [
+      {
+        "heading": null,
+        "body": "Encontrou gatinhos sem a mãe. Não se apresse a levá-los logo. Na maioria dos casos, a gata-mãe deixa as crias durante algumas horas para procurar comida e depois regressa."
+      },
+      {
+        "heading": "1. Avalie a situação",
+        "body": "Antes de intervir, responda a algumas perguntas.\nOs gatinhos parecem bem cuidados? • pelo limpo; • dormem tranquilos; • estão juntos; • não miam sem parar; • estão quentes ao toque.\nÉ provável que a mãe esteja por perto e volte em breve.\n\nHá sinais de perigo? • os gatinhos estão frios; • miam alto sem parar; • rastejam em direções diferentes; • estão cobertos de moscas; • estão junto a uma estrada; • estão à chuva; • têm ferimentos; • não há nenhum abrigo seguro por perto.\nNesta situação, pode ser preciso ajudar de imediato."
+      },
+      {
+        "heading": "2. Observe",
+        "body": "Se o local for seguro: observe os gatinhos durante 3 a 6 horas, mantendo-se a uma certa distância.\nImportante: • não fique perto deles; • não toque nos gatinhos; • não assuste a mãe.\nA gata pode não se aproximar enquanto vir uma pessoa."
+      },
+      {
+        "heading": "3. Quando não se pode esperar",
+        "body": "Os gatinhos devem ser resgatados de imediato se:\n• a mãe morreu;\n• os gatinhos ficaram feridos;\n• estão junto a uma estrada;\n• há cães por perto;\n• os gatinhos estão muito hipotérmicos;\n• estão molhados;\n• há uma obra à volta;\n• os gatinhos estão na água ou noutro local perigoso;\n• os gatinhos foram encontrados dentro de um saco ou caixa."
+      },
+      {
+        "heading": "4. Se tiver de levar os gatinhos",
+        "body": "Pegue nos gatinhos com luvas ou através de um pano. Se um gatinho o morder ou arranhar até sangrar, lave a ferida com água e sabão e vá ao médico.\nPrimeira regra: aquecer é mais importante do que alimentar. Um gatinho hipotérmico não consegue digerir bem os alimentos.\nUse: • uma manta quente; • um saco térmico envolto numa toalha; • uma garrafa com água morna.\nA fonte de calor não deve estar quente demais. Os gatinhos não conseguem afastar-se nem avisar que estão com demasiado calor, por isso o sobreaquecimento é tão perigoso quanto a hipotermia.\n\nComo usar corretamente: envolva sempre o saco térmico numa toalha ou manta; o saco térmico deve ocupar cerca de metade da caixa, para que os gatinhos possam afastar-se se sentirem calor; nunca coloque os gatinhos diretamente sobre o saco térmico; verifique regularmente a temperatura com a mão — deve sentir-se agradavelmente morna, e não a arder."
+      },
+      {
+        "heading": "5. Não dê leite de vaca",
+        "body": "É mal digerido pelos gatinhos e pode causar diarreia grave. Use apenas substituto de leite para gatos.\nSe não tiver disponível de imediato, aqueça primeiro os gatinhos e procure o mais depressa possível uma clínica veterinária ou um abrigo."
+      },
+      {
+        "heading": "6. Calcule a idade aproximada",
+        "body": "Até 1 semana: olhos fechados; orelhas coladas à cabeça; quase não rastejam. Precisam de ser alimentados a cada 2-3 horas, incluindo durante a noite (isto é fundamental!).\n1-2 semanas: os olhos começam a abrir; rastejam com mais atividade. Alimentação a cada 3 horas.\n3-4 semanas: começam a andar; nascem os dentes de leite. Pode começar-se a introduzir gradualmente ração húmida para gatinhos.\nCom mais de um mês: andam com firmeza; brincam; comem sozinhos. Ainda assim, precisam de ser observados por um veterinário."
+      },
+      {
+        "heading": "7. Depois de cada alimentação",
+        "body": "Nos gatinhos com menos de 3-4 semanas, o intestino e a bexiga ainda não funcionam de forma totalmente autónoma.\nApós cada alimentação, é preciso estimular suavemente a zona sob a cauda com um disco de algodão morno e húmido ou um lenço macio, imitando a lambedura da mãe. Isto ajuda o gatinho a urinar e a esvaziar os intestinos. Por isso, prepare um resguardo absorvente com antecedência."
+      },
+      {
+        "heading": "8. Como cuidar dos gatinhos",
+        "body": "Prepare: uma caixa; uma toalha macia; um abrigo quente; ausência de correntes de ar; sossego.\nA temperatura ideal depende da idade: 0-1 semana: cerca de 30-32°C; 2-3 semanas: cerca de 27-29°C; 4 semanas ou mais: cerca de 24-26°C.\nCertifique-se de que os gatinhos conseguem afastar-se da fonte de calor caso sintam demasiado calor."
+      },
+      {
+        "heading": "9. Leve sempre ao veterinário",
+        "body": "Mesmo que os gatinhos pareçam saudáveis. É necessário: determinar a idade; avaliar o peso; verificar a desidratação; examinar os olhos; verificar a presença de parasitas; elaborar um plano de alimentação; definir os prazos de desparasitação; elaborar um calendário de vacinação.\n\nVá urgentemente à clínica, não adie a visita, se: os gatinhos estiverem frios e não aquecerem; não mamarem; miarem sem parar; não se mexerem; respirarem com dificuldade; houver sangue; diarreia acentuada; inchaço abdominal intenso; pus nos olhos ou no nariz; convulsões."
+      },
+      {
+        "heading": "Importante",
+        "body": "Se os gatinhos estiverem num local seguro, parecerem bem alimentados, quentes e dormirem tranquilos, o melhor é observar primeiro à distância. Em muitos casos, a gata-mãe regressa ao fim de algumas horas. Vale a pena levar os gatinhos apenas quando a vida deles estiver realmente em perigo ou houver a certeza de que a mãe não vai voltar. Isto aumenta as hipóteses de um desenvolvimento saudável das crias e reduz o risco de complicações associadas à amamentação artificial."
+      }
+    ]
+  },
+  {
+    "icon": "Wc",
+    "title": "Não consegue fazer as necessidades",
+    "blocks": [
+      {
+        "heading": null,
+        "body": "Se o gato vai muitas vezes à caixa de areia, faz força, mia de dor, lambe a zona genital e sai muito pouca urina ou nenhuma, trata-se de uma emergência.\n\nÉ especialmente perigosa a obstrução da uretra nos gatos machos: exige assistência veterinária urgente, porque, sem tratamento, pode rapidamente tornar-se uma ameaça à vida."
+      }
+    ]
+  },
+  {
+    "icon": "Air",
+    "title": "Dificuldade em respirar",
+    "blocks": [
+      {
+        "heading": null,
+        "body": "Boca aberta, respiração acelerada, pescoço esticado, movimento visível do abdómen, respiração ruidosa ou sibilante e gengivas azuladas ou muito pálidas são sempre motivo para ir imediatamente à clínica. Antes de sair, mantenha o gato o mais calmo possível, não o obrigue a mexer-se e não tente \"esperar que passe\"."
+      }
+    ]
+  },
+  {
+    "icon": "Science",
+    "title": "Envenenamento",
+    "blocks": [
+      {
+        "heading": null,
+        "body": "Salivação excessiva, vómitos, diarreia, falta de equilíbrio, respiração difícil, apatia e convulsões podem ser sinais de envenenamento. Afaste o animal da fonte do problema, guarde a embalagem, a planta ou o objeto, não induza o vómito em casa sem indicação do veterinário e contacte imediatamente o veterinário ou um serviço de toxicologia."
+      }
+    ]
+  },
+  {
+    "icon": "Toys",
+    "title": "Corpo estranho",
+    "blocks": [
+      {
+        "heading": null,
+        "body": "Se o gato engoliu um fio, uma fita, um elástico, um brinquedo pequeno ou outro objeto, podem surgir vómitos, diarreia, dor abdominal, recusa alimentar, apatia, tentativas de \"mexer\" na boca com a pata ou esforço ao fazer as necessidades. Se estiver visível um objeto comprido a sair pela boca ou pelo ânus, não o puxe: isso pode lesionar o intestino, e o animal precisa de uma avaliação urgente."
+      }
+    ]
+  },
+  {
+    "icon": "MonitorHeart",
+    "title": "Convulsões",
+    "blocks": [
+      {
+        "heading": null,
+        "body": "Durante a crise, não coloque as mãos na boca do gato, não tente segurá-lo e afaste objetos duros que possam magoá-lo. Cronometre o tempo: se for a primeira crise, durar vários minutos, se repetir ou se o gato não recuperar a consciência, é preciso ajuda urgente; depois da crise, mantenha o animal num local calmo e contacte imediatamente a clínica."
+      }
+    ]
+  },
+  {
+    "icon": "Bloodtype",
+    "title": "Hemorragia intensa",
+    "blocks": [
+      {
+        "heading": null,
+        "body": "Em caso de hemorragia intensa, aplique uma compressa de gaze esterilizada ou um pano limpo e mantenha uma pressão firme e direta. Se o penso ficar encharcado, não o retire — coloque outra camada por cima e continue a pressionar; se for uma pata a sangrar, pode elevá-la acima do nível do coração a caminho da clínica."
+      }
+    ]
+  },
+  {
+    "icon": "Healing",
+    "title": "Trauma ou queda",
+    "blocks": [
+      {
+        "heading": null,
+        "body": "Mesmo que, depois de cair, o gato se levante e pareça \"normal\", pode ter lesões ocultas que só se manifestam mais tarde.\nAté à consulta, mantenha-o quente, tranquilo e com o mínimo de movimento possível, especialmente se houver coxeadura, dor, dificuldade em respirar, apatia ou recusa alimentar; depois de quedas de altura, é preciso vigiar atentamente sinais de choque e lesões na cabeça ou no tórax."
+      }
+    ]
+  },
+  {
+    "icon": "ChildCare",
+    "title": "Lesão causada por crianças: primeiros socorros e prevenção",
+    "blocks": [
+      {
+        "heading": null,
+        "body": "Se uma criança atirou, deixou cair ou apertou o gato com força e, depois disso, ele sangra pela boca, está muito prostrado ou apático, ou procura calor, trata-se de um estado crítico. Estes sinais indicam com grande probabilidade lesões internas graves: traumatismo craniano, danos nos órgãos internos (pulmões, fígado), hemorragia interna ou fraturas da mandíbula ou das costelas."
+      },
+      {
+        "heading": "Erros perigosos",
+        "body": "• Dar banho a um gato em estado de choque. O banho é um stress enorme. No choque traumático a temperatura do corpo desce rapidamente, e o banho agrava a hipotermia e o choque e pode levar a uma paragem respiratória ou cardíaca.\n• Tratá-lo por conta própria com conselhos da internet. O tempo perdido a procurar informação quando há sinais de hemorragia interna ou de choque ameaça diretamente a vida do animal. Os medicamentos para pessoas, sem receita do veterinário, são na maioria tóxicos para os animais: o paracetamol e o metamizol, por exemplo, são mortais para os gatos."
+      },
+      {
+        "heading": "Parte 1. Primeiros socorros",
+        "body": "Se suspeitar de uma lesão grave, o principal é não causar mais danos e levar o gato a uma clínica o mais depressa possível."
+      },
+      {
+        "heading": "Passo 1. Garanta tranquilidade",
+        "body": "• Instale o gato numa divisão silenciosa, com pouca luz e bem arejada.\n• Coloque-o numa transportadora ou numa caixa de cartão resistente, de fundo plano e firme, forrada com um pano macio.\n• Não o abane, não ralhe com ele, não o mude de sítio constantemente e não lhe pegue ao colo sem necessidade.",
+        "image": "travma_ot_detey_1"
+      },
+      {
+        "heading": "Passo 2. Mantenha-o quente",
+        "body": "• No choque traumático e hipovolémico o corpo perde calor depressa.\n• Tape o gato com cuidado com uma manta leve ou uma toalha.\n• Se as patas e as orelhas estiverem frias (sinal de hipotermia), ponha ao lado uma garrafa com água morna, sempre embrulhada num pano grosso para não queimar. Não o aqueça demasiado nem use água muito quente."
+      },
+      {
+        "heading": "Passo 3. Observação e higiene",
+        "body": "• Não o lave! Nada de água.\n• Se houver uma hemorragia externa visível, pressione com cuidado uma compressa esterilizada ou uma ligadura limpa sobre a ferida.\n• Ponha ao lado uma taça com água fresca. Nunca lhe dê água nem comida líquida à força: se o reflexo de deglutição estiver afetado ou a cabeça ferida, o gato pode engasgar-se."
+      },
+      {
+        "heading": "Passo 4. Urgentemente ao veterinário",
+        "body": "• É preciso uma observação presencial sem demora. Leve o gato à clínica veterinária mais próxima e transporte-o com o máximo cuidado.\n• Se for fisicamente impossível sair já, contacte de imediato um veterinário através de um serviço de consulta online: ele dirá como estabilizar o gato.\n• Não dê nenhum medicamento da farmácia de casa até o veterinário o receitar."
+      },
+      {
+        "heading": "Parte 2. Conversar com a criança e prevenção",
+        "body": "A convivência entre crianças e animais exige supervisão constante e uma educação coerente."
+      },
+      {
+        "heading": "Passo 1. Explique as consequências",
+        "body": "• Não castigue a criança fisicamente nem grite: isso só provoca medo e agressividade, mas não ensina a compreender.\n• Tenha uma conversa séria, de igual para igual. Explique que o gato é um ser vivo e sente dor tal como uma pessoa.\n• Use comparações que a criança entenda: «Lembras-te de quando caíste e te doeu? Agora o gato tem ainda mais dores, mas não o consegue dizer por palavras»."
+      },
+      {
+        "heading": "Passo 2. Defina regras claras",
+        "body": "Combinem os limites e garanta que são cumpridos:\n• Toque. Não pode: apertar, atirar, puxar a cauda, as orelhas ou as patas. Pode: fazer festas no dorso com suavidade e leveza.\n• Descanso e sono. Não pode: acordá-lo, tirá-lo da casinha ou do esconderijo. Pode: deixá-lo em paz até acordar.\n• Comida e caixa de areia. Não pode: distraí-lo, assustá-lo, incomodá-lo. Pode: simplesmente não se aproximar das taças nem da caixa de areia.\n• Supervisão de adultos. Não pode: deixar crianças com menos de 7 anos sozinhas com o gato. Pode: qualquer contacto, só na presença de um adulto."
+      },
+      {
+        "heading": "Passo 3. Ensine o contacto correto",
+        "body": "• Mostre à criança como fazer festas ao gato: no sentido do pelo, na cabeça e no dorso.\n• Explique que zonas não se tocam: barriga, patas, cauda, olhos e orelhas.\n• Ensine a segurar o gato corretamente: uma mão apoia o peito e a outra as patas traseiras por baixo, para que o gato nunca fique pendurado no ar."
+      },
+      {
+        "heading": "Passo 4. Desenvolva a empatia",
+        "body": "• Envolva a criança nos cuidados diários do gato, de acordo com a idade.\n• Dê-lhe tarefas simples: pôr ração seca no horário certo, mudar a água da taça, arrumar os brinquedos.\n• Elogie-a pelo carinho e pela delicadeza."
+      },
+      {
+        "heading": "O mais importante",
+        "body": "Toda a responsabilidade pela saúde do animal e pela segurança do contacto entre a criança e o gato é dos adultos. As crianças nem sempre conseguem medir a força nem perceber as consequências do que fazem. O papel dos pais é criar um ambiente seguro, reagir a tempo quando a saúde do animal está em perigo e ensinar as crianças a tratar os seres vivos com cuidado e responsabilidade."
+      }
+    ]
+  },
+  {
+    "icon": "Sick",
+    "title": "Vómitos ou diarreia (com sangue)",
+    "blocks": [
+      {
+        "heading": null,
+        "body": "Se os vómitos ou a diarreia se repetirem, durarem mais do que algumas horas, o gato ficar apático, não conseguir reter água ou surgir sangue no vómito ou nas fezes, é preciso uma avaliação veterinária urgente.\nIsto pode estar relacionado com envenenamento, infeção ou obstrução, e tentar \"esperar em casa\" aumenta o risco de desidratação e agravamento do estado. Não obrigue o gato a comer ou beber à força."
+      }
+    ]
+  },
+  {
+    "icon": "NoFood",
+    "title": "Recusa de comida e água",
+    "blocks": [
+      {
+        "heading": null,
+        "body": "Se um gato adulto não come normalmente durante cerca de 24 horas, e um gatinho bem menos do que isso, já é motivo para uma consulta urgente.\n• Nos gatos que deixam de comer, o risco de doença hepática gordurosa aumenta rapidamente.\n• Gengivas secas ou pálidas, fraqueza, olhos encovados, micção pouco frequente ou recusa de água tornam a situação ainda mais urgente."
+      }
+    ]
+  },
+  {
+    "icon": "Thermostat",
+    "title": "Temperatura / Hipotermia",
+    "blocks": [
+      {
+        "heading": null,
+        "body": "Se o gato estiver frio ao toque, fraco, sonolento, respirar mal, cambalear ou deixar de reagir, pode tratar-se de hipotermia.\nA temperatura normal de um gato é cerca de 38,0-39,2°C.\nEm caso de hipotermia, o gato deve ser afastado do frio, seco, coberto e aquecido gradualmente, com fontes de calor mornas — nunca quentes — sem esfregar a pele."
+      }
+    ]
+  },
+  {
+    "icon": "Bed",
+    "title": "Perda de consciência / Fraqueza",
+    "blocks": [
+      {
+        "heading": null,
+        "body": "Fraqueza súbita, desmaio, \"amolecimento\" do corpo, ausência de reação ou colapso são sempre uma emergência.\nVerifique se o animal está a respirar e se tem batimento cardíaco; se não estiver a respirar, ligue imediatamente para uma clínica veterinária de urgência — o veterinário dirá ao telefone o que fazer enquanto se desloca."
+      }
+    ]
+  },
+  {
+    "icon": "Accessible",
+    "title": "Paralisia das patas traseiras",
+    "blocks": [
+      {
+        "heading": null,
+        "body": "Fraqueza súbita ou paralisia das patas traseiras, dor intensa, patas traseiras frias ou pálidas e falta de ar podem indicar tromboembolismo aórtico — uma condição de emergência. Surge de forma repentina, é frequentemente acompanhada de gritos de dor e exige ajuda imediata, sem esperar até de manhã."
+      }
+    ]
+  },
+  {
+    "icon": "WbSunny",
+    "title": "Golpe de calor",
+    "blocks": [
+      {
+        "heading": null,
+        "body": "Respiração acelerada com a boca aberta, gengivas muito vermelhas ou muito pálidas, vómitos, diarreia, fraqueza, andar cambaleante, convulsões, colapso e perda de consciência são sinais típicos de golpe de calor. É preciso levar o gato imediatamente para um local fresco, arrefecê-lo com água à temperatura ambiente ou fresca, não usar água gelada ou gelo, não o obrigar a beber e ir ao veterinário o mais depressa possível."
+      }
+    ]
+  },
+  {
+    "icon": "Coronavirus",
+    "title": "Alergia grave",
+    "blocks": [
+      {
+        "heading": null,
+        "body": "Inchaço súbito do focinho ou da boca, urticária, vómitos, diarreia, inquietação, dificuldade em respirar ou colapso repentino podem ser sinais de anafilaxia.\nIsto pode desenvolver-se muito rapidamente após a picada de um inseto, uma vacina, um medicamento ou outro alergénio, por isso não se pode esperar: afaste a possível fonte, se for seguro fazê-lo, e leve o gato urgentemente ao veterinário."
+      }
+    ]
+  },
+  {
+    "icon": "LocalFireDepartment",
+    "title": "Queimaduras",
+    "blocks": [
+      {
+        "heading": null,
+        "body": "Numa queimadura recente ou escaldão, é preciso arrefecer o local o mais rápido possível com água fresca ou uma compressa húmida, mas sem usar gelo nem aplicar cremes ou pomadas.\nDepois de arrefecer, mantenha o gato quente e tranquilo e leve-o ao veterinário o mais depressa possível; em caso de queimadura química, é importante, se possível, levar a embalagem da substância para se perceber a composição."
+      }
+    ]
+  }
+]

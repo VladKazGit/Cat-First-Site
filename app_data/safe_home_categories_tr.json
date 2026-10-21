@@ -1,0 +1,15 @@
+[
+  { "id": "bezopasnost", "title": "Güvenlik", "subtitle": "Evini koru", "icon": "Security" },
+  { "id": "opasnosti", "title": "Evdeki tehlikeler", "subtitle": "Gizli tehditler", "icon": "Warning" },
+  { "id": "eda_i_voda", "title": "Yiyecek ve su", "subtitle": "Beslenme alanını düzenle", "icon": "Restaurant" },
+  { "id": "vybor_korma", "title": "Mama seçimi", "subtitle": "Dostunun beslenme düzeni", "icon": "RestaurantMenu" },
+  { "id": "klimat", "title": "İklim kontrolü", "subtitle": "Sıcakta ve soğukta konfor", "icon": "Thermostat" },
+  { "id": "igry", "title": "Oyunlar", "subtitle": "Güvenlik ve hareket", "icon": "SportsEsports" },
+  { "id": "tualet", "title": "Tuvalet", "subtitle": "Kum kabı ve kedi kumu", "icon": "Wc" },
+  { "id": "uhod", "title": "Bakım", "subtitle": "Tüy, tırnak, hijyen", "icon": "CleaningServices" },
+  { "id": "samovygul", "title": "Sahipsiz dışarı çıkış", "subtitle": "Riskler ve alternatifler", "icon": "DirectionsRun" },
+  { "id": "cvety", "title": "Çiçekler", "subtitle": "Hangi bitkiler tehlikeli", "icon": "LocalFlorist" },
+  { "id": "aktivnost", "title": "Hareket", "subtitle": "Fiziksel ve zihinsel egzersiz", "icon": "FitnessCenter" },
+  { "id": "son_i_otdyh", "title": "Uyku ve dinlenme", "subtitle": "Mükemmel bir köşe yaratmak", "icon": "Weekend" },
+  { "id": "rabochee_mesto", "title": "Çalışma alanın", "subtitle": "Sahibinin yanında bir düzen", "icon": "Work" }
+]

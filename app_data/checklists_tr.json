@@ -1,0 +1,384 @@
+[
+  {
+    "icon": "LocalHospital",
+    "title": "Veteriner kliniğine gidiş",
+    "intro": null,
+    "warning": null,
+    "sections": [
+      {
+        "heading": null,
+        "items": [
+          { "label": "Veteriner pasaportu", "note": null },
+          { "label": "Taşıma çantası", "note": null },
+          { "label": "Emici ped", "note": null },
+          { "label": "Sevdiği ödül maması", "note": null },
+          { "label": "İlaçlar (kullanıyorsa)", "note": null },
+          { "label": "Son tahliller", "note": null },
+          { "label": "Belirtilerin videosu (varsa)", "note": null },
+          { "label": "Veterinere soracağın sorular listesi", "note": null },
+          { "label": "Kedinin son birkaç gündeki davranış notları", "note": null }
+        ]
+      }
+    ],
+    "footerNote": null
+  },
+  {
+    "icon": "Pets",
+    "title": "İlk yavru kedinin gelişi",
+    "intro": null,
+    "warning": null,
+    "sections": [
+      { "heading": "Yavru gelmeden önce", "items": [] },
+      {
+        "heading": "Evde güvenlik",
+        "items": [
+          { "label": "Pencerelere \"kedi güvenlik filesi\" tak.", "note": null },
+          { "label": "Pencerenin \"dikey havalandırma\" modunu güvenli hale getir.", "note": null },
+          { "label": "Elektrik kablolarını erişilemeyecek şekilde düzenle.", "note": null },
+          { "label": "Ev kimyasallarını ve ilaçları kapalı yerde sakla.", "note": null },
+          { "label": "Zehirli ev bitkilerini ortadan kaldır.", "note": null },
+          { "label": "Mobilya ve cihazların arkasındaki dar aralıkları kontrol et.", "note": null },
+          { "label": "Yüksek mobilyaları ve rafları sabitle.", "note": null },
+          { "label": "Küçük eşyaları, iplikleri, lastik bantları ve poşetleri kaldır.", "note": null },
+          { "label": "Yavru kedinin düşebileceği yüksek yerleri güvenli hale getir.", "note": null }
+        ]
+      },
+      { "heading": "Gerekli alışverişler", "items": [] },
+      {
+        "heading": "Tuvalet",
+        "items": [
+          { "label": "Kum kabı.", "note": null },
+          { "label": "Kedi kumu.", "note": null },
+          { "label": "Temizlik kürekçiği.", "note": null },
+          { "label": "Kum kabı önü paspası.", "note": null }
+        ]
+      },
+      {
+        "heading": "Beslenme (1 veya daha fazla adet)",
+        "items": [
+          { "label": "Mama kabı.", "note": null },
+          { "label": "Su kabı veya su çeşmesi.", "note": null },
+          { "label": "Yavrunun daha önce yediği mama.", "note": null },
+          { "label": "Ödül mamaları.", "note": null }
+        ]
+      },
+      {
+        "heading": "Uyku ve dinlenme",
+        "items": [
+          { "label": "Yatak.", "note": null },
+          { "label": "Battaniye.", "note": null },
+          { "label": "Sığınak veya kedi evi.", "note": null }
+        ]
+      },
+      {
+        "heading": "Oyunlar",
+        "items": [
+          { "label": "Tırmalama tahtası.", "note": null },
+          { "label": "Olta oyuncak.", "note": null },
+          { "label": "Toplar.", "note": null },
+          { "label": "Etkileşimli oyuncaklar.", "note": null }
+        ]
+      },
+      {
+        "heading": "Taşıma için",
+        "items": [
+          { "label": "Taşıma çantası.", "note": null },
+          { "label": "Emici ped.", "note": null },
+          { "label": "Künye (gerekirse).", "note": null }
+        ]
+      },
+      {
+        "heading": "Evdeki ilk gün",
+        "items": [
+          { "label": "Taşıma çantasını aç ve yavrunun kendiliğinden çıkmasına izin ver.", "note": null },
+          { "label": "Kum kabının yerini göster.", "note": null },
+          { "label": "Su ve mama kaplarını göster.", "note": null },
+          { "label": "Evin tamamıyla hemen tanıştırma — tek bir odayla başla ve yavrunun ilgisine göre kademeli olarak diğer alanları aç.", "note": null },
+          { "label": "Gerekmedikçe kucağına alma.", "note": null },
+          { "label": "Ortamı sakince keşfetmesine izin ver.", "note": null },
+          { "label": "İlk gün misafir davet etme.", "note": null }
+        ]
+      },
+      {
+        "heading": "İlk 7 gün",
+        "items": [
+          { "label": "Alışık olduğu mamayla besle.", "note": null },
+          { "label": "Kedi kumunu değiştirme.", "note": null },
+          { "label": "Besleme düzenine uy.", "note": null },
+          { "label": "Her gün, seferinde 10-20 dakika oyna.", "note": null },
+          { "label": "İştahını takip et.", "note": null },
+          { "label": "Su tüketimini takip et.", "note": null },
+          { "label": "Dışkı ve idrar durumunu takip et.", "note": null },
+          { "label": "Diğer odalarla kademeli olarak tanıştır.", "note": null }
+        ]
+      },
+      {
+        "heading": "Veterinerlik",
+        "items": [
+          { "label": "İlk muayene için randevu al.", "note": null },
+          { "label": "Mikroçip olup olmadığını kontrol et.", "note": null },
+          { "label": "Aşı takvimini kontrol et.", "note": null },
+          { "label": "Parazit tedavisini görüş.", "note": null },
+          { "label": "Önerilen beslenme düzenini öğren.", "note": null }
+        ]
+      },
+      {
+        "heading": "Evde başka hayvanlar varsa",
+        "items": [
+          { "label": "Ayrı bir oda hazırla.", "note": null },
+          { "label": "Ayrı kaplar.", "note": null },
+          { "label": "Ayrı kum kabı.", "note": null },
+          { "label": "Hayvanları hemen tanıştırma.", "note": null },
+          { "label": "Koku taşıyan eşyaları vererek hayvanlar arasında düzenli koku alışverişi yap.", "note": null },
+          { "label": "İlk karşılaşmaları kademeli olarak düzenle.", "note": null }
+        ]
+      },
+      {
+        "heading": "Alışma sürecinden sonra",
+        "items": [
+          { "label": "Uygun bir mama seç.", "note": null },
+          { "label": "Besleme düzenini ayarla.", "note": null },
+          { "label": "Dikey alan düzenle.", "note": null },
+          { "label": "Ek tırmalama tahtaları edin.", "note": null },
+          { "label": "Kısırlaştırmayı planla (yaşına ve veteriner önerilerine göre).", "note": null },
+          { "label": "Dijital evcil hayvan pasaportu oluştur.", "note": null }
+        ]
+      }
+    ],
+    "footerNote": null
+  },
+  {
+    "icon": "Groups",
+    "title": "İki kediyi tanıştırma",
+    "intro": null,
+    "warning": null,
+    "sections": [
+      {
+        "heading": "Karşılaşmadan önce",
+        "items": [
+          { "label": "Ayrı bir oda", "note": null },
+          { "label": "İkinci-üçüncü kum kabı", "note": null },
+          { "label": "Ayrı kaplar", "note": null },
+          { "label": "Ayrı bir yatak", "note": null },
+          { "label": "Oyuncaklar", "note": null },
+          { "label": "Feromonlar (gerekirse)", "note": null }
+        ]
+      },
+      {
+        "heading": "İlk günler",
+        "items": [
+          { "label": "Koku alışverişi", "note": null },
+          { "label": "Kapı arasından besleme", "note": null },
+          { "label": "Kısa karşılaşmalar", "note": null },
+          { "label": "Temas etmeye zorlama", "note": null }
+        ]
+      }
+    ],
+    "footerNote": "Eşyalar ve kaynaklarla ilgili kuralı unutma: \"Kedi sayısı + 1\"."
+  },
+  {
+    "icon": "LocalShipping",
+    "title": "Yeni bir eve taşınma",
+    "intro": null,
+    "warning": null,
+    "sections": [
+      {
+        "heading": "Bir hafta önceden",
+        "items": [
+          { "label": "Künye/tasmadaki adresi güncelle", "note": null },
+          { "label": "Taşıma çantasını hazırla", "note": null },
+          { "label": "Mama ve ödül stoğu yap", "note": null }
+        ]
+      },
+      {
+        "heading": "Taşınma günü",
+        "items": [
+          { "label": "Kediyi ayrı bir odaya kapat", "note": null },
+          { "label": "Taşınma bitene kadar dışarı bırakma", "note": null },
+          { "label": "Önce kum kabını ve kapları yerleştir", "note": null }
+        ]
+      }
+    ],
+    "footerNote": null
+  },
+  {
+    "icon": "Flight",
+    "title": "Seyahat",
+    "intro": null,
+    "warning": null,
+    "sections": [
+      {
+        "heading": "Belgeler",
+        "items": [
+          { "label": "Pasaport", "note": null },
+          { "label": "Mikroçip", "note": null },
+          { "label": "Aşılar", "note": null },
+          { "label": "Sağlık belgeleri", "note": "Havalimanında ayrı bir uzman tarafından yapılabilecek kontroller için zaman payı bırak." }
+        ]
+      },
+      {
+        "heading": "Eşyalar",
+        "items": [
+          { "label": "Taşıma çantası", "note": null },
+          { "label": "Su", "note": null },
+          { "label": "Mama ve atıştırmalıklar", "note": null },
+          { "label": "Emici pedler", "note": null },
+          { "label": "Tanıdık kokulu bir oyuncak", "note": null },
+          { "label": "İlaçları hazırla", "note": "Kedinin ihtiyaçlarına bağlı olarak." },
+          { "label": "Sakinleştirici feromon ya da tasma satın al.", "note": null }
+        ]
+      }
+    ],
+    "footerNote": null
+  },
+  {
+    "icon": "Healing",
+    "title": "Ameliyat sonrası",
+    "intro": null,
+    "warning": null,
+    "sections": [
+      {
+        "heading": null,
+        "items": [
+          { "label": "Vücut kıyafeti/koni yakalığın takılı olduğunu kontrol et", "note": null },
+          { "label": "İlaçları ver", "note": null },
+          { "label": "Dikişi kontrol et", "note": "İhtiyacı veterinerine danış." },
+          { "label": "Zıplamasını sınırla", "note": null },
+          { "label": "İştahını takip et", "note": null },
+          { "label": "Tuvalet düzenini takip et", "note": null }
+        ]
+      }
+    ],
+    "footerNote": null
+  },
+  {
+    "icon": "Vaccines",
+    "title": "Aşılama",
+    "intro": null,
+    "warning": null,
+    "sections": [
+      {
+        "heading": "Öncesinde",
+        "items": [
+          { "label": "Kedi sağlıklı olmalı", "note": null },
+          { "label": "Veteriner pasaportu", "note": null },
+          { "label": "Randevu saati not edilmiş olmalı", "note": null }
+        ]
+      },
+      {
+        "heading": "Sonrasında",
+        "items": [
+          { "label": "Sıcaklık kontrolü", "note": null },
+          { "label": "Durumu 48 saat gözlemle", "note": null },
+          { "label": "Aktif oyunları sınırla", "note": null }
+        ]
+      }
+    ],
+    "footerNote": null
+  },
+  {
+    "icon": "ExitToApp",
+    "title": "Sahibinin seyahate çıkması",
+    "intro": null,
+    "warning": null,
+    "sections": [
+      {
+        "heading": "Hayvan evde kalıyorsa",
+        "items": [
+          { "label": "Mama", "note": null },
+          { "label": "Su", "note": null },
+          { "label": "Kum kabı", "note": null },
+          { "label": "Oyuncaklar", "note": null },
+          { "label": "Bakımına gelecek kişinin iletişim bilgileri", "note": null },
+          { "label": "Kedinin pasaportu ve acil durumda gidilebilecek veteriner kliniklerinin iletişim bilgileri", "note": null }
+        ]
+      }
+    ],
+    "footerNote": null
+  },
+  {
+    "icon": "MedicalServices",
+    "title": "Acil durum ilk yardım çantası",
+    "intro": "Acil durum ilk yardım çantası, yaralanma, yanık, kanama ya da diğer acil durumlarda ihtiyaç duyulabilecek eşyalardan oluşan bir settir. Veteriner yardımının yerini tutmaz, ama kliniğe gitmeden önce hızlıca ilk yardım yapmanı sağlar.",
+    "warning": "Önemli: veteriner hekim önermeden insan ilaçlarını kullanma. İnsanlar için güvenli olan birçok ilaç kediler için zehirlidir.",
+    "sections": [
+      {
+        "heading": "Belgeler",
+        "items": [
+          { "label": "Veteriner pasaportu", "note": null },
+          { "label": "Tedavi eden veterinerin iletişim bilgileri", "note": null },
+          { "label": "En yakın 7/24 açık veteriner kliniğinin adresi", "note": null },
+          { "label": "Hastalık geçmişi ve kullanılan ilaçlar", "note": null }
+        ]
+      },
+      {
+        "heading": "Sargı malzemeleri",
+        "items": [
+          { "label": "Steril gazlı bezler", "note": null },
+          { "label": "Farklı boyutlarda steril bandajlar", "note": null },
+          { "label": "Kendinden yapışkanlı bandaj", "note": null },
+          { "label": "Tıbbi yara bandı", "note": null },
+          { "label": "Pamuk diskler", "note": null },
+          { "label": "Kulak çöpü (derin yaralar için kullanılmaz)", "note": null }
+        ]
+      },
+      {
+        "heading": "Solüsyonlar",
+        "items": [
+          { "label": "Serum fizyolojik (%0,9 NaCl)", "note": "Şunlar için kullanılır: göz yıkama, küçük yaraları temizleme, kirlerin giderilmesi." },
+          { "label": "Klorheksidin %0,05", "note": "Küçük yüzeysel cilt hasarlarının temizlenmesi için uygundur. Konsantre solüsyonlar kullanma." }
+        ]
+      },
+      {
+        "heading": "Aletler",
+        "items": [
+          { "label": "Dijital termometre", "note": null },
+          { "label": "Cımbız", "note": null },
+          { "label": "Yuvarlak uçlu makas", "note": null },
+          { "label": "Tek kullanımlık eldiven", "note": null },
+          { "label": "İğnesiz enjektörler (2-20 ml)", "note": "Su içirmek ya da veterinerin önerisiyle yara yıkamak için işe yarayabilir." },
+          { "label": "Küçük bir el feneri", "note": "Ağız içini muayene etmek ya da kene aramak için faydalıdır." }
+        ]
+      },
+      {
+        "heading": "Ek olarak",
+        "items": [
+          { "label": "Soğuk kompres paketi", "note": "Morarma, şişlik ve böcek ısırıklarında kullanılır. Sadece bir bez üzerinden uygula." }
+        ]
+      },
+      {
+        "heading": "Taşıma için",
+        "items": [
+          { "label": "Taşıma çantası", "note": null },
+          { "label": "Yedek emici ped", "note": null },
+          { "label": "Battaniye veya havlu", "note": null },
+          { "label": "Ağızlığa gerek yok", "note": "Büyük bir havlu, korkmuş bir kediyi güvenle sabitlemene yardımcı olur." }
+        ]
+      }
+    ],
+    "footerNote": null
+  },
+  {
+    "icon": "HelpOutline",
+    "title": "Barınaktan veya yetiştiriciden gelen hayvan — önemli sorular",
+    "intro": "Evde yeni bir sakin olması bir bayramdır. Ama düzenli bir ortam hazırlamanın yanında, yeni hayvan hakkında kritik bilgileri bilmek de önemlidir.",
+    "warning": null,
+    "sections": [
+      {
+        "heading": null,
+        "items": [
+          { "label": "Alışık olduğu mama ve besleme programı. Ani değişiklik ishale ve sindirim sorunlarına yol açar.", "note": null },
+          { "label": "Mevcut aşıları. Veteriner pasaportunu iste.", "note": null },
+          { "label": "Pire ve solucan ilacı uygulama tarihi.", "note": null },
+          { "label": "Alışık olduğu dinlenme, uyku ve tuvalet yeri.", "note": null },
+          { "label": "Diğer insanlarla iletişimi.", "note": null },
+          { "label": "Zaten komut bilip bilmediği.", "note": null },
+          { "label": "Sindirim sistemi ve dışkısıyla ilgili sorun yaşayıp yaşamadığı.", "note": null },
+          { "label": "Hangi yetişkin ya da çocukla en iyi iletişim kurduğu.", "note": null },
+          { "label": "Hayvanın ya da ebeveynlerinin geçirdiği hastalıklar olup olmadığı.", "note": null }
+        ]
+      }
+    ],
+    "footerNote": null
+  }
+]

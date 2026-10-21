@@ -1,0 +1,80 @@
+[
+  {
+    "id": "bezopasnost",
+    "title": "Қауіпсіздік",
+    "subtitle": "Үйді қорғау",
+    "icon": "Security"
+  },
+  {
+    "id": "opasnosti",
+    "title": "Үйдегі қауіп-қатерлер",
+    "subtitle": "Жасырын қауіптер",
+    "icon": "Warning"
+  },
+  {
+    "id": "eda_i_voda",
+    "title": "Тамақ пен су",
+    "subtitle": "Тамақтану аймағын жайластыру",
+    "icon": "Restaurant"
+  },
+  {
+    "id": "vybor_korma",
+    "title": "Жем таңдау",
+    "subtitle": "Жануарыңыздың рационы",
+    "icon": "RestaurantMenu"
+  },
+  {
+    "id": "klimat",
+    "title": "Климат-бақылау",
+    "subtitle": "Ыстық пен суықта жайлылық",
+    "icon": "Thermostat"
+  },
+  {
+    "id": "igry",
+    "title": "Ойындар",
+    "subtitle": "Қауіпсіздік пен белсенділік",
+    "icon": "SportsEsports"
+  },
+  {
+    "id": "tualet",
+    "title": "Дәретхана",
+    "subtitle": "Науа мен толтырғыш",
+    "icon": "Wc"
+  },
+  {
+    "id": "uhod",
+    "title": "Күтім",
+    "subtitle": "Жүн, тырнақ, гигиена",
+    "icon": "CleaningServices"
+  },
+  {
+    "id": "samovygul",
+    "title": "Өз бетінше серуендеу",
+    "subtitle": "Тәуекелдер мен балама шешімдер",
+    "icon": "DirectionsRun"
+  },
+  {
+    "id": "cvety",
+    "title": "Гүлдер",
+    "subtitle": "Қандай өсімдіктер қауіпті",
+    "icon": "LocalFlorist"
+  },
+  {
+    "id": "aktivnost",
+    "title": "Белсенділік",
+    "subtitle": "Дене және ақыл-ой жүктемесі",
+    "icon": "FitnessCenter"
+  },
+  {
+    "id": "son_i_otdyh",
+    "title": "Ұйқы мен демалыс",
+    "subtitle": "Тамаша орын жасау",
+    "icon": "Weekend"
+  },
+  {
+    "id": "rabochee_mesto",
+    "title": "Жұмыс орныңыз",
+    "subtitle": "Қожайынның қасында жайластыру",
+    "icon": "Work"
+  }
+]

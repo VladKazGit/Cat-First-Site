@@ -1,0 +1,528 @@
+[
+  {
+    "id": "bezopasnost",
+    "title": "Bezpieczeństwo",
+    "intro": "Twój dom to twierdza dla kota. Upewnij się, że każdy zakątek przestrzeni jest bezpieczny i wygodny.",
+    "heroImage": "dom_bezopasnost_hero",
+    "sections": [
+      {
+        "heading": "Siatki w oknach",
+        "body": "Zwykłe siatki przeciw owadom nie wytrzymają skoku kota ani jego pazurów. A otwarte okna mogą sprawić, że kot w nich utknie albo z nich wypadnie.\n\nDwa główne rodzaje siatek chroniących koty:\n1) Siatki „Antykot” — wykonane z wytrzymałej stalowej linki, solidnie mocowanej do ramy za pomocą metalowych uchwytów na całym obwodzie.\n2) Plastikowe blokady do uchylonych okien — nazywane też „zabezpieczeniem mikrowentylacji”.",
+        "style": "plain",
+        "image": "dom_bezopasnost_setki"
+      },
+      {
+        "heading": "Zabezpieczenie kątów i szczelin",
+        "body": "Sprawdź szczeliny między meblami a ścianami. Koty mogą utknąć w wąskich przestrzeniach. Zazwyczaj są to:\n• przestrzeń między szafkami a ścianą;\n• za lodówką;\n• za pralką;\n• między kanapą a ścianą.\n\nZasada jest prosta: kot albo nie powinien móc się tam dostać, albo musi mieć możliwość wyjścia.",
+        "style": "plain",
+        "image": "dom_bezopasnost_uglov"
+      },
+      {
+        "heading": "Elektryczność",
+        "body": "Schowaj przewody w specjalnych osłonach kablowych. Kocięta uwielbiają gryźć kable, co może prowadzić do porażenia prądem, śmierci lub oparzeń jamy ustnej.\n\nNiebezpieczne miejsca:\n• przedłużacze;\n• ładowarki do telefonów;\n• kable komputerowe;\n• lampki choinkowe;\n• przewody telewizyjne.\n\nPomocne będzie użycie specjalnych organizerów na kable, które zbiorą przewody razem i je osłonią.\n\nWarto pamiętać, że kot może gryźć przewody z ciekawości, przez zapach lub w reakcji na zachowanie człowieka. Jeśli to się zdarzy — nie strasz kota ani nie krzycz na niego, tylko możliwie spokojnie odciągnij jego uwagę od przewodów.",
+        "style": "plain",
+        "image": "dom_bezopasnost_elektro"
+      },
+      {
+        "heading": "Ciężkie meble",
+        "body": "Przymocuj regały i telewizory do ściany. Koty świetnie skaczą, a ich ciężar może przewrócić niezabezpieczone przedmioty, co grozi urazem kota lub domowników.\n\nGłówne przedmioty, na które warto zwrócić uwagę:\n• regały na książki;\n• komody;\n• regały modułowe;\n• telewizory;\n• półki ścienne;\n• szafki na wino.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Chemia domowa",
+        "body": "Każdy środek chemii domowej jest niebezpieczny dla zwierząt. Dotyczy to środków do:\n• mycia szyb;\n• mycia łazienki;\n• mycia podłóg;\n• mycia naczyń itp.\n\nNawet jeśli środek trafi na sierść, kot zliże go podczas mycia się i substancja przedostanie się do narządów wewnętrznych. Trzymaj wszystkie środki z dala od miejsc, gdzie przebywa kot, w zamkniętych szafkach i za drzwiczkami.\n\nSzczególnie niebezpieczne są: wybielacze, środki do udrażniania rur, środki do czyszczenia piekarnika, tabletki do zmywarki, kapsułki do prania i koncentraty.",
+        "style": "warning",
+        "image": "dom_bezopasnost_himiya"
+      },
+      {
+        "heading": "Balkon",
+        "body": "Możliwość obcowania ze świeżym powietrzem to ważna część życia zwierzęcia. Ale balkon, oprócz świeżego powietrza i słońca, może kryć w sobie niebezpieczeństwa.\n\nWażna i najistotniejsza zasada to zamontowanie specjalnych siatek na całym obwodzie balkonu. Dodatkowo trzeba zabezpieczyć wszystkie otwory techniczne — koty są ciekawskie i wetkną nos wszędzie, gdzie się da.",
+        "style": "plain",
+        "image": "dom_bezopasnost_balkon"
+      },
+      {
+        "heading": "Dodatkowe punkty",
+        "body": "Kuchnia: rozgrzana płyta grzewcza; noże; otwarty piekarnik; kosz na śmieci.\n\nŁazienka: zamknięta pokrywa toalety; pralka zawsze sprawdzana przed uruchomieniem; zamknięte szafki; przechowywanie tabletek i kapsułek w niedostępnym miejscu.\n\nŚwieczki i zapachy: olejki eteryczne; dyfuzory; kadzidełka; świeczki.\n\nTorby i folie: torby foliowe; folia pakowa; folia stretch.\n\nNici i gumki: nici; muliny (nici do haftu); gumki; gumki do włosów.",
+        "style": "plain",
+        "image": "dom_bezopasnost_dop"
+      }
+    ]
+  },
+  {
+    "id": "eda_i_voda",
+    "title": "Jedzenie i woda",
+    "intro": "Stwórz idealną przestrzeń do karmienia swojego kota, kierując się zasadami komfortu i naturalnych potrzeb.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "1. Wybór misek",
+        "body": "Materiał ma znaczenie. Plastik gromadzi bakterie i może powodować kocie trądziki. Zalecane materiały: szkło, ceramika, stal nierdzewna.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "2. Idealne miejsce",
+        "body": "Koty to istoty przyzwyczajenia i bezpieczeństwa. Nigdy nie stawiaj jedzenia obok kuwety.\n• Ciche miejsce bez przeciągów;\n• Z dala od głośnych urządzeń;\n• Z widokiem na pomieszczenie, dla poczucia bezpieczeństwa.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "3. Wysokość dla wygody",
+        "body": "Miski na podstawce zmniejszają obciążenie szyi i stawów, zwłaszcza u starszych kotów. Odpowiednie nachylenie miski o 15 stopni sprawia, że przełykanie jest bardziej naturalne. Wysokość dobieraj w zależności od wzrostu stojącego kota.",
+        "style": "plain",
+        "image": "dom_eda_vysota"
+      },
+      {
+        "heading": "Wskazówka: rozmiary miski",
+        "body": "Szerokość miski: średnica wewnętrzna powinna być co najmniej 1,5–2 razy większa niż szerokość pyszczka kota (razem z wąsami). Dla większości dorosłych kotów optymalna średnica to 15–18 cm, dla dużych ras (np. maine coon) — 18–22 cm. Jeśli średnica jest mniejsza niż 12–13 cm, kot częściej dotyka wąsami ścianek.\n\nGłębokość miski: optymalna to 2–4 cm zarówno dla karmy suchej, jak i mokrej. Wysokość brzegu powinna wynosić około 1/2–3/4 wysokości pyszczka kota. Brzegi wyższe niż 5–6 cm nadają się tylko do dużych porcji karmy, ale są mniej wygodne do codziennego karmienia.",
+        "style": "tip",
+        "image": "dom_eda_sovet"
+      }
+    ]
+  },
+  {
+    "id": "klimat",
+    "title": "Upał i zimno",
+    "intro": "Jak chronić pupila przed przegrzaniem i wychłodzeniem.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "Letni upał",
+        "body": "• Zawsze zapewnij dostęp do miski ze świeżą wodą. Koty piją więcej, gdy jest im gorąco.\n• Używaj chłodzących mat lub wilgotnych ręczników, ale nie zmuszaj kota, by na nich leżał.\n• Unikaj bezpośredniego przeciągu z klimatyzacji — optymalnie chłodne powietrze bez strumienia skierowanego na kota. Czyść filtry klimatyzacji w razie potrzeby.\nCzego nie robić: nie polewaj kota lodowatą wodą; nie przykładaj lodu do ciała; nie zmuszaj go do picia na siłę.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Ryzyko udaru cieplnego!",
+        "body": "Zwracaj uwagę na: przyspieszony oddech z otwartym pyskiem; silne osłabienie; jaskrawoczerwone dziąsła; odmowę jedzenia i picia; zaburzenia koordynacji.\nPrzy takich objawach może być konieczna pilna pomoc weterynarza.",
+        "style": "warning",
+        "image": null
+      },
+      {
+        "heading": "Okres zimowy",
+        "body": "Przytulne legowiska z dala od podłogi + nawilżanie suchego powietrza. Stwórz w domu ciepłe zakątki: posłanie i miejsce osłonięte od przeciągów pomogą zachować ciepło.\n\nZimą ważne jest: unikanie przeciągów; niestawianie legowiska przy zimnym oknie; utrzymywanie wilgotności powietrza na poziomie 40–60%; wycieranie łapek po spacerach (jeśli kot wychodzi na zewnątrz).",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Ukryte zagrożenia",
+        "body": "Gorące kaloryfery — możliwość oparzeń przy dłuższym kontakcie. Uchylone okna — ryzyko wychłodzenia i urazów.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "O czym warto pamiętać",
+        "body": "Koty same wybierają komfortową dla siebie temperaturę. Jeśli pupil stale kładzie się na zimnej podłodze, chowa się pod kocem lub przy kaloryferze — to sygnał, że jest mu za gorąco albo za zimno.",
+        "style": "tip",
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "igry",
+    "title": "Zabawa",
+    "intro": "Dla kota domowego zabawa to nie tylko rozrywka, ale realizacja instynktu łowieckiego. Codzienne sesje trwające 15–30 minut pomagają zapobiegać stresowi, otyłości i destrukcyjnemu zachowaniu.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "Bezpieczeństwo przede wszystkim: wybór materiałów",
+        "body": "Materiał, z jakiego wykonane są zabawki, ma duże znaczenie. Koty bawią się łapkami, ale też biorą zabawki do pyszczka.\n\nMateriały naturalne: wełna, pióra, bawełna i len, juta i sizal, drewno.\nMateriały syntetyczne: polar, silikon spożywczy, dobrej jakości plastik ABS.\n\nUnikaj taniego plastiku o ostrym zapachu (szybko się łamie, ma ostre krawędzie, toksycznie pachnie), długiego włosia i lureksu (nitki łatwo się odrywają i po połknięciu powodują niedrożność jelit) oraz gąbki/pianki (kot może ją rozgryźć, a małe kawałki utkną w żołądku).\n\nMałe elementy: żadnych koralików, przyklejanych oczek ani guzików — kot może je łatwo odgryźć i połknąć, co doprowadzi do poważnego urazu przewodu pokarmowego.",
+        "style": "warning",
+        "image": "dom_igry_materialy"
+      },
+      {
+        "heading": "Ogólna lista zabawek",
+        "body": "Tekstylia i wełna: miękka piszcząca zabawka z bawełny/lnu; filcowane kulki ze 100% wełny; myszki i rybki z tkaniny bez doklejanych elementów; woreczki z kocimiętką; poduszeczki-zabawki z gęstego polaru.\n\nDrewno i naturalne włókna: patyczki matatabi do gryzienia; sprasowane kulki z kocimiętki; drewniane skrzynki-labirynty rozwojowe; piłki ze sznura sizalowego/jutowego; drapaki-słupki i maty do drapania.\n\nSilikon i guma: gryzaki z silikonu spożywczego; masujące szczoteczki-zabawki dentystyczne; obrączki do gryzienia z wytrzymałej gumy.\n\nPlastikowe zabawki interaktywne (wyłącznie plastik ABS): wielopoziomowe piramidy-tory z piłeczkami; interaktywne karmniki-zagadki; niewywracalne dozowniki przysmaków; zamknięte plastikowe kulki z dzwoneczkiem.\n\nZabawki do wspólnej zabawy: wędki-dokuczajki z taśmami z polaru lub naturalnymi piórami; długie tekstylne sznury-wężyki.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Samodzielna zabawa",
+        "body": "Zagadki i karmniki-labirynty zajmą kota, gdy nie ma cię w domu. Najlepszą motywacją są ulubione suche przysmaki.\n\nPrzykłady: zagadki żywieniowe (Puzzle Feeders) z klapkami, które kot porusza łapką; Catit Senses Food Tree; zabawki Nina Ottosson Puzzle Toys o różnym poziomie trudności; interaktywna kula z karmą (Treat Ball); mata węchowa (Snuffle Mat); pudełko-zagadka (Peekaboo Box).",
+        "style": "plain",
+        "image": "dom_igry_samorazvlech"
+      },
+      {
+        "heading": "Uwaga",
+        "body": "Wskaźniki laserowe: mogą wywoływać frustrację, ponieważ „zdobyczy” nie da się złapać. Zawsze kończ zabawę prawdziwą zabawką, którą kot może chwycić i ścisnąć łapkami.\n\nWstążki: nigdy nie zostawiaj kota bez nadzoru ze wstążkami czy sznurkami — ryzyko uduszenia lub połknięcia nici. Najlepiej przechowywać je w zamkniętych pudełkach, niedostępnych dla kota.",
+        "style": "warning",
+        "image": null
+      },
+      {
+        "heading": "Najważniejsza zasada: kontrola",
+        "body": "Żadna zabawka nie jest bezpieczna w 100%. Regularnie sprawdzaj zabawki swojego kota pod kątem zużycia, oderwanych elementów lub rozdarć. Twoja uwaga to najlepsza gwarancja bezpieczeństwa.",
+        "style": "tip",
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "tualet",
+    "title": "Kuweta",
+    "intro": "Właściwy wybór kuwety i żwirku ma bezpośredni wpływ na to, czy kot będzie załatwiał się tam, gdzie trzeba.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "Wybór kuwety",
+        "body": "Typ otwarty („klasyczny”) — zapewnia kotu maksymalny widok otoczenia, idealny dla kociąt i starszych zwierząt. Wybieraj kuwety z brzegiem o wysokości 15–20 cm, o długości równej 1,5–2 długości kota.\n\nBox zamknięty („prywatność”) — maskuje zapachy i żwirek, zapobiega rozrzucaniu żwirku. Niektóre koty mogą czuć się w nim jak w pułapce — na początku zdejmij drzwiczki.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Gdzie postawić kuwetę?",
+        "body": "Ciche miejsce — z dala od hałasu urządzeń domowych i ruchliwych korytarzy.\nZ dala od jedzenia — koty nie lubią załatwiać się tam, gdzie jedzą lub piją.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Rodzaje żwirku",
+        "body": "Mineralny (żwirek bentonitowy, zbrylający się) — świetnie neutralizuje zapach, tworzy zwarte grudki, ale pyli podczas nasypywania.\n\nDrzewny (prasowane trociny, wchłaniający) — budżetowy, po zamoczeniu rozpada się w drobny pył, można go spłukiwać w toalecie w małych porcjach, ekologiczny.\n\nSilikażelowy (wchłaniający) — maksymalna chłonność i neutralizacja zapachu, ale głośno chrzęści i może odstraszać płochliwe koty.\n\nŻwirki roślinne (sojowe, kukurydziane, zbożowe) — świetnie nadają się do spłukiwania w toalecie, rozpuszczają się bez pozostałości, są bezpieczne w razie przypadkowego zjedzenia, ale są droższe i mogą przyciągać gryzonie, jeśli są przechowywane np. na działce.",
+        "style": "plain",
+        "image": "dom_tualet_mineralny",
+        "blocks": [
+          {
+            "text": "Mineralny (żwirek bentonitowy, zbrylający się) — świetnie neutralizuje zapach, tworzy zwarte grudki, ale pyli podczas nasypywania."
+          },
+          {
+            "image": "dom_tualet_mineralny"
+          },
+          {
+            "text": "Drzewny (prasowane trociny, wchłaniający) — budżetowy, po zamoczeniu rozpada się w drobny pył, można go spłukiwać w toalecie w małych porcjach, ekologiczny."
+          },
+          {
+            "image": "dom_tualet_drevesny"
+          },
+          {
+            "text": "Silikażelowy (wchłaniający) — maksymalna chłonność i neutralizacja zapachu, ale głośno chrzęści i może odstraszać płochliwe koty."
+          },
+          {
+            "image": "dom_tualet_silikagel"
+          },
+          {
+            "text": "Żwirki roślinne (sojowe, kukurydziane, zbożowe) — świetnie nadają się do spłukiwania w toalecie, rozpuszczają się bez pozostałości, są bezpieczne w razie przypadkowego zjedzenia, ale są droższe i mogą przyciągać gryzonie, jeśli są przechowywane np. na działce."
+          },
+          {
+            "image": "dom_tualet_rastitelny"
+          }
+        ]
+      },
+      {
+        "heading": "Złota zasada kuwet: N + 1",
+        "body": "Liczba kuwet powinna być o jeden większa niż liczba kotów w domu. To zapobiega stresowi i konfliktom o terytorium.",
+        "style": "tip",
+        "image": null
+      },
+      {
+        "heading": "Pielęgnacja i higiena",
+        "body": "Codziennie: usuwanie grudek i stałych odchodów 1–2 razy dziennie.\nRaz na 2 tygodnie/miesiąc: całkowita wymiana żwirku i umycie kuwety łagodnym środkiem.\n\nMateriał ma znaczenie: plastik jest tańszy, ale z czasem wchłania zapachy, a odpryski i zarysowania stają się siedliskiem bakterii. Ceramika lub metal dezynfekuje się higieniczniej, ale kosztują więcej.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Ukryte zagrożenia",
+        "body": "Odświeżacze zapachu: zapach lawendy jest przyjemny dla Ciebie, ale odstrasza kota z jego wrażliwym nosem.\nGłośne lokalizacje: kuweta obok pralki to prosta droga do nagłego przestrachu i porzucenia tego miejsca.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Jeśli kot ignoruje kuwetę",
+        "body": "Medycyna: najpierw wyklucz u weterynarza zapalenie pęcherza lub kamicę moczową.\nZachowanie: sprawdź czystość, zmień rodzaj żwirku lub miejsce ustawienia kuwety.\n\nKoty mogą ignorować kuwetę z powodu stresu, nieodpowiedniego żwirku, silnego zapachu lub niepokojących dźwięków przy kontakcie z ziarnami żwirku.",
+        "style": "plain",
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "uhod",
+    "title": "Pielęgnacja",
+    "intro": "Regularna pielęgnacja pomaga na czas zauważyć zmiany w samopoczuciu kota. Większość zabiegów zajmuje kilka minut, ale ważniejsze jest, by wykonywać je spokojnie i systematycznie.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "Co sprawdzać w domu",
+        "body": "• oczy — czy nie ma ropnej wydzieliny, nadmiernego łzawienia i zaczerwienienia;\n• nos — czy nie ma nietypowej wydzieliny;\n• uszy — czy nie ma silnego zapachu, dużej ilości woskowiny lub ciągłego drapania;\n• zęby i dziąsła — nalot, nieprzyjemny zapach, zaczerwienienie;\n• skóra i sierść — łupież, strupki, wyłysienia, pasożyty, kołtuny;\n• łapy i pazury — pęknięcia, uszkodzenia, zbyt długie pazury;\n• waga i kondycja — nagłe zmiany wymagają uwagi;\n• zachowanie — apetyt, aktywność, sen, korzystanie z kuwety.",
+        "style": "plain",
+        "image": "dom_uhod_provera"
+      },
+      {
+        "heading": "Codziennie / okresowo",
+        "body": "Codziennie: świeża woda; prawidłowy apetyt; czysta kuweta; krótkie sprawdzenie stanu kota; aktywność i zabawa.\n\nOkresowo: czesanie; sprawdzanie pazurów; czyszczenie zębów; oglądanie uszu i oczu; kontrola wagi.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Ważne",
+        "body": "Pielęgnacja nie zastępuje wizyty u weterynarza. Nowy guzek, długotrwałe otępienie, odmowa jedzenia, gwałtowna zmiana zachowania, ciągłe drapanie się lub inne nietypowe objawy to powód, by zgłosić się do lekarza.",
+        "style": "warning",
+        "image": null
+      },
+      {
+        "heading": "Pazury: przycinanie",
+        "body": "Zwykle nie trzeba mocno skracać kotu pazurów. Głównym celem jest usunięcie tylko ostrego czubka, bez naruszania żywej części pazura.\n\nJak się przygotować: cążki do przycinania pazurów dla kotów; dobre oświetlenie; spokojne miejsce; przysmak po zabiegu.\n\nJak przycinać: 1) pozwól kotu spokojnie przyzwyczaić się do dotykania łapek; 2) delikatnie naciśnij poduszeczkę, aby pazur się wysunął; 3) znajdź jasną/różową wewnętrzną część pazura (tzw. żywy miąższ); 4) przetnij tylko przezroczysty, ostry czubek (kilka milimetrów); 5) jeśli kot się denerwuje — obetnij pazury na jednej lub dwóch łapkach i wróć do reszty później.\n\nJak często: sprawdzaj pazury regularnie, częstotliwość zależy od wieku, aktywności i dostępu do drapaka. Jeśli przypadkiem naruszysz żywą część — może pojawić się krew i ból, użyj preparatu tamującego krwawienie przeznaczonego dla zwierząt i nie kontynuuj zabiegu na siłę. Drapaki nadal są ważną częścią naturalnej pielęgnacji pazurów i zachowania kota.",
+        "style": "plain",
+        "image": "dom_uhod_kogti"
+      },
+      {
+        "heading": "Wyczesywanie",
+        "body": "Czesanie pomaga usuwać wypadającą sierść i zmniejsza jej ilość, którą kot połyka podczas mycia się.\n\nKorzyści: mniej sierści w domu; mniej kołtunów; łatwiejsza kontrola stanu skóry; łatwiej zauważyć pasożyty, podrażnienia i ranki; szczególnie przydatne dla kotów długowłosych.\n\nJak dobrać narzędzie: krótka sierść — miękka szczotka lub gumowa rękawica; średnia sierść — szczotka o odpowiedniej długości zębów oraz grzebień; długa sierść — grzebień i szczotka, które pozwalają dokładnie wyczesać sierść aż do nasady.",
+        "style": "plain",
+        "image": "dom_uhod_vychesyvanie"
+      }
+    ]
+  },
+  {
+    "id": "samovygul",
+    "title": "Wolny wybieg",
+    "intro": "Swobodne poruszanie się kota na zewnątrz wydaje się „naturalne”, ale współczesne środowisko miejskie kryje śmiertelne niebezpieczeństwa. Według statystyk koty domowe przy odpowiedniej opiece żyją 15–20 lat, a te żyjące na ulicy — jedynie 4–5 lat.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "Główne zagrożenia",
+        "body": "Wypadki drogowe i celowe otrucie przez ludzi to najczęstsza przyczyna śmierci kotów w mieście.\n\nDrapieżniki i psy: bezpańskie stada i dzikie zwierzęta stanowią zagrożenie.\nInfekcje: wirusowa białaczka, niedobór odporności i wścieklizna — choroby, które mogą przenosić się od zwierząt zjedzonych przez kota.\nOkrucieństwo ludzi: osoby celowo trujące zwierzęta, tzw. „łowcy” bezpańskich psów i kotów, a także zwykli źli ludzie mogą skrzywdzić bezbronne i ufne zwierzę.",
+        "style": "warning",
+        "image": null
+      },
+      {
+        "heading": "Alternatywa dla wolnego wybiegu: spacery na szelkach",
+        "body": "Bezpieczne poznawanie świata pod twoim nadzorem. Nie każdy kot lubi spacery na szelkach, ale przy odpowiednim przygotowaniu mogą one urozmaicić kotu dni.\n\nPodczas spaceru ważne jest: posiadanie aktualnych szczepień; niepozwalanie zwierzęciu na jedzenie czegokolwiek ani kontakt z innymi zwierzętami czy ludźmi na zewnątrz — jedynie jedzenie podane przez ciebie lub przyniesione z domu.",
+        "style": "plain",
+        "image": "dom_samovygul_shleyka"
+      },
+      {
+        "heading": "Wybieg (catio)",
+        "body": "Zabudowana siatką przybudówka, która pozwala oddychać świeżym powietrzem. Jeśli masz dom jednorodzinny, możesz zbudować osobną przybudówkę dla kota. Głównym celem takich konstrukcji jest stworzenie bezpiecznego środowiska do przebywania na zewnątrz.\n\nZwykle takie wybiegi buduje się z solidnego drewna i siatki. Jeśli w okolicy mogą pojawiać się niebezpieczne zwierzęta, stosuje się mocniejszą siatkę oraz zabezpieczenia przed podkopaniem.",
+        "style": "plain",
+        "image": "dom_samovygul_volier"
+      }
+    ]
+  },
+  {
+    "id": "cvety",
+    "title": "Rośliny",
+    "intro": "Koty uwielbiają badać rośliny, ale niektóre z nich są toksyczne i stanowią zagrożenie dla życia. Ten poradnik pomoże wybrać bezpieczne rośliny i ochronić pupila.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "Lista niebezpiecznych roślin",
+        "body": "Lilie i liliowce — szczególnie niebezpieczne, mogą powodować ciężkie uszkodzenie nerek.\nDieffenbachia — podrażnienie i obrzęk jamy ustnej oraz gardła.\nFilodendron — podrażnienie błon śluzowych, ślinienie, trudności z połykaniem.\nMonstera — zawiera nierozpuszczalne szczawiany wapnia, powoduje pieczenie i obrzęk w jamie ustnej.\nKaladium — podrażnienie jamy ustnej, obrzęk języka i warg.\nSkrzydłokwiat (spatyfyllum) — podrażnienie błon śluzowych i ślinienie.\nSansewieria (wężownica) — może powodować wymioty i biegunkę.\nBluszcz — możliwe wymioty, biegunka i bóle brzucha.\nSagowiec (cykas) — wyjątkowo toksyczny, może powodować ciężkie uszkodzenie wątroby.\nAzalia i różanecznik — wymioty, osłabienie, zaburzenia rytmu serca.\nOleander — bardzo toksyczny, może wywołać poważne zaburzenia pracy serca.\nTulipany — szczególnie niebezpieczne są cebulki, powodują wymioty i podrażnienie przewodu pokarmowego.\nŻonkile (narcyzy) — cebulki są toksyczne, wywołują wymioty, biegunkę, objawy neurologiczne.\nHiacynty — cebulki powodują podrażnienie przewodu pokarmowego.\nChryzantemy — ślinienie, wymioty, biegunka, zaburzenia koordynacji.\nKalanchoe — toksyczne dla pracy serca.\nAloes — wymioty, biegunka i osłabienie.",
+        "style": "warning",
+        "image": null
+      },
+      {
+        "heading": "Profilaktyka",
+        "body": "Profilaktyka to podstawa bezpieczeństwa. Jeśli nie masz pewności, czy roślina jest bezpieczna dla kota, lepiej umieścić ją tam, gdzie pupil nie będzie miał do niej dostępu. W razie wątpliwości wybierz inną roślinę.",
+        "style": "tip",
+        "image": null
+      },
+      {
+        "heading": "Co robić w razie zatrucia?",
+        "body": "1. Zachowaj spokój i odizoluj kota — jeśli to możliwe, usuń resztki rośliny z pyszczka i nie pozwól zwierzęciu jeść niczego więcej.\n2. Zrób zdjęcie rośliny — lekarzowi ważne jest, by dokładnie wiedzieć, jaką toksyną zatruł się pupil, aby dobrać odpowiednie antidotum.\n3. Natychmiast jedź do kliniki — nie próbuj wywoływać wymiotów samodzielnie bez wskazania lekarza. Liczy się każda minuta.",
+        "style": "plain",
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "aktivnost",
+    "title": "Aktywność",
+    "intro": "Ruch to podstawa zdrowia i długowieczności twojego kota. Stwórz przestrzeń sprzyjającą aktywnemu życiu.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "Codzienny wysiłek",
+        "body": "Regularna zabawa (15–30 minut dziennie) pomaga zapobiegać otyłości i utrzymuje mięśnie w dobrej kondycji. Używaj wędek-dokuczajek i wskaźników laserowych, aby naśladować polowanie.\n\nCo daje: zmniejsza stres; ogranicza nocną aktywność; zapobiega destrukcyjnemu zachowaniu; pomaga kontrolować wagę; zaspokaja instynkt łowiecki.",
+        "style": "plain",
+        "image": "dom_aktivnost_ezhednevnye"
+      },
+      {
+        "heading": "Trasy pionowe",
+        "body": "Korzystanie z drapaków-domków i półek ściennych pozwala kotu realizować instynkt wspinania się i czuć się bezpiecznie na wysokości.\n\nCo się na to składa: drapaki o wysokości od 80 cm; półki ścienne; drapaki-domki (kocie drzewka); hamaki okienne; mostki.",
+        "style": "plain",
+        "image": "dom_aktivnost_vertikalnye"
+      },
+      {
+        "heading": "Jak poznać, że kot potrzebuje więcej zabawy",
+        "body": "Jeśli kot się nudzi, może:\n• budzić cię w nocy;\n• drapać meble;\n• głośno miauczeć;\n• przejadać się;\n• wylizywać się do wyłysień;\n• atakować twoje nogi.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Przebieg zabawy",
+        "body": "Ogólny schemat: polowanie → złapanie → jedzenie → odpoczynek. Czyli: pobawiliście się, dajesz małą przekąskę lub porcję karmy, a kot odpoczywa. Taki cykl jest najbardziej zbliżony do naturalnego zachowania.\n\n1. Szukanie zdobyczy — poruszaj zabawką powoli, chowaj ją za meblami, daj kotu możliwość obserwowania i „tropienia”.\n2. Pościg — zmieniaj tempo i kierunek, naśladuj zachowanie ptaka lub myszy, pozwól kotu się skradać.\n3. Złapanie — nie zabieraj zabawki cały czas, pozwól kotu kilka razy skutecznie złapać „zdobycz”, przytrzymać ją łapkami i pogryźć.\n\nJak poznać, że kotu wystarczy zabawy: kot spokojnie odpoczywa po zabawie; nie domaga się ciągłej uwagi; utrzymuje prawidłową wagę; mniej niszczy meble; wykazuje zainteresowanie zabawkami.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Koło do biegania",
+        "body": "Pomaga kotu domowemu rozładować energię, zwłaszcza gdy mieszka w mieszkaniu bez swobodnego dostępu na zewnątrz. Dobre uzupełnienie zabawy, ale nie zastępuje kontaktu z opiekunem.\n\nKorzyści: zmniejsza ryzyko otyłości; utrzymuje mięśnie i stawy w dobrej kondycji; ogranicza nudę i stres; przydatne dla aktywnych ras (bengalskiej, abisyńskiej, orientalnej, savannah).\n\nWarto wiedzieć: nie każdy kot zaczyna korzystać z koła od razu — niektórym potrzeba kilku tygodni, by się przyzwyczaić; nigdy nie zmuszaj kota do biegania na siłę; zachęcaj go przysmakami; koło powinno obracać się płynnie i niemal bezgłośnie.",
+        "style": "plain",
+        "image": "dom_aktivnost_koleso"
+      },
+      {
+        "heading": "Stymulacja intelektualna",
+        "body": "Zagadki żywieniowe i zabawki interaktywne zmuszają kota do „zdobywania” jedzenia, co naśladuje naturalne zachowanie i zapobiega nudzie.\n\nPrzykłady: pojemniki z przesuwanymi klapkami; kulki-dozowniki karmy; labirynty na przysmaki; pudełka z otworami; maty węchowe.",
+        "style": "plain",
+        "image": "dom_aktivnost_intellekt"
+      },
+      {
+        "heading": "Wskazówki",
+        "body": "„Zmieniaj zestaw zabawek co tydzień. Nowość to najlepszy bodziec dla kociej ciekawości.”\nLepiej zrobić dwie krótkie sesje zabawy po 10–15 minut niż jedną długą — dzięki temu kot nie zdąży się zmęczyć i zachowuje zainteresowanie.",
+        "style": "tip",
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "rabochee_mesto",
+    "title": "Twoje miejsce pracy",
+    "intro": "Zorganizowanie domowego biura przyjaznego kotu wymaga równowagi między twoim komfortem a bezpieczeństwem pupila.",
+    "heroImage": "dom_rabota_hero",
+    "sections": [
+      {
+        "heading": "01. Podział przestrzeni",
+        "body": "Koty lubią być w centrum wydarzeń. Zamiast przeganiać je z biurka, wydziel im własną strefę: miejsce przy oknie (idealne do obserwowania ptaków) lub druga półka regału obok biurka, gdzie kot może odpoczywać.\n\nDobrym rozwiązaniem jest półka na wysięgnikach, montowana do blatu biurka, którą można obracać w różne strony — kot będzie blisko, ale nie będzie przeszkadzał w pracy.",
+        "style": "plain",
+        "image": "dom_rabota_razdelenie"
+      },
+      {
+        "heading": "02. Porządkowanie przewodów",
+        "body": "Osłony ochronne — schowaj listwy zasilające w specjalnych pojemnikach, aby uniemożliwić dostęp do gniazdek.\nRurki karbowane (peszle) — używaj sztywnych osłon na przewody, które kot lubi gryźć (ładowarki, kable monitora).",
+        "style": "plain",
+        "image": "dom_rabota_provoda"
+      },
+      {
+        "heading": "03. Ochrona klawiatury",
+        "body": "Słynny „spacer po klawiszach” może doprowadzić do przypadkowego usunięcia plików lub wysłania dziwnej wiadomości do współpracowników.\n\nUżywaj przezroczystych akrylowych mostków-podstawek nad klawiaturą albo „fałszywej klawiatury” — stara klawiatura obok może odwrócić uwagę kota.",
+        "style": "plain",
+        "image": "dom_rabota_klaviatura"
+      },
+      {
+        "heading": "04. Ergonomia i wysokość",
+        "body": "Dobieraj meble, biorąc pod uwagę zarówno skoczność swojego pupila, jak i własne zdrowie.\n\nBiurko z regulacją wysokości (zalecane): pozwala szybko podnieść powierzchnię roboczą, jeśli kot stanie się zbyt natarczywy. Ważne: pamiętaj, że przy zmianie wysokości biurka ruchome mechanizmy i szczeliny między panelami mogą przytrzasnąć kota.\n\nStabilność fotela (ważne): pięcioramienna podstawa z blokadą kółek zapobiegnie przewróceniu się fotela przy nagłym skoku kota na oparcie lub gdy kot zaśnie pod kółkami fotela.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Uwaga: niezalecane",
+        "body": "• Zostawianie kubka z kawą obok laptopa;\n• używanie świec zapachowych w pobliżu kota;\n• trzymanie leków na biurku;\n• zostawianie otwartych nożyczek;\n• przechowywanie nici i gumek do włosów w miejscu pracy.",
+        "style": "warning",
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "opasnosti",
+    "title": "Zagrożenia w domu",
+    "intro": "Twój dom to twierdza, ale dla ciekawskiego kota kryje mnóstwo ukrytych pułapek. Dowiedz się, jak zapobiec tragedii.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "Uchylone okno (mikrowentylacja)",
+        "body": "Uchylone okno to śmiertelna pułapka. Koty próbują się przez nie wydostać, ześlizgują się w wąską szczelinę i utykają w niej, co prowadzi do uduszenia, martwicy tkanek lub urazów kręgosłupa.\n\nRozwiązanie: boczne kraty ochronne lub systemy „Antykot” (nie zwykłe siatki przeciw owadom).",
+        "style": "warning",
+        "image": "dom_opasnosti_provetrivanie"
+      },
+      {
+        "heading": "Drobne przedmioty",
+        "body": "Gumki do włosów, igły i nici mogą być przez kota postrzegane jako nowa zabawka. Instynkt łowiecki w takich przypadkach może doprowadzić do urazów łapek lub narządów wewnętrznych. Połknięta nić może „zebrać” jelita w harmonijkę.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Strefa ryzyka: kuchnia",
+        "body": "Gorące kuchenki, otwarte zmywarki i bębny pralek — koty szukają tam ciepła lub schronienia. Ważne, żeby kuchenka nie włączała się od tego, że wskoczy na nią kot. Najlepiej mieć mechaniczne pokrętła lub blokadę panelu dotykowego.",
+        "style": "plain",
+        "image": "dom_opasnosti_kuhnya"
+      },
+      {
+        "heading": "Substancje toksyczne",
+        "body": "Wiele codziennych przedmiotów w domu jest bezpiecznych dla ludzi, ale może być niebezpiecznych lub wręcz śmiertelnie toksycznych dla kotów, nawet w niewielkiej ilości.\n\nChemia domowa: środki do mycia podłóg, wybielacze, środki do czyszczenia sanitariatów, środki do czyszczenia piekarnika, kapsułki do prania.\nOlejki eteryczne: drzewo herbaciane, eukaliptus, mięta, cytrusy, cynamon, goździki.\nLeki: paracetamol, ibuprofen, leki przeciwdepresyjne, witaminy z żelazem, leki na przeziębienie. Nigdy nie podawaj kotu ludzkich leków bez zalecenia weterynarza.",
+        "style": "warning",
+        "image": "dom_opasnosti_toksiny"
+      },
+      {
+        "heading": "Strefa ryzyka: legowiska",
+        "body": "Niebezpieczne materiały: wybieraj legowiska z bezpiecznych tkanin i wypełnień, unikaj materiałów o silnym chemicznym zapachu, sprawdzaj, czy tkanina nie farbuje i nie zostawia włosia.\n\nRyzyko połknięcia elementów: nie wybieraj legowisk z przyszytymi koralikami, guzikami lub ozdobnymi sznurkami; regularnie sprawdzaj zabawki i legowiska pod kątem uszkodzeń.\n\nStabilność konstrukcji: solidnie mocuj półki ścienne, przy pierwszych oznakach uszkodzenia wymień produkt.\n\nRyzyko przegrzania: nie ustawiaj legowisk obok grzejników i kaloryferów.\n\nCzystość i alergeny: regularnie pierz zdejmowane pokrowce, wybieraj materiały, które łatwo się czyści.",
+        "style": "plain",
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "vybor_korma",
+    "title": "Dieta twojego pupila",
+    "intro": "Zwięzły przewodnik po prawidłowym żywieniu.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "Krótkie zasady dobrej karmy",
+        "body": "Plusy: mięso jako pierwszy składnik; obecność tauryny; witaminy i minerały.\n\nMinusy: cukier i słodziki; barwniki; podroby (bez konkretnej nazwy).",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Karma sucha czy mokra",
+        "body": "Karma sucha — wygodna do przechowywania i dozowania, można zostawić w misce na dłużej, bardziej ekonomiczna, dobrze sprawdza się w automatycznych karmnikach. Wady: mało wilgoci (około 8–10%), wymaga stałego dostępu do wody.\n\nKarma mokra — zawiera 70–85% wody, pomaga utrzymać bilans wodny, bardziej atrakcyjna dla kotów, które mało piją. Wady: droższa, szybko się psuje po otwarciu, nie można zostawiać jej w misce na długo.\n\nDieta łączona: na przykład rano — karma mokra, w ciągu dnia — niewielka porcja suchej, wieczorem — karma mokra.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Wybór karmy na podstawie składu",
+        "body": "Zwracaj uwagę na pełnowartościowość karmy i wiarygodność informacji. Etykieta powinna wskazywać, że karma jest pełnoporcjowa i zbilansowana, odpowiednia dla konkretnego wieku i stanu zwierzęcia.\n\nSprawdź analizę gwarantowaną (minimalny % białka surowego i tłuszczu, maksymalny % błonnika i wilgoci). Standardy AAFCO zalecają co najmniej 26% białka surowego w suchej karmie dla dorosłych kotów i 30% dla kociąt.\n\nBiałko: koty są obligatoryjnymi mięsożercami, dlatego podstawą karmy powinno być mięso lub ryba. Na pierwszych miejscach w składzie powinny znajdować się konkretne składniki („kurczak”, „indyk”, „łosoś”), a nie ogólnikowe sformułowania typu „mięso i podroby”. Obecność tauryny jest obowiązkowa.\n\nTłuszcze: preferowane są źródła zwierzęce (tłuszcz drobiowy, olej rybny, olej z łososia) — źródło omega-3 i omega-6.\n\nWęglowodany i błonnik: koty nie potrzebują dużo węglowodanów, kukurydza/pszenica/ryż nie są najlepszym wyborem jako podstawa karmy. Błonnik jest korzystny w umiarkowanej ilości (około 3–6%).\n\nDodatki: lepiej wybierać naturalne konserwanty (witamina E, witamina C, ekstrakt z rozmarynu), unikać BHA, BHT, etoksychiny.\n\nRyzyka związane ze złą jakością karmy: alergie, problemy trawienne, otyłość, niedobory składników odżywczych.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Słowa marketingowe: nie daj się zwieść",
+        "body": "Oznaczenia takie jak „Premium”, „Super-premium”, „Holistic”, „GMO-free”, „Naturalny” są używane często i niewiele znaczą — kieruj się rzeczywistym składem i analizą gwarantowaną, a nie marketingowymi etykietkami.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Checklista przy wyborze karmy",
+        "body": "• Karma pełnoporcjowa, na opakowaniu widnieje oznaczenie Complete/Pełnowartościowa, przeznaczona dla odpowiedniej kategorii zwierząt (kocięta/dorosłe/sterylizowane-kastrowane/starsze);\n• Pierwsze składniki to białko: konkretna nazwa („kurczak”, „łosoś”, „indyk”), a nie ogólne sformułowania typu „mięso”;\n• Tłuszcze podane konkretnie (tłuszcz drobiowy, olej rybny), bez ogólnikowych określeń;\n• Dodatki bez BHA, BHT, etoksychiny, sztucznych barwników i wzmacniaczy smaku;\n• Obecne witaminy i minerały, analiza gwarantowana zgodna ze standardami AAFCO;\n• Sprawdzone opakowanie: data ważności i szczelność opakowania przed zakupem.",
+        "style": "tip",
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "son_i_otdyh",
+    "title": "Sen i odpoczynek: jak stworzyć idealne miejsce",
+    "intro": "Właściwa organizacja przestrzeni ma bezpośredni wpływ na fizyczne i psychiczne zdrowie twojego pupila.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "Ogólna zasada: ciche kryjówki",
+        "body": "Każdy kot powinien mieć miejsce, w którym nikt mu nie przeszkodzi: pudełka, tunele lub kokony z polaru.",
+        "style": "plain",
+        "image": "dom_son_ubezhische"
+      },
+      {
+        "heading": "Różnorodność powierzchni",
+        "body": "Koty cenią sobie wybór — od miękkich pluszowych legowisk po zwykłe kartonowe pudełka, każde miejsce pełni inną funkcję o różnych porach dnia. Obserwuj, co podoba się akurat twojemu kotu.\n\nOpcje: miękkie legowiska, pudełka, półki.",
+        "style": "plain",
+        "image": "dom_son_poverhnosti"
+      },
+      {
+        "heading": "Przestrzeń pionowa",
+        "body": "Wysokie punkty obserwacyjne pozwalają kotom kontrolować terytorium, co obniża poziom stresu i lęku. Ważne, aby do takiego miejsca prowadziło kilka dróg dojścia i ucieczki.\n\nMinimalistyczne półki ścienne; wielopoziomowe kompleksy zabawowe.",
+        "style": "plain",
+        "image": "dom_son_vertikal"
+      },
+      {
+        "heading": "Harmonia w grupie",
+        "body": "W domu z kilkoma pupilami wzór na idealny odpoczynek jest prosty: N + 1. Liczba legowisk powinna być o jeden większa niż liczba kotów, aby uniknąć rywalizacji o zasoby. A najlepiej jeszcze więcej i w różnych miejscach.",
+        "style": "plain",
+        "image": "dom_son_garmoniya"
+      },
+      {
+        "heading": "Rodzaje legowisk",
+        "body": "Zamknięte domki-kapsuły — idealne dla kotów, które podczas odpoczynku wolą się schować.\nZ wysokimi brzegami — miękkie koszyki z wysokimi krawędziami, idealne dla kotów, które lubią spać zwinięte w kłębek.\nHamaki — konstrukcje wiszące, mocowane do kaloryferów, nóg krzeseł lub okien; ulubione miejsce aktywnych pupili, które wolą odpoczywać na wysokości.\nMaterace i maty — mobilne, płaskie posłania, odpowiednie dla dużych kotów lub tych, które lubią spać wyciągnięte na całej długości.\nLegowiska — kwadratowe lub prostokątne miękkie posłania na co dzień.",
+        "style": "plain",
+        "image": "dom_son_lezhanki"
+      }
+    ]
+  }
+]

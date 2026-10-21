@@ -1,0 +1,384 @@
+[
+  {
+    "icon": "LocalHospital",
+    "title": "Visita a la clínica veterinaria",
+    "intro": null,
+    "warning": null,
+    "sections": [
+      {
+        "heading": null,
+        "items": [
+          { "label": "Cartilla veterinaria", "note": null },
+          { "label": "Transportín", "note": null },
+          { "label": "Empapador absorbente", "note": null },
+          { "label": "Su golosina favorita", "note": null },
+          { "label": "Medicamentos (si toma alguno)", "note": null },
+          { "label": "Últimos análisis", "note": null },
+          { "label": "Vídeo de los síntomas (si tienes)", "note": null },
+          { "label": "Lista de preguntas para el veterinario", "note": null },
+          { "label": "Anotaciones sobre el comportamiento del gato en los últimos días", "note": null }
+        ]
+      }
+    ],
+    "footerNote": null
+  },
+  {
+    "icon": "Pets",
+    "title": "La llegada de tu primer gatito",
+    "intro": null,
+    "warning": null,
+    "sections": [
+      { "heading": "Antes de que llegue el gatito", "items": [] },
+      {
+        "heading": "Seguridad en casa",
+        "items": [
+          { "label": "Instalar redes «antigatos» en las ventanas.", "note": null },
+          { "label": "Proteger el modo de ventana «ventilación vertical».", "note": null },
+          { "label": "Alejar los cables eléctricos de su alcance.", "note": null },
+          { "label": "Guardar bajo llave los productos de limpieza y los medicamentos.", "note": null },
+          { "label": "Retirar las plantas de interior tóxicas.", "note": null },
+          { "label": "Revisar los huecos estrechos detrás de los muebles y los electrodomésticos.", "note": null },
+          { "label": "Fijar los muebles altos y las estanterías.", "note": null },
+          { "label": "Guardar los objetos pequeños, hilos, gomas y bolsas.", "note": null },
+          { "label": "Proteger los lugares altos desde donde el gatito pueda caerse.", "note": null }
+        ]
+      },
+      { "heading": "Compras necesarias", "items": [] },
+      {
+        "heading": "Arenero",
+        "items": [
+          { "label": "Bandeja.", "note": null },
+          { "label": "Arena.", "note": null },
+          { "label": "Pala de limpieza.", "note": null },
+          { "label": "Alfombrilla para delante de la bandeja.", "note": null }
+        ]
+      },
+      {
+        "heading": "Alimentación (1 o más unidades)",
+        "items": [
+          { "label": "Comedero.", "note": null },
+          { "label": "Bebedero o fuente de agua.", "note": null },
+          { "label": "El pienso que comía el gatito anteriormente.", "note": null },
+          { "label": "Golosinas.", "note": null }
+        ]
+      },
+      {
+        "heading": "Sueño y descanso",
+        "items": [
+          { "label": "Cama.", "note": null },
+          { "label": "Manta.", "note": null },
+          { "label": "Refugio o casita.", "note": null }
+        ]
+      },
+      {
+        "heading": "Juegos",
+        "items": [
+          { "label": "Rascador.", "note": null },
+          { "label": "Caña de juguete.", "note": null },
+          { "label": "Pelotas.", "note": null },
+          { "label": "Juguetes interactivos.", "note": null }
+        ]
+      },
+      {
+        "heading": "Para el transporte",
+        "items": [
+          { "label": "Transportín.", "note": null },
+          { "label": "Empapador.", "note": null },
+          { "label": "Placa identificativa (si es necesario).", "note": null }
+        ]
+      },
+      {
+        "heading": "El primer día en casa",
+        "items": [
+          { "label": "Abrir el transportín y dejar que el gatito salga por su cuenta.", "note": null },
+          { "label": "Mostrarle dónde está la bandeja.", "note": null },
+          { "label": "Mostrarle los comederos de agua y comida.", "note": null },
+          { "label": "No mostrarle todo el piso de golpe: empezar por una habitación e ir dando acceso según el gatito muestre interés.", "note": null },
+          { "label": "No cogerlo en brazos sin necesidad.", "note": null },
+          { "label": "Dejarle explorar el espacio con calma.", "note": null },
+          { "label": "No invitar a visitas el primer día.", "note": null }
+        ]
+      },
+      {
+        "heading": "Los primeros 7 días",
+        "items": [
+          { "label": "Darle el pienso al que está acostumbrado.", "note": null },
+          { "label": "No cambiar la arena.", "note": null },
+          { "label": "Respetar el horario de alimentación.", "note": null },
+          { "label": "Jugar a diario, en sesiones de 10 a 20 minutos.", "note": null },
+          { "label": "Vigilar el apetito.", "note": null },
+          { "label": "Vigilar que beba agua.", "note": null },
+          { "label": "Vigilar las deposiciones y la orina.", "note": null },
+          { "label": "Ir presentándole el resto de las habitaciones poco a poco.", "note": null }
+        ]
+      },
+      {
+        "heading": "Veterinario",
+        "items": [
+          { "label": "Pedir cita para la primera revisión.", "note": null },
+          { "label": "Comprobar si tiene microchip.", "note": null },
+          { "label": "Revisar el calendario de vacunación.", "note": null },
+          { "label": "Consultar sobre la desparasitación.", "note": null },
+          { "label": "Preguntar por la dieta recomendada.", "note": null }
+        ]
+      },
+      {
+        "heading": "Si en casa hay otros animales",
+        "items": [
+          { "label": "Preparar una habitación aparte.", "note": null },
+          { "label": "Comederos separados.", "note": null },
+          { "label": "Bandeja separada.", "note": null },
+          { "label": "No presentar a los animales de inmediato.", "note": null },
+          { "label": "Hacer intercambios regulares de olores entre los animales, dándoles objetos con su olor.", "note": null },
+          { "label": "Organizar los primeros encuentros poco a poco.", "note": null }
+        ]
+      },
+      {
+        "heading": "Después de la adaptación",
+        "items": [
+          { "label": "Elegir el pienso adecuado.", "note": null },
+          { "label": "Establecer un horario de alimentación.", "note": null },
+          { "label": "Organizar espacio vertical.", "note": null },
+          { "label": "Comprar rascadores adicionales.", "note": null },
+          { "label": "Planificar la esterilización o castración (según la edad y las recomendaciones del veterinario).", "note": null },
+          { "label": "Crear un pasaporte digital de la mascota.", "note": null }
+        ]
+      }
+    ],
+    "footerNote": null
+  },
+  {
+    "icon": "Groups",
+    "title": "Presentación de dos gatos",
+    "intro": null,
+    "warning": null,
+    "sections": [
+      {
+        "heading": "Antes del encuentro",
+        "items": [
+          { "label": "Habitación separada", "note": null },
+          { "label": "Un segundo o tercer arenero", "note": null },
+          { "label": "Comederos separados", "note": null },
+          { "label": "Cama separada", "note": null },
+          { "label": "Juguetes", "note": null },
+          { "label": "Feromonas (si es necesario)", "note": null }
+        ]
+      },
+      {
+        "heading": "Los primeros días",
+        "items": [
+          { "label": "Intercambio de olores", "note": null },
+          { "label": "Alimentación a través de la puerta", "note": null },
+          { "label": "Encuentros breves", "note": null },
+          { "label": "No forzar el contacto", "note": null }
+        ]
+      }
+    ],
+    "footerNote": "Recuerda la regla para los recursos: «Número de gatos + 1»."
+  },
+  {
+    "icon": "LocalShipping",
+    "title": "Mudanza a un piso nuevo",
+    "intro": null,
+    "warning": null,
+    "sections": [
+      {
+        "heading": "Una semana antes",
+        "items": [
+          { "label": "Actualizar la dirección en la chapa o el collar", "note": null },
+          { "label": "Preparar el transportín", "note": null },
+          { "label": "Aprovisionarse de pienso y golosinas", "note": null }
+        ]
+      },
+      {
+        "heading": "El día de la mudanza",
+        "items": [
+          { "label": "Encerrar al gato en una habitación aparte", "note": null },
+          { "label": "No dejarlo salir hasta que termine la mudanza", "note": null },
+          { "label": "Colocar primero el arenero y los comederos", "note": null }
+        ]
+      }
+    ],
+    "footerNote": null
+  },
+  {
+    "icon": "Flight",
+    "title": "Viajes",
+    "intro": null,
+    "warning": null,
+    "sections": [
+      {
+        "heading": "Documentos",
+        "items": [
+          { "label": "Pasaporte", "note": null },
+          { "label": "Microchip", "note": null },
+          { "label": "Vacunas", "note": null },
+          { "label": "Certificados", "note": "Ten en cuenta el tiempo para posibles controles en el propio aeropuerto por parte de un especialista." }
+        ]
+      },
+      {
+        "heading": "Objetos",
+        "items": [
+          { "label": "Transportín", "note": null },
+          { "label": "Agua", "note": null },
+          { "label": "Pienso y snacks", "note": null },
+          { "label": "Empapadores", "note": null },
+          { "label": "Un juguete con su olor habitual", "note": null },
+          { "label": "Preparar los medicamentos", "note": "Según las necesidades de tu gato." },
+          { "label": "Comprar feromonas calmantes o un collar relajante.", "note": null }
+        ]
+      }
+    ],
+    "footerNote": null
+  },
+  {
+    "icon": "Healing",
+    "title": "Después de la cirugía",
+    "intro": null,
+    "warning": null,
+    "sections": [
+      {
+        "heading": null,
+        "items": [
+          { "label": "Comprobar que lleve el body o el collar isabelino", "note": null },
+          { "label": "Administrar los medicamentos", "note": null },
+          { "label": "Revisar la herida", "note": "Consulta con el veterinario si es necesario." },
+          { "label": "Limitar los saltos", "note": null },
+          { "label": "Vigilar el apetito", "note": null },
+          { "label": "Vigilar el uso del arenero", "note": null }
+        ]
+      }
+    ],
+    "footerNote": null
+  },
+  {
+    "icon": "Vaccines",
+    "title": "Vacunación",
+    "intro": null,
+    "warning": null,
+    "sections": [
+      {
+        "heading": "Antes",
+        "items": [
+          { "label": "El gato debe estar sano", "note": null },
+          { "label": "Cartilla veterinaria", "note": null },
+          { "label": "Cita programada", "note": null }
+        ]
+      },
+      {
+        "heading": "Después",
+        "items": [
+          { "label": "Control de la temperatura", "note": null },
+          { "label": "Observación del estado durante 48 horas", "note": null },
+          { "label": "Limitar los juegos activos", "note": null }
+        ]
+      }
+    ],
+    "footerNote": null
+  },
+  {
+    "icon": "ExitToApp",
+    "title": "Ausencia del dueño",
+    "intro": null,
+    "warning": null,
+    "sections": [
+      {
+        "heading": "Si el animal se queda en casa",
+        "items": [
+          { "label": "Pienso", "note": null },
+          { "label": "Agua", "note": null },
+          { "label": "Arenero", "note": null },
+          { "label": "Juguetes", "note": null },
+          { "label": "Contacto de la persona que vendrá a cuidarlo", "note": null },
+          { "label": "Cartilla del gato y contactos de clínicas veterinarias a las que acudir en caso de emergencia", "note": null }
+        ]
+      }
+    ],
+    "footerNote": null
+  },
+  {
+    "icon": "MedicalServices",
+    "title": "Botiquín de emergencia",
+    "intro": "El botiquín de emergencia es un conjunto de artículos que pueden ser necesarios en caso de lesiones, quemaduras, hemorragias u otras situaciones urgentes. No sustituye la atención veterinaria, pero permite dar primeros auxilios rápidamente antes de ir a la clínica.",
+    "warning": "Importante: no uses medicamentos humanos sin indicación del veterinario. Muchos productos seguros para las personas son tóxicos para los gatos.",
+    "sections": [
+      {
+        "heading": "Documentos",
+        "items": [
+          { "label": "Cartilla veterinaria", "note": null },
+          { "label": "Contacto del veterinario habitual", "note": null },
+          { "label": "Dirección de la clínica veterinaria de urgencias más cercana", "note": null },
+          { "label": "Historial de enfermedades y medicamentos que toma", "note": null }
+        ]
+      },
+      {
+        "heading": "Material de vendaje",
+        "items": [
+          { "label": "Gasas estériles", "note": null },
+          { "label": "Vendas estériles de distintos tamaños", "note": null },
+          { "label": "Venda autoadhesiva", "note": null },
+          { "label": "Esparadrapo", "note": null },
+          { "label": "Discos de algodón", "note": null },
+          { "label": "Bastoncillos de algodón (no para tratar heridas profundas)", "note": null }
+        ]
+      },
+      {
+        "heading": "Soluciones",
+        "items": [
+          { "label": "Suero fisiológico (0,9% NaCl)", "note": "Se usa para: lavar los ojos, limpiar heridas pequeñas y eliminar suciedad." },
+          { "label": "Clorhexidina al 0,05%", "note": "Adecuada para tratar pequeñas heridas superficiales de la piel. No usar soluciones concentradas." }
+        ]
+      },
+      {
+        "heading": "Instrumentos",
+        "items": [
+          { "label": "Termómetro digital", "note": null },
+          { "label": "Pinzas", "note": null },
+          { "label": "Tijeras de punta redondeada", "note": null },
+          { "label": "Guantes desechables", "note": null },
+          { "label": "Jeringas sin aguja (2-20 ml)", "note": "Pueden ser útiles para dar agua o limpiar heridas según indicación del veterinario." },
+          { "label": "Linterna pequeña", "note": "Útil para revisar la boca o buscar garrapatas." }
+        ]
+      },
+      {
+        "heading": "Adicional",
+        "items": [
+          { "label": "Bolsa de frío", "note": "Se usa para golpes, inflamaciones y picaduras de insectos. Aplicar siempre envuelta en un paño." }
+        ]
+      },
+      {
+        "heading": "Para el transporte",
+        "items": [
+          { "label": "Transportín", "note": null },
+          { "label": "Empapador absorbente de repuesto", "note": null },
+          { "label": "Manta o toalla", "note": null },
+          { "label": "No hace falta bozal", "note": "Una toalla grande ayuda a sujetar con seguridad a un gato asustado." }
+        ]
+      }
+    ],
+    "footerNote": null
+  },
+  {
+    "icon": "HelpOutline",
+    "title": "Un animal del refugio o del criador — preguntas importantes",
+    "intro": "Cuando llega un nuevo inquilino a casa, es motivo de celebración. Pero además de tener el espacio organizado, es importante conocer información clave sobre el nuevo animal.",
+    "warning": null,
+    "sections": [
+      {
+        "heading": null,
+        "items": [
+          { "label": "El pienso habitual y el horario de alimentación. Un cambio brusco provoca diarrea y problemas digestivos.", "note": null },
+          { "label": "Las vacunas que ya tiene puestas. Pedir la cartilla veterinaria.", "note": null },
+          { "label": "La fecha del último tratamiento antipulgas y desparasitante.", "note": null },
+          { "label": "El lugar habitual de descanso, sueño y arenero.", "note": null },
+          { "label": "Cómo se relaciona con otras personas.", "note": null },
+          { "label": "Si ya conoce alguna orden.", "note": null },
+          { "label": "Si ha tenido problemas digestivos o de deposiciones.", "note": null },
+          { "label": "Con qué adultos y niños se ha relacionado mejor el animal.", "note": null },
+          { "label": "Si el animal o sus padres han tenido alguna enfermedad.", "note": null }
+        ]
+      }
+    ],
+    "footerNote": null
+  }
+]

@@ -1,0 +1,15 @@
+[
+  { "id": "bezopasnost", "title": "Segurança", "subtitle": "Proteção da casa", "icon": "Security" },
+  { "id": "opasnosti", "title": "Perigos em casa", "subtitle": "Ameaças ocultas", "icon": "Warning" },
+  { "id": "eda_i_voda", "title": "Comida e água", "subtitle": "Organização da zona de alimentação", "icon": "Restaurant" },
+  { "id": "vybor_korma", "title": "Escolha da ração", "subtitle": "A dieta do seu gato", "icon": "RestaurantMenu" },
+  { "id": "klimat", "title": "Controlo de clima", "subtitle": "Conforto no calor e no frio", "icon": "Thermostat" },
+  { "id": "igry", "title": "Brincadeiras", "subtitle": "Segurança e atividade", "icon": "SportsEsports" },
+  { "id": "tualet", "title": "Caixa de areia", "subtitle": "Bandeja e areia sanitária", "icon": "Wc" },
+  { "id": "uhod", "title": "Cuidados", "subtitle": "Pelagem, unhas, higiene", "icon": "CleaningServices" },
+  { "id": "samovygul", "title": "Passeios sem supervisão", "subtitle": "Riscos e alternativas", "icon": "DirectionsRun" },
+  { "id": "cvety", "title": "Plantas", "subtitle": "Quais plantas são perigosas", "icon": "LocalFlorist" },
+  { "id": "aktivnost", "title": "Atividade", "subtitle": "Exercício físico e mental", "icon": "FitnessCenter" },
+  { "id": "son_i_otdyh", "title": "Sono e descanso", "subtitle": "Criar o lugar perfeito", "icon": "Weekend" },
+  { "id": "rabochee_mesto", "title": "O seu espaço de trabalho", "subtitle": "Organização junto ao dono", "icon": "Work" }
+]

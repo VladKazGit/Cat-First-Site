@@ -1,0 +1,384 @@
+[
+  {
+    "icon": "LocalHospital",
+    "title": "Wizyta w klinice weterynaryjnej",
+    "intro": null,
+    "warning": null,
+    "sections": [
+      {
+        "heading": null,
+        "items": [
+          { "label": "Paszport weterynaryjny", "note": null },
+          { "label": "Transporter", "note": null },
+          { "label": "Podkład chłonny", "note": null },
+          { "label": "Ulubiony przysmak", "note": null },
+          { "label": "Leki (jeśli kot je przyjmuje)", "note": null },
+          { "label": "Wyniki ostatnich badań", "note": null },
+          { "label": "Nagranie wideo objawów (jeśli jest)", "note": null },
+          { "label": "Lista pytań do weterynarza", "note": null },
+          { "label": "Notatki dotyczące zachowania kota z ostatnich kilku dni", "note": null }
+        ]
+      }
+    ],
+    "footerNote": null
+  },
+  {
+    "icon": "Pets",
+    "title": "Pierwszy kociak w domu",
+    "intro": null,
+    "warning": null,
+    "sections": [
+      { "heading": "Przed przyjazdem kociaka", "items": [] },
+      {
+        "heading": "Bezpieczeństwo w domu",
+        "items": [
+          { "label": "Zamontuj na oknach siatki „Antykot”.", "note": null },
+          { "label": "Zabezpiecz okna otwierane w trybie uchylnym (mikrowentylacji).", "note": null },
+          { "label": "Schowaj przewody elektryczne poza zasięgiem kota.", "note": null },
+          { "label": "Zamknij chemię domową i leki w niedostępnym miejscu.", "note": null },
+          { "label": "Usuń trujące rośliny domowe.", "note": null },
+          { "label": "Sprawdź wąskie szczeliny za meblami i sprzętem domowym.", "note": null },
+          { "label": "Przymocuj wysokie meble i półki.", "note": null },
+          { "label": "Usuń drobne przedmioty, nitki, gumki i torebki foliowe.", "note": null },
+          { "label": "Zabezpiecz wysokie miejsca, z których kociak mógłby spaść.", "note": null }
+        ]
+      },
+      { "heading": "Niezbędne zakupy", "items": [] },
+      {
+        "heading": "Kuweta",
+        "items": [
+          { "label": "Kuweta.", "note": null },
+          { "label": "Żwirek.", "note": null },
+          { "label": "Szufelka do sprzątania.", "note": null },
+          { "label": "Mata pod kuwetę.", "note": null }
+        ]
+      },
+      {
+        "heading": "Żywienie (1 lub więcej sztuk każdego)",
+        "items": [
+          { "label": "Miska na jedzenie.", "note": null },
+          { "label": "Miska lub fontanna na wodę.", "note": null },
+          { "label": "Karma, którą kociak jadł wcześniej.", "note": null },
+          { "label": "Przysmaki.", "note": null }
+        ]
+      },
+      {
+        "heading": "Sen i odpoczynek",
+        "items": [
+          { "label": "Legowisko.", "note": null },
+          { "label": "Kocyk.", "note": null },
+          { "label": "Kryjówka lub domek.", "note": null }
+        ]
+      },
+      {
+        "heading": "Zabawa",
+        "items": [
+          { "label": "Drapak.", "note": null },
+          { "label": "Wędka.", "note": null },
+          { "label": "Piłeczki.", "note": null },
+          { "label": "Zabawki interaktywne.", "note": null }
+        ]
+      },
+      {
+        "heading": "Do transportu",
+        "items": [
+          { "label": "Transporter.", "note": null },
+          { "label": "Podkład chłonny.", "note": null },
+          { "label": "Zawieszka adresowa (w razie potrzeby).", "note": null }
+        ]
+      },
+      {
+        "heading": "Pierwszy dzień w domu",
+        "items": [
+          { "label": "Otwórz transporter i pozwól kociakowi wyjść samodzielnie.", "note": null },
+          { "label": "Pokaż mu, gdzie jest kuweta.", "note": null },
+          { "label": "Pokaż mu miski z wodą i karmą.", "note": null },
+          { "label": "Nie pokazuj od razu całego mieszkania — zacznij od jednego pokoju i stopniowo otwieraj dostęp do kolejnych, gdy kociak zacznie wykazywać zainteresowanie.", "note": null },
+          { "label": "Nie bierz go na ręce bez potrzeby.", "note": null },
+          { "label": "Daj mu możliwość spokojnego zbadania otoczenia.", "note": null },
+          { "label": "Nie zapraszaj gości pierwszego dnia.", "note": null }
+        ]
+      },
+      {
+        "heading": "Pierwsze 7 dni",
+        "items": [
+          { "label": "Karm go przyzwyczajoną karmą.", "note": null },
+          { "label": "Nie zmieniaj żwirku.", "note": null },
+          { "label": "Przestrzegaj harmonogramu karmienia.", "note": null },
+          { "label": "Baw się z nim codziennie, po 10–20 minut na sesję.", "note": null },
+          { "label": "Obserwuj apetyt.", "note": null },
+          { "label": "Obserwuj ilość wypijanej wody.", "note": null },
+          { "label": "Obserwuj stolec i oddawanie moczu.", "note": null },
+          { "label": "Stopniowo pokazuj mu pozostałe pomieszczenia.", "note": null }
+        ]
+      },
+      {
+        "heading": "Weterynaria",
+        "items": [
+          { "label": "Umów pierwszą wizytę kontrolną.", "note": null },
+          { "label": "Sprawdź, czy kociak ma czipa.", "note": null },
+          { "label": "Sprawdź harmonogram szczepień.", "note": null },
+          { "label": "Omów odrobaczanie i ochronę przed pasożytami.", "note": null },
+          { "label": "Dowiedz się, jaka dieta jest zalecana.", "note": null }
+        ]
+      },
+      {
+        "heading": "Jeśli w domu są inne zwierzęta",
+        "items": [
+          { "label": "Przygotuj osobny pokój.", "note": null },
+          { "label": "Osobne miski.", "note": null },
+          { "label": "Osobna kuweta.", "note": null },
+          { "label": "Nie zapoznawaj zwierząt od razu.", "note": null },
+          { "label": "Regularnie wymieniaj zapachy między zwierzętami, dając im przedmioty nasączone zapachem drugiego zwierzęcia.", "note": null },
+          { "label": "Stopniowo organizuj pierwsze spotkania.", "note": null }
+        ]
+      },
+      {
+        "heading": "Po okresie adaptacji",
+        "items": [
+          { "label": "Dobierz odpowiednią karmę.", "note": null },
+          { "label": "Ustal stały harmonogram karmienia.", "note": null },
+          { "label": "Zorganizuj przestrzeń pionową.", "note": null },
+          { "label": "Kup dodatkowe drapaki.", "note": null },
+          { "label": "Zaplanuj sterylizację lub kastrację (zależnie od wieku i zaleceń weterynarza).", "note": null },
+          { "label": "Załóż cyfrowy paszport pupila.", "note": null }
+        ]
+      }
+    ],
+    "footerNote": null
+  },
+  {
+    "icon": "Groups",
+    "title": "Zapoznanie dwóch kotów",
+    "intro": null,
+    "warning": null,
+    "sections": [
+      {
+        "heading": "Przed spotkaniem",
+        "items": [
+          { "label": "Osobny pokój", "note": null },
+          { "label": "Druga/trzecia kuweta", "note": null },
+          { "label": "Osobne miski", "note": null },
+          { "label": "Osobne legowisko", "note": null },
+          { "label": "Zabawki", "note": null },
+          { "label": "Feromony (w razie potrzeby)", "note": null }
+        ]
+      },
+      {
+        "heading": "Pierwsze dni",
+        "items": [
+          { "label": "Wymiana zapachów", "note": null },
+          { "label": "Karmienie po obu stronach drzwi", "note": null },
+          { "label": "Krótkie spotkania", "note": null },
+          { "label": "Nie zmuszaj do kontaktu", "note": null }
+        ]
+      }
+    ],
+    "footerNote": "Pamiętaj o zasadzie dotyczącej zasobów: „liczba kotów + 1”."
+  },
+  {
+    "icon": "LocalShipping",
+    "title": "Przeprowadzka do nowego mieszkania",
+    "intro": null,
+    "warning": null,
+    "sections": [
+      {
+        "heading": "Tydzień wcześniej",
+        "items": [
+          { "label": "Zaktualizuj adres na obroży/zawieszce", "note": null },
+          { "label": "Przygotuj transporter", "note": null },
+          { "label": "Zrób zapas karmy i przysmaków", "note": null }
+        ]
+      },
+      {
+        "heading": "W dniu przeprowadzki",
+        "items": [
+          { "label": "Zamknij kota w osobnym pokoju", "note": null },
+          { "label": "Nie wypuszczaj go, dopóki przeprowadzka się nie zakończy", "note": null },
+          { "label": "Najpierw ustaw kuwetę i miski", "note": null }
+        ]
+      }
+    ],
+    "footerNote": null
+  },
+  {
+    "icon": "Flight",
+    "title": "Podróż",
+    "intro": null,
+    "warning": null,
+    "sections": [
+      {
+        "heading": "Dokumenty",
+        "items": [
+          { "label": "Paszport", "note": null },
+          { "label": "Czip", "note": null },
+          { "label": "Szczepienia", "note": null },
+          { "label": "Zaświadczenia", "note": "Uwzględnij czas na ewentualną dodatkową kontrolę przez specjalistę już na lotnisku." }
+        ]
+      },
+      {
+        "heading": "Rzeczy",
+        "items": [
+          { "label": "Transporter", "note": null },
+          { "label": "Woda", "note": null },
+          { "label": "Karma i przekąski", "note": null },
+          { "label": "Podkłady chłonne", "note": null },
+          { "label": "Zabawka ze znajomym zapachem", "note": null },
+          { "label": "Przygotuj leki", "note": "W zależności od potrzeb Twojego kota." },
+          { "label": "Kup uspokajające feromony lub obrożę feromonową.", "note": null }
+        ]
+      }
+    ],
+    "footerNote": null
+  },
+  {
+    "icon": "Healing",
+    "title": "Po operacji",
+    "intro": null,
+    "warning": null,
+    "sections": [
+      {
+        "heading": null,
+        "items": [
+          { "label": "Pilnuj, by kot nosił kubraczek pooperacyjny lub kołnierz ochronny", "note": null },
+          { "label": "Podawaj leki", "note": null },
+          { "label": "Sprawdzaj szew", "note": "Zapytaj weterynarza, jak często to robić." },
+          { "label": "Ogranicz skakanie", "note": null },
+          { "label": "Obserwuj apetyt", "note": null },
+          { "label": "Obserwuj korzystanie z kuwety", "note": null }
+        ]
+      }
+    ],
+    "footerNote": null
+  },
+  {
+    "icon": "Vaccines",
+    "title": "Szczepienie",
+    "intro": null,
+    "warning": null,
+    "sections": [
+      {
+        "heading": "Przed",
+        "items": [
+          { "label": "Kot musi być zdrowy", "note": null },
+          { "label": "Paszport weterynaryjny", "note": null },
+          { "label": "Umówiony termin wizyty", "note": null }
+        ]
+      },
+      {
+        "heading": "Po",
+        "items": [
+          { "label": "Kontrola temperatury", "note": null },
+          { "label": "Obserwacja stanu kota przez 48 godzin", "note": null },
+          { "label": "Ogranicz intensywne zabawy", "note": null }
+        ]
+      }
+    ],
+    "footerNote": null
+  },
+  {
+    "icon": "ExitToApp",
+    "title": "Wyjazd właściciela",
+    "intro": null,
+    "warning": null,
+    "sections": [
+      {
+        "heading": "Jeśli zwierzę zostaje w domu",
+        "items": [
+          { "label": "Karma", "note": null },
+          { "label": "Woda", "note": null },
+          { "label": "Kuweta", "note": null },
+          { "label": "Zabawki", "note": null },
+          { "label": "Kontakt do osoby, która będzie przychodzić się nim zajmować", "note": null },
+          { "label": "Paszport kota i kontakty do klinik weterynaryjnych na wypadek sytuacji awaryjnej", "note": null }
+        ]
+      }
+    ],
+    "footerNote": null
+  },
+  {
+    "icon": "MedicalServices",
+    "title": "Apteczka pierwszej pomocy",
+    "intro": "Apteczka pierwszej pomocy to zestaw przedmiotów, które mogą być potrzebne w przypadku urazów, oparzeń, krwawień i innych nagłych sytuacji. Nie zastępuje pomocy weterynaryjnej, ale pozwala szybko udzielić pierwszej pomocy przed dojazdem do kliniki.",
+    "warning": "Ważne: nie podawaj kotu leków przeznaczonych dla ludzi bez zalecenia weterynarza. Wiele preparatów bezpiecznych dla ludzi jest toksycznych dla kotów.",
+    "sections": [
+      {
+        "heading": "Dokumenty",
+        "items": [
+          { "label": "Paszport weterynaryjny", "note": null },
+          { "label": "Kontakt do swojego weterynarza", "note": null },
+          { "label": "Adres najbliższej całodobowej kliniki weterynaryjnej", "note": null },
+          { "label": "Historia chorób i przyjmowanych leków", "note": null }
+        ]
+      },
+      {
+        "heading": "Materiały opatrunkowe",
+        "items": [
+          { "label": "Sterylne gaziki", "note": null },
+          { "label": "Sterylne bandaże w różnych rozmiarach", "note": null },
+          { "label": "Bandaż samoprzylepny", "note": null },
+          { "label": "Plaster medyczny", "note": null },
+          { "label": "Waciki kosmetyczne", "note": null },
+          { "label": "Patyczki higieniczne (nie do czyszczenia głębokich ran)", "note": null }
+        ]
+      },
+      {
+        "heading": "Roztwory",
+        "items": [
+          { "label": "Roztwór fizjologiczny (0,9% NaCl)", "note": "Stosowany do: przemywania oczu, płukania niewielkich ran, usuwania zanieczyszczeń." },
+          { "label": "Chlorheksydyna 0,05%", "note": "Nadaje się do odkażania niewielkich powierzchownych uszkodzeń skóry. Nie stosuj stężonych roztworów." }
+        ]
+      },
+      {
+        "heading": "Narzędzia",
+        "items": [
+          { "label": "Termometr elektroniczny", "note": null },
+          { "label": "Pęseta", "note": null },
+          { "label": "Nożyczki z zaokrąglonymi końcówkami", "note": null },
+          { "label": "Rękawiczki jednorazowe", "note": null },
+          { "label": "Strzykawki bez igły (2–20 ml)", "note": "Przydatne do pojenia wodą lub przemywania ran na zalecenie weterynarza." },
+          { "label": "Mała latarka", "note": "Przydatna przy oglądaniu jamy ustnej lub szukaniu kleszczy." }
+        ]
+      },
+      {
+        "heading": "Dodatkowo",
+        "items": [
+          { "label": "Kompres chłodzący (żelowy)", "note": "Stosowany przy stłuczeniach, obrzękach, ukąszeniach owadów. Przykładaj wyłącznie owinięty w tkaninę." }
+        ]
+      },
+      {
+        "heading": "Do transportu",
+        "items": [
+          { "label": "Transporter", "note": null },
+          { "label": "Zapasowy podkład chłonny", "note": null },
+          { "label": "Kocyk lub ręcznik", "note": null },
+          { "label": "Kaganiec nie jest potrzebny", "note": "Duży ręcznik pomoże bezpiecznie unieruchomić przestraszonego kota." }
+        ]
+      }
+    ],
+    "footerNote": null
+  },
+  {
+    "icon": "HelpOutline",
+    "title": "Kot ze schroniska lub od hodowcy — ważne pytania",
+    "intro": "Pojawienie się nowego domownika to prawdziwe święto. Ale oprócz przygotowania dla niego miejsca, warto poznać kluczowe informacje o nowym zwierzęciu.",
+    "warning": null,
+    "sections": [
+      {
+        "heading": null,
+        "items": [
+          { "label": "Dotychczasowa karma i harmonogram karmienia. Gwałtowna zmiana może prowadzić do biegunki i problemów trawiennych.", "note": null },
+          { "label": "Aktualne szczepienia. Poproś o paszport weterynaryjny.", "note": null },
+          { "label": "Data ostatniego odrobaczania i zabezpieczenia przed pchłami.", "note": null },
+          { "label": "Dotychczasowe miejsce odpoczynku, snu i kuwety.", "note": null },
+          { "label": "Sposób, w jaki radzi sobie w kontakcie z innymi ludźmi.", "note": null },
+          { "label": "Czy zna już jakieś komendy.", "note": null },
+          { "label": "Czy występowały problemy z układem pokarmowym i stolcem.", "note": null },
+          { "label": "Z którymi dorosłymi i dziećmi zwierzę najlepiej się dogadywało.", "note": null },
+          { "label": "Czy zwierzę lub jego rodzice chorowali na coś istotnego.", "note": null }
+        ]
+      }
+    ],
+    "footerNote": null
+  }
+]

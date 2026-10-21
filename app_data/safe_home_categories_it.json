@@ -1,0 +1,15 @@
+[
+  { "id": "bezopasnost", "title": "Sicurezza", "subtitle": "Proteggere la casa", "icon": "Security" },
+  { "id": "opasnosti", "title": "Pericoli in casa", "subtitle": "Minacce nascoste", "icon": "Warning" },
+  { "id": "eda_i_voda", "title": "Cibo e acqua", "subtitle": "Allestire la zona pasti", "icon": "Restaurant" },
+  { "id": "vybor_korma", "title": "Scelta del cibo", "subtitle": "La dieta del tuo gatto", "icon": "RestaurantMenu" },
+  { "id": "klimat", "title": "Controllo del clima", "subtitle": "Comfort in caldo e freddo", "icon": "Thermostat" },
+  { "id": "igry", "title": "Giochi", "subtitle": "Sicurezza e attività", "icon": "SportsEsports" },
+  { "id": "tualet", "title": "Lettiera", "subtitle": "Vaschetta e lettiera", "icon": "Wc" },
+  { "id": "uhod", "title": "Cura del gatto", "subtitle": "Pelo, unghie, igiene", "icon": "CleaningServices" },
+  { "id": "samovygul", "title": "Uscite senza sorveglianza", "subtitle": "Rischi e alternative", "icon": "DirectionsRun" },
+  { "id": "cvety", "title": "Piante", "subtitle": "Quali piante sono pericolose", "icon": "LocalFlorist" },
+  { "id": "aktivnost", "title": "Attività", "subtitle": "Esercizio fisico e mentale", "icon": "FitnessCenter" },
+  { "id": "son_i_otdyh", "title": "Sonno e riposo", "subtitle": "Creare il posto perfetto", "icon": "Weekend" },
+  { "id": "rabochee_mesto", "title": "Il tuo spazio di lavoro", "subtitle": "Un angolo per il gatto vicino a te", "icon": "Work" }
+]

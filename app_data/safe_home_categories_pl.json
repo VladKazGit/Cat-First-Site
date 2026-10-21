@@ -1,0 +1,15 @@
+[
+  { "id": "bezopasnost", "title": "Bezpieczeństwo", "subtitle": "Ochrona domu", "icon": "Security" },
+  { "id": "opasnosti", "title": "Zagrożenia w domu", "subtitle": "Ukryte niebezpieczeństwa", "icon": "Warning" },
+  { "id": "eda_i_voda", "title": "Jedzenie i woda", "subtitle": "Organizacja strefy karmienia", "icon": "Restaurant" },
+  { "id": "vybor_korma", "title": "Wybór karmy", "subtitle": "Dieta Twojego pupila", "icon": "RestaurantMenu" },
+  { "id": "klimat", "title": "Kontrola klimatu", "subtitle": "Komfort w upały i mrozy", "icon": "Thermostat" },
+  { "id": "igry", "title": "Zabawa", "subtitle": "Bezpieczeństwo i aktywność", "icon": "SportsEsports" },
+  { "id": "tualet", "title": "Kuweta", "subtitle": "Kuweta i żwirek", "icon": "Wc" },
+  { "id": "uhod", "title": "Pielęgnacja", "subtitle": "Sierść, pazury, higiena", "icon": "CleaningServices" },
+  { "id": "samovygul", "title": "Samodzielne wyjścia", "subtitle": "Ryzyko i alternatywy", "icon": "DirectionsRun" },
+  { "id": "cvety", "title": "Kwiaty", "subtitle": "Które rośliny są niebezpieczne", "icon": "LocalFlorist" },
+  { "id": "aktivnost", "title": "Aktywność", "subtitle": "Wysiłek fizyczny i umysłowy", "icon": "FitnessCenter" },
+  { "id": "son_i_otdyh", "title": "Sen i odpoczynek", "subtitle": "Stworzenie idealnego miejsca", "icon": "Weekend" },
+  { "id": "rabochee_mesto", "title": "Twoje miejsce pracy", "subtitle": "Kącik dla kota tuż obok właściciela", "icon": "Work" }
+]

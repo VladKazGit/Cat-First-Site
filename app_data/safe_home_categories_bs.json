@@ -1,0 +1,80 @@
+[
+  {
+    "id": "bezopasnost",
+    "title": "Sigurnost",
+    "subtitle": "Zaštita doma",
+    "icon": "Security"
+  },
+  {
+    "id": "opasnosti",
+    "title": "Opasnosti u kući",
+    "subtitle": "Skrivene opasnosti",
+    "icon": "Warning"
+  },
+  {
+    "id": "eda_i_voda",
+    "title": "Hrana i voda",
+    "subtitle": "Uređenje mjesta za hranjenje",
+    "icon": "Restaurant"
+  },
+  {
+    "id": "vybor_korma",
+    "title": "Izbor hrane",
+    "subtitle": "Ishrana ljubimca",
+    "icon": "RestaurantMenu"
+  },
+  {
+    "id": "klimat",
+    "title": "Temperatura",
+    "subtitle": "Udobnost po vrućini i hladnoći",
+    "icon": "Thermostat"
+  },
+  {
+    "id": "igry",
+    "title": "Igra",
+    "subtitle": "Sigurnost i aktivnost",
+    "icon": "SportsEsports"
+  },
+  {
+    "id": "tualet",
+    "title": "Toalet",
+    "subtitle": "Posuda i posip",
+    "icon": "Wc"
+  },
+  {
+    "id": "uhod",
+    "title": "Njega",
+    "subtitle": "Krzno, kandže, higijena",
+    "icon": "CleaningServices"
+  },
+  {
+    "id": "samovygul",
+    "title": "Izlazak bez nadzora",
+    "subtitle": "Rizici i alternative",
+    "icon": "DirectionsRun"
+  },
+  {
+    "id": "cvety",
+    "title": "Biljke",
+    "subtitle": "Koje biljke su opasne",
+    "icon": "LocalFlorist"
+  },
+  {
+    "id": "aktivnost",
+    "title": "Aktivnost",
+    "subtitle": "Fizička i mentalna vježba",
+    "icon": "FitnessCenter"
+  },
+  {
+    "id": "son_i_otdyh",
+    "title": "San i odmor",
+    "subtitle": "Savršeno mjesto",
+    "icon": "Weekend"
+  },
+  {
+    "id": "rabochee_mesto",
+    "title": "Vaš radni prostor",
+    "subtitle": "Mjesto pored vlasnika",
+    "icon": "Work"
+  }
+]

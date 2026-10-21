@@ -1,0 +1,384 @@
+[
+  {
+    "icon": "LocalHospital",
+    "title": "Visita dal veterinario",
+    "intro": null,
+    "warning": null,
+    "sections": [
+      {
+        "heading": null,
+        "items": [
+          { "label": "Libretto sanitario", "note": null },
+          { "label": "Trasportino", "note": null },
+          { "label": "Tappetino assorbente", "note": null },
+          { "label": "Snack preferito", "note": null },
+          { "label": "Farmaci (se li assume)", "note": null },
+          { "label": "Ultime analisi", "note": null },
+          { "label": "Video dei sintomi (se disponibile)", "note": null },
+          { "label": "Elenco di domande per il veterinario", "note": null },
+          { "label": "Note sul comportamento del gatto negli ultimi giorni", "note": null }
+        ]
+      }
+    ],
+    "footerNote": null
+  },
+  {
+    "icon": "Pets",
+    "title": "L'arrivo del primo gattino",
+    "intro": null,
+    "warning": null,
+    "sections": [
+      { "heading": "Prima dell'arrivo del gattino", "items": [] },
+      {
+        "heading": "Sicurezza in casa",
+        "items": [
+          { "label": "Installare reti di protezione «anti-fuga» alle finestre.", "note": null },
+          { "label": "Mettere in sicurezza la modalità di ventilazione a ribalta delle finestre.", "note": null },
+          { "label": "Mettere i cavi elettrici fuori portata.", "note": null },
+          { "label": "Chiudere a chiave prodotti chimici e farmaci.", "note": null },
+          { "label": "Eliminare le piante d'appartamento velenose.", "note": null },
+          { "label": "Controllare le fessure strette dietro mobili ed elettrodomestici.", "note": null },
+          { "label": "Fissare mobili alti e mensole.", "note": null },
+          { "label": "Eliminare piccoli oggetti, fili, elastici e sacchetti.", "note": null },
+          { "label": "Mettere in sicurezza i punti alti da cui il gattino potrebbe cadere.", "note": null }
+        ]
+      },
+      { "heading": "Acquisti necessari", "items": [] },
+      {
+        "heading": "Lettiera",
+        "items": [
+          { "label": "Vaschetta.", "note": null },
+          { "label": "Lettiera.", "note": null },
+          { "label": "Paletta per la pulizia.", "note": null },
+          { "label": "Tappetino davanti alla lettiera.", "note": null }
+        ]
+      },
+      {
+        "heading": "Alimentazione (1 o più unità)",
+        "items": [
+          { "label": "Ciotola per il cibo.", "note": null },
+          { "label": "Ciotola o fontanella per l'acqua.", "note": null },
+          { "label": "Il cibo che il gattino mangiava in precedenza.", "note": null },
+          { "label": "Snack.", "note": null }
+        ]
+      },
+      {
+        "heading": "Sonno e riposo",
+        "items": [
+          { "label": "Cuccia.", "note": null },
+          { "label": "Copertina.", "note": null },
+          { "label": "Nascondiglio o casetta.", "note": null }
+        ]
+      },
+      {
+        "heading": "Giochi",
+        "items": [
+          { "label": "Tiragraffi.", "note": null },
+          { "label": "Canna da gioco.", "note": null },
+          { "label": "Palline.", "note": null },
+          { "label": "Giocattoli interattivi.", "note": null }
+        ]
+      },
+      {
+        "heading": "Per il trasporto",
+        "items": [
+          { "label": "Trasportino.", "note": null },
+          { "label": "Tappetino assorbente.", "note": null },
+          { "label": "Targhetta con indirizzo (se necessario).", "note": null }
+        ]
+      },
+      {
+        "heading": "Il primo giorno a casa",
+        "items": [
+          { "label": "Aprire il trasportino e lasciare che il gattino esca da solo.", "note": null },
+          { "label": "Mostrargli dove si trova la lettiera.", "note": null },
+          { "label": "Mostrargli le ciotole di acqua e cibo.", "note": null },
+          { "label": "Non fargli scoprire subito tutta la casa: iniziare da una sola stanza e ampliare lo spazio via via che il gattino mostra interesse.", "note": null },
+          { "label": "Non prenderlo in braccio senza necessità.", "note": null },
+          { "label": "Lasciargli esplorare lo spazio con calma.", "note": null },
+          { "label": "Non invitare ospiti il primo giorno.", "note": null }
+        ]
+      },
+      {
+        "heading": "I primi 7 giorni",
+        "items": [
+          { "label": "Nutrirlo con il cibo a cui è abituato.", "note": null },
+          { "label": "Non cambiare la lettiera abituale.", "note": null },
+          { "label": "Rispettare gli orari dei pasti.", "note": null },
+          { "label": "Giocare ogni giorno, per 10-20 minuti a sessione.", "note": null },
+          { "label": "Monitorare l'appetito.", "note": null },
+          { "label": "Monitorare quanto beve.", "note": null },
+          { "label": "Controllare feci e urina.", "note": null },
+          { "label": "Fargli scoprire gradualmente le altre stanze.", "note": null }
+        ]
+      },
+      {
+        "heading": "Veterinario",
+        "items": [
+          { "label": "Prenotare la prima visita.", "note": null },
+          { "label": "Verificare la presenza del microchip.", "note": null },
+          { "label": "Controllare il calendario vaccinale.", "note": null },
+          { "label": "Parlare del trattamento antiparassitario.", "note": null },
+          { "label": "Chiedere quale dieta è consigliata.", "note": null }
+        ]
+      },
+      {
+        "heading": "Se in casa ci sono altri animali",
+        "items": [
+          { "label": "Preparare una stanza separata.", "note": null },
+          { "label": "Ciotole separate.", "note": null },
+          { "label": "Lettiera separata.", "note": null },
+          { "label": "Non far conoscere subito gli animali.", "note": null },
+          { "label": "Scambiare regolarmente gli odori tra gli animali, usando oggetti impregnati del loro profumo.", "note": null },
+          { "label": "Organizzare gradualmente i primi incontri.", "note": null }
+        ]
+      },
+      {
+        "heading": "Dopo l'adattamento",
+        "items": [
+          { "label": "Scegliere il cibo più adatto.", "note": null },
+          { "label": "Definire un programma di alimentazione.", "note": null },
+          { "label": "Organizzare spazi verticali.", "note": null },
+          { "label": "Acquistare altri tiragraffi.", "note": null },
+          { "label": "Pianificare la sterilizzazione o la castrazione (in base all'età e ai consigli del veterinario).", "note": null },
+          { "label": "Creare un passaporto digitale del gatto.", "note": null }
+        ]
+      }
+    ],
+    "footerNote": null
+  },
+  {
+    "icon": "Groups",
+    "title": "Presentare due gatti",
+    "intro": null,
+    "warning": null,
+    "sections": [
+      {
+        "heading": "Prima dell'incontro",
+        "items": [
+          { "label": "Una stanza separata", "note": null },
+          { "label": "Una seconda o terza lettiera", "note": null },
+          { "label": "Ciotole separate", "note": null },
+          { "label": "Una cuccia separata", "note": null },
+          { "label": "Giocattoli", "note": null },
+          { "label": "Feromoni (se necessario)", "note": null }
+        ]
+      },
+      {
+        "heading": "I primi giorni",
+        "items": [
+          { "label": "Scambio di odori", "note": null },
+          { "label": "Pasti dai due lati della porta", "note": null },
+          { "label": "Incontri brevi", "note": null },
+          { "label": "Non forzare il contatto", "note": null }
+        ]
+      }
+    ],
+    "footerNote": "Ricorda la regola per le risorse: «numero di gatti + 1»."
+  },
+  {
+    "icon": "LocalShipping",
+    "title": "Trasloco in una nuova casa",
+    "intro": null,
+    "warning": null,
+    "sections": [
+      {
+        "heading": "Una settimana prima",
+        "items": [
+          { "label": "Aggiornare l'indirizzo sulla targhetta/collare", "note": null },
+          { "label": "Preparare il trasportino", "note": null },
+          { "label": "Fare scorta di cibo e snack", "note": null }
+        ]
+      },
+      {
+        "heading": "Il giorno del trasloco",
+        "items": [
+          { "label": "Chiudere il gatto in una stanza separata", "note": null },
+          { "label": "Non farlo uscire finché il trasloco non è terminato", "note": null },
+          { "label": "Sistemare per prima cosa lettiera e ciotole", "note": null }
+        ]
+      }
+    ],
+    "footerNote": null
+  },
+  {
+    "icon": "Flight",
+    "title": "Viaggio",
+    "intro": null,
+    "warning": null,
+    "sections": [
+      {
+        "heading": "Documenti",
+        "items": [
+          { "label": "Passaporto", "note": null },
+          { "label": "Microchip", "note": null },
+          { "label": "Vaccinazioni", "note": null },
+          { "label": "Certificati", "note": "Metti in conto il tempo per eventuali controlli da parte di uno specialista già in aeroporto." }
+        ]
+      },
+      {
+        "heading": "Cosa portare",
+        "items": [
+          { "label": "Trasportino", "note": null },
+          { "label": "Acqua", "note": null },
+          { "label": "Cibo e snack", "note": null },
+          { "label": "Tappetini assorbenti", "note": null },
+          { "label": "Un giocattolo con l'odore di casa", "note": null },
+          { "label": "Preparare i farmaci", "note": "In base alle esigenze del tuo gatto." },
+          { "label": "Acquistare feromoni calmanti o un collare.", "note": null }
+        ]
+      }
+    ],
+    "footerNote": null
+  },
+  {
+    "icon": "Healing",
+    "title": "Dopo l'intervento",
+    "intro": null,
+    "warning": null,
+    "sections": [
+      {
+        "heading": null,
+        "items": [
+          { "label": "Controllare che indossi il body o il collare elisabettiano", "note": null },
+          { "label": "Somministrare i farmaci", "note": null },
+          { "label": "Controllare la sutura", "note": "Chiedi al veterinario se è necessario." },
+          { "label": "Limitare i salti", "note": null },
+          { "label": "Monitorare l'appetito", "note": null },
+          { "label": "Controllare l'uso della lettiera", "note": null }
+        ]
+      }
+    ],
+    "footerNote": null
+  },
+  {
+    "icon": "Vaccines",
+    "title": "Vaccinazione",
+    "intro": null,
+    "warning": null,
+    "sections": [
+      {
+        "heading": "Prima",
+        "items": [
+          { "label": "Il gatto deve essere in buona salute", "note": null },
+          { "label": "Libretto sanitario", "note": null },
+          { "label": "Appuntamento fissato", "note": null }
+        ]
+      },
+      {
+        "heading": "Dopo",
+        "items": [
+          { "label": "Controllo della temperatura", "note": null },
+          { "label": "Osservazione delle condizioni per 48 ore", "note": null },
+          { "label": "Limitare i giochi intensi", "note": null }
+        ]
+      }
+    ],
+    "footerNote": null
+  },
+  {
+    "icon": "ExitToApp",
+    "title": "Partenza del proprietario",
+    "intro": null,
+    "warning": null,
+    "sections": [
+      {
+        "heading": "Se il gatto resta a casa",
+        "items": [
+          { "label": "Cibo", "note": null },
+          { "label": "Acqua", "note": null },
+          { "label": "Lettiera", "note": null },
+          { "label": "Giocattoli", "note": null },
+          { "label": "Contatti della persona che verrà ad accudirlo", "note": null },
+          { "label": "Libretto sanitario del gatto e contatti delle cliniche veterinarie da contattare in caso di emergenza", "note": null }
+        ]
+      }
+    ],
+    "footerNote": null
+  },
+  {
+    "icon": "MedicalServices",
+    "title": "Kit di pronto soccorso",
+    "intro": "Il kit di pronto soccorso è un insieme di oggetti utili in caso di traumi, ustioni, emorragie o altre situazioni di emergenza. Non sostituisce le cure veterinarie, ma permette di intervenire rapidamente prima di recarsi in clinica.",
+    "warning": "Importante: non somministrare farmaci per uso umano senza la prescrizione del veterinario. Molti farmaci sicuri per le persone sono tossici per i gatti.",
+    "sections": [
+      {
+        "heading": "Documenti",
+        "items": [
+          { "label": "Libretto sanitario", "note": null },
+          { "label": "Contatti del veterinario di fiducia", "note": null },
+          { "label": "Indirizzo della clinica veterinaria più vicina aperta 24 ore su 24", "note": null },
+          { "label": "Anamnesi delle malattie e dei farmaci assunti", "note": null }
+        ]
+      },
+      {
+        "heading": "Materiale per le medicazioni",
+        "items": [
+          { "label": "Garze sterili", "note": null },
+          { "label": "Bende sterili di diverse misure", "note": null },
+          { "label": "Benda autoadesiva", "note": null },
+          { "label": "Cerotto medico", "note": null },
+          { "label": "Dischetti di cotone", "note": null },
+          { "label": "Bastoncini di cotone (non per la pulizia di ferite profonde)", "note": null }
+        ]
+      },
+      {
+        "heading": "Soluzioni",
+        "items": [
+          { "label": "Soluzione fisiologica (NaCl 0,9%)", "note": "Si usa per: lavare gli occhi, sciacquare piccole ferite, rimuovere lo sporco." },
+          { "label": "Clorexidina 0,05%", "note": "Adatta per disinfettare piccole lesioni superficiali della pelle. Non usare soluzioni concentrate." }
+        ]
+      },
+      {
+        "heading": "Strumenti",
+        "items": [
+          { "label": "Termometro elettronico", "note": null },
+          { "label": "Pinzette", "note": null },
+          { "label": "Forbici con punte arrotondate", "note": null },
+          { "label": "Guanti monouso", "note": null },
+          { "label": "Siringhe senza ago (2-20 ml)", "note": "Possono servire per far bere acqua al gatto o per irrigare le ferite su indicazione del veterinario." },
+          { "label": "Piccola torcia", "note": "Utile per esaminare la bocca o cercare zecche." }
+        ]
+      },
+      {
+        "heading": "Extra",
+        "items": [
+          { "label": "Impacco freddo", "note": "Si usa per contusioni, gonfiori, punture di insetti. Applicare sempre avvolto in un panno." }
+        ]
+      },
+      {
+        "heading": "Per il trasporto",
+        "items": [
+          { "label": "Trasportino", "note": null },
+          { "label": "Un tappetino assorbente di scorta", "note": null },
+          { "label": "Una copertina o un asciugamano", "note": null },
+          { "label": "La museruola non è necessaria", "note": "Un asciugamano grande aiuta a contenere in sicurezza un gatto spaventato." }
+        ]
+      }
+    ],
+    "footerNote": null
+  },
+  {
+    "icon": "HelpOutline",
+    "title": "Gatto da rifugio o allevatore — domande importanti",
+    "intro": "L'arrivo di un nuovo inquilino in casa è una festa. Ma oltre a preparare lo spazio, è importante conoscere alcune informazioni fondamentali sul nuovo animale.",
+    "warning": null,
+    "sections": [
+      {
+        "heading": null,
+        "items": [
+          { "label": "Il cibo abituale e gli orari dei pasti. Un cambio brusco può causare diarrea e problemi digestivi.", "note": null },
+          { "label": "Le vaccinazioni già effettuate. Chiedere il libretto sanitario.", "note": null },
+          { "label": "La data dell'ultimo trattamento antipulci e antiparassitario.", "note": null },
+          { "label": "Il posto abituale per riposare, dormire e la lettiera.", "note": null },
+          { "label": "Come si comporta con altre persone.", "note": null },
+          { "label": "Se conosce già dei comandi.", "note": null },
+          { "label": "Se ha avuto problemi digestivi o intestinali.", "note": null },
+          { "label": "Con quali adulti o bambini si è trovato meglio.", "note": null },
+          { "label": "Se lui o i suoi genitori hanno avuto malattie.", "note": null }
+        ]
+      }
+    ],
+    "footerNote": null
+  }
+]

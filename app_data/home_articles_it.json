@@ -1,0 +1,528 @@
+[
+  {
+    "id": "bezopasnost",
+    "title": "Sicurezza",
+    "intro": "La tua casa è una fortezza per il gatto. Assicurati che ogni angolo dello spazio sia sicuro e confortevole.",
+    "heroImage": "dom_bezopasnost_hero",
+    "sections": [
+      {
+        "heading": "Reti alle finestre",
+        "body": "Le normali zanzariere non reggono al salto di un gatto né ai suoi artigli. E le finestre aperte possono far restare il gatto incastrato o farlo cadere.\n\nEsistono due tipi principali di reti di protezione per gatti:\n1) Le «reti anti-gatto» — realizzate in filo d'acciaio ad alta resistenza e fissate saldamente al telaio con ganci metallici lungo tutto il perimetro.\n2) I blocchi in plastica per le finestre a ribalta — chiamati anche «protezione per l'apertura verticale».",
+        "style": "plain",
+        "image": "dom_bezopasnost_setki"
+      },
+      {
+        "heading": "Protezione degli angoli",
+        "body": "Controlla le fessure tra i mobili e le pareti. I gatti possono rimanere incastrati in spazi stretti. Di solito si tratta di:\n• tra gli armadi e la parete;\n• dietro il frigorifero;\n• dietro la lavatrice;\n• tra il divano e la parete.\n\nLa regola è semplice: o il gatto non deve poter entrare in quello spazio, oppure deve poter uscirne.",
+        "style": "plain",
+        "image": "dom_bezopasnost_uglov"
+      },
+      {
+        "heading": "Elettricità",
+        "body": "Nascondi i cavi in apposite canaline. Ai gattini piace mordicchiare i fili, il che può causare scosse elettriche, la morte o ustioni alle mucose.\n\nPunti a rischio:\n• prolunghe;\n• caricabatterie dei telefoni;\n• cavi del computer;\n• fili delle luci decorative;\n• cavi della televisione.\n\nÈ utile usare apposite canaline per riunire e nascondere i cavi.\n\nÈ importante tenere presente che i gatti possono mordere i cavi per curiosità, per l'odore o per la reazione delle persone. Se succede, non spaventare il gatto, non urlargli contro, ma distrailo con la massima calma dai cavi.",
+        "style": "plain",
+        "image": "dom_bezopasnost_elektro"
+      },
+      {
+        "heading": "Mobili pesanti",
+        "body": "Fissa alle pareti librerie e televisori. I gatti sono ottimi saltatori e il loro peso può far ribaltare gli oggetti non ancorati, causando lesioni al gatto o a chi gli sta intorno.\n\nOggetti a cui prestare particolare attenzione:\n• librerie;\n• cassettiere;\n• scaffalature;\n• televisori;\n• mensole a parete;\n• cantinette per il vino.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Prodotti chimici per la casa",
+        "body": "Qualsiasi prodotto chimico per la casa è pericoloso per gli animali. Ne fanno parte i detergenti per:\n• pulire i vetri;\n• pulire il bagno;\n• lavare i pavimenti;\n• lavare i piatti, ecc.\n\nAnche se finisce solo sul pelo, il gatto lo leccherà via e la sostanza raggiungerà gli organi interni. Tieni tutti i prodotti lontano dalle zone frequentate dal gatto e dentro armadietti e ante chiusi.\n\nSono particolarmente pericolosi: candeggina, prodotti per sturare i tubi, detergenti per il forno, pastiglie per la lavastoviglie, capsule per il bucato, concentrati.",
+        "style": "warning",
+        "image": "dom_bezopasnost_himiya"
+      },
+      {
+        "heading": "Balcone",
+        "body": "Poter stare all'aria aperta è una parte importante della vita di un animale. Ma il balcone, oltre ad aria fresca e sole, può nascondere pericoli.\n\nLa prima regola fondamentale è avere apposite reti di protezione lungo tutto il perimetro del balcone. Inoltre bisogna eliminare tutte le aperture tecniche: i gatti sono curiosi e ficcheranno il naso ovunque possano.",
+        "style": "plain",
+        "image": "dom_bezopasnost_balkon"
+      },
+      {
+        "heading": "Altri punti da considerare",
+        "body": "Cucina: piano cottura caldo; coltelli; forno aperto; pattumiera.\n\nBagno: coperchio del water chiuso; controlla sempre la lavatrice prima di avviarla; armadietti chiusi; conserva pastiglie e capsule fuori portata.\n\nCandele e profumatori: oli essenziali; diffusori; incensi; candele.\n\nSacchetti e pellicole: sacchetti di plastica; pellicola da imballaggio; pellicola estensibile.\n\nFili ed elastici: fili; filo da ricamo; elastici; elastici per capelli.",
+        "style": "plain",
+        "image": "dom_bezopasnost_dop"
+      }
+    ]
+  },
+  {
+    "id": "eda_i_voda",
+    "title": "Cibo e acqua",
+    "intro": "Crea lo spazio ideale per l'alimentazione del tuo gatto, seguendo i principi del comfort e dei suoi bisogni naturali.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "1. Scelta delle ciotole",
+        "body": "Il materiale è importante. La plastica accumula batteri e può causare l'acne felina. Sono consigliati: vetro, ceramica, acciaio inossidabile.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "2. Il posto ideale",
+        "body": "I gatti sono creature di abitudine e sicurezza. Non mettere mai il cibo vicino alla lettiera.\n• Un angolo tranquillo, senza correnti d'aria;\n• Lontano da elettrodomestici rumorosi;\n• Con una buona visuale sulla stanza, per sicurezza.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "3. L'altezza giusta per il comfort",
+        "body": "Le ciotole su supporto riducono il carico su collo e articolazioni, soprattutto nei gatti anziani. Un'inclinazione corretta della ciotola di 15 gradi rende la deglutizione più naturale. Scegli l'altezza in base alla statura del gatto in piedi.",
+        "style": "plain",
+        "image": "dom_eda_vysota"
+      },
+      {
+        "heading": "Consiglio: le dimensioni della ciotola",
+        "body": "Larghezza della ciotola: il diametro interno deve essere almeno 1,5-2 volte più largo del muso del gatto (baffi inclusi). Per la maggior parte dei gatti adulti il diametro ottimale è 15-18 cm, per le razze grandi (ad esempio il maine coon) 18-22 cm. Se il diametro è inferiore a 12-13 cm, il gatto è costretto a toccare spesso i bordi con i baffi.\n\nProfondità della ciotola: l'ideale è 2-4 cm per il cibo secco e umido. L'altezza del bordo deve essere circa 1/2-3/4 dell'altezza del muso del gatto. Bordi superiori a 5-6 cm sono adatti solo per grandi quantità di cibo, ma risultano meno comodi per l'uso quotidiano.",
+        "style": "tip",
+        "image": "dom_eda_sovet"
+      }
+    ]
+  },
+  {
+    "id": "klimat",
+    "title": "Caldo e freddo",
+    "intro": "Come proteggere il tuo gatto da surriscaldamento e ipotermia.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "Il caldo estivo",
+        "body": "• Tieni sempre a disposizione una ciotola con acqua fresca. I gatti bevono di più quando fa caldo.\n• Usa tappetini rinfrescanti o asciugamani umidi, ma non costringere il gatto a starci sopra a forza.\n• Evita le correnti dirette del condizionatore: l'ideale è aria fresca senza flusso diretto sul gatto. Pulisci i filtri del condizionatore quando necessario.\nCose da non fare: non versare acqua ghiacciata sul gatto; non applicare ghiaccio sul corpo; non costringerlo a bere a forza.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Rischio di colpo di calore!",
+        "body": "Presta attenzione a: respiro accelerato a bocca aperta; forte spossatezza; gengive rosso vivo; rifiuto di cibo e acqua; perdita di coordinazione.\nIn presenza di questi sintomi potrebbe essere necessario un intervento veterinario urgente.",
+        "style": "warning",
+        "image": null
+      },
+      {
+        "heading": "Il periodo invernale",
+        "body": "Cucce accoglienti sollevate da terra + umidificazione dell'aria secca. Crea delle isole calde in casa: una cuccia imbottita e un punto riparato dalle correnti d'aria aiutano a mantenere il calore.\n\nIn inverno è importante: evitare le correnti d'aria; non mettere la cuccia vicino a una finestra fredda; mantenere un'umidità dell'aria del 40-60%; asciugare le zampe dopo le uscite (se il gatto esce).",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Pericoli nascosti",
+        "body": "Termosifoni caldi — possibili ustioni in caso di contatto prolungato. Finestre a ribalta — rischio di ipotermia e infortuni.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Cosa è importante ricordare",
+        "body": "I gatti scelgono da soli la temperatura più comoda. Se il gatto si sdraia sempre sul pavimento freddo, si nasconde sotto una coperta o vicino al termosifone, è un segnale che ha troppo caldo o troppo freddo.",
+        "style": "tip",
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "igry",
+    "title": "Giochi",
+    "intro": "Per un gatto domestico il gioco non è solo un divertimento, ma un modo per esprimere l'istinto di caccia. Sessioni quotidiane di 15-30 minuti aiutano a prevenire stress, obesità e comportamenti distruttivi.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "Prima di tutto la sicurezza: la scelta dei materiali",
+        "body": "Il materiale dei giocattoli è importante. I gatti giocano con le zampe, ma li prendono anche in bocca.\n\nMateriali naturali: lana, piume, cotone e lino, iuta e sisal, legno.\nMateriali sintetici: pile, silicone alimentare, plastica ABS di buona qualità.\n\nEvita la plastica economica dall'odore forte (si rompe facilmente, ha bordi taglienti, emana odori tossici), il pelo lungo e il filo lurex (i fili si staccano facilmente e, se ingeriti, causano ostruzione intestinale), la gommapiuma (il gatto può rosicchiarla e i pezzetti restano bloccati nello stomaco).\n\nDettagli piccoli: niente perline, occhietti incollati o bottoni — il gatto potrebbe staccarli facilmente con un morso e ingoiarli, causando una grave lesione al tratto gastrointestinale.",
+        "style": "warning",
+        "image": "dom_igry_materialy"
+      },
+      {
+        "heading": "Elenco generale dei giocattoli",
+        "body": "Tessuti e lana: peluche morbidi con squeaker in cotone/lino; palline di lana infeltrita al 100%; topolini e pesciolini di stoffa senza dettagli incollati; sacchetti con erba gatta; cuscinetti-giocattolo in pile spesso.\n\nLegno e fibre naturali: bastoncini di matatabi da rosicchiare; palline pressate di erba gatta; scatole-labirinto di legno per il gioco; palline di corda di sisal/iuta; tiragraffi a colonna e tappetini graffiatoi.\n\nSilicone e gomma: giocattoli da masticare in silicone alimentare; spazzolini-giocattolo massaggianti; anelli dentali in gomma resistente.\n\nGiocattoli interattivi in plastica (esclusivamente ABS): piramidi multilivello con palline; comedini a puzzle interattivi; dosatori oscillanti per snack; palline di plastica chiuse con sonaglio.\n\nGiocattoli per il gioco insieme: bacchette con nastri in pile o piume naturali; lunghi cordoncini di stoffa a forma di serpentina.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Divertimento autonomo",
+        "body": "I puzzle e le ciotole-labirinto tengono occupato il gatto quando non sei in casa. La motivazione migliore sono gli snack secchi preferiti.\n\nEsempi: puzzle alimentari (Puzzle Feeders) con coperchi che il gatto sposta con la zampa; Catit Senses Food Tree; Nina Ottosson Puzzle Toys di diversi livelli di difficoltà; palla interattiva con crocchette (Treat Ball); tappeto olfattivo (Snuffle Mat); scatola-puzzle (Peekaboo Box).",
+        "style": "plain",
+        "image": "dom_igry_samorazvlech"
+      },
+      {
+        "heading": "Attenzione",
+        "body": "Puntatori laser: possono causare frustrazione, perché la «preda» non si può mai catturare. Concludi sempre il gioco con un giocattolo reale che il gatto possa stringere tra le zampe.\n\nNastri: non lasciare mai il gatto incustodito con nastri o corde — c'è il rischio di soffocamento o di ingestione del filo. È meglio conservarli in scatole chiuse, fuori dalla portata del gatto.",
+        "style": "warning",
+        "image": null
+      },
+      {
+        "heading": "La regola principale: il controllo",
+        "body": "Nessun giocattolo è sicuro al 100%. Controlla regolarmente l'arsenale del tuo gatto per individuare segni di usura, parti staccate o strappi. La tua attenzione è la migliore garanzia di sicurezza.",
+        "style": "tip",
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "tualet",
+    "title": "Lettiera",
+    "intro": "La scelta corretta della vaschetta e della lettiera influisce direttamente sul fatto che il gatto faccia i bisogni nel posto giusto.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "Scelta della vaschetta",
+        "body": "Tipo aperto («classica») — massima visuale per il gatto, ideale per gattini e animali anziani. Scegli bordi alti 15-20 cm, con una lunghezza della vaschetta pari a 1,5-2 volte quella del gatto.\n\nBox chiuso («privacy») — nasconde odori e lettiera, evita che la sabbia si sparga in giro. Alcuni gatti possono sentirsi intrappolati: togli lo sportello per il primo periodo.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Dove posizionare la vaschetta?",
+        "body": "Un posto tranquillo — lontano dal rumore degli elettrodomestici e dal via vai dei corridoi.\nLontano dal cibo — i gatti non amano fare i bisogni dove mangiano o bevono.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Tipi di lettiera",
+        "body": "Minerale (argilla bentonitica, agglomerante) — trattiene benissimo gli odori, forma grumi compatti, ma può creare polvere quando la versi.\n\nDi legno (segatura pressata, assorbente) — economica, si sfalda in poltiglia quando si bagna, si può smaltire nel water in piccole quantità, è ecologica.\n\nSilice (assorbente) — massimo potere assorbente ed eliminazione degli odori, ma scricchiola forte e può spaventare i gatti più timorosi.\n\nLettiere vegetali (di soia, mais, cereali) — si smaltiscono perfettamente nel water, si dissolvono senza lasciare residui, sono sicure in caso di ingestione accidentale, ma costano di più e, se conservate ad esempio in un capanno in campagna, attirano i roditori.",
+        "style": "plain",
+        "image": "dom_tualet_mineralny",
+        "blocks": [
+          {
+            "text": "Minerale (argilla bentonitica, agglomerante) — trattiene benissimo gli odori, forma grumi compatti, ma può creare polvere quando la versi."
+          },
+          {
+            "image": "dom_tualet_mineralny"
+          },
+          {
+            "text": "Di legno (segatura pressata, assorbente) — economica, si sfalda in poltiglia quando si bagna, si può smaltire nel water in piccole quantità, è ecologica."
+          },
+          {
+            "image": "dom_tualet_drevesny"
+          },
+          {
+            "text": "Silice (assorbente) — massimo potere assorbente ed eliminazione degli odori, ma scricchiola forte e può spaventare i gatti più timorosi."
+          },
+          {
+            "image": "dom_tualet_silikagel"
+          },
+          {
+            "text": "Lettiere vegetali (di soia, mais, cereali) — si smaltiscono perfettamente nel water, si dissolvono senza lasciare residui, sono sicure in caso di ingestione accidentale, ma costano di più e, se conservate ad esempio in un capanno in campagna, attirano i roditori."
+          },
+          {
+            "image": "dom_tualet_rastitelny"
+          }
+        ]
+      },
+      {
+        "heading": "La regola d'oro delle vaschette: N + 1",
+        "body": "Dovresti avere una vaschetta in più rispetto al numero di gatti in casa. Questo previene lo stress e i conflitti per il territorio.",
+        "style": "tip",
+        "image": null
+      },
+      {
+        "heading": "Cura e igiene",
+        "body": "Ogni giorno: rimuovi i grumi e i rifiuti solidi 1-2 volte al giorno.\nOgni 2 settimane/mese: sostituisci completamente la lettiera e lava la vaschetta con un detergente delicato.\n\nIl materiale conta: la plastica è più economica, ma con il tempo assorbe gli odori e, a causa di scheggiature e graffi, offre terreno fertile ai batteri. Ceramica o metallo si disinfettano in modo più igienico, ma costano di più.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Minacce nascoste",
+        "body": "Profumatori: il profumo di lavanda piace a te, ma con il suo olfatto sensibile può respingere il gatto.\nPosizioni rumorose: una vaschetta accanto alla lavatrice può causare spaventi improvvisi e portare il gatto a rifiutare quel posto.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Se il gatto ignora la lettiera",
+        "body": "Aspetto medico: fai prima escludere dal veterinario una cistite o una malattia del tratto urinario.\nAspetto comportamentale: controlla la pulizia, cambia il tipo di lettiera o la posizione.\n\nI gatti possono ignorare la lettiera a causa dello stress, di una lettiera non adatta, di un odore troppo forte o di rumori spaventosi al contatto con le particelle di lettiera.",
+        "style": "plain",
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "uhod",
+    "title": "Cura",
+    "intro": "La cura regolare aiuta a notare in tempo i cambiamenti nello stato di salute del gatto. La maggior parte delle procedure richiede pochi minuti, ma l'importante è farle con calma e con regolarità.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "Cosa controllare a casa",
+        "body": "• occhi — presenza di pus, lacrimazione intensa o arrossamento;\n• naso — presenza di secrezioni insolite;\n• orecchie — cattivo odore forte, grande quantità di cerume o prurito costante;\n• denti e gengive — placca, alito cattivo, arrossamento;\n• pelle e pelo — forfora, crosticine, zone senza pelo, parassiti, nodi;\n• zampe e unghie — screpolature, lesioni, unghie troppo lunghe;\n• peso e forma fisica — i cambiamenti bruschi richiedono attenzione;\n• comportamento — appetito, attività, sonno, uso della lettiera.",
+        "style": "plain",
+        "image": "dom_uhod_provera"
+      },
+      {
+        "heading": "Ogni giorno / periodicamente",
+        "body": "Ogni giorno: acqua fresca; appetito normale; lettiera pulita; un breve controllo delle condizioni generali; attività e gioco.\n\nPeriodicamente: spazzolatura; controllo delle unghie; pulizia dei denti; controllo di orecchie e occhi; controllo del peso.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Importante",
+        "body": "La cura non sostituisce la visita veterinaria. Un nuovo nodulo, una spossatezza prolungata, il rifiuto del cibo, un cambiamento improvviso del comportamento, prurito costante o altri sintomi insoliti sono motivo per rivolgersi al veterinario.",
+        "style": "warning",
+        "image": null
+      },
+      {
+        "heading": "Unghie: il taglio",
+        "body": "Di solito non è necessario accorciare molto le unghie del gatto. L'obiettivo principale è rimuovere solo la punta appuntita, senza toccare la parte viva dell'unghia.\n\nCome prepararsi: un tronchesino per gatti; una buona illuminazione; un posto tranquillo; una ricompensa dopo la procedura.\n\nCome tagliare: 1) lascia che il gatto si abitui con calma al contatto sulle zampe; 2) premi delicatamente sul cuscinetto per far uscire l'unghia; 3) individua la parte interna chiara/rosata dell'unghia; 4) taglia solo la punta trasparente e appuntita (pochi millimetri); 5) se il gatto è nervoso, occupati di una o due zampe e continua più tardi.\n\nCon quale frequenza: controlla le unghie regolarmente, la frequenza dipende dall'età, dall'attività e dalla presenza di un tiragraffi. Se tocchi per errore la parte viva può comparire sangue e dolore: usa un prodotto emostatico per animali e non forzare la procedura. I tiragraffi restano una parte importante della cura naturale delle unghie e del comportamento del gatto.",
+        "style": "plain",
+        "image": "dom_uhod_kogti"
+      },
+      {
+        "heading": "Spazzolatura",
+        "body": "La spazzolatura aiuta a rimuovere il pelo morto e a ridurre la quantità di pelo che il gatto ingerisce mentre si lava.\n\nBenefici: meno pelo in giro per casa; meno nodi; più facile controllare lo stato della pelle; più facile notare parassiti, irritazioni e piccole ferite; particolarmente utile per i gatti a pelo lungo.\n\nCome scegliere lo strumento: pelo corto — una spazzola morbida o un guanto di gomma; pelo medio — una spazzola con denti di lunghezza adeguata e un pettine; pelo lungo — un pettine e una spazzola che permettano di districare con delicatezza il pelo fino alla radice.",
+        "style": "plain",
+        "image": "dom_uhod_vychesyvanie"
+      }
+    ]
+  },
+  {
+    "id": "samovygul",
+    "title": "Uscite senza sorveglianza",
+    "intro": "Lasciare il gatto libero di muoversi per strada può sembrare «naturale», ma l'ambiente urbano moderno nasconde pericoli mortali. Secondo le statistiche, i gatti domestici con cure adeguate vivono fino a 15-20 anni, mentre quelli che vivono per strada solo 4-5 anni.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "I rischi principali",
+        "body": "Il traffico e gli avvelenamenti da parte di malintenzionati sono la causa più frequente di morte dei gatti in città.\n\nPredatori e cani: branchi randagi e animali selvatici rappresentano una minaccia.\nInfezioni: leucemia virale, immunodeficienza e rabbia sono malattie che possono essere trasmesse dagli animali che il gatto potrebbe mangiare.\nCrudeltà umana: avvelenatori, cacciatori di cani randagi e semplici malintenzionati possono fare del male a un animale indifeso e fiducioso.",
+        "style": "warning",
+        "image": null
+      },
+      {
+        "heading": "Alternative alle uscite libere: le passeggiate con la pettorina",
+        "body": "Un modo sicuro di esplorare il mondo sotto la tua supervisione. Non tutti i gatti amano le passeggiate con la pettorina, ma con la giusta preparazione possono diventare una bella variante nella routine del gatto.\n\nDurante la passeggiata è importante: avere le vaccinazioni aggiornate; non permettere all'animale di mangiare nulla o di entrare in contatto con altri all'aperto — solo cibo dalle tue mani o portato da casa.",
+        "style": "plain",
+        "image": "dom_samovygul_shleyka"
+      },
+      {
+        "heading": "Recinto esterno (catio)",
+        "body": "Una struttura con rete che permette di respirare aria fresca. Se hai una casa indipendente puoi realizzare un'apposita struttura esterna per i gatti. L'obiettivo principale di queste costruzioni è creare un ambiente sicuro per l'uscita all'aperto.\n\nDi solito questi recinti sono costruiti con legno massiccio e reti. Se nei dintorni possono esserci animali pericolosi, si usa una rete più resistente e sistemi anti-scavo.",
+        "style": "plain",
+        "image": "dom_samovygul_volier"
+      }
+    ]
+  },
+  {
+    "id": "cvety",
+    "title": "Piante",
+    "intro": "Ai gatti piace esplorare le piante, ma alcune sono tossiche e pericolose per la vita. Questa guida ti aiuterà a scegliere piante sicure e a proteggere il tuo gatto.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "Elenco delle piante pericolose",
+        "body": "Gigli ed emerocallidi — particolarmente pericolosi, possono causare gravi danni renali.\nDieffenbachia — irritazione e gonfiore di bocca e gola.\nFilodendro — irritazione delle mucose, scialorrea, difficoltà a deglutire.\nMonstera — contiene ossalati di calcio insolubili, causa bruciore e gonfiore in bocca.\nCaladio — irritazione della bocca, gonfiore di lingua e labbra.\nSpatifillo — irritazione delle mucose e scialorrea.\nSansevieria — può causare vomito e diarrea.\nEdera — possibili vomito, diarrea e dolori addominali.\nCicas — estremamente tossica, può causare gravi danni al fegato.\nAzalea e rododendro — vomito, debolezza, aritmie cardiache.\nOleandro — molto tossico, può causare gravi disturbi cardiaci.\nTulipani — i bulbi sono particolarmente pericolosi, causano vomito e irritazione gastrointestinale.\nNarcisi — i bulbi sono tossici, causano vomito, diarrea, sintomi neurologici.\nGiacinti — i bulbi causano irritazione gastrointestinale.\nCrisantemi — scialorrea, vomito, diarrea, perdita di coordinazione.\nKalanchoe — tossica per l'attività cardiaca.\nAloe vera — vomito, diarrea e spossatezza.",
+        "style": "warning",
+        "image": null
+      },
+      {
+        "heading": "Prevenzione",
+        "body": "La prevenzione è la chiave della sicurezza. Se non sei sicuro che una pianta sia sicura per il gatto, è meglio metterla dove l'animale non possa raggiungerla. In caso di dubbio, scegli un'altra pianta.",
+        "style": "tip",
+        "image": null
+      },
+      {
+        "heading": "Cosa fare in caso di avvelenamento?",
+        "body": "1. Non farti prendere dal panico e isola il gatto — se possibile, rimuovi i resti della pianta dalla bocca e non lasciare che l'animale mangi altro.\n2. Fotografa la pianta — è importante che il veterinario sappia esattamente con quale tossina si è avvelenato il gatto, per poter scegliere l'antidoto giusto.\n3. Vai subito in clinica — non provare a indurre il vomito da solo senza l'indicazione del veterinario. Ogni minuto può essere prezioso.",
+        "style": "plain",
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "aktivnost",
+    "title": "Attività",
+    "intro": "Il movimento è la chiave della salute e della longevità del tuo gatto. Crea uno spazio per una vita attiva.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "L'attività quotidiana",
+        "body": "Il gioco regolare (15-30 minuti al giorno) aiuta a prevenire l'obesità e mantiene il tono muscolare. Usa bacchette-giocattolo e puntatori laser per imitare la caccia.\n\nA cosa serve: riduce lo stress; diminuisce l'attività notturna; previene i comportamenti distruttivi; aiuta a controllare il peso; soddisfa l'istinto di caccia.",
+        "style": "plain",
+        "image": "dom_aktivnost_ezhednevnye"
+      },
+      {
+        "heading": "Percorsi verticali",
+        "body": "Usare tiragraffi ad albero e gradini a parete permette al gatto di esprimere l'istinto di arrampicarsi e di sentirsi al sicuro in altezza.\n\nCosa include: tiragraffi alti almeno 80 cm; mensole a parete; alberi per gatti; amache da finestra; ponticelli.",
+        "style": "plain",
+        "image": "dom_aktivnost_vertikalnye"
+      },
+      {
+        "heading": "Come capire che il gatto ha bisogno di più gioco",
+        "body": "Se il gatto si annoia, può:\n• svegliarti di notte;\n• graffiare i mobili;\n• miagolare rumorosamente;\n• mangiare troppo;\n• leccarsi fino a creare zone senza pelo;\n• attaccare le gambe delle persone.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Il processo del gioco",
+        "body": "Il processo generale è: caccia → cattura → cibo → riposo. In pratica: si gioca, si dà un piccolo snack o del cibo, il gatto si riposa. Questo ciclo è il più vicino possibile al comportamento naturale.\n\n1. Ricerca della preda — muovi lentamente il giocattolo, nascondilo dietro i mobili, lascia che il gatto osservi e lo «tracci».\n2. Inseguimento — cambia velocità e direzione, imita il comportamento di un uccello o di un topo, lascia che il gatto si avvicini furtivamente.\n3. Cattura — non allontanare sempre il giocattolo, lascia che il gatto catturi con successo la «preda» più volte, permettigli di tenerla con le zampe e morderla.\n\nCome capire che il gatto ne ha avuto abbastanza: si riposa con calma dopo il gioco; non chiede attenzione continua; mantiene un peso normale; rovina meno i mobili; mostra interesse per i giocattoli.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Ruota per correre",
+        "body": "Aiuta il gatto domestico a scaricare energia, soprattutto se vive in appartamento senza libero accesso all'esterno. È un buon complemento al gioco, ma non sostituisce il rapporto con il proprietario.\n\nBenefici: riduce il rischio di obesità; mantiene muscoli e articolazioni in tono; riduce noia e stress; utile per le razze molto attive (bengala, abissino, orientale, savannah).\n\nÈ importante sapere: non tutti i gatti iniziano subito a usare la ruota — alcuni impiegano diverse settimane per abituarsi; non costringere mai il gatto a correre a forza; incoraggia il suo interesse con degli snack; la ruota deve girare in modo fluido e quasi silenzioso.",
+        "style": "plain",
+        "image": "dom_aktivnost_koleso"
+      },
+      {
+        "heading": "Stimolazione mentale",
+        "body": "I puzzle alimentari e i giocattoli interattivi spingono il gatto a «procurarsi» il cibo, imitando il comportamento naturale e prevenendo la noia.\n\nEsempi: barattoli con coperchi scorrevoli; palline dosatrici per le crocchette; labirinti per gli snack; scatole con fori; tappeti olfattivi.",
+        "style": "plain",
+        "image": "dom_aktivnost_intellekt"
+      },
+      {
+        "heading": "Consigli",
+        "body": "«Cambia il set di giocattoli ogni settimana. La novità è il miglior stimolo per la curiosità del gatto.»\nMeglio due sessioni brevi di 10-15 minuti che una lunga: così il gatto non fa in tempo a stancarsi e mantiene l'interesse.",
+        "style": "tip",
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "rabochee_mesto",
+    "title": "Il tuo spazio di lavoro",
+    "intro": "Organizzare un ufficio domestico a misura di gatto richiede un equilibrio tra il tuo comfort e la sicurezza del tuo animale.",
+    "heroImage": "dom_rabota_hero",
+    "sections": [
+      {
+        "heading": "01. Dividere lo spazio",
+        "body": "Ai gatti piace essere al centro dell'attenzione. Invece di scacciarli dalla scrivania, ritaglia per loro una zona personale: un angolo vicino alla finestra (ideale per osservare gli uccelli) oppure un secondo ripiano dello scaffale accanto alla scrivania, per il riposo del gatto.\n\nUna buona soluzione è una mensola su staffe che si fissa al piano della scrivania e può ruotare in diverse direzioni: il gatto sarà vicino a te, ma non intralcerà la zona di lavoro.",
+        "style": "plain",
+        "image": "dom_rabota_razdelenie"
+      },
+      {
+        "heading": "02. Organizzare i cavi",
+        "body": "Canaline protettive — nascondi le ciabatte elettriche in appositi contenitori, per impedire l'accesso alle prese.\nGuaine corrugate — usa dei tubi rigidi per i cavi che il gatto tende a mordicchiare (caricabatterie, cavi del monitor).",
+        "style": "plain",
+        "image": "dom_rabota_provoda"
+      },
+      {
+        "heading": "03. Proteggere la tastiera",
+        "body": "La famosa «passeggiata sui tasti» può portare alla cancellazione accidentale di file o all'invio di messaggi strani ai colleghi.\n\nUsa dei ponticelli in acrilico trasparente sopra la tastiera, oppure una «tastiera finta»: una vecchia tastiera posizionata lì vicino può distrarre il gatto.",
+        "style": "plain",
+        "image": "dom_rabota_klaviatura"
+      },
+      {
+        "heading": "04. Ergonomia e altezza",
+        "body": "Scegli i mobili tenendo conto della propensione al salto del tuo gatto e della tua salute.\n\nScrivania regolabile (consigliata): permette di alzare rapidamente il piano di lavoro se il gatto diventa troppo insistente. Importante: tieni presente che, quando cambi l'altezza della scrivania, i meccanismi in movimento e gli spazi tra i pannelli possono schiacciare il gatto.\n\nStabilità della sedia (importante): una base a cinque razze con ruote bloccabili previene il ribaltamento in caso di salto improvviso del gatto sullo schienale, oppure se il gatto si addormenta sotto le ruote della sedia.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Attenzione: da evitare",
+        "body": "• Lasciare la tazza di caffè vicino al portatile;\n• usare candele profumate vicino al gatto;\n• tenere farmaci sulla scrivania;\n• lasciare le forbici aperte;\n• conservare fili ed elastici per capelli sulla postazione di lavoro.",
+        "style": "warning",
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "opasnosti",
+    "title": "Pericoli in casa",
+    "intro": "La tua casa è una fortezza, ma per un gatto curioso è piena di trappole nascoste. Scopri come prevenire una tragedia.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "Apertura a ribalta",
+        "body": "Una finestra a ribalta è una trappola mortale. I gatti cercano di uscire, scivolano nella fessura stretta e restano incastrati, il che può causare soffocamento, necrosi dei tessuti o traumi alla colonna vertebrale.\n\nSoluzione: griglie di protezione laterali o sistemi «anti-gatto» (non le comuni zanzariere).",
+        "style": "warning",
+        "image": "dom_opasnosti_provetrivanie"
+      },
+      {
+        "heading": "Piccoli oggetti",
+        "body": "Elastici per capelli, aghi e fili possono essere scambiati dal gatto per un nuovo giocattolo. In questi casi l'istinto di caccia può causare lesioni alle zampe o agli organi interni. Un filo ingerito può «raggrinzire» l'intestino a fisarmonica.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Zona a rischio: la cucina",
+        "body": "Fornelli caldi, lavastoviglie aperte e cestelli di lavatrici — i gatti cercano lì calore o un rifugio. È importante che il piano cottura non si accenda se il gatto ci sale sopra. La soluzione migliore è avere manopole meccaniche o un blocco per il pannello touch.",
+        "style": "plain",
+        "image": "dom_opasnosti_kuhnya"
+      },
+      {
+        "heading": "Sostanze tossiche",
+        "body": "Molti oggetti comuni in casa sono sicuri per le persone, ma possono essere pericolosi o letalmente tossici per i gatti anche in piccole quantità.\n\nProdotti chimici per la casa: detergenti per pavimenti, candeggina, prodotti per sanitari, sgrassatori per forno, capsule per il bucato.\nOli essenziali: tea tree, eucalipto, menta, agrumi, cannella, chiodi di garofano.\nFarmaci: paracetamolo, ibuprofene, antidepressivi, integratori di ferro, farmaci contro il raffreddore. Non dare mai al gatto farmaci per uso umano senza la prescrizione del veterinario.",
+        "style": "warning",
+        "image": "dom_opasnosti_toksiny"
+      },
+      {
+        "heading": "Zona a rischio: le cucce",
+        "body": "Materiali pericolosi: scegli cucce con tessuti e imbottiture sicuri, evita materiali dall'odore chimico forte, controlla che il tessuto non scolorisca e non rilasci peli.\n\nRischio di ingestione di piccole parti: evita cucce con perline, bottoni o cordoncini decorativi cuciti; controlla regolarmente giocattoli e cucce per individuare eventuali danni.\n\nStabilità della struttura: fissa saldamente le mensole a parete e sostituisci il prodotto ai primi segni di strappo.\n\nRischio di surriscaldamento: non posizionare le cucce vicino a stufe e termosifoni.\n\nPulizia e allergeni: lava regolarmente le fodere removibili e usa materiali facili da pulire.",
+        "style": "plain",
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "vybor_korma",
+    "title": "La dieta del tuo gatto",
+    "intro": "Una guida compatta a un'alimentazione corretta.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "Regole rapide per un buon cibo",
+        "body": "Pro: carne come primo ingrediente; presenza di taurina; vitamine e minerali.\n\nContro: zucchero e dolcificanti; coloranti; sottoprodotti generici (non specificati).",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Cibo secco o umido",
+        "body": "Cibo secco — comodo da conservare e dosare, si può lasciare nella ciotola più a lungo, è più economico, adatto ai distributori automatici. Svantaggi: poca umidità (circa l'8-10%), richiede un accesso costante all'acqua.\n\nCibo umido — contiene il 70-85% di acqua, aiuta a mantenere l'equilibrio idrico, è più allettante per i gatti che bevono poco. Svantaggi: costa di più, si deteriora rapidamente dopo l'apertura, non va lasciato a lungo nella ciotola.\n\nAlimentazione combinata: ad esempio, cibo umido al mattino, una piccola porzione di secco a metà giornata, cibo umido alla sera.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Scegliere il cibo in base agli ingredienti",
+        "body": "Fai attenzione alla completezza nutrizionale e all'attendibilità delle informazioni. L'etichetta deve indicare che il cibo è completo ed equilibrato, adatto alla specifica fascia d'età e condizione dell'animale.\n\nControlla l'analisi garantita (percentuale minima di proteine grezze e grassi, percentuale massima di fibre e umidità). Gli standard AAFCO raccomandano almeno il 26% di proteine grezze nel cibo secco per gatti adulti e il 30% per i gattini.\n\nProteine: i gatti sono carnivori obbligati, quindi la base del cibo deve essere carne o pesce. Le prime voci dell'elenco degli ingredienti devono essere ingredienti specifici («pollo», «tacchino», «salmone»), non formulazioni vaghe come «carne e sottoprodotti». La presenza di taurina è indispensabile.\n\nGrassi: sono da preferire le fonti animali (grasso di pollo, olio di pesce, olio di salmone), fonti di omega-3 e omega-6.\n\nCarboidrati e fibre: i gatti non hanno bisogno di molti carboidrati; mais/grano/riso non sono la scelta migliore come base. La fibra è utile in quantità moderate (circa il 3-6%).\n\nAdditivi: meglio i conservanti naturali (vitamina E, vitamina C, estratto di rosmarino), evita BHA, BHT, etossichina.\n\nRischi di un cibo di scarsa qualità: allergie, problemi digestivi, obesità, carenze nutrizionali.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Parole di marketing: non farti ingannare",
+        "body": "Diciture come «Premium», «Super-premium», «Holistic», «GMO-free», «Naturale» vengono usate spesso e dicono poco: fai riferimento alla composizione reale e all'analisi garantita, non alle etichette di marketing.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Checklist per la scelta del cibo",
+        "body": "• Cibo completo, con la dicitura Complete/Completo sulla confezione, adatto alla categoria di animali giusta (gattini/adulti/sterilizzati/anziani);\n• I primi ingredienti sono proteine con un nome specifico («pollo», «salmone», «tacchino»), non formulazioni generiche come «carne»;\n• I grassi sono indicati in modo specifico (grasso di pollo, olio di pesce), senza formulazioni generiche;\n• Additivi privi di BHA, BHT, etossichina, coloranti artificiali ed esaltatori di sapidità;\n• Sono presenti vitamine e minerali, e l'analisi garantita rispetta gli standard AAFCO;\n• Confezione controllata: verifica la data di scadenza e l'integrità della confezione prima dell'acquisto.",
+        "style": "tip",
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "son_i_otdyh",
+    "title": "Sonno e riposo: creare il posto perfetto",
+    "intro": "Un'organizzazione corretta dello spazio influisce direttamente sulla salute fisica e mentale del tuo gatto.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "Regola generale: rifugi tranquilli",
+        "body": "Ogni gatto dovrebbe avere un posto dove nessuno lo disturba: scatole, tunnel o bozzoli in pile.",
+        "style": "plain",
+        "image": "dom_son_ubezhische"
+      },
+      {
+        "heading": "Varietà di superfici",
+        "body": "I gatti apprezzano avere una scelta — dalle cucce morbide in peluche alle semplici scatole di cartone, ogni posto ha la sua funzione in momenti diversi della giornata. Osserva cosa piace in particolare al tuo gatto.\n\nOpzioni: cucce morbide, scatole, mensole.",
+        "style": "plain",
+        "image": "dom_son_poverhnosti"
+      },
+      {
+        "heading": "Spazio verticale",
+        "body": "I punti di osservazione in alto permettono ai gatti di controllare il territorio, riducendo il livello di stress e ansia. È importante che ci siano più modi per raggiungere e lasciare questa zona.\n\nMensole a parete minimaliste; complessi da gioco multilivello.",
+        "style": "plain",
+        "image": "dom_son_vertikal"
+      },
+      {
+        "heading": "Armonia nel branco",
+        "body": "In una casa con più gatti la formula del riposo ideale è semplice: N + 1. Il numero di cucce deve superare di una unità il numero dei gatti, per evitare la competizione per le risorse. Meglio ancora se sono di più e distribuite in luoghi diversi.",
+        "style": "plain",
+        "image": "dom_son_garmoniya"
+      },
+      {
+        "heading": "Tipi di cucce",
+        "body": "Casette-capsula chiuse — ideali per i gatti che preferiscono nascondersi mentre riposano.\nCon bordi alti — cestini morbidi con bordi rialzati, ideali per i gatti a cui piace dormire rannicchiati a palla.\nAmache — strutture sospese che si fissano ai termosifoni, alle gambe delle sedie o alle finestre; il posto preferito dai gatti attivi che amano riposare in alto.\nMaterassini e tappetini — cucce piatte e trasportabili, adatte ai gatti di grossa taglia o a quelli a cui piace dormire distesi in tutta la loro lunghezza.\nCucce — modelli morbidi quadrati o rettangolari per l'uso quotidiano.",
+        "style": "plain",
+        "image": "dom_son_lezhanki"
+      }
+    ]
+  }
+]

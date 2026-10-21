@@ -1,0 +1,528 @@
+[
+  {
+    "id": "bezopasnost",
+    "title": "Sigurnost",
+    "intro": "Vaš dom je tvrđava za mačku. Uvjerite se da je svaki njegov kutak siguran i udoban.",
+    "heroImage": "dom_bezopasnost_hero",
+    "sections": [
+      {
+        "heading": "Mreže na prozorima",
+        "body": "Obične mreže protiv komaraca ne izdržavaju skok ili kandže mačke. A otvoreni prozori mogu dovesti do toga da se mačka zaglavi ili ispadne.\n\nPostoje dvije glavne vrste mreža za zaštitu mačaka:\n1) Mreže „anti-cat“ — od veoma izdržljive čelične mreže, čvrsto pričvršćene za ram metalnim nosačima po cijelom obimu.\n2) Plastični graničnici za otvor prozora — poznati i kao „zaštita za prozore na kip“.",
+        "style": "plain",
+        "image": "dom_bezopasnost_setki"
+      },
+      {
+        "heading": "Zaštita uglova i procepa",
+        "body": "Provjerite procepe između namještaja i zidova. Mačke mogu da se zaglave u uskim prostorima. Uobičajena mjesta:\n• između ormarića i zida;\n• iza frižidera;\n• iza veš-mašine;\n• između kauča i zida.\n\nJednostavno pravilo: ili mačka uopće ne smije da stane u procep, ili mora moći da izađe.",
+        "style": "plain",
+        "image": "dom_bezopasnost_uglov"
+      },
+      {
+        "heading": "Struja",
+        "body": "Sakrijte kablove u kanalice. Mačići obožavaju da grizu kablove, što može izazvati strujni udar, smrt ili opekotine usta.\n\nOpasna mjesta:\n• produžni kablovi;\n• punjači za telefon;\n• računarski kablovi;\n• lampice;\n• kablovi televizora.\n\nMnogo pomaže da kablove skupite u posebne kanalice i sakrijete ih.\n\nImajte na umu da mačke mogu gristi kablove iz radoznalosti, zbog mirisa ili kao reakciju na ponašanje čovjeka. Ako se to desi, ne plašite mačku i ne vičite — mirno i nježno joj skrenite pažnju sa kablova.",
+        "style": "plain",
+        "image": "dom_bezopasnost_elektro"
+      },
+      {
+        "heading": "Težak namještaj",
+        "body": "Pričvrstite police za knjige i televizore za zid. Mačke odlično skaču i njihova težina može da prevrne nepričvršćene predmete, što može povrijediti mačku ili ljude u blizini.\n\nGlavni predmeti na koje treba paziti:\n• police za knjige;\n• komode;\n• stelaže;\n• televizori;\n• zidne police;\n• vitrine za vino.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Hemijska sredstva",
+        "body": "Svako hemijsko sredstvo za domaćinstvo opasno je za životinje. To uključuje sredstva za:\n• čišćenje stakla;\n• čišćenje kupatila;\n• pranje podova;\n• pranje posuđa itd.\n\nČak i ako hemikalija dospije na krzno mačke, mačka će je olizati i ona će dospjeti u unutrašnje organe. Držite sva sredstva daleko od prostora mačke i iza zatvorenih vrata ormarića.\n\nPosebno opasni: izbjeljivač, sredstva za odgušenje odvoda, sredstvo za rernu, tablete za mašinu za sudove, kapsule za veš i koncentrirani rastvori za čišćenje.",
+        "style": "warning",
+        "image": "dom_bezopasnost_himiya"
+      },
+      {
+        "heading": "Balkon",
+        "body": "Svjež zrak je važan dio života životinje. Ali osim zraka i sunca, balkon može da krije i opasnost.\n\nPrvo i najvažnije pravilo je posebna zaštitna mreža po cijelom obimu balkona. Zatvorite i tehničke otvore — mačke su radoznale i guraju nos gdje god mogu.",
+        "style": "plain",
+        "image": "dom_bezopasnost_balkon"
+      },
+      {
+        "heading": "Dodatne stvari",
+        "body": "Kuhinja: vrela ringa; noževi; otvorena rerna; kanta za smeće.\n\nKupatilo: držite poklopac VC šolje spušten; uvijek provjerite veš-mašinu prije uključivanja; držite ormariće zatvorene; sigurno čuvajte tablete i kapsule.\n\nSvijeće i mirisi: etarska ulja; difuzeri; mirisni štapići; svijeće.\n\nKese i folije: plastične kese; ambalažna folija; streč folija.\n\nKonci i gumice: konac za šivenje; konac za vez; gumice; gumice za kosu.",
+        "style": "plain",
+        "image": "dom_bezopasnost_dop"
+      }
+    ]
+  },
+  {
+    "id": "eda_i_voda",
+    "title": "Hrana i voda",
+    "intro": "Napravite idealno mjesto za hranjenje svoje mačke, vodeći računa o udobnosti i prirodnim potrebama.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "1. Izbor činija",
+        "body": "Materijal je važan. Plastika skuplja bakterije i može izazvati akne na bradi. Preporučeni materijali: staklo, keramika i nerđajući čelik.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "2. Idealno mjesto",
+        "body": "Mačke vole navike i sigurnost. Nikad ne stavljajte hranu blizu toaleta.\n• Miran kutak bez promaje;\n• Daleko od bučnih uređaja;\n• Pogled na sobu radi osjećaja sigurnosti.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "3. Udobna visina",
+        "body": "Činije na postolju smanjuju opterećenje vrata i zglobova, naročito kod starijih mačaka. Nagib činije pod pravim uglom od 15 stepeni čini gutanje prirodnijim. Izaberite visinu prema visini mačke dok stoji.",
+        "style": "plain",
+        "image": "dom_eda_vysota"
+      },
+      {
+        "heading": "Savjet: dimenzije činije",
+        "body": "Širina činije: unutrašnji prečnik treba da bude bar 1.5–2 puta širi od lica mačke (sa brkovima). Za većinu odraslih mačaka optimalan prečnik je 15–18 cm; za velike rase (kao što je mejn kun) 18–22 cm. Ako je prečnik manji od 12–13 cm, brkovi mačke će stalno dodirivati ivice.\n\nDubina činije: 2–4 cm je idealno i za suvu i za vlažnu hranu. Visina ivice treba da bude oko 1/2–3/4 visine lica mačke. Ivice više od 5–6 cm pogodne su samo za veće količine hrane i manje su praktične za svakodnevno hranjenje.",
+        "style": "tip",
+        "image": "dom_eda_sovet"
+      }
+    ]
+  },
+  {
+    "id": "klimat",
+    "title": "Vrućina i hladnoća",
+    "intro": "Kako da zaštitite ljubimca od pregrijavanja i pothlađivanja.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "Ljetna vrućina",
+        "body": "• Uvijek držite činiju svježe vode na dohvat. Mačke piju više kad im je vruće.\n• Koristite rashladne podloge ili vlažne peškire, ali ne tjerajte mačku da leži na njima.\n• Izbjegavajte direktnu promaju od klima-uređaja — idealno, hladan zrak ne treba da duva direktno u mačku. Čistite filtere klima-uređaja po potrebi.\nNemojte: polivati mačku ledenom vodom; stavljati led direktno na tijelo; tjerati je da pije.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Opasnost od toplotnog udara!",
+        "body": "Pazite na: ubrzano disanje sa otvorenim ustima; izraženu letargiju; jarko crvene desni; odbijanje hrane ili vode; gubitak koordinacije.\nAko se ovi simptomi pojave, možda je potrebna hitna veterinarska pomoć.",
+        "style": "warning",
+        "image": null
+      },
+      {
+        "heading": "Zima",
+        "body": "Topli kreveti iznad poda i ovlaživanje suvog zraka u stanu. Napravite topla mjesta po kući: prostirke i mjesto bez promaje pomažu da se zadrži toplota.\n\nZimi je važno: izbjegavati promaju; ne stavljati krevet pored hladnog prozora; održavati vlažnost 40–60%; brisati šape mačke poslije šetnje (ako izlazi napolje).",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Skrivene opasnosti",
+        "body": "Vreli radijatori — dug kontakt može izazvati opekotine. Prozori otvoreni na kip — rizik od pothlađivanja i povreda.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Nešto što treba zapamtiti",
+        "body": "Mačke same biraju temperaturu koja im odgovara. Ako vaš ljubimac stalno leži na hladnom podu, krije se ispod ćebeta ili ostaje pored radijatora, to je znak da mu je prevruće ili prehladno.",
+        "style": "tip",
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "igry",
+    "title": "Igra",
+    "intro": "Za mačku koja živi u stanu igra nije samo zabava — to je izlaz za lovački instinkt. Svakodnevne igre od 15–30 minuta pomažu da se spriječe stres, gojaznost i destruktivno ponašanje.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "Sigurnost na prvom mjestu: izbor materijala",
+        "body": "Materijal igračaka je važan. Mačke se igraju šapama, ali igračke stavljaju i u usta.\n\nPrirodni materijali: vuna, perje, pamuk i lan, juta i sisal, drvo.\nSintetički materijali: flis, silikon za hranu, kvalitetna ABS plastika.\n\nIzbjegavajte jeftinu plastiku jakog mirisa (brzo se lomi, ima oštre ivice i miriše otrovno), duga vlakna i šljokice (niti se lako otkidaju i, ako se progutaju, mogu izazvati zapušenje crijeva) i sunđerastu gumu (mačka može da je pregrize, a komadići zaglave u želucu).\n\nSitni dijelovi: bez perli, nalijepljenih očiju ili dugmadi — mačka ih lako može odgristi i progutati, što dovodi do ozbiljnih povreda digestivnog trakta.",
+        "style": "warning",
+        "image": "dom_igry_materialy"
+      },
+      {
+        "heading": "Opća lista igračaka",
+        "body": "Tekstil i vuna: mekana igračka sa zvečkom od pamuka/lana; filcane loptice od 100% vune; platneni miševi i ribice bez nalijepljenih dijelova; kesice sa mačjom travom; plišani jastučići od flisa.\n\nDrvo i prirodna vlakna: štapići matabija za žvakanje; presovane loptice mačje trave; drveni lavirinti-zagonetke; loptice od sisal/juta užeta; grebalice i podloge za grebanje.\n\nSilikon i guma: igračke za žvakanje od silikona za hranu; igračke-četkice za masažu desni; prstenovi od izdržljive gume.\n\nPlastične interaktivne igračke (samo od ABS plastike): tornjevi sa stazama za loptice u više nivoa; interaktivne hranilice-zagonetke; igračke koje se ljuljaju i izbacuju poslastice; zatvorene plastične loptice sa zvončićem.\n\nIgračke za zajedničku igru: štapovi sa trakama od flisa ili prirodnim perjem; dugačke tekstilne vrpce nalik zmiji.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Samostalna zabava",
+        "body": "Igračke-zagonetke i hranilice-lavirinti zaokupljaju mačku dok vas nema. Najbolja motivacija je omiljena suva poslastica.\n\nPrimjeri: hranilice-zagonetke sa poklopcima koje mačka pomjera šapom; Catit Senses Food Tree; igračke-zagonetke Nina Ottosson različitih nivoa težine; interaktivne loptice sa poslasticama; njušne prostirke; kutije-zagonetke sa otvorima.",
+        "style": "plain",
+        "image": "dom_igry_samorazvlech"
+      },
+      {
+        "heading": "Oprez",
+        "body": "Laserski pokazivači: mogu izazvati frustraciju, jer se „plijen“ nikad ne može uhvatiti. Igru uvijek završite pravom igračkom koju mačka može da uhvati i stisne šapama.\n\nTrake: nikad ne ostavljajte mačku bez nadzora sa trakama ili kanapom — postoji rizik od gušenja ili gutanja konca. Najbolje ih je držati u zatvorenim kutijama do kojih mačka ne može da dođe.",
+        "style": "warning",
+        "image": null
+      },
+      {
+        "heading": "Zlatno pravilo: nadzor",
+        "body": "Nijedna igračka nije 100% sigurna. Redovno provjeravajte mačje igračke na habanje, otkinute dijelove ili pocepana mjesta. Vaša pažnja je najbolja garancija sigurnosti.",
+        "style": "tip",
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "tualet",
+    "title": "Toalet",
+    "intro": "Pravilan izbor toaleta i posipa direktno utiče na to da li će mačka obavljati nuždu tamo gdje treba.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "Izbor toaleta",
+        "body": "Otvoren tip („klasični“) — maksimalna preglednost za mačku, idealan za mačiće i starije mačke. Izaberite ivice od 15–20 cm i dužinu 1.5–2 puta veću od dužine tijela mačke.\n\nZatvoren toalet („privatnost“) — skriva mirise i posip i sprječava rasipanje. Neke mačke mogu se osjećati zarobljeno unutra — u početku probajte da skinete vratanca.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Gdje postaviti toalet",
+        "body": "Mirno mjesto — daleko od bučnih uređaja i prometnih hodnika.\nDaleko od hrane — mačke ne vole da obavljaju nuždu tamo gdje jedu ili piju.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Vrste posipa",
+        "body": "Mineralni koji se grudva (bentonitna glina) — odlično zadržava miris i pravi čvrste grudve, ali praši pri sipanju.\n\nDrveni (presovana piljevina, upijajući) — povoljan, mrvi se kad se navlaži, u malim količinama može se baciti u VC šolju i ekološki je.\n\nSilikonski (upijajući) — maksimalna upijajuća moć i kontrola mirisa, ali glasno šušti i može uplašiti plašljive mačke.\n\nBiljni posipi (soja, kukuruz, pšenica) — odlično se bacaju u VC šolju, rastvaraju se bez ostatka, sigurni su ako se slučajno pojedu, ali su skuplji i mogu privući glodare ako se čuvaju u vikendici.",
+        "style": "plain",
+        "image": "dom_tualet_mineralny",
+        "blocks": [
+          {
+            "text": "Mineralni koji se grudva (bentonitna glina) — odlično zadržava miris i pravi čvrste grudve, ali praši pri sipanju."
+          },
+          {
+            "image": "dom_tualet_mineralny"
+          },
+          {
+            "text": "Drveni (presovana piljevina, upijajući) — povoljan, mrvi se kad se navlaži, u malim količinama može se baciti u VC šolju i ekološki je."
+          },
+          {
+            "image": "dom_tualet_drevesny"
+          },
+          {
+            "text": "Silikonski (upijajući) — maksimalna upijajuća moć i kontrola mirisa, ali glasno šušti i može uplašiti plašljive mačke."
+          },
+          {
+            "image": "dom_tualet_silikagel"
+          },
+          {
+            "text": "Biljni posipi (soja, kukuruz, pšenica) — odlično se bacaju u VC šolju, rastvaraju se bez ostatka, sigurni su ako se slučajno pojedu, ali su skuplji i mogu privući glodare ako se čuvaju u vikendici."
+          },
+          {
+            "image": "dom_tualet_rastitelny"
+          }
+        ]
+      },
+      {
+        "heading": "Zlatno pravilo toaleta: N + 1",
+        "body": "Treba da imate jedan toalet više nego što u kući ima mačaka. To pomaže da se spriječe stres i sukobi oko teritorije.",
+        "style": "tip",
+        "image": null
+      },
+      {
+        "heading": "Njega i higijena",
+        "body": "Svakodnevno: uklanjajte grudve i čvrst otpad 1–2 puta dnevno.\nSvake 2 sedmice/mjesec: potpuno zamijenite posip i operite toalet blagim sredstvom.\n\nMaterijal je važan: plastika je pristupačnija, ali vremenom upija mirise, a u ogrebotinama se mogu skupljati bakterije. Keramički ili metalni toaleti higijenskije se dezinficiraju, ali su skuplji.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Skrivene pretnje",
+        "body": "Mirisi: miris lavande vama može biti prijatan, ali odbija osjetljiv mačji nos.\nBučna mjesta: toalet pored veš-mašine je recept za iznenadni strah i odbijanje mačke da koristi to mjesto.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Ako mačka ignorira toalet",
+        "body": "Medicinski: prvo sa veterinarom isključite cistitis ili kamen u mokraćnim putevima.\nPonašanje: provjerite čistoću i probajte da promijenite vrstu posipa ili mjesto toaleta.\n\nMačke mogu ignorisati toalet zbog stresa, neodgovarajućeg posipa, jakog mirisa ili zato što ih plaše zvuk i osjećaj određenih zrnaca.",
+        "style": "plain",
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "uhod",
+    "title": "Njega i ulepšavanje",
+    "intro": "Redovna njega pomaže da rano uočite promjene u zdravlju mačke. Većina postupaka traje samo nekoliko minuta, ali je važnije da se rade mirno i dosljedno.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "Šta provjeravati kod kuće",
+        "body": "• oči — bez iscetka, pojačanog suzenja ili crvenila;\n• nos — bez neobičnog iscetka;\n• uši — bez jakog mirisa, viška ušne masti ili stalnog češanja;\n• zubi i desni — kamenac, loš zadah, crvenilo;\n• koža i krzno — perut, kraste, opadanje dlake, paraziti, spletena dlaka;\n• šape i kandže — pukotine, povrede, predugačke kandže;\n• težina i kondicija — nagle promjene zahtijevaju pažnju;\n• ponašanje — apetit, aktivnost, san, korišćenje toaleta.",
+        "style": "plain",
+        "image": "dom_uhod_provera"
+      },
+      {
+        "heading": "Svakodnevna / povremena njega",
+        "body": "Svakodnevno: svježa voda; normalan apetit; čist toalet; brza provjera zdravlja; aktivnost i igra.\n\nPovremeno: četkanje; provjera kandži; pranje zuba; provjera ušiju i očiju; praćenje težine.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Važno",
+        "body": "Njega kod kuće ne zamjenjuje veterinarski pregled. Nova kvrga, dugotrajna letargija, odbijanje hrane, nagla promjena ponašanja, stalno češanje ili drugi neobični simptomi razlozi su da odete veterinaru.",
+        "style": "warning",
+        "image": null
+      },
+      {
+        "heading": "Skraćivanje kandži",
+        "body": "Mačkama obično ne treba mnogo skraćivati kandže. Glavni cilj je ukloniti samo oštar vrh, bez diranja živog dijela kandže.\n\nPriprema: grickalica za kandže za mačke; dobro osvjetljenje; mirno okruženje; poslastica za poslije.\n\nKako skraćivati: 1) pustite mačku da se navikne na mirno dodirivanje šapa; 2) nježno pritisnite jastučić šape da kandža izađe; 3) pronađite svijetli/ružičasti unutrašnji dio kandže; 4) odsijecite samo providni, oštri vrh (milimetar-dva); 5) ako mačka postane nemirna, uradite jednu-dvije šape i nastavite kasnije.\n\nKoliko često: redovno provjeravajte kandže — učestalost zavisi od uzrasta, aktivnosti i toga da li mačka koristi grebalicu. Ako slučajno zasiječete živi dio, može doći do krvarenja i bola — koristite hemostatsko sredstvo za životinje i ne nastavljajte na silu. Grebalice ostaju važan dio prirodne njege kandži i ponašanja mačke.",
+        "style": "plain",
+        "image": "dom_uhod_kogti"
+      },
+      {
+        "heading": "Četkanje",
+        "body": "Četkanje pomaže da se ukloni mrtva dlaka i smanjuje količinu dlake koju mačka proguta dok se umiva.\n\nPrednosti: manje dlake po kući; manje čvorova; lakše praćenje stanja kože; lakše uočavanje parazita, iritacija i rana; posebno korisno za dugodlake mačke.\n\nKako izabrati alatku: kratka dlaka — mekana četka ili gumena rukavica za njegu; srednja dlaka — četka sa odgovarajućim razmakom zubaca i češalj; duga dlaka — češalj i četka koji nježno dopiru do korijena.",
+        "style": "plain",
+        "image": "dom_uhod_vychesyvanie"
+      }
+    ]
+  },
+  {
+    "id": "samovygul",
+    "title": "Slobodan izlazak napolje",
+    "intro": "Puštanje mačke da slobodno šeta napolju može djelovati „prirodno“, ali savremeno gradsko okruženje krije smrtonosne opasnosti. Statistički, mačke koje žive u stanu uz pravilnu njegu žive 15–20 godina, dok mačke koje žive napolju žive samo 4–5 godina.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "Glavni rizici",
+        "body": "Saobraćaj i trovanja od strane zlonamjernih ljudi najčešći su uzroci smrti mačaka u gradovima.\n\nGrabljivci i psi: opasnost predstavljaju čopori pasa lutalica i divlje životinje.\nInfekcije: mačja leukemija, virus imunodeficijencije i besnilo mogu se prenijeti preko životinja koje mačka može da uhvati i pojede.\nOkrutnost ljudi: trovači, lovci na životinje i jednostavno zlonamjerni ljudi mogu nauditi bespomoćnoj, povjerljivoj životinji.",
+        "style": "warning",
+        "image": null
+      },
+      {
+        "heading": "Alternative slobodnom izlasku: šetnje na povodcu",
+        "body": "Sigurno istraživanje svijeta pod vašim nadzorom. Ne uživa svaka mačka u šetnji na povodcu, ali uz pravu pripremu to može biti odličan izvor raznovrsnosti u njenim danima.\n\nVažno tokom šetnji: uvjerite se da su vakcine važeće; ne dozvoljavajte mački da napolju bilo šta jede ili da stupa u kontakt sa drugima — neka jede samo iz vaših ruku ili kod kuće.",
+        "style": "plain",
+        "image": "dom_samovygul_shleyka"
+      },
+      {
+        "heading": "Ketio (ograđeni prostor napolju)",
+        "body": "Produžetak zatvoren mrežom koji mački omogućava da udiše svjež zrak. Ako imate kuću, možete napraviti poseban ograđeni prostor za mačku. Glavni cilj takvih konstrukcija je siguran spoljni prostor.\n\nOvakvi prostori obično se prave od punog drveta i mreže. Ako u blizini mogu biti opasne životinje, koristite ojačanu mrežu i zaštitu od kopanja.",
+        "style": "plain",
+        "image": "dom_samovygul_volier"
+      }
+    ]
+  },
+  {
+    "id": "cvety",
+    "title": "Cvijeće i biljke",
+    "intro": "Mačke obožavaju da istražuju biljke, ali neke su otrovne i opasne po život. Ovaj vodič će vam pomoći da izaberete sigurne biljke i zaštitite ljubimca.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "Spisak opasnog cvijeća",
+        "body": "Ljiljani i ljiljanke — posebno opasni, mogu izazvati teško oštećenje bubrega.\nDifenbahija — iritacija i otok usta i grla.\nFilodendron — iritacija sluzokože, slinjenje, otežano gutanje.\nMonstera — sadrži nerastvorljive kalcijum-oksalate, izaziva peckanje i otok u ustima.\nKaladijum — iritacija usta, otok jezika i usana.\nSpatifilum — iritacija sluzokože i slinjenje.\nSansevijerija — može izazvati povraćanje i proliv.\nBršljan — moguće povraćanje, proliv i bol u stomaku.\nCikas — izuzetno otrovan, može izazvati teško oštećenje jetre.\nAzaleja i rododendron — povraćanje, slabost, poremećaji srčanog ritma.\nOleander — veoma otrovan, može izazvati ozbiljne probleme sa srcem.\nLale — posebno su opasne lukovice, izazivaju povraćanje i iritaciju digestivnog trakta.\nNarcisi — lukovice su otrovne, izazivaju povraćanje, proliv i neurološke simptome.\nZumbuli — lukovice izazivaju iritaciju digestivnog trakta.\nHrizanteme — slinjenje, povraćanje, proliv, gubitak koordinacije.\nKalanhoja — otrovna za rad srca.\nAloja vera — povraćanje, proliv i letargija.",
+        "style": "warning",
+        "image": null
+      },
+      {
+        "heading": "Prevencija",
+        "body": "Prevencija je ključ sigurnosti. Ako niste sigurni da je biljka sigurna za mačku, najbolje je da je stavite tamo gdje ljubimac ne može da je dohvati. Ako sumnjate, izaberite drugu biljku.",
+        "style": "tip",
+        "image": null
+      },
+      {
+        "heading": "Šta uraditi u slučaju trovanja",
+        "body": "1. Ne paničite i izolirajte mačku — ako je moguće, uklonite ostatke biljke iz njenih usta i ne dozvolite joj da pojede još nešto.\n2. Fotografirajte biljku — veterinar mora tačno da zna koji toksin je izazvao trovanje da bi izabrao pravi antidot.\n3. Odmah idite u kliniku — ne pokušavajte sami da izazovete povraćanje bez uputstva veterinara. Svaki minut je važan.",
+        "style": "plain",
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "aktivnost",
+    "title": "Aktivnost",
+    "intro": "Kretanje je ključ zdravlja i dugovječnosti vaše mačke. Napravite prostor za aktivan život.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "Svakodnevna vježba",
+        "body": "Redovne igre (15–30 minuta dnevno) pomažu da se spriječi gojaznost i održi mišićni tonus. Koristite štapove sa perjem i laserske pokazivače da oponašate lov.\n\nPrednosti: smanjuje stres; smanjuje noćnu aktivnost; sprječava destruktivno ponašanje; pomaže u kontroli težine; zadovoljava lovački instinkt.",
+        "style": "plain",
+        "image": "dom_aktivnost_ezhednevnye"
+      },
+      {
+        "heading": "Vertikalne rute",
+        "body": "Penjalice za mačke i zidni stepenici omogućavaju mački da ispolji instinkt penjanja i da se osjeća sigurno na visini.\n\nŠta to obuhvata: grebalice visoke najmanje 80 cm; zidne police; penjalice za mačke; viseće ležaljke za prozor; mostiće.",
+        "style": "plain",
+        "image": "dom_aktivnost_vertikalnye"
+      },
+      {
+        "heading": "Kako da znate da mački treba više igre",
+        "body": "Ako je mački dosadno, može:\n• da vas budi noću;\n• da grebe namještaj;\n• da glasno mjauče;\n• da se prejeda;\n• da se prekomjerno liže do ćelavih mjesta;\n• da napada vaše noge.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Tok igre",
+        "body": "Opći ciklus: lov → hvatanje → jelo → odmor. Drugim riječima: igra, zatim mala poslastica ili porcija hrane, zatim odmor. Ovaj ciklus veoma odgovara prirodnom ponašanju.\n\n1. Traženje plijena — pomjerajte igračku polako, sakrijte je iza namještaja i pustite mačku da je posmatra i „vreba“.\n2. Jurnjava — mijenjajte brzinu i pravac, oponašajte ponašanje ptice ili miša i pustite mačku da se prišunja.\n3. Hvatanje — nemojte stalno izmicati igračku; pustite mačku da nekoliko puta uspješno uhvati „plijen“ i da ga drži i grize.\n\nKako da znate da se mačka naigrala: mirno se odmara poslije igre; ne traži stalno pažnju; održava normalnu težinu; manje oštećuje namještaj; pokazuje interesovanje za svoje igračke.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Točak za trčanje",
+        "body": "Pomaže mački koja živi u stanu da potroši energiju, naročito ako nema slobodan pristup napolju. Dobar dodatak igri, ali ne zamjenjuje druženje sa vama.\n\nPrednosti: smanjuje rizik od gojaznosti; održava mišiće i zglobove u dobrom stanju; smanjuje dosadu i stres; koristan za aktivne rase (bengalska, abisinska, orijentalna, savana).\n\nDobro je znati: ne počinje svaka mačka odmah da koristi točak — nekima treba nekoliko sedmica da se naviknu; nikad ne tjerajte mačku da trči; podstičite interesovanje poslasticama; točak treba da se okreće glatko i skoro nečujno.",
+        "style": "plain",
+        "image": "dom_aktivnost_koleso"
+      },
+      {
+        "heading": "Mentalna stimulacija",
+        "body": "Hranilice-zagonetke i interaktivne igračke tjeraju mačku da „radi“ za svoju hranu, što oponaša prirodno ponašanje i sprječava dosadu.\n\nPrimjeri: tegle sa poklopcima na klizanje; loptice koje izbacuju poslastice; lavirinti sa poslasticama; kutije sa otvorima; njušne prostirke.",
+        "style": "plain",
+        "image": "dom_aktivnost_intellekt"
+      },
+      {
+        "heading": "Savjeti",
+        "body": "„Mijenjajte mačje igračke svake sedmice. Novina je najbolji podsticaj za mačju radoznalost.“\nDvije kratke igre od 10–15 minuta bolje su od jedne duge — tako se mačka ne umori prerano i zadržava interesovanje.",
+        "style": "tip",
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "rabochee_mesto",
+    "title": "Vaš radni prostor",
+    "intro": "Uređenje kućne kancelarije prilagođene mački zahtijeva ravnotežu između vaše udobnosti i sigurnosti ljubimca.",
+    "heroImage": "dom_rabota_hero",
+    "sections": [
+      {
+        "heading": "01. Podjela prostora",
+        "body": "Mačke vole da budu u centru zbivanja. Umjesto da ih stalno tjerate sa stola, dajte im njihovo mjesto: mjesto na prozoru (savršeno za posmatranje ptica) ili drugu policu na komadu namještaja pored stola, gdje mačka može da se odmara.\n\nDobra opcija je polica na nosaču koja se pričvršćuje za ploču stola i može da se okreće u raznim pravcima — mačka ostaje blizu, a ne smeta vam u radu.",
+        "style": "plain",
+        "image": "dom_rabota_razdelenie"
+      },
+      {
+        "heading": "02. Organizacija kablova",
+        "body": "Kutije za kablove — sakrijte produžne kablove u posebne kutije da mačka ne bi prilazila utičnicama.\nZaštitne cijevi za kablove — koristite tvrde cijevi za kablove koje mačka voli da grize (punjači, kablovi monitora).",
+        "style": "plain",
+        "image": "dom_rabota_provoda"
+      },
+      {
+        "heading": "03. Zaštita tastature",
+        "body": "Čuvena „šetnja po tastaturi“ može dovesti do slučajno obrisanih fajlova ili čudnih poruka kolegama.\n\nKoristite providni akrilni most iznad tastature ili postavite „mamac“ — stara tastatura u blizini može da privuče pažnju mačke.",
+        "style": "plain",
+        "image": "dom_rabota_klaviatura"
+      },
+      {
+        "heading": "04. Ergonomija i visina",
+        "body": "Birajte namještaj vodeći računa i o skokovima ljubimca i o sopstvenom zdravlju.\n\nSto podesive visine (preporučuje se): omogućava vam da brzo podignete radnu površinu ako mačka postane previše uporna. Važno: imajte na umu da pri podešavanju visine mehanizam i procepi između ploča mogu priklještiti mačku.\n\nStabilnost stolice (važno): baza sa pet kraka i točkićima koji se zaključavaju spriječiće prevrtanje ako mačka iznenada skoči na naslon ili ako spava ispod točkića stolice.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Oprez: ne preporučuje se",
+        "body": "• Ostavljati šolju kafe pored laptopa;\n• koristiti mirisne svijeće blizu mačke;\n• držati lijekove na stolu;\n• ostavljati otvorene makaze;\n• držati konce i gumice za kosu na radnom mjestu.",
+        "style": "warning",
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "opasnosti",
+    "title": "Opasnosti u kući",
+    "intro": "Vaš dom je tvrđava, ali za radoznalu mačku pun je skrivenih zamki. Saznajte kako da spriječite tragediju.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "Prozori otvoreni na kip",
+        "body": "Prozor otvoren na kip je smrtonosna zamka. Mačke pokušavaju da se provuku, skliznu u uski procep i zaglave se, što može dovesti do gušenja, nekroze tkiva ili povrede kičme.\n\nRješenje: bočne zaštitne rešetke ili sistemi za prozore „anti-cat“ (ne mreže protiv komaraca).",
+        "style": "warning",
+        "image": "dom_opasnosti_provetrivanie"
+      },
+      {
+        "heading": "Sitni predmeti",
+        "body": "Gumice za kosu, igle i konci mački mogu ličiti na novu igračku. Lovački instinkt u tim slučajevima može dovesti do povreda šapa ili unutrašnjih organa. Progutan konac može skupiti crijeva kao harmoniku.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Zona rizika: kuhinja",
+        "body": "Vrela ringa, otvorene mašine za sudove i bubnjevi veš-mašina — mačke tamo traže toplotu ili skrovište. Važno je da se ringa ne može uključiti samo zato što se mačka popela na nju. Najbolje opcije su mehanički prekidači ili zaključavanje na tač panelu.",
+        "style": "plain",
+        "image": "dom_opasnosti_kuhnya"
+      },
+      {
+        "heading": "Otrovne supstance",
+        "body": "Mnoge svakodnevne stvari u kući sigurne su za ljude, ali mogu biti opasne ili čak smrtonosno otrovne za mačke, čak i u malim količinama.\n\nHemijska sredstva: sredstva za pod, izbjeljivač, sredstva za odvod, sredstva za rernu, kapsule za veš.\nEtarska ulja: čajno drvo, eukaliptus, nana, citrusi, cimet, karanfilić.\nLijekovi: paracetamol, ibuprofen, antidepresivi, vitamini sa gvožđem, lijekovi protiv prehlade. Nikad ne dajte mački lijek za ljude bez uputstva veterinara.",
+        "style": "warning",
+        "image": "dom_opasnosti_toksiny"
+      },
+      {
+        "heading": "Zona rizika: kreveti",
+        "body": "Opasni materijali: birajte krevete od sigurnih tkanina i punjenja, izbjegavajte materijale jakog hemijskog mirisa i provjerite da tkanina ne pušta male dlačice ili vlakna.\n\nRizik od gutanja dijelova: izbjegavajte krevete sa prišivenim perlama, dugmadima ili ukrasnim vrpcama; redovno provjeravajte igračke i krevete na oštećenja.\n\nStabilnost: čvrsto pričvrstite zidne police i zamijenite svaki predmet na prvi znak cijepanja.\n\nRizik od pregrijavanja: ne stavljajte krevete pored grijalica ili radijatora.\n\nČistoća i alergeni: redovno perite skidljive navlake i koristite materijale koji se lako čiste.",
+        "style": "plain",
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "vybor_korma",
+    "title": "Ishrana vašeg ljubimca",
+    "intro": "Vodič kroz pravilnu ishranu u sažetom obliku.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "Brza pravila za dobru hranu",
+        "body": "Za: meso kao prvi sastojak; prisustvo taurina; vitamini i minerali.\n\nProtiv: šećer i zaslađivači; vještačke boje; nejasni „nusproizvodi“ bez pojašnjenja.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Suva ili vlažna hrana",
+        "body": "Suva hrana — lako se čuva i dozira, može duže da stoji u činiji, ekonomičnija je, pogodna za automatske hranilice. Mane: malo vlage (oko 8–10%), zahtijeva stalni pristup vodi.\n\nVlažna hrana — sadrži 70–85% vode, pomaže ravnotežu tečnosti, privlačnija je mačkama koje malo piju. Mane: skuplja je, brzo se kvari kad se otvori, ne može dugo da stoji u činiji.\n\nKombinovano hranjenje: na primjer, vlažna hrana ujutro, mala porcija suve u podne i ponovo vlažna uvečer.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Izbor hrane prema sastojcima",
+        "body": "Usredsredite se na potpunost ishrane i pouzdanost informacija. Na etiketi treba da piše da je hrana potpuna i izbalansirana i pogodna za uzrast i stanje vaše mačke.\n\nProvjerite garantovanu analizu (minimalni % sirovih proteina i masti, maksimalni % vlakana i vlage). Standardi AAFCO preporučuju najmanje 26% sirovih proteina u suvoj hrani za odrasle mačke i 30% za mačiće.\n\nProteini: mačke su obavezni mesožderi, pa osnova hrane treba da bude meso ili riba. Prvi na spisku sastojaka treba da budu konkretni sastojci („piletina“, „puretina“, „losos“), a ne nejasni izrazi kao „meso i nusproizvodi“. Taurin mora biti prisutan.\n\nMasti: poželjni su životinjski izvori (pileća mast, riblje ulje, ulje lososa) — izvor omega-3 i omega-6.\n\nUgljeni hidrati i vlakna: mačkama ne treba mnogo ugljenih hidrata, pa kukuruz/pšenica/riža nisu idealni kao osnovni sastojak. Vlakna su korisna u umjerenoj količini (oko 3–6%).\n\nAditivi: poželjni su prirodni konzervansi (vitamin E, vitamin C, ekstrakt ruzmarina) — izbjegavajte BHA, BHT i etoksikvin.\n\nRizici loše hrane: alergije, problemi sa varenjem, gojaznost, nedostatak hranljivih materija.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Reklamne riječi: ne dajte se zavarati",
+        "body": "Oznake poput „Premium“, „Super-premium“, „Holistic“, „bez GMO“ i „Prirodno“ koriste se često i znače vrlo malo — usredsredite se na stvarni spisak sastojaka i garantovanu analizu, a ne na reklamne oznake.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Kontrolna lista za izbor hrane",
+        "body": "• Potpuna i izbalansirana hrana — na pakovanju treba da piše „Complete“/„Potpuna i izbalansirana“ i da odgovara pravom životnom dobu (mače/odrasla/sterilizirana/starija);\n• Prvi sastojci su proteini sa konkretnim nazivom („piletina“, „losos“, „puretina“), a ne nejasni izrazi kao „meso“;\n• Masti su navedene konkretno (pileća mast, riblje ulje), a ne uopćeno;\n• Među aditivima nema BHA, BHT, etoksikvina, vještačkih boja ili pojačivača ukusa;\n• Ima vitamina i minerala, a garantovana analiza ispunjava standarde AAFCO;\n• Pakovanje je provjereno: prije kupovine provjerite rok trajanja i da je pakovanje neoštećeno.",
+        "style": "tip",
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "son_i_otdyh",
+    "title": "San i odmor: savršeno mjesto",
+    "intro": "Način na koji uredite prostor direktno utiče na fizičko i psihičko zdravlje vašeg ljubimca.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "Opće pravilo: mirna skloništa",
+        "body": "Svaka mačka treba da ima mjesto gdje je ništa neće uznemiravati: kutije, tunele ili kukuljice od flisa.",
+        "style": "plain",
+        "image": "dom_son_ubezhische"
+      },
+      {
+        "heading": "Raznovrsne površine",
+        "body": "Mačke cijene mogućnost izbora — od mekanih plišanih kreveta do običnih kartonskih kutija, a svako mjesto služi svojoj svrsi u različito doba dana. Posmatrajte šta vaša mačka voli.\n\nOpcije: mekani kreveti, kutije, police.",
+        "style": "plain",
+        "image": "dom_son_poverhnosti"
+      },
+      {
+        "heading": "Vertikalni prostor",
+        "body": "Visoka mjesta za posmatranje omogućavaju mačkama da nadgledaju svoju teritoriju, što smanjuje stres i anksioznost. Važno je da postoji nekoliko načina da se do tog mjesta popnu i siđu.\n\nMinimalističke zidne police; tornjevi za mačke u više nivoa.",
+        "style": "plain",
+        "image": "dom_son_vertikal"
+      },
+      {
+        "heading": "Sklad u kući sa više mačaka",
+        "body": "U kući sa više ljubimaca formula za idealan odmor je jednostavna: N + 1. Kreveta treba da bude jedan više nego mačaka, da ne bi bilo nadmetanja oko resursa. A još više — na različitim mjestima — još je bolje.",
+        "style": "plain",
+        "image": "dom_son_garmoniya"
+      },
+      {
+        "heading": "Vrste kreveta",
+        "body": "Zatvoreni kreveti-pećine — idealni za mačke koje vole da se sakriju dok se odmaraju.\nKreveti sa uzdignutim ivicama — mekane korpe sa visokim ivicama, idealne za mačke koje se u snu sklupčaju u klupko.\nViseće ležaljke — konstrukcije koje se kače na radijator, nogu stolice ili prozor; omiljeno mjesto aktivnih ljubimaca koji vole da se odmaraju na visini.\nProstirke i jastuci — ravne, prenosive podloge, pogodne za krupnije mačke ili one koje spavaju opružene.\nKreveti-jastuci — kvadratne ili pravougaone mekane opcije za svakodnevnu upotrebu.",
+        "style": "plain",
+        "image": "dom_son_lezhanki"
+      }
+    ]
+  }
+]

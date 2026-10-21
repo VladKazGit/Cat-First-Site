@@ -1,0 +1,825 @@
+[
+  {
+    "icon": "LocalHospital",
+    "title": "Posjeta veterinarskoj klinici",
+    "intro": null,
+    "warning": null,
+    "sections": [
+      {
+        "heading": null,
+        "items": [
+          {
+            "label": "Veterinarski pasoš",
+            "note": null
+          },
+          {
+            "label": "Transporter",
+            "note": null
+          },
+          {
+            "label": "Upijajuća podloga",
+            "note": null
+          },
+          {
+            "label": "Omiljena poslastica",
+            "note": null
+          },
+          {
+            "label": "Lijekovi (ako ih ima)",
+            "note": null
+          },
+          {
+            "label": "Nedavni rezultati analiza",
+            "note": null
+          },
+          {
+            "label": "Video simptoma (ako postoji)",
+            "note": null
+          },
+          {
+            "label": "Spisak pitanja za veterinara",
+            "note": null
+          },
+          {
+            "label": "Bilješke o ponašanju mačke u posljednjih nekoliko dana",
+            "note": null
+          }
+        ]
+      }
+    ],
+    "footerNote": null
+  },
+  {
+    "icon": "Pets",
+    "title": "Vaše prvo mače kod kuće",
+    "intro": null,
+    "warning": null,
+    "sections": [
+      {
+        "heading": "Prije dolaska mačeta",
+        "items": []
+      },
+      {
+        "heading": "Sigurnost u kući",
+        "items": [
+          {
+            "label": "Postavite zaštitne mreže za mačke na prozore.",
+            "note": null
+          },
+          {
+            "label": "Obezbijedite prozore otvorene na kip radi provjetravanja.",
+            "note": null
+          },
+          {
+            "label": "Sklonite električne kablove van domašaja.",
+            "note": null
+          },
+          {
+            "label": "Držite hemijska sredstva i lijekove van domašaja.",
+            "note": null
+          },
+          {
+            "label": "Uklonite otrovne sobne biljke.",
+            "note": null
+          },
+          {
+            "label": "Provjerite uske procepe iza namještaja i uređaja.",
+            "note": null
+          },
+          {
+            "label": "Pričvrstite visok namještaj i police.",
+            "note": null
+          },
+          {
+            "label": "Sklonite sitne predmete, konce, gumice i kese.",
+            "note": null
+          },
+          {
+            "label": "Učinite visoka mjesta sigurnim da spriječite pad.",
+            "note": null
+          }
+        ]
+      },
+      {
+        "heading": "Osnovne stvari",
+        "items": []
+      },
+      {
+        "heading": "Toalet",
+        "items": [
+          {
+            "label": "Posuda za toalet.",
+            "note": null
+          },
+          {
+            "label": "Posip.",
+            "note": null
+          },
+          {
+            "label": "Lopatica.",
+            "note": null
+          },
+          {
+            "label": "Podmetač za posip.",
+            "note": null
+          }
+        ]
+      },
+      {
+        "heading": "Hrana i voda (po 1 ili više)",
+        "items": [
+          {
+            "label": "Činija za hranu.",
+            "note": null
+          },
+          {
+            "label": "Činija ili fontana za vodu.",
+            "note": null
+          },
+          {
+            "label": "Hrana koju je mače već jelo.",
+            "note": null
+          },
+          {
+            "label": "Poslastice.",
+            "note": null
+          }
+        ]
+      },
+      {
+        "heading": "San i odmor",
+        "items": [
+          {
+            "label": "Krevet.",
+            "note": null
+          },
+          {
+            "label": "Ćebe.",
+            "note": null
+          },
+          {
+            "label": "Skrovište ili kućica.",
+            "note": null
+          }
+        ]
+      },
+      {
+        "heading": "Igra",
+        "items": [
+          {
+            "label": "Grebalica.",
+            "note": null
+          },
+          {
+            "label": "Štap sa perjem.",
+            "note": null
+          },
+          {
+            "label": "Loptice.",
+            "note": null
+          },
+          {
+            "label": "Interaktivne igračke.",
+            "note": null
+          }
+        ]
+      },
+      {
+        "heading": "Za prevoz",
+        "items": [
+          {
+            "label": "Transporter.",
+            "note": null
+          },
+          {
+            "label": "Upijajuća podloga.",
+            "note": null
+          },
+          {
+            "label": "Pločica sa podacima (ako je potrebna).",
+            "note": null
+          }
+        ]
+      },
+      {
+        "heading": "Prvi dan kod kuće",
+        "items": [
+          {
+            "label": "Otvorite transporter i pustite mače da izađe samo.",
+            "note": null
+          },
+          {
+            "label": "Pokažite mu gdje je toalet.",
+            "note": null
+          },
+          {
+            "label": "Pokažite mu činije za hranu i vodu.",
+            "note": null
+          },
+          {
+            "label": "Ne pokazujte mu cijeli stan odjednom — počnite od jedne sobe i otvarajte više prostora kako mače pokazuje interesovanje.",
+            "note": null
+          },
+          {
+            "label": "Ne podižite ga ako nije neophodno.",
+            "note": null
+          },
+          {
+            "label": "Pustite ga da mirno istraži prostor.",
+            "note": null
+          },
+          {
+            "label": "Ne pozivajte goste prvog dana.",
+            "note": null
+          }
+        ]
+      },
+      {
+        "heading": "Prvih 7 dana",
+        "items": [
+          {
+            "label": "Dajte mu hranu na koju je naviklo.",
+            "note": null
+          },
+          {
+            "label": "Ne mijenjajte posip.",
+            "note": null
+          },
+          {
+            "label": "Držite se rasporeda hranjenja.",
+            "note": null
+          },
+          {
+            "label": "Igrajte se svakodnevno, 10–20 minuta po igri.",
+            "note": null
+          },
+          {
+            "label": "Pratite njegov apetit.",
+            "note": null
+          },
+          {
+            "label": "Pratite koliko vode pije.",
+            "note": null
+          },
+          {
+            "label": "Pratite stolicu i mokrenje.",
+            "note": null
+          },
+          {
+            "label": "Postepeno mu pokazujte ostale sobe.",
+            "note": null
+          }
+        ]
+      },
+      {
+        "heading": "Veterinarska njega",
+        "items": [
+          {
+            "label": "Zakažite prvi pregled.",
+            "note": null
+          },
+          {
+            "label": "Provjerite da li ima mikročip.",
+            "note": null
+          },
+          {
+            "label": "Provjerite raspored vakcinacije.",
+            "note": null
+          },
+          {
+            "label": "Razgovarajte o zaštiti od parazita.",
+            "note": null
+          },
+          {
+            "label": "Pitajte koja ishrana se preporučuje.",
+            "note": null
+          }
+        ]
+      },
+      {
+        "heading": "Ako kod kuće imate druge ljubimce",
+        "items": [
+          {
+            "label": "Pripremite posebnu sobu.",
+            "note": null
+          },
+          {
+            "label": "Odvojene činije.",
+            "note": null
+          },
+          {
+            "label": "Odvojen toalet.",
+            "note": null
+          },
+          {
+            "label": "Ne upoznajte životinje odmah.",
+            "note": null
+          },
+          {
+            "label": "Redovno razmjenjujte mirise životinja pomoću predmeta sa njihovim mirisom.",
+            "note": null
+          },
+          {
+            "label": "Postepeno organizirajte njihove prve susrete.",
+            "note": null
+          }
+        ]
+      },
+      {
+        "heading": "Poslije perioda prilagođavanja",
+        "items": [
+          {
+            "label": "Izaberite odgovarajuću hranu.",
+            "note": null
+          },
+          {
+            "label": "Uspostavite raspored hranjenja.",
+            "note": null
+          },
+          {
+            "label": "Uredite vertikalni prostor.",
+            "note": null
+          },
+          {
+            "label": "Nabavite dodatne grebalice.",
+            "note": null
+          },
+          {
+            "label": "Zakažite sterilizaciju (prema uzrastu i preporukama veterinara).",
+            "note": null
+          },
+          {
+            "label": "Napravite digitalni pasoš ljubimca.",
+            "note": null
+          }
+        ]
+      }
+    ],
+    "footerNote": null
+  },
+  {
+    "icon": "Groups",
+    "title": "Upoznavanje dvije mačke",
+    "intro": null,
+    "warning": null,
+    "sections": [
+      {
+        "heading": "Prije susreta",
+        "items": [
+          {
+            "label": "Posebna soba",
+            "note": null
+          },
+          {
+            "label": "Drugi (ili treći) toalet",
+            "note": null
+          },
+          {
+            "label": "Odvojene činije",
+            "note": null
+          },
+          {
+            "label": "Odvojen krevet",
+            "note": null
+          },
+          {
+            "label": "Igračke",
+            "note": null
+          },
+          {
+            "label": "Feromoni (po potrebi)",
+            "note": null
+          }
+        ]
+      },
+      {
+        "heading": "Prvih nekoliko dana",
+        "items": [
+          {
+            "label": "Razmjena mirisa",
+            "note": null
+          },
+          {
+            "label": "Hranjenje sa obje strane vrata",
+            "note": null
+          },
+          {
+            "label": "Kratki susreti",
+            "note": null
+          },
+          {
+            "label": "Ne tjerajte ih na kontakt",
+            "note": null
+          }
+        ]
+      }
+    ],
+    "footerNote": "Zapamtite pravilo resursa: „broj mačaka + 1“."
+  },
+  {
+    "icon": "LocalShipping",
+    "title": "Selidba u novi stan",
+    "intro": null,
+    "warning": null,
+    "sections": [
+      {
+        "heading": "Sedmicu dana prije",
+        "items": [
+          {
+            "label": "Ažurirajte adresu na pločici/ogrlici",
+            "note": null
+          },
+          {
+            "label": "Pripremite transporter",
+            "note": null
+          },
+          {
+            "label": "Nabavite dovoljno hrane i poslastica",
+            "note": null
+          }
+        ]
+      },
+      {
+        "heading": "Na dan selidbe",
+        "items": [
+          {
+            "label": "Držite mačku u posebnoj sobi",
+            "note": null
+          },
+          {
+            "label": "Ne puštajte je dok se selidba ne završi",
+            "note": null
+          },
+          {
+            "label": "Prvo postavite toalet i činije",
+            "note": null
+          }
+        ]
+      }
+    ],
+    "footerNote": null
+  },
+  {
+    "icon": "Flight",
+    "title": "Putovanje",
+    "intro": null,
+    "warning": null,
+    "sections": [
+      {
+        "heading": "Dokumenta",
+        "items": [
+          {
+            "label": "Pasoš",
+            "note": null
+          },
+          {
+            "label": "Mikročip",
+            "note": null
+          },
+          {
+            "label": "Vakcine",
+            "note": null
+          },
+          {
+            "label": "Sertifikati",
+            "note": "Računajte na dodatno vrijeme za moguću provjeru stručnjaka na aerodromu."
+          }
+        ]
+      },
+      {
+        "heading": "Stvari",
+        "items": [
+          {
+            "label": "Transporter",
+            "note": null
+          },
+          {
+            "label": "Voda",
+            "note": null
+          },
+          {
+            "label": "Hrana i grickalice",
+            "note": null
+          },
+          {
+            "label": "Upijajuće podloge",
+            "note": null
+          },
+          {
+            "label": "Igračka sa poznatim mirisom",
+            "note": null
+          },
+          {
+            "label": "Pripremite lijekove",
+            "note": "U zavisnosti od potreba vaše mačke."
+          },
+          {
+            "label": "Nabavite umirujuće feromone ili umirujuću ogrlicu.",
+            "note": null
+          }
+        ]
+      }
+    ],
+    "footerNote": null
+  },
+  {
+    "icon": "Healing",
+    "title": "Poslije operacije",
+    "intro": null,
+    "warning": null,
+    "sections": [
+      {
+        "heading": null,
+        "items": [
+          {
+            "label": "Pazite da postoperativno odijelce/kragna ostane na mjestu",
+            "note": null
+          },
+          {
+            "label": "Dajte lijekove",
+            "note": null
+          },
+          {
+            "label": "Provjeravajte rez",
+            "note": "Pitajte veterinara koliko često je to potrebno."
+          },
+          {
+            "label": "Ograničite skakanje",
+            "note": null
+          },
+          {
+            "label": "Pratite apetit",
+            "note": null
+          },
+          {
+            "label": "Pratite korišćenje toaleta",
+            "note": null
+          }
+        ]
+      }
+    ],
+    "footerNote": null
+  },
+  {
+    "icon": "Vaccines",
+    "title": "Vakcinacija",
+    "intro": null,
+    "warning": null,
+    "sections": [
+      {
+        "heading": "Prije",
+        "items": [
+          {
+            "label": "Mačka treba da bude zdrava",
+            "note": null
+          },
+          {
+            "label": "Veterinarski pasoš",
+            "note": null
+          },
+          {
+            "label": "Zakazan termin",
+            "note": null
+          }
+        ]
+      },
+      {
+        "heading": "Poslije",
+        "items": [
+          {
+            "label": "Pratite temperaturu",
+            "note": null
+          },
+          {
+            "label": "Posmatrajte njeno stanje 48 sati",
+            "note": null
+          },
+          {
+            "label": "Ograničite aktivnu igru",
+            "note": null
+          }
+        ]
+      }
+    ],
+    "footerNote": null
+  },
+  {
+    "icon": "ExitToApp",
+    "title": "Kad vlasnik nije kod kuće",
+    "intro": null,
+    "warning": null,
+    "sections": [
+      {
+        "heading": "Ako ljubimac ostaje kod kuće",
+        "items": [
+          {
+            "label": "Hrana",
+            "note": null
+          },
+          {
+            "label": "Voda",
+            "note": null
+          },
+          {
+            "label": "Toalet",
+            "note": null
+          },
+          {
+            "label": "Igračke",
+            "note": null
+          },
+          {
+            "label": "Kontakt osobe koja obilazi ljubimca",
+            "note": null
+          },
+          {
+            "label": "Pasoš mačke i kontakti veterinarskih klinika za hitne slučajeve",
+            "note": null
+          }
+        ]
+      }
+    ],
+    "footerNote": null
+  },
+  {
+    "icon": "MedicalServices",
+    "title": "Pribor prve pomoći",
+    "intro": "Pribor prve pomoći je skup stvari koje vam mogu zatrebati kod povreda, opekotina, krvarenja ili drugih hitnih situacija. Ne zamjenjuje veterinarsku njegu, ali vam omogućava da brzo pružite prvu pomoć prije dolaska u kliniku.",
+    "warning": "Važno: ne koristite lijekove za ljude bez uputstva veterinara. Mnogi lijekovi sigurni za ljude otrovni su za mačke.",
+    "sections": [
+      {
+        "heading": "Dokumenta",
+        "items": [
+          {
+            "label": "Veterinarski pasoš",
+            "note": null
+          },
+          {
+            "label": "Kontakt vašeg veterinara",
+            "note": null
+          },
+          {
+            "label": "Adresa najbliže dežurne veterinarske klinike",
+            "note": null
+          },
+          {
+            "label": "Historija bolesti i trenutni lijekovi",
+            "note": null
+          }
+        ]
+      },
+      {
+        "heading": "Materijal za previjanje",
+        "items": [
+          {
+            "label": "Sterilne gaze",
+            "note": null
+          },
+          {
+            "label": "Sterilni zavoji različitih veličina",
+            "note": null
+          },
+          {
+            "label": "Samoljepljivi zavoj",
+            "note": null
+          },
+          {
+            "label": "Medicinski flaster",
+            "note": null
+          },
+          {
+            "label": "Pamučni jastučići",
+            "note": null
+          },
+          {
+            "label": "Štapići za uši (ne za duboke rane)",
+            "note": null
+          }
+        ]
+      },
+      {
+        "heading": "Rastvori",
+        "items": [
+          {
+            "label": "Fiziološki rastvor (0.9% Nacl)",
+            "note": "Koristi se za: ispiranje očiju, čišćenje manjih rana, uklanjanje nečistoća."
+          },
+          {
+            "label": "Hlorheksidin 0.05%",
+            "note": "Pogodan za obradu manjih površinskih povreda kože. Ne koristite koncentrirane rastvore."
+          }
+        ]
+      },
+      {
+        "heading": "Alatke",
+        "items": [
+          {
+            "label": "Digitalni termometar",
+            "note": null
+          },
+          {
+            "label": "Pinceta",
+            "note": null
+          },
+          {
+            "label": "Makaze zaobljenih vrhova",
+            "note": null
+          },
+          {
+            "label": "Rukavice za jednokratnu upotrebu",
+            "note": null
+          },
+          {
+            "label": "Špricevi bez igle (2–20 ml)",
+            "note": "Korisni za davanje vode na usta ili ispiranje rana prema uputstvu veterinara."
+          },
+          {
+            "label": "Mala baterijska lampa",
+            "note": "Korisna za pregled usta ili traženje krpelja."
+          }
+        ]
+      },
+      {
+        "heading": "Dodatne stvari",
+        "items": [
+          {
+            "label": "Hladni oblog",
+            "note": "Koristi se kod modrica, otoka i ujeda insekata. Stavljajte ga samo umotanog u tkaninu."
+          }
+        ]
+      },
+      {
+        "heading": "Za prevoz",
+        "items": [
+          {
+            "label": "Transporter",
+            "note": null
+          },
+          {
+            "label": "Rezervna upijajuća podloga",
+            "note": null
+          },
+          {
+            "label": "Ćebe ili peškir",
+            "note": null
+          },
+          {
+            "label": "Brnjica nije potrebna",
+            "note": "Veliki peškir pomaže da sigurno zadržite uplašenu mačku."
+          }
+        ]
+      }
+    ],
+    "footerNote": null
+  },
+  {
+    "icon": "HelpOutline",
+    "title": "Mačka iz prihvatilišta ili od odgajivača — ključna pitanja",
+    "intro": "Dolazak novog člana porodice je uzbudljiv. Ali osim pripreme prostora, važno je saznati ključne informacije o novoj mački.",
+    "warning": null,
+    "sections": [
+      {
+        "heading": null,
+        "items": [
+          {
+            "label": "Uobičajena hrana i raspored hranjenja. Nagla promjena može izazvati proliv i probleme sa varenjem.",
+            "note": null
+          },
+          {
+            "label": "Vakcine koje su već date. Tražite veterinarski pasoš.",
+            "note": null
+          },
+          {
+            "label": "Datum posljednjeg tretmana protiv buva i glista.",
+            "note": null
+          },
+          {
+            "label": "Uobičajena mjesta za odmor, spavanje i toalet.",
+            "note": null
+          },
+          {
+            "label": "Kako se ponaša prema drugim ljudima.",
+            "note": null
+          },
+          {
+            "label": "Da li već zna neke komande.",
+            "note": null
+          },
+          {
+            "label": "Da li je imala problema sa varenjem ili stolicom.",
+            "note": null
+          },
+          {
+            "label": "S kojim odraslima ili djecom se mačka najbolje slagala.",
+            "note": null
+          },
+          {
+            "label": "Bolesti mačke ili njenih roditelja.",
+            "note": null
+          }
+        ]
+      }
+    ],
+    "footerNote": null
+  }
+]

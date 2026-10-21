@@ -1,0 +1,80 @@
+[
+  {
+    "id": "bezopasnost",
+    "title": "Ασφάλεια",
+    "subtitle": "Προστασία του σπιτιού",
+    "icon": "Security"
+  },
+  {
+    "id": "opasnosti",
+    "title": "Κίνδυνοι στο σπίτι",
+    "subtitle": "Κρυφοί κίνδυνοι",
+    "icon": "Warning"
+  },
+  {
+    "id": "eda_i_voda",
+    "title": "Φαγητό και νερό",
+    "subtitle": "Οργάνωση του χώρου φαγητού",
+    "icon": "Restaurant"
+  },
+  {
+    "id": "vybor_korma",
+    "title": "Επιλογή τροφής",
+    "subtitle": "Η διατροφή του κατοικιδίου",
+    "icon": "RestaurantMenu"
+  },
+  {
+    "id": "klimat",
+    "title": "Θερμοκρασία",
+    "subtitle": "Άνεση στη ζέστη και στο κρύο",
+    "icon": "Thermostat"
+  },
+  {
+    "id": "igry",
+    "title": "Παιχνίδι",
+    "subtitle": "Ασφάλεια και δραστηριότητα",
+    "icon": "SportsEsports"
+  },
+  {
+    "id": "tualet",
+    "title": "Τουαλέτα",
+    "subtitle": "Δοχείο και άμμος",
+    "icon": "Wc"
+  },
+  {
+    "id": "uhod",
+    "title": "Περιποίηση",
+    "subtitle": "Τρίχωμα, νύχια, υγιεινή",
+    "icon": "CleaningServices"
+  },
+  {
+    "id": "samovygul",
+    "title": "Έξοδοι χωρίς επίβλεψη",
+    "subtitle": "Κίνδυνοι και εναλλακτικές",
+    "icon": "DirectionsRun"
+  },
+  {
+    "id": "cvety",
+    "title": "Φυτά",
+    "subtitle": "Ποια φυτά είναι επικίνδυνα",
+    "icon": "LocalFlorist"
+  },
+  {
+    "id": "aktivnost",
+    "title": "Δραστηριότητα",
+    "subtitle": "Σωματική και πνευματική άσκηση",
+    "icon": "FitnessCenter"
+  },
+  {
+    "id": "son_i_otdyh",
+    "title": "Ύπνος και ξεκούραση",
+    "subtitle": "Το ιδανικό σημείο",
+    "icon": "Weekend"
+  },
+  {
+    "id": "rabochee_mesto",
+    "title": "Ο χώρος εργασίας σας",
+    "subtitle": "Ένα σημείο δίπλα στον άνθρωπό της",
+    "icon": "Work"
+  }
+]

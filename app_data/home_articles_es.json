@@ -1,0 +1,528 @@
+[
+  {
+    "id": "bezopasnost",
+    "title": "Seguridad",
+    "intro": "Tu casa es una fortaleza para tu gato. Asegúrate de que cada rincón del espacio sea seguro y cómodo.",
+    "heroImage": "dom_bezopasnost_hero",
+    "sections": [
+      {
+        "heading": "Redes en las ventanas",
+        "body": "Las mosquiteras normales no resisten el salto de un gato ni sus uñas. Además, las ventanas abiertas pueden hacer que el gato quede atrapado o se caiga.\n\nHay dos tipos principales de redes para proteger a los gatos:\n1) «Redes antigatos» — hechas de hilo de acero de alta resistencia, se fijan firmemente al marco mediante anclajes metálicos en todo el perímetro.\n2) Bloqueadores de plástico para ventanas basculantes — también se les llama «protección para ventilación vertical».",
+        "style": "plain",
+        "image": "dom_bezopasnost_setki"
+      },
+      {
+        "heading": "Protección de rincones",
+        "body": "Revisa los huecos entre los muebles y las paredes. Los gatos pueden quedarse atascados en espacios estrechos. Normalmente son:\n• entre los armarios y la pared;\n• detrás del refrigerador;\n• detrás de la lavadora;\n• entre el sofá y la pared.\n\nLa regla es simple: o el gato no debe poder entrar en ese espacio, o debe tener la posibilidad de salir.",
+        "style": "plain",
+        "image": "dom_bezopasnost_uglov"
+      },
+      {
+        "heading": "Electricidad",
+        "body": "Esconde los cables en canaletas especiales. A los gatitos les encanta morder los cables, lo que puede provocar una descarga eléctrica, quemaduras en las mucosas o incluso la muerte.\n\nLugares de riesgo:\n• alargadores;\n• cargadores de teléfono;\n• cables de ordenador;\n• guirnaldas de luces;\n• cables del televisor.\n\nUsar canaletas especiales para agrupar y cubrir los cables ayuda mucho.\n\nEs importante tener en cuenta que los gatos pueden morder los cables por curiosidad, por el olor o por la reacción de la persona. Si esto ocurre, no asustes al gato ni le grites: distráelo con la mayor calma posible para alejarlo de los cables.",
+        "style": "plain",
+        "image": "dom_bezopasnost_elektro"
+      },
+      {
+        "heading": "Muebles pesados",
+        "body": "Fija las estanterías y los televisores a la pared. Los gatos son excelentes saltadores, y su peso puede volcar objetos que no estén bien sujetos, lo que puede provocar lesiones al gato o a las personas cercanas.\n\nElementos a los que prestar atención:\n• librerías;\n• cómodas;\n• estanterías;\n• televisores;\n• estantes de pared;\n• vinotecas.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Productos de limpieza",
+        "body": "Cualquier producto de limpieza doméstico es peligroso para los animales. Esto incluye productos para:\n• limpiar cristales;\n• limpiar el baño;\n• fregar el suelo;\n• lavar los platos, etc.\n\nIncluso si cae sobre el pelaje, el gato se lamerá y el producto llegará a sus órganos internos. Mantén todos los productos lejos de las zonas donde el gato se mueve, dentro de armarios y cajones cerrados.\n\nSon especialmente peligrosos: la lejía, los desatascadores, los limpiadores de horno, las pastillas de lavavajillas, las cápsulas de detergente y los concentrados.",
+        "style": "warning",
+        "image": "dom_bezopasnost_himiya"
+      },
+      {
+        "heading": "Balcón",
+        "body": "Poder disfrutar del aire libre es una parte importante de la vida del animal. Pero el balcón, además de aire fresco y sol, puede esconder peligros.\n\nLa primera regla, y la más importante, es contar con redes especiales en todo el perímetro del balcón. Además, hay que tapar todas las aberturas técnicas: los gatos son curiosos y meterán el hocico en cualquier sitio donde puedan.",
+        "style": "plain",
+        "image": "dom_bezopasnost_balkon"
+      },
+      {
+        "heading": "Puntos adicionales",
+        "body": "Cocina: placa de cocción caliente; cuchillos; horno abierto; cubo de basura.\n\nBaño: tapa del inodoro cerrada; revisar siempre la lavadora antes de ponerla en marcha; armarios cerrados; guardar las pastillas y cápsulas fuera de su alcance.\n\nVelas y ambientadores: aceites esenciales; difusores; incienso; velas.\n\nBolsas y plásticos: bolsas de plástico; film de embalaje; film transparente.\n\nHilos y gomas: hilo de coser; hilo de bordar; gomas elásticas; gomas para el pelo.",
+        "style": "plain",
+        "image": "dom_bezopasnost_dop"
+      }
+    ]
+  },
+  {
+    "id": "eda_i_voda",
+    "title": "Comida y agua",
+    "intro": "Crea el espacio perfecto para la alimentación de tu gato, siguiendo los principios de comodidad y sus necesidades naturales.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "1. Elegir los comederos",
+        "body": "El material importa. El plástico acumula bacterias y puede provocar acné felino. Lo recomendado: vidrio, cerámica o acero inoxidable.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "2. El lugar ideal",
+        "body": "Los gatos son animales de costumbres y necesitan sentirse seguros. Nunca coloques la comida cerca del arenero.\n• Un rincón tranquilo sin corrientes de aire;\n• Lejos de electrodomésticos ruidosos;\n• Con buena visión de la habitación para sentirse seguro.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "3. La altura ideal",
+        "body": "Los comederos elevados reducen la tensión en el cuello y las articulaciones, especialmente en gatos mayores. Una inclinación correcta del comedero de unos 15 grados hace que tragar sea más natural. Elige la altura según la estatura del gato de pie.",
+        "style": "plain",
+        "image": "dom_eda_vysota"
+      },
+      {
+        "heading": "Consejo: el tamaño del comedero",
+        "body": "Anchura del comedero: el diámetro interior debe ser al menos entre 1,5 y 2 veces mayor que el ancho del hocico del gato (incluyendo los bigotes). Para la mayoría de los gatos adultos, el diámetro óptimo es de 15 a 18 cm; para razas grandes (como el maine coon), de 18 a 22 cm. Si el diámetro es menor de 12-13 cm, el gato tendrá que rozar los bigotes con las paredes con más frecuencia.\n\nProfundidad del comedero: lo óptimo son de 2 a 4 cm, tanto para pienso seco como húmedo. La altura del borde debe ser aproximadamente entre 1/2 y 3/4 de la altura del hocico del gato. Los bordes de más de 5-6 cm solo son útiles para grandes cantidades de comida, pero resultan menos cómodos para la alimentación diaria.",
+        "style": "tip",
+        "image": "dom_eda_sovet"
+      }
+    ]
+  },
+  {
+    "id": "klimat",
+    "title": "Calor y frío",
+    "intro": "Cómo proteger a tu mascota del sobrecalentamiento y la hipotermia.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "Calor de verano",
+        "body": "• Ten siempre a mano un bol con agua fresca. Los gatos beben más cuando tienen calor.\n• Usa esterillas refrescantes o toallas húmedas, pero no obligues al gato a tumbarse sobre ellas.\n• Evita las corrientes directas del aire acondicionado: lo ideal es aire fresco sin que sople directamente sobre el gato. Limpia los filtros del aire acondicionado cuando sea necesario.\nNo hagas esto: no mojes al gato con agua helada; no le apliques hielo directamente sobre el cuerpo; no lo obligues a beber a la fuerza.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "¡Riesgo de golpe de calor!",
+        "body": "Presta atención a: respiración acelerada con la boca abierta; debilidad extrema; encías de color rojo muy intenso; rechazo de la comida y el agua; falta de coordinación.\nAnte estos síntomas, puede ser necesaria la atención veterinaria urgente.",
+        "style": "warning",
+        "image": null
+      },
+      {
+        "heading": "Temporada de invierno",
+        "body": "Camas acogedoras elevadas del suelo + humidificación del aire seco. Crea rincones cálidos en casa: una manta y un lugar protegido de corrientes de aire ayudan a conservar el calor.\n\nEn invierno es importante: evitar las corrientes de aire; no colocar la cama junto a una ventana fría; mantener la humedad del aire entre el 40 y el 60%; secar las patas después de los paseos (si el gato sale).",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Peligros ocultos",
+        "body": "Radiadores calientes: pueden causar quemaduras si el contacto es prolongado. Ventanas en modo ventilación: riesgo de hipotermia y lesiones.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Algo importante que recordar",
+        "body": "Los gatos eligen por sí mismos la temperatura que les resulta cómoda. Si tu mascota se tumba constantemente en el suelo frío, se esconde bajo una manta o se acerca al radiador, es una señal de que tiene demasiado calor o demasiado frío.",
+        "style": "tip",
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "igry",
+    "title": "Juegos",
+    "intro": "Para un gato doméstico, el juego no es solo diversión: es una forma de expresar el instinto de caza. Las sesiones diarias de 15 a 30 minutos ayudan a prevenir el estrés, la obesidad y el comportamiento destructivo.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "La seguridad ante todo: elegir los materiales",
+        "body": "El material de los juguetes es importante. Los gatos juegan con las patas, pero también los llevan a la boca.\n\nMateriales naturales: lana, plumas, algodón y lino, yute y sisal, madera.\nMateriales sintéticos: forro polar, silicona apta para uso alimentario, plástico ABS de buena calidad.\n\nEvita el plástico barato con olor fuerte (se rompe rápido, tiene bordes afilados y huele de forma tóxica), el pelo largo y el lúrex (los hilos se desprenden con facilidad y, si se tragan, pueden causar obstrucción intestinal), y la espuma de poliuretano (el gato puede masticarla y los trozos pequeños se quedan atascados en el estómago).\n\nPiezas pequeñas: nada de cuentas, ojos pegados o botones — el gato puede morderlos y tragárselos fácilmente, lo que provocaría una lesión grave en el tracto digestivo.",
+        "style": "warning",
+        "image": "dom_igry_materialy"
+      },
+      {
+        "heading": "Lista general de juguetes",
+        "body": "Textil y lana: juguete blando con sonido de algodón o lino; bolitas de lana 100% fieltrada; ratones y peces de tela sin piezas pegadas; bolsitas de hierba gatera; almohaditas de forro polar resistente.\n\nMadera y fibras naturales: palitos de matatabi para roer; bolitas prensadas de hierba gatera; cajas-laberinto de madera para estimulación; pelotas de cuerda de sisal o yute; postes y alfombrillas rascadoras.\n\nSilicona y goma: juguetes masticables de silicona apta para alimentos; cepillos dentales de juguete tipo masaje; anillos dentales de goma resistente.\n\nJuguetes interactivos de plástico (solo de plástico ABS): pirámides con pistas de varios niveles y pelotas; comederos interactivos tipo rompecabezas; dispensadores tentetiesos de premios; bolas de plástico cerradas con cascabel.\n\nJuguetes para jugar juntos: cañas con cintas de forro polar o plumas naturales; largas cuerdas de tela tipo serpiente.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Entretenimiento autónomo",
+        "body": "Los rompecabezas y comederos laberinto mantendrán entretenido al gato cuando no estés en casa. La mejor motivación son sus golosinas secas favoritas.\n\nEjemplos: comederos rompecabezas (Puzzle Feeders) con tapas que el gato mueve con la pata; Catit Senses Food Tree; juguetes rompecabezas Nina Ottosson de distintos niveles de dificultad; pelota interactiva dispensadora de comida (Treat Ball); alfombra de olfateo (Snuffle Mat); caja rompecabezas (Peekaboo Box).",
+        "style": "plain",
+        "image": "dom_igry_samorazvlech"
+      },
+      {
+        "heading": "Precaución",
+        "body": "Punteros láser: pueden causar frustración, ya que la «presa» nunca se puede atrapar. Termina siempre el juego con un juguete real que el gato pueda sujetar con las patas.\n\nCintas: nunca dejes al gato solo con cintas o cuerdas sin supervisión — existe riesgo de asfixia o de que trague el hilo. Lo mejor es guardarlas en cajas cerradas fuera de su alcance.",
+        "style": "warning",
+        "image": null
+      },
+      {
+        "heading": "La regla principal: supervisión",
+        "body": "Ningún juguete es 100% seguro. Revisa regularmente el arsenal de juguetes de tu gato en busca de desgaste, piezas sueltas o roturas. Tu atención es la mejor garantía de seguridad.",
+        "style": "tip",
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "tualet",
+    "title": "Arenero",
+    "intro": "La elección correcta de la bandeja y la arena influye directamente en que el gato haga sus necesidades donde corresponde.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "Elegir la bandeja",
+        "body": "Tipo abierto («clásico») — ofrece la máxima visibilidad para el gato, ideal para gatitos y animales mayores. Elige bordes de 15-20 cm de altura; la longitud de la bandeja debe ser de 1,5 a 2 veces el tamaño del gato.\n\nCaja cerrada («privacidad») — oculta los olores y la arena, y evita que esta se esparza. Algunos gatos pueden sentirse atrapados: quita la puerta al principio.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "¿Dónde colocar la bandeja?",
+        "body": "Un lugar tranquilo — lejos del ruido de los electrodomésticos y del ajetreo de los pasillos.\nLejos de la comida — a los gatos no les gusta hacer sus necesidades donde comen o beben.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Tipos de arena",
+        "body": "Mineral (arcilla bentonítica, aglomerante) — retiene muy bien el olor, forma bloques sólidos, pero genera polvo al verterla.\n\nDe madera (serrín prensado, absorbente) — económica, se deshace en polvo al mojarse, se puede tirar al inodoro en pequeñas cantidades, es ecológica.\n\nDe sílice (absorbente) — máxima absorción y eliminación de olores, pero cruje mucho y puede asustar a los gatos más miedosos.\n\nArenas vegetales (de soja, maíz, cereales) — se tiran perfectamente al inodoro, se disuelven sin dejar residuos, son seguras si el gato las ingiere por accidente, pero cuestan más y pueden atraer a roedores si se almacenan en una casa de campo.",
+        "style": "plain",
+        "image": "dom_tualet_mineralny",
+        "blocks": [
+          {
+            "text": "Mineral (arcilla bentonítica, aglomerante) — retiene muy bien el olor, forma bloques sólidos, pero genera polvo al verterla."
+          },
+          {
+            "image": "dom_tualet_mineralny"
+          },
+          {
+            "text": "De madera (serrín prensado, absorbente) — económica, se deshace en polvo al mojarse, se puede tirar al inodoro en pequeñas cantidades, es ecológica."
+          },
+          {
+            "image": "dom_tualet_drevesny"
+          },
+          {
+            "text": "De sílice (absorbente) — máxima absorción y eliminación de olores, pero cruje mucho y puede asustar a los gatos más miedosos."
+          },
+          {
+            "image": "dom_tualet_silikagel"
+          },
+          {
+            "text": "Arenas vegetales (de soja, maíz, cereales) — se tiran perfectamente al inodoro, se disuelven sin dejar residuos, son seguras si el gato las ingiere por accidente, pero cuestan más y pueden atraer a roedores si se almacenan en una casa de campo."
+          },
+          {
+            "image": "dom_tualet_rastitelny"
+          }
+        ]
+      },
+      {
+        "heading": "La regla de oro de los areneros: N + 1",
+        "body": "Debes tener un arenero más que el número de gatos en casa. Esto previene el estrés y los conflictos por el territorio.",
+        "style": "tip",
+        "image": null
+      },
+      {
+        "heading": "Cuidado e higiene",
+        "body": "A diario: retirar los grumos y los residuos sólidos 1 o 2 veces al día.\nCada 2 semanas o al mes: vaciar por completo y lavar la bandeja con un producto suave.\n\nEl material importa: el plástico es más económico, pero con el tiempo absorbe los olores y las grietas y arañazos se convierten en un caldo de cultivo para bacterias. La cerámica o el metal se desinfectan de forma más higiénica, aunque son más caros.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Amenazas ocultas",
+        "body": "Ambientadores: el aroma a lavanda te resulta agradable a ti, pero repele al gato con su olfato tan sensible.\nUbicaciones ruidosas: una bandeja junto a la lavadora puede provocar un susto repentino y hacer que el gato rechace el lugar.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Si el gato ignora la bandeja",
+        "body": "Salud: primero descarta cistitis o enfermedad del tracto urinario inferior con el veterinario.\nComportamiento: revisa la limpieza, cambia el tipo de arena o su ubicación.\n\nLos gatos pueden ignorar la bandeja por estrés, una arena inadecuada, un olor demasiado fuerte o ruidos que les asustan al entrar en contacto con las partículas de arena.",
+        "style": "plain",
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "uhod",
+    "title": "Cuidados",
+    "intro": "El cuidado regular ayuda a detectar a tiempo cualquier cambio en el bienestar del gato. La mayoría de las tareas llevan solo unos minutos, pero lo más importante es hacerlas con calma y de forma constante.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "Qué revisar en casa",
+        "body": "• ojos — que no haya secreción, lagrimeo excesivo ni enrojecimiento;\n• nariz — que no haya secreciones inusuales;\n• orejas — que no haya mal olor, exceso de cera o rascado constante;\n• dientes y encías — sarro, mal aliento, enrojecimiento;\n• piel y pelaje — caspa, costras, zonas sin pelo, parásitos, nudos;\n• patas y uñas — grietas, daños, uñas demasiado largas;\n• peso y condición corporal — los cambios bruscos requieren atención;\n• comportamiento — apetito, actividad, sueño, uso del arenero.",
+        "style": "plain",
+        "image": "dom_uhod_provera"
+      },
+      {
+        "heading": "A diario / periódicamente",
+        "body": "A diario: agua fresca; apetito normal; arenero limpio; una breve revisión del estado general; actividad y juegos.\n\nPeriódicamente: cepillado; revisión de las uñas; cepillado de dientes; revisión de orejas y ojos; control del peso.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Importante",
+        "body": "El cuidado en casa no sustituye la revisión veterinaria. Un bulto nuevo, letargo prolongado, rechazo de la comida, un cambio brusco de comportamiento, rascado constante u otros síntomas inusuales son motivo para acudir al veterinario.",
+        "style": "warning",
+        "image": null
+      },
+      {
+        "heading": "Uñas: cómo cortarlas",
+        "body": "Normalmente el gato no necesita que le acorten mucho las uñas. El objetivo principal es eliminar solo la punta afilada, sin tocar la parte viva de la uña.\n\nCómo prepararte: cortaúñas para gatos; buena iluminación; un lugar tranquilo; una golosina después del procedimiento.\n\nCómo cortar: 1) deja que el gato se acostumbre con calma a que le toquen las patas; 2) presiona suavemente la almohadilla para que salga la uña; 3) localiza la parte interna clara o rosada de la uña; 4) corta solo la punta transparente y afilada (unos pocos milímetros); 5) si el gato se pone nervioso, corta una o dos patas y continúa más tarde.\n\nCon qué frecuencia: revisa las uñas con regularidad; la frecuencia depende de la edad, la actividad y si tiene rascador. Si cortas por accidente la parte viva, puede sangrar y doler: usa un producto hemostático para animales y no continúes el procedimiento a la fuerza. Los rascadores siguen siendo una parte importante del cuidado natural de las uñas y del comportamiento del gato.",
+        "style": "plain",
+        "image": "dom_uhod_kogti"
+      },
+      {
+        "heading": "Cepillado",
+        "body": "El cepillado ayuda a eliminar el pelo suelto y reduce la cantidad que el gato traga al asearse.\n\nBeneficios: menos pelo suelto en casa; menos nudos; más fácil controlar el estado de la piel; más fácil detectar parásitos, irritaciones y heridas; especialmente útil para gatos de pelo largo.\n\nCómo elegir la herramienta: pelo corto — cepillo suave o guante de goma; pelo medio — cepillo con púas de longitud adecuada y peine; pelo largo — peine y cepillo que permitan desenredar con cuidado hasta la raíz.",
+        "style": "plain",
+        "image": "dom_uhod_vychesyvanie"
+      }
+    ]
+  },
+  {
+    "id": "samovygul",
+    "title": "Salidas sin supervisión",
+    "intro": "Que el gato se mueva libremente por la calle puede parecer «natural», pero el entorno urbano actual esconde peligros mortales. Según las estadísticas, los gatos domésticos con buenos cuidados viven entre 15 y 20 años, mientras que los que viven en la calle solo llegan a 4 o 5.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "Riesgos principales",
+        "body": "Los atropellos y el envenenamiento intencionado son la causa más frecuente de muerte de gatos en la ciudad.\n\nDepredadores y perros: las jaurías callejeras y los animales salvajes representan una amenaza.\nInfecciones: la leucemia viral, la inmunodeficiencia y la rabia son enfermedades que pueden transmitirse a través de animales que el gato podría llegar a comer.\nCrueldad humana: envenenadores, cazadores de perros y simplemente personas malintencionadas pueden hacer daño a un animal indefenso y confiado.",
+        "style": "warning",
+        "image": null
+      },
+      {
+        "heading": "Alternativas a las salidas libres: paseos con arnés",
+        "body": "Explorar el mundo de forma segura bajo tu supervisión. No a todos los gatos les gustan los paseos con arnés, pero con la preparación adecuada pueden convertirse en una buena forma de variar el día a día del gato.\n\nEs importante respetar durante el paseo: tener las vacunas al día; no dejar que el animal coma nada ni tenga contacto con otros animales o personas en la calle — solo comida de tus manos o de casa.",
+        "style": "plain",
+        "image": "dom_samovygul_shleyka"
+      },
+      {
+        "heading": "Catio (recinto exterior)",
+        "body": "Una estructura cerrada con malla que permite respirar aire fresco. Si tienes una casa con jardín, puedes construir un anexo independiente para los gatos. El objetivo principal de estas construcciones es crear un entorno seguro para que el gato salga al exterior.\n\nNormalmente estos recintos se construyen con madera maciza y malla. Si en la zona puede haber animales peligrosos, se utiliza una malla más reforzada y medidas contra excavaciones.",
+        "style": "plain",
+        "image": "dom_samovygul_volier"
+      }
+    ]
+  },
+  {
+    "id": "cvety",
+    "title": "Plantas",
+    "intro": "A los gatos les encanta explorar las plantas, pero algunas son tóxicas y suponen un peligro mortal. Esta guía te ayudará a elegir plantas seguras y a proteger a tu mascota.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "Lista de plantas peligrosas",
+        "body": "Lirios y hemerocallis — especialmente peligrosos, pueden causar un daño renal grave.\nDieffenbachia — irritación e inflamación de la boca y la garganta.\nFilodendro — irritación de las mucosas, salivación excesiva, dificultad para tragar.\nMonstera — contiene oxalatos de calcio insolubles, provoca ardor e inflamación en la boca.\nCaladio — irritación de la boca, inflamación de la lengua y los labios.\nEspatifilo (cuna de Moisés) — irritación de las mucosas y salivación excesiva.\nSansevieria (lengua de suegra) — puede provocar vómitos y diarrea.\nHiedra — posibles vómitos, diarrea y dolor abdominal.\nCicas (palma sagú) — extremadamente tóxica, puede causar un daño hepático grave.\nAzalea y rododendro — vómitos, debilidad, alteraciones del ritmo cardíaco.\nAdelfa — muy tóxica, capaz de provocar graves trastornos cardíacos.\nTulipanes — los bulbos son especialmente peligrosos, causan vómitos e irritación digestiva.\nNarcisos — los bulbos son tóxicos, provocan vómitos, diarrea y síntomas neurológicos.\nJacintos — los bulbos causan irritación digestiva.\nCrisantemos — salivación excesiva, vómitos, diarrea, falta de coordinación.\nCalanchoe — tóxico para la actividad cardíaca.\nAloe vera — vómitos, diarrea y debilidad.",
+        "style": "warning",
+        "image": null
+      },
+      {
+        "heading": "Prevención",
+        "body": "La prevención es la clave de la seguridad. Si no estás seguro de que una planta sea segura para tu gato, es mejor colocarla donde no pueda alcanzarla. Ante la duda, elige otra planta.",
+        "style": "tip",
+        "image": null
+      },
+      {
+        "heading": "¿Qué hacer en caso de intoxicación?",
+        "body": "1. No entres en pánico y aísla al gato — retira los restos de la planta de su boca si es posible, y no dejes que coma nada más.\n2. Fotografía la planta — es importante que el veterinario sepa con exactitud con qué toxina se ha intoxicado tu mascota, para poder elegir el antídoto adecuado.\n3. Acude a la clínica de inmediato — no intentes provocarle el vómito por tu cuenta sin indicación del veterinario. Cada minuto puede ser decisivo.",
+        "style": "plain",
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "aktivnost",
+    "title": "Actividad",
+    "intro": "El movimiento es la clave de la salud y la longevidad de tu gato. Crea un espacio para una vida activa.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "Ejercicio diario",
+        "body": "Los juegos regulares (de 15 a 30 minutos al día) ayudan a prevenir la obesidad y mantienen el tono muscular. Usa juguetes tipo varita y punteros láser para simular la caza.\n\nBeneficios: reduce el estrés; disminuye la actividad nocturna; previene el comportamiento destructivo; ayuda a controlar el peso; satisface el instinto de caza.",
+        "style": "plain",
+        "image": "dom_aktivnost_ezhednevnye"
+      },
+      {
+        "heading": "Rutas verticales",
+        "body": "El uso de árboles rascadores y escalones de pared permite que el gato satisfaga su instinto de trepar y se sienta seguro en las alturas.\n\nEsto incluye: rascadores de al menos 80 cm de altura; estantes de pared; árboles para gatos; hamacas de ventana; puentes.",
+        "style": "plain",
+        "image": "dom_aktivnost_vertikalnye"
+      },
+      {
+        "heading": "Cómo saber si tu gato necesita más juego",
+        "body": "Si el gato se aburre, puede:\n• despertarte por la noche;\n• arañar los muebles;\n• maullar fuerte;\n• comer en exceso;\n• lamerse hasta quedarse sin pelo;\n• atacarte los pies.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "El proceso del juego",
+        "body": "El proceso general es: caza → captura → comida → descanso. Es decir: jugar, dar una pequeña golosina o algo de comida, y dejar que el gato descanse. Este ciclo se acerca lo máximo posible al comportamiento natural.\n\n1. Búsqueda de la presa — mueve el juguete lentamente, escóndelo detrás de los muebles, deja que el gato observe y lo «rastree».\n2. Persecución — cambia la velocidad y la dirección, imita el comportamiento de un pájaro o un ratón, deja que el gato se acerque sigilosamente.\n3. Captura — no retires el juguete constantemente, deja que el gato «atrape» la presa varias veces con éxito y permite que la sujete con las patas y la muerda.\n\nCómo saber si el gato ha jugado lo suficiente: descansa tranquilo después del juego; no exige atención constante; mantiene un peso normal; estropea menos los muebles; muestra interés por los juguetes.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Rueda de ejercicio",
+        "body": "Ayuda al gato doméstico a gastar energía, especialmente si vive en un piso sin acceso libre al exterior. Es un buen complemento para los juegos, pero no sustituye la interacción con su dueño.\n\nBeneficios: reduce el riesgo de obesidad; mantiene el tono muscular y articular; reduce el aburrimiento y el estrés; útil para razas activas (bengalí, abisinio, oriental, savannah).\n\nEs importante saber: no todos los gatos empiezan a usar la rueda de inmediato — algunos necesitan varias semanas para acostumbrarse; nunca obligues al gato a correr a la fuerza; anima su interés con golosinas; la rueda debe girar suavemente y de forma casi silenciosa.",
+        "style": "plain",
+        "image": "dom_aktivnost_koleso"
+      },
+      {
+        "heading": "Estimulación mental",
+        "body": "Los rompecabezas de comida y los juguetes interactivos hacen que el gato tenga que «conseguir» su comida, lo que imita su comportamiento natural y previene el aburrimiento.\n\nEjemplos: botes con tapas correderas; bolas dispensadoras de pienso; laberintos para golosinas; cajas con orificios; alfombras de olfateo.",
+        "style": "plain",
+        "image": "dom_aktivnost_intellekt"
+      },
+      {
+        "heading": "Consejos",
+        "body": "«Cambia el surtido de juguetes cada semana. La novedad es el mejor estímulo para la curiosidad felina.»\nEs mejor hacer dos sesiones cortas de 10-15 minutos que una larga: así el gato no se cansa y mantiene el interés.",
+        "style": "tip",
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "rabochee_mesto",
+    "title": "Tu zona de trabajo",
+    "intro": "Organizar una oficina en casa que sea amigable con los gatos requiere equilibrar tu comodidad con la seguridad de tu mascota.",
+    "heroImage": "dom_rabota_hero",
+    "sections": [
+      {
+        "heading": "01. Dividir el espacio",
+        "body": "A los gatos les gusta estar en el centro de la acción. En lugar de espantarlos de la mesa, destínales una zona propia: un rincón junto a la ventana (ideal para observar pájaros) o un estante de una estantería cerca del escritorio para que el gato descanse.\n\nUna buena opción es un estante con soportes que se fija a la mesa y puede girar en distintas direcciones: el gato estará cerca, pero sin interferir en tu zona de trabajo.",
+        "style": "plain",
+        "image": "dom_rabota_razdelenie"
+      },
+      {
+        "heading": "02. Organizar los cables",
+        "body": "Canaletas protectoras — esconde las regletas en cajas especiales para evitar el acceso a los enchufes.\nTubos corrugados — usa tubos rígidos para los cables que el gato tienda a morder (cargadores, cables del monitor).",
+        "style": "plain",
+        "image": "dom_rabota_provoda"
+      },
+      {
+        "heading": "03. Proteger el teclado",
+        "body": "El famoso «paseo sobre las teclas» puede provocar que se borren archivos por accidente o que se envíen mensajes extraños a tus compañeros.\n\nUsa soportes puente de acrílico transparente sobre el teclado, o un «teclado señuelo»: un teclado viejo cerca puede distraer su atención.",
+        "style": "plain",
+        "image": "dom_rabota_klaviatura"
+      },
+      {
+        "heading": "04. Ergonomía y altura",
+        "body": "Elige los muebles teniendo en cuenta tanto la capacidad de salto de tu mascota como tu propia salud.\n\nMesa regulable (recomendado): permite subir rápidamente la superficie de trabajo si el gato se pone demasiado insistente. Importante: ten en cuenta que, al cambiar la altura de la mesa, los mecanismos móviles y los huecos entre paneles pueden pillar al gato.\n\nEstabilidad de la silla (importante): una base de cinco radios con ruedas que se puedan bloquear evitará que se vuelque si el gato salta de repente sobre el respaldo, o si se ha quedado dormido bajo las ruedas de la silla.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Precaución: no se recomienda",
+        "body": "• Dejar una taza de café junto al portátil;\n• usar velas aromáticas cerca del gato;\n• tener medicamentos sobre la mesa;\n• dejar tijeras abiertas;\n• guardar hilos y gomas para el pelo en la zona de trabajo.",
+        "style": "warning",
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "opasnosti",
+    "title": "Peligros en casa",
+    "intro": "Tu casa es una fortaleza, pero para un gato curioso está llena de trampas ocultas. Descubre cómo prevenir una tragedia.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "Ventilación vertical (modo basculante)",
+        "body": "Una ventana entreabierta en modo basculante es una trampa mortal. Los gatos intentan salir, resbalan por la estrecha ranura y quedan atrapados, lo que puede provocar asfixia, necrosis de tejidos o lesiones en la columna.\n\nSolución: rejillas de protección laterales o sistemas «antigatos» (no mosquiteras normales).",
+        "style": "warning",
+        "image": "dom_opasnosti_provetrivanie"
+      },
+      {
+        "heading": "Objetos pequeños",
+        "body": "Las gomas del pelo, las agujas y los hilos pueden parecerle al gato un juguete nuevo. En estos casos, el instinto de caza puede provocar lesiones en las patas o en los órganos internos. Un hilo tragado puede «plegar» el intestino como un acordeón.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Zona de riesgo: la cocina",
+        "body": "Las placas de cocina calientes, los lavavajillas abiertos y los tambores de las lavadoras: los gatos buscan allí calor o un escondite. Es importante que la placa no se encienda porque el gato se suba a ella. Lo mejor es tener mandos mecánicos o un bloqueo para el panel táctil.",
+        "style": "plain",
+        "image": "dom_opasnosti_kuhnya"
+      },
+      {
+        "heading": "Sustancias tóxicas",
+        "body": "Muchos objetos cotidianos son seguros para las personas, pero pueden ser peligrosos o mortalmente tóxicos para los gatos incluso en pequeñas cantidades.\n\nProductos de limpieza: limpiasuelos, lejía, productos para sanitarios, limpiadores de horno, cápsulas de detergente.\nAceites esenciales: árbol de té, eucalipto, menta, cítricos, canela, clavo.\nMedicamentos: paracetamol, ibuprofeno, antidepresivos, vitaminas con hierro, remedios para el resfriado. Nunca le des a tu gato medicamentos para humanos sin indicación del veterinario.",
+        "style": "warning",
+        "image": "dom_opasnosti_toksiny"
+      },
+      {
+        "heading": "Zona de riesgo: las camas",
+        "body": "Materiales peligrosos: elige camas con telas y rellenos seguros, evita materiales con olor químico fuerte y comprueba que la tela no destiña ni suelte pelusa.\n\nRiesgo de ingestión de piezas: no elijas camas con cuentas cosidas, botones o cordones decorativos; revisa regularmente los juguetes y las camas en busca de daños.\n\nEstabilidad de la estructura: fija bien los estantes de pared y sustituye el producto ante los primeros signos de rotura.\n\nRiesgo de sobrecalentamiento: no coloques las camas cerca de calefactores o radiadores.\n\nLimpieza y alérgenos: lava regularmente las fundas desmontables y usa materiales fáciles de limpiar.",
+        "style": "plain",
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "vybor_korma",
+    "title": "La dieta de tu mascota",
+    "intro": "Una guía compacta sobre la alimentación correcta.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "Reglas breves para un buen pienso",
+        "body": "A favor: la carne como primer ingrediente; presencia de taurina; vitaminas y minerales.\n\nEn contra: azúcar y edulcorantes; colorantes; subproductos (sin especificar).",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Pienso seco o húmedo",
+        "body": "Pienso seco — fácil de almacenar y dosificar, se puede dejar más tiempo en el comedero, más económico, adecuado para comederos automáticos. Desventajas: poca humedad (alrededor del 8-10%), requiere acceso constante al agua.\n\nComida húmeda — contiene entre un 70 y un 85% de agua, ayuda a mantener el equilibrio hídrico, resulta más atractiva para los gatos que beben poco. Desventajas: más cara, se estropea rápido tras abrirla, no se puede dejar mucho tiempo en el comedero.\n\nAlimentación combinada: por ejemplo, comida húmeda por la mañana, una pequeña porción de pienso seco al mediodía y comida húmeda por la noche.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Elegir el pienso según su composición",
+        "body": "Fíjate en si la alimentación es completa y en la fiabilidad de la información. La etiqueta debe indicar que el pienso es completo y equilibrado, adecuado para la edad y el estado concreto del animal.\n\nRevisa el análisis garantizado (porcentaje mínimo de proteína cruda y grasa, porcentaje máximo de fibra y humedad). Los estándares de la AAFCO recomiendan al menos un 26% de proteína cruda en el pienso seco para gatos adultos y un 30% para gatitos.\n\nProteína: los gatos son carnívoros estrictos, por lo que la base del pienso debe ser carne o pescado. Los primeros ingredientes de la lista deben ser concretos («pollo», «pavo», «salmón»), y no términos vagos como «carne y subproductos». Es imprescindible que contenga taurina.\n\nGrasas: se prefieren las fuentes animales (grasa de pollo, aceite de pescado, aceite de salmón), que aportan omega-3 y omega-6.\n\nCarbohidratos y fibra: los gatos no necesitan muchos carbohidratos; el maíz, el trigo o el arroz no son la mejor base. La fibra es beneficiosa en cantidades moderadas (alrededor del 3-6%).\n\nAditivos: son preferibles los conservantes naturales (vitamina E, vitamina C, extracto de romero); evita el BHA, el BHT y la etoxiquina.\n\nRiesgos de un pienso de baja calidad: alergias, problemas digestivos, obesidad, carencias nutricionales.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Palabras de marketing: no te dejes engañar",
+        "body": "Etiquetas como «Premium», «Super-premium», «Holistic», «Sin OGM» o «Natural» se usan con frecuencia y aportan poca información real: fíjate en la composición real y en el análisis garantizado, no en las etiquetas de marketing.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Lista de verificación al elegir el pienso",
+        "body": "• Pienso completo, con la indicación Complete/Completo en el envase, adecuado para la categoría del animal (gatitos/adultos/esterilizados/mayores);\n• Los primeros ingredientes son proteína con nombre concreto («pollo», «salmón», «pavo»), no términos genéricos como «carne»;\n• Las grasas están especificadas concretamente (grasa de pollo, aceite de pescado), sin formulaciones genéricas;\n• Aditivos sin BHA, BHT, etoxiquina, colorantes artificiales ni potenciadores del sabor;\n• Contiene vitaminas y minerales, y el análisis garantizado cumple los estándares de la AAFCO;\n• Envase revisado: comprueba la fecha de caducidad y que el envase esté bien sellado antes de comprarlo.",
+        "style": "tip",
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "son_i_otdyh",
+    "title": "Sueño y descanso: crear el rincón perfecto",
+    "intro": "La organización correcta del espacio influye directamente en la salud física y mental de tu mascota.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "Regla general: refugios tranquilos",
+        "body": "Cada gato debe tener un lugar donde nadie lo moleste: cajas, túneles o capullos de forro polar.",
+        "style": "plain",
+        "image": "dom_son_ubezhische"
+      },
+      {
+        "heading": "Variedad de superficies",
+        "body": "A los gatos les gusta tener opciones: desde suaves camas de peluche hasta simples cajas de cartón, cada lugar tiene su función en distintos momentos del día. Observa qué es lo que más le gusta a tu gato en concreto.\n\nOpciones: camas blandas, cajas, estantes.",
+        "style": "plain",
+        "image": "dom_son_poverhnosti"
+      },
+      {
+        "heading": "Espacio vertical",
+        "body": "Los puntos elevados permiten a los gatos vigilar su territorio, lo que reduce el estrés y la ansiedad. Es importante que haya varias formas de acceder y salir de esa zona.\n\nEstantes de pared minimalistas; complejos de juego de varios niveles.",
+        "style": "plain",
+        "image": "dom_son_vertikal"
+      },
+      {
+        "heading": "Armonía en la manada",
+        "body": "En una casa con varias mascotas, la fórmula del descanso perfecto es sencilla: N + 1. El número de camas debe superar en uno al número de gatos, para evitar la competencia por los recursos. Y mejor aún si hay más y están repartidas en distintos lugares.",
+        "style": "plain",
+        "image": "dom_son_garmoniya"
+      },
+      {
+        "heading": "Tipos de camas",
+        "body": "Casitas cerradas tipo cápsula — ideales para los gatos que prefieren esconderse mientras descansan.\nCon bordes altos — cestas blandas con bordes elevados, ideales para los gatos a los que les gusta dormir hechos un ovillo.\nHamacas — estructuras colgantes que se fijan a los radiadores, las patas de las sillas o las ventanas; el lugar favorito de las mascotas activas que prefieren descansar en altura.\nColchonetas y alfombrillas — camas planas y portátiles, adecuadas para gatos grandes o para los que les gusta dormir estirados cuan largos son.\nCamas — modelos blandos cuadrados o rectangulares para el uso diario.",
+        "style": "plain",
+        "image": "dom_son_lezhanki"
+      }
+    ]
+  }
+]

@@ -1,0 +1,15 @@
+[
+  { "id": "bezopasnost", "title": "Sicherheit", "subtitle": "Dein Zuhause absichern", "icon": "Security" },
+  { "id": "opasnosti", "title": "Gefahren im Haushalt", "subtitle": "Versteckte Risiken", "icon": "Warning" },
+  { "id": "eda_i_voda", "title": "Futter und Wasser", "subtitle": "Den Fressplatz einrichten", "icon": "Restaurant" },
+  { "id": "vybor_korma", "title": "Futterauswahl", "subtitle": "Die Ernährung deines Haustiers", "icon": "RestaurantMenu" },
+  { "id": "klimat", "title": "Klimakontrolle", "subtitle": "Wohlfühlklima bei Hitze und Kälte", "icon": "Thermostat" },
+  { "id": "igry", "title": "Spielen", "subtitle": "Sicherheit und Aktivität", "icon": "SportsEsports" },
+  { "id": "tualet", "title": "Katzentoilette", "subtitle": "Toilette und Streu", "icon": "Wc" },
+  { "id": "uhod", "title": "Pflege", "subtitle": "Fell, Krallen, Hygiene", "icon": "CleaningServices" },
+  { "id": "samovygul", "title": "Unbeaufsichtigter Freigang", "subtitle": "Risiken und Alternativen", "icon": "DirectionsRun" },
+  { "id": "cvety", "title": "Pflanzen", "subtitle": "Welche Pflanzen gefährlich sind", "icon": "LocalFlorist" },
+  { "id": "aktivnost", "title": "Aktivität", "subtitle": "Körperliche und geistige Auslastung", "icon": "FitnessCenter" },
+  { "id": "son_i_otdyh", "title": "Schlaf und Ruhe", "subtitle": "Den perfekten Rückzugsort schaffen", "icon": "Weekend" },
+  { "id": "rabochee_mesto", "title": "Dein Arbeitsplatz", "subtitle": "Ein Plätzchen in deiner Nähe einrichten", "icon": "Work" }
+]

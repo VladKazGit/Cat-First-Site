@@ -1,0 +1,15 @@
+[
+  { "id": "bezopasnost", "title": "Sécurité", "subtitle": "Protéger la maison", "icon": "Security" },
+  { "id": "opasnosti", "title": "Dangers à la maison", "subtitle": "Menaces cachées", "icon": "Warning" },
+  { "id": "eda_i_voda", "title": "Nourriture et eau", "subtitle": "Aménager le coin repas", "icon": "Restaurant" },
+  { "id": "vybor_korma", "title": "Choisir la nourriture", "subtitle": "L'alimentation de ton compagnon", "icon": "RestaurantMenu" },
+  { "id": "klimat", "title": "Contrôle du climat", "subtitle": "Confort été comme hiver", "icon": "Thermostat" },
+  { "id": "igry", "title": "Jeux", "subtitle": "Sécurité et activité", "icon": "SportsEsports" },
+  { "id": "tualet", "title": "Litière", "subtitle": "Bac et litière", "icon": "Wc" },
+  { "id": "uhod", "title": "Toilettage", "subtitle": "Pelage, griffes, hygiène", "icon": "CleaningServices" },
+  { "id": "samovygul", "title": "Sorties sans surveillance", "subtitle": "Risques et alternatives", "icon": "DirectionsRun" },
+  { "id": "cvety", "title": "Plantes", "subtitle": "Quelles plantes sont dangereuses", "icon": "LocalFlorist" },
+  { "id": "aktivnost", "title": "Activité", "subtitle": "Exercice physique et mental", "icon": "FitnessCenter" },
+  { "id": "son_i_otdyh", "title": "Sommeil et repos", "subtitle": "Créer le coin idéal", "icon": "Weekend" },
+  { "id": "rabochee_mesto", "title": "Ton espace de travail", "subtitle": "Un coin près de son humain", "icon": "Work" }
+]

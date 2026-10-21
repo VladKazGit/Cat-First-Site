@@ -1,0 +1,384 @@
+[
+  {
+    "icon": "LocalHospital",
+    "title": "Tierarztbesuch",
+    "intro": null,
+    "warning": null,
+    "sections": [
+      {
+        "heading": null,
+        "items": [
+          { "label": "Heimtierausweis", "note": null },
+          { "label": "Transportbox", "note": null },
+          { "label": "Saugfähige Unterlage", "note": null },
+          { "label": "Lieblingsleckerli", "note": null },
+          { "label": "Medikamente (falls sie welche nimmt)", "note": null },
+          { "label": "Aktuelle Untersuchungsergebnisse", "note": null },
+          { "label": "Video der Symptome (falls vorhanden)", "note": null },
+          { "label": "Liste mit Fragen an den Tierarzt", "note": null },
+          { "label": "Notizen zum Verhalten der Katze in den letzten Tagen", "note": null }
+        ]
+      }
+    ],
+    "footerNote": null
+  },
+  {
+    "icon": "Pets",
+    "title": "Dein erstes Kätzchen zieht ein",
+    "intro": null,
+    "warning": null,
+    "sections": [
+      { "heading": "Vor der Ankunft des Kätzchens", "items": [] },
+      {
+        "heading": "Sicherheit im Haus",
+        "items": [
+          { "label": "„Katzennetze“ an den Fenstern anbringen.", "note": null },
+          { "label": "Fenster im Kippstellungsmodus sichern.", "note": null },
+          { "label": "Elektrokabel außer Reichweite bringen.", "note": null },
+          { "label": "Haushaltschemikalien und Medikamente wegschließen.", "note": null },
+          { "label": "Giftige Zimmerpflanzen entfernen.", "note": null },
+          { "label": "Schmale Spalten hinter Möbeln und Geräten überprüfen.", "note": null },
+          { "label": "Hohe Möbel und Regale sichern.", "note": null },
+          { "label": "Kleine Gegenstände, Fäden, Gummibänder und Tüten wegräumen.", "note": null },
+          { "label": "Hohe Stellen sichern, von denen das Kätzchen herunterfallen könnte.", "note": null }
+        ]
+      },
+      { "heading": "Notwendige Anschaffungen", "items": [] },
+      {
+        "heading": "Katzentoilette",
+        "items": [
+          { "label": "Toilette.", "note": null },
+          { "label": "Streu.", "note": null },
+          { "label": "Katzenstreuschaufel.", "note": null },
+          { "label": "Matte vor der Toilette.", "note": null }
+        ]
+      },
+      {
+        "heading": "Fütterung (1 oder mehr Stück)",
+        "items": [
+          { "label": "Futternapf.", "note": null },
+          { "label": "Wassernapf oder Trinkbrunnen.", "note": null },
+          { "label": "Das Futter, das das Kätzchen bisher bekommen hat.", "note": null },
+          { "label": "Leckerlis.", "note": null }
+        ]
+      },
+      {
+        "heading": "Schlaf und Ruhe",
+        "items": [
+          { "label": "Kuschelbett.", "note": null },
+          { "label": "Decke.", "note": null },
+          { "label": "Versteck oder Kuschelhöhle.", "note": null }
+        ]
+      },
+      {
+        "heading": "Spielen",
+        "items": [
+          { "label": "Kratzbaum.", "note": null },
+          { "label": "Angelspiel.", "note": null },
+          { "label": "Bälle.", "note": null },
+          { "label": "Interaktive Spielzeuge.", "note": null }
+        ]
+      },
+      {
+        "heading": "Für den Transport",
+        "items": [
+          { "label": "Transportbox.", "note": null },
+          { "label": "Saugfähige Unterlage.", "note": null },
+          { "label": "Adressanhänger (falls nötig).", "note": null }
+        ]
+      },
+      {
+        "heading": "Der erste Tag zu Hause",
+        "items": [
+          { "label": "Die Transportbox öffnen und das Kätzchen von selbst herauskommen lassen.", "note": null },
+          { "label": "Den Standort der Toilette zeigen.", "note": null },
+          { "label": "Die Näpfe mit Wasser und Futter zeigen.", "note": null },
+          { "label": "Nicht sofort die ganze Wohnung zeigen — mit einem Zimmer beginnen und nach und nach mehr Raum freigeben, sobald das Kätzchen Interesse zeigt.", "note": null },
+          { "label": "Es nicht ohne Grund hochheben.", "note": null },
+          { "label": "Ihm die Möglichkeit geben, den Raum in Ruhe zu erkunden.", "note": null },
+          { "label": "Am ersten Tag keine Gäste einladen.", "note": null }
+        ]
+      },
+      {
+        "heading": "Die ersten 7 Tage",
+        "items": [
+          { "label": "Mit dem gewohnten Futter füttern.", "note": null },
+          { "label": "Die Streu nicht wechseln.", "note": null },
+          { "label": "Einen festen Fütterungsrhythmus einhalten.", "note": null },
+          { "label": "Täglich spielen, 10–20 Minuten pro Einheit.", "note": null },
+          { "label": "Den Appetit im Auge behalten.", "note": null },
+          { "label": "Die Trinkmenge im Auge behalten.", "note": null },
+          { "label": "Kot und Urin im Auge behalten.", "note": null },
+          { "label": "Nach und nach die übrigen Zimmer zeigen.", "note": null }
+        ]
+      },
+      {
+        "heading": "Tierarzt",
+        "items": [
+          { "label": "Einen ersten Untersuchungstermin vereinbaren.", "note": null },
+          { "label": "Prüfen, ob ein Chip vorhanden ist.", "note": null },
+          { "label": "Den Impfplan überprüfen.", "note": null },
+          { "label": "Die Parasitenprophylaxe besprechen.", "note": null },
+          { "label": "Sich nach der empfohlenen Ernährung erkundigen.", "note": null }
+        ]
+      },
+      {
+        "heading": "Wenn bereits andere Tiere im Haushalt leben",
+        "items": [
+          { "label": "Ein separates Zimmer vorbereiten.", "note": null },
+          { "label": "Getrennte Näpfe.", "note": null },
+          { "label": "Eine eigene Toilette.", "note": null },
+          { "label": "Die Tiere nicht sofort aneinander gewöhnen.", "note": null },
+          { "label": "Regelmäßig Gerüche zwischen den Tieren austauschen, zum Beispiel mit Gegenständen, die nach dem jeweils anderen riechen.", "note": null },
+          { "label": "Die ersten Begegnungen schrittweise gestalten.", "note": null }
+        ]
+      },
+      {
+        "heading": "Nach der Eingewöhnung",
+        "items": [
+          { "label": "Ein passendes Futter auswählen.", "note": null },
+          { "label": "Einen Fütterungsrhythmus festlegen.", "note": null },
+          { "label": "Vertikalen Raum einrichten.", "note": null },
+          { "label": "Weitere Kratzbäume anschaffen.", "note": null },
+          { "label": "Sterilisation oder Kastration planen (je nach Alter und den Empfehlungen des Tierarztes).", "note": null },
+          { "label": "Einen digitalen Heimtierausweis anlegen.", "note": null }
+        ]
+      }
+    ],
+    "footerNote": null
+  },
+  {
+    "icon": "Groups",
+    "title": "Zwei Katzen aneinander gewöhnen",
+    "intro": null,
+    "warning": null,
+    "sections": [
+      {
+        "heading": "Vor der ersten Begegnung",
+        "items": [
+          { "label": "Ein separates Zimmer", "note": null },
+          { "label": "Eine zweite oder dritte Toilette", "note": null },
+          { "label": "Getrennte Näpfe", "note": null },
+          { "label": "Ein eigenes Bett", "note": null },
+          { "label": "Spielzeug", "note": null },
+          { "label": "Pheromone (falls nötig)", "note": null }
+        ]
+      },
+      {
+        "heading": "Die ersten Tage",
+        "items": [
+          { "label": "Gerüche austauschen", "note": null },
+          { "label": "Fütterung durch die geschlossene Tür", "note": null },
+          { "label": "Kurze Begegnungen", "note": null },
+          { "label": "Keinen Kontakt erzwingen", "note": null }
+        ]
+      }
+    ],
+    "footerNote": "Denk an die Ressourcen-Regel: Anzahl der Katzen + 1."
+  },
+  {
+    "icon": "LocalShipping",
+    "title": "Umzug in eine neue Wohnung",
+    "intro": null,
+    "warning": null,
+    "sections": [
+      {
+        "heading": "Eine Woche vorher",
+        "items": [
+          { "label": "Die Adresse auf der Marke/dem Halsband aktualisieren", "note": null },
+          { "label": "Die Transportbox bereitstellen", "note": null },
+          { "label": "Futter und Leckerlis auf Vorrat besorgen", "note": null }
+        ]
+      },
+      {
+        "heading": "Am Umzugstag",
+        "items": [
+          { "label": "Die Katze in einem separaten Zimmer unterbringen", "note": null },
+          { "label": "Sie erst nach Abschluss des Umzugs herauslassen", "note": null },
+          { "label": "Zuerst Toilette und Näpfe aufstellen", "note": null }
+        ]
+      }
+    ],
+    "footerNote": null
+  },
+  {
+    "icon": "Flight",
+    "title": "Reisen",
+    "intro": null,
+    "warning": null,
+    "sections": [
+      {
+        "heading": "Dokumente",
+        "items": [
+          { "label": "Heimtierausweis", "note": null },
+          { "label": "Chip", "note": null },
+          { "label": "Impfungen", "note": null },
+          { "label": "Bescheinigungen", "note": "Plane genügend Zeit für mögliche zusätzliche Kontrollen durch einen Spezialisten direkt am Flughafen ein." }
+        ]
+      },
+      {
+        "heading": "Ausstattung",
+        "items": [
+          { "label": "Transportbox", "note": null },
+          { "label": "Wasser", "note": null },
+          { "label": "Futter und Snacks", "note": null },
+          { "label": "Saugfähige Unterlagen", "note": null },
+          { "label": "Ein Spielzeug mit vertrautem Geruch", "note": null },
+          { "label": "Medikamente bereitlegen", "note": "Je nach den Bedürfnissen deiner Katze." },
+          { "label": "Beruhigende Pheromone oder ein entsprechendes Halsband besorgen.", "note": null }
+        ]
+      }
+    ],
+    "footerNote": null
+  },
+  {
+    "icon": "Healing",
+    "title": "Nach der Operation",
+    "intro": null,
+    "warning": null,
+    "sections": [
+      {
+        "heading": null,
+        "items": [
+          { "label": "Sicherstellen, dass die Katze den Body bzw. die Halskrause trägt", "note": null },
+          { "label": "Medikamente verabreichen", "note": null },
+          { "label": "Die Naht kontrollieren", "note": "Erfrage die genaue Häufigkeit beim Tierarzt." },
+          { "label": "Springen einschränken", "note": null },
+          { "label": "Den Appetit beobachten", "note": null },
+          { "label": "Die Toilettengänge beobachten", "note": null }
+        ]
+      }
+    ],
+    "footerNote": null
+  },
+  {
+    "icon": "Vaccines",
+    "title": "Impfung",
+    "intro": null,
+    "warning": null,
+    "sections": [
+      {
+        "heading": "Vorher",
+        "items": [
+          { "label": "Die Katze sollte gesund sein", "note": null },
+          { "label": "Heimtierausweis", "note": null },
+          { "label": "Terminzeit notiert", "note": null }
+        ]
+      },
+      {
+        "heading": "Nachher",
+        "items": [
+          { "label": "Temperatur kontrollieren", "note": null },
+          { "label": "Den Zustand 48 Stunden lang beobachten", "note": null },
+          { "label": "Aktives Spielen einschränken", "note": null }
+        ]
+      }
+    ],
+    "footerNote": null
+  },
+  {
+    "icon": "ExitToApp",
+    "title": "Wenn du verreist",
+    "intro": null,
+    "warning": null,
+    "sections": [
+      {
+        "heading": "Wenn das Tier zu Hause bleibt",
+        "items": [
+          { "label": "Futter", "note": null },
+          { "label": "Wasser", "note": null },
+          { "label": "Toilette", "note": null },
+          { "label": "Spielzeug", "note": null },
+          { "label": "Kontaktdaten der Person, die sich um die Katze kümmert", "note": null },
+          { "label": "Heimtierausweis der Katze und Kontaktdaten von Tierkliniken für den Notfall", "note": null }
+        ]
+      }
+    ],
+    "footerNote": null
+  },
+  {
+    "icon": "MedicalServices",
+    "title": "Notfallapotheke",
+    "intro": "Eine Notfallapotheke ist eine Zusammenstellung von Dingen, die bei Verletzungen, Verbrennungen, Blutungen oder anderen Notfällen hilfreich sein können. Sie ersetzt keinen Tierarztbesuch, ermöglicht aber schnelle Erste Hilfe, bevor es in die Klinik geht.",
+    "warning": "Wichtig: Verwende keine Medikamente für Menschen ohne Anweisung deines Tierarztes. Viele Wirkstoffe, die für Menschen unbedenklich sind, sind für Katzen giftig.",
+    "sections": [
+      {
+        "heading": "Dokumente",
+        "items": [
+          { "label": "Heimtierausweis", "note": null },
+          { "label": "Kontaktdaten deines Tierarztes", "note": null },
+          { "label": "Adresse der nächsten Tierklinik mit 24-Stunden-Notdienst", "note": null },
+          { "label": "Krankengeschichte und aktuelle Medikamente", "note": null }
+        ]
+      },
+      {
+        "heading": "Verbandsmaterial",
+        "items": [
+          { "label": "Sterile Mullkompressen", "note": null },
+          { "label": "Sterile Binden in verschiedenen Größen", "note": null },
+          { "label": "Selbsthaftende Binde", "note": null },
+          { "label": "Medizinisches Pflaster", "note": null },
+          { "label": "Wattepads", "note": null },
+          { "label": "Wattestäbchen (nicht für tiefe Wunden geeignet)", "note": null }
+        ]
+      },
+      {
+        "heading": "Lösungen",
+        "items": [
+          { "label": "Kochsalzlösung (0,9 % NaCl)", "note": "Wird verwendet zum: Augenspülen, Reinigen kleiner Wunden, Entfernen von Verschmutzungen." },
+          { "label": "Chlorhexidin 0,05 %", "note": "Geeignet zur Behandlung kleiner oberflächlicher Hautverletzungen. Keine konzentrierten Lösungen verwenden." }
+        ]
+      },
+      {
+        "heading": "Werkzeuge",
+        "items": [
+          { "label": "Digitales Thermometer", "note": null },
+          { "label": "Pinzette", "note": null },
+          { "label": "Schere mit abgerundeten Spitzen", "note": null },
+          { "label": "Einweghandschuhe", "note": null },
+          { "label": "Spritzen ohne Nadel (2–20 ml)", "note": "Nützlich, um Wasser einzuflößen oder Wunden nach Anweisung des Tierarztes zu spülen." },
+          { "label": "Kleine Taschenlampe", "note": "Nützlich bei der Untersuchung der Maulhöhle oder der Suche nach Zecken." }
+        ]
+      },
+      {
+        "heading": "Zusätzlich",
+        "items": [
+          { "label": "Kühlpack", "note": "Wird bei Prellungen, Schwellungen und Insektenstichen verwendet. Nur in ein Tuch gewickelt auflegen." }
+        ]
+      },
+      {
+        "heading": "Für den Transport",
+        "items": [
+          { "label": "Transportbox", "note": null },
+          { "label": "Eine zusätzliche saugfähige Unterlage", "note": null },
+          { "label": "Decke oder Handtuch", "note": null },
+          { "label": "Ein Maulkorb ist nicht nötig", "note": "Ein großes Handtuch hilft, eine verängstigte Katze sicher zu fixieren." }
+        ]
+      }
+    ],
+    "footerNote": null
+  },
+  {
+    "icon": "HelpOutline",
+    "title": "Katze aus dem Tierheim oder vom Züchter — wichtige Fragen",
+    "intro": "Ein neues Familienmitglied einziehen zu lassen ist ein schöner Moment. Doch neben einem gut vorbereiteten Zuhause ist es wichtig, wesentliche Informationen über das neue Tier zu kennen.",
+    "warning": null,
+    "sections": [
+      {
+        "heading": null,
+        "items": [
+          { "label": "Gewohntes Futter und Fütterungszeiten. Ein abrupter Wechsel kann zu Durchfall und Verdauungsproblemen führen.", "note": null },
+          { "label": "Bereits erfolgte Impfungen. Nach dem Heimtierausweis fragen.", "note": null },
+          { "label": "Datum der letzten Floh- und Wurmbehandlung.", "note": null },
+          { "label": "Gewohnter Platz zum Ausruhen, Schlafen und für die Toilette.", "note": null },
+          { "label": "Umgang mit anderen Menschen.", "note": null },
+          { "label": "Ob sie bereits Kommandos kennt.", "note": null },
+          { "label": "Ob es Probleme mit Verdauung oder Kot gab.", "note": null },
+          { "label": "Mit welchen Erwachsenen oder Kindern das Tier am besten zurechtkam.", "note": null },
+          { "label": "Ob das Tier oder seine Eltern Krankheiten hatten.", "note": null }
+        ]
+      }
+    ],
+    "footerNote": null
+  }
+]

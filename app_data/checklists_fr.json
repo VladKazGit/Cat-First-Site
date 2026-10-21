@@ -1,0 +1,384 @@
+[
+  {
+    "icon": "LocalHospital",
+    "title": "Visite chez le vétérinaire",
+    "intro": null,
+    "warning": null,
+    "sections": [
+      {
+        "heading": null,
+        "items": [
+          { "label": "Carnet de santé vétérinaire", "note": null },
+          { "label": "Caisse de transport", "note": null },
+          { "label": "Alèse absorbante", "note": null },
+          { "label": "Friandise préférée", "note": null },
+          { "label": "Médicaments (si traitement en cours)", "note": null },
+          { "label": "Derniers résultats d'analyses", "note": null },
+          { "label": "Vidéo des symptômes (si possible)", "note": null },
+          { "label": "Liste de questions pour le vétérinaire", "note": null },
+          { "label": "Notes sur le comportement du chat ces derniers jours", "note": null }
+        ]
+      }
+    ],
+    "footerNote": null
+  },
+  {
+    "icon": "Pets",
+    "title": "Arrivée du premier chaton",
+    "intro": null,
+    "warning": null,
+    "sections": [
+      { "heading": "Avant l'arrivée du chaton", "items": [] },
+      {
+        "heading": "Sécurité de la maison",
+        "items": [
+          { "label": "Installer des moustiquaires « anti-chat » aux fenêtres.", "note": null },
+          { "label": "Protéger le mode d'ouverture « oscillo-battant » des fenêtres.", "note": null },
+          { "label": "Mettre les câbles électriques hors de portée directe.", "note": null },
+          { "label": "Ranger les produits ménagers et les médicaments.", "note": null },
+          { "label": "Retirer les plantes d'intérieur toxiques.", "note": null },
+          { "label": "Vérifier les espaces étroits derrière les meubles et les appareils.", "note": null },
+          { "label": "Fixer les meubles hauts et les étagères.", "note": null },
+          { "label": "Ranger les petits objets, fils, élastiques et sacs.", "note": null },
+          { "label": "Sécuriser les endroits en hauteur d'où le chaton pourrait tomber.", "note": null }
+        ]
+      },
+      { "heading": "Achats indispensables", "items": [] },
+      {
+        "heading": "Toilette",
+        "items": [
+          { "label": "Bac à litière.", "note": null },
+          { "label": "Litière.", "note": null },
+          { "label": "Pelle de nettoyage.", "note": null },
+          { "label": "Tapis devant le bac.", "note": null }
+        ]
+      },
+      {
+        "heading": "Alimentation (1 ou plusieurs)",
+        "items": [
+          { "label": "Gamelle pour la nourriture.", "note": null },
+          { "label": "Gamelle ou fontaine à eau.", "note": null },
+          { "label": "La nourriture que mangeait déjà le chaton.", "note": null },
+          { "label": "Friandises.", "note": null }
+        ]
+      },
+      {
+        "heading": "Sommeil et repos",
+        "items": [
+          { "label": "Panier ou couchage.", "note": null },
+          { "label": "Plaid.", "note": null },
+          { "label": "Abri ou maisonnette.", "note": null }
+        ]
+      },
+      {
+        "heading": "Jeux",
+        "items": [
+          { "label": "Griffoir.", "note": null },
+          { "label": "Canne à pêche.", "note": null },
+          { "label": "Balles.", "note": null },
+          { "label": "Jouets interactifs.", "note": null }
+        ]
+      },
+      {
+        "heading": "Pour le transport",
+        "items": [
+          { "label": "Caisse de transport.", "note": null },
+          { "label": "Alèse.", "note": null },
+          { "label": "Médaillon d'identification (si besoin).", "note": null }
+        ]
+      },
+      {
+        "heading": "Premier jour à la maison",
+        "items": [
+          { "label": "Ouvrir la caisse de transport et laisser le chaton sortir de lui-même.", "note": null },
+          { "label": "Lui montrer l'emplacement du bac à litière.", "note": null },
+          { "label": "Lui montrer les gamelles d'eau et de nourriture.", "note": null },
+          { "label": "Ne pas lui faire découvrir tout l'appartement d'un coup — commencer par une seule pièce et élargir l'accès selon son intérêt.", "note": null },
+          { "label": "Ne pas le prendre dans les bras sans nécessité.", "note": null },
+          { "label": "Le laisser explorer l'espace tranquillement.", "note": null },
+          { "label": "Ne pas inviter d'invités le premier jour.", "note": null }
+        ]
+      },
+      {
+        "heading": "Les 7 premiers jours",
+        "items": [
+          { "label": "Le nourrir avec sa nourriture habituelle.", "note": null },
+          { "label": "Ne pas changer de litière.", "note": null },
+          { "label": "Respecter un rythme de repas régulier.", "note": null },
+          { "label": "Jouer avec lui chaque jour, 10 à 20 minutes par séance.", "note": null },
+          { "label": "Surveiller son appétit.", "note": null },
+          { "label": "Surveiller sa consommation d'eau.", "note": null },
+          { "label": "Surveiller ses selles et ses urines.", "note": null },
+          { "label": "Lui faire découvrir les autres pièces progressivement.", "note": null }
+        ]
+      },
+      {
+        "heading": "Vétérinaire",
+        "items": [
+          { "label": "Prendre rendez-vous pour un premier examen.", "note": null },
+          { "label": "Vérifier la présence d'une puce électronique.", "note": null },
+          { "label": "Vérifier le calendrier de vaccination.", "note": null },
+          { "label": "Discuter du traitement antiparasitaire.", "note": null },
+          { "label": "Demander quel régime alimentaire est recommandé.", "note": null }
+        ]
+      },
+      {
+        "heading": "S'il y a d'autres animaux à la maison",
+        "items": [
+          { "label": "Préparer une pièce séparée.", "note": null },
+          { "label": "Des gamelles séparées.", "note": null },
+          { "label": "Un bac à litière séparé.", "note": null },
+          { "label": "Ne pas présenter les animaux tout de suite.", "note": null },
+          { "label": "Faire régulièrement des échanges d'odeurs entre les animaux, en leur donnant des objets imprégnés.", "note": null },
+          { "label": "Organiser les premières rencontres progressivement.", "note": null }
+        ]
+      },
+      {
+        "heading": "Après l'adaptation",
+        "items": [
+          { "label": "Choisir une alimentation adaptée.", "note": null },
+          { "label": "Mettre en place un rythme de repas régulier.", "note": null },
+          { "label": "Aménager de l'espace en hauteur.", "note": null },
+          { "label": "Prévoir des griffoirs supplémentaires.", "note": null },
+          { "label": "Prévoir la stérilisation ou la castration (selon l'âge et les recommandations du vétérinaire).", "note": null },
+          { "label": "Créer un carnet de santé numérique pour l'animal.", "note": null }
+        ]
+      }
+    ],
+    "footerNote": null
+  },
+  {
+    "icon": "Groups",
+    "title": "Présentation de deux chats",
+    "intro": null,
+    "warning": null,
+    "sections": [
+      {
+        "heading": "Avant la rencontre",
+        "items": [
+          { "label": "Pièce séparée", "note": null },
+          { "label": "Un deuxième, voire un troisième bac à litière", "note": null },
+          { "label": "Gamelles séparées", "note": null },
+          { "label": "Couchage séparé", "note": null },
+          { "label": "Jouets", "note": null },
+          { "label": "Phéromones (si besoin)", "note": null }
+        ]
+      },
+      {
+        "heading": "Premiers jours",
+        "items": [
+          { "label": "Échange d'odeurs", "note": null },
+          { "label": "Nourrir de part et d'autre de la porte", "note": null },
+          { "label": "Rencontres courtes", "note": null },
+          { "label": "Ne pas forcer le contact", "note": null }
+        ]
+      }
+    ],
+    "footerNote": "N'oublie pas la règle pour les ressources et le matériel : « nombre de chats + 1 »."
+  },
+  {
+    "icon": "LocalShipping",
+    "title": "Déménagement",
+    "intro": null,
+    "warning": null,
+    "sections": [
+      {
+        "heading": "Une semaine avant",
+        "items": [
+          { "label": "Mettre à jour l'adresse sur la médaille/le collier", "note": null },
+          { "label": "Préparer la caisse de transport", "note": null },
+          { "label": "Faire une réserve de nourriture et de friandises", "note": null }
+        ]
+      },
+      {
+        "heading": "Le jour du déménagement",
+        "items": [
+          { "label": "Enfermer le chat dans une pièce séparée", "note": null },
+          { "label": "Ne pas le laisser sortir avant la fin du déménagement", "note": null },
+          { "label": "Installer d'abord le bac à litière et les gamelles", "note": null }
+        ]
+      }
+    ],
+    "footerNote": null
+  },
+  {
+    "icon": "Flight",
+    "title": "Voyage",
+    "intro": null,
+    "warning": null,
+    "sections": [
+      {
+        "heading": "Documents",
+        "items": [
+          { "label": "Passeport", "note": null },
+          { "label": "Puce électronique", "note": null },
+          { "label": "Vaccins", "note": null },
+          { "label": "Certificats", "note": "Prévois du temps pour d'éventuels contrôles supplémentaires dès l'aéroport, effectués par un spécialiste dédié." }
+        ]
+      },
+      {
+        "heading": "Affaires",
+        "items": [
+          { "label": "Caisse de transport", "note": null },
+          { "label": "Eau", "note": null },
+          { "label": "Nourriture et snacks", "note": null },
+          { "label": "Alèses", "note": null },
+          { "label": "Jouet avec une odeur familière", "note": null },
+          { "label": "Préparer les médicaments", "note": "Selon les besoins de ton chat." },
+          { "label": "Acheter des phéromones apaisantes ou un collier apaisant.", "note": null }
+        ]
+      }
+    ],
+    "footerNote": null
+  },
+  {
+    "icon": "Healing",
+    "title": "Après une opération",
+    "intro": null,
+    "warning": null,
+    "sections": [
+      {
+        "heading": null,
+        "items": [
+          { "label": "Vérifier la présence de la collerette/du body de protection", "note": null },
+          { "label": "Donner les médicaments", "note": null },
+          { "label": "Vérifier la cicatrice", "note": "Demande au vétérinaire ce qui est nécessaire dans ton cas." },
+          { "label": "Limiter les sauts", "note": null },
+          { "label": "Surveiller l'appétit", "note": null },
+          { "label": "Surveiller le passage à la litière", "note": null }
+        ]
+      }
+    ],
+    "footerNote": null
+  },
+  {
+    "icon": "Vaccines",
+    "title": "Vaccination",
+    "intro": null,
+    "warning": null,
+    "sections": [
+      {
+        "heading": "Avant",
+        "items": [
+          { "label": "Le chat doit être en bonne santé", "note": null },
+          { "label": "Carnet de santé vétérinaire", "note": null },
+          { "label": "Rendez-vous programmé", "note": null }
+        ]
+      },
+      {
+        "heading": "Après",
+        "items": [
+          { "label": "Surveillance de la température", "note": null },
+          { "label": "Observation de son état pendant 48 heures", "note": null },
+          { "label": "Limiter les jeux actifs", "note": null }
+        ]
+      }
+    ],
+    "footerNote": null
+  },
+  {
+    "icon": "ExitToApp",
+    "title": "Départ du propriétaire",
+    "intro": null,
+    "warning": null,
+    "sections": [
+      {
+        "heading": "Si l'animal reste à la maison",
+        "items": [
+          { "label": "Nourriture", "note": null },
+          { "label": "Eau", "note": null },
+          { "label": "Bac à litière", "note": null },
+          { "label": "Jouets", "note": null },
+          { "label": "Contacts de la personne qui viendra s'en occuper", "note": null },
+          { "label": "Carnet de santé du chat et contacts des cliniques vétérinaires où se rendre en cas d'urgence", "note": null }
+        ]
+      }
+    ],
+    "footerNote": null
+  },
+  {
+    "icon": "MedicalServices",
+    "title": "Trousse de secours",
+    "intro": "La trousse de secours regroupe les objets qui peuvent être utiles en cas de blessures, de brûlures, de saignements ou d'autres situations urgentes. Elle ne remplace pas les soins vétérinaires, mais permet de donner rapidement les premiers secours avant d'aller à la clinique.",
+    "warning": "Important : n'utilise jamais de médicaments humains sans prescription d'un vétérinaire. Beaucoup de produits sans danger pour l'humain sont toxiques pour les chats.",
+    "sections": [
+      {
+        "heading": "Documents",
+        "items": [
+          { "label": "Carnet de santé vétérinaire", "note": null },
+          { "label": "Contacts du vétérinaire traitant", "note": null },
+          { "label": "Adresse de la clinique vétérinaire d'urgence la plus proche, ouverte 24h/24", "note": null },
+          { "label": "Antécédents médicaux et traitements en cours", "note": null }
+        ]
+      },
+      {
+        "heading": "Matériel de pansement",
+        "items": [
+          { "label": "Compresses de gaze stériles", "note": null },
+          { "label": "Bandes stériles de différentes tailles", "note": null },
+          { "label": "Bande auto-adhésive", "note": null },
+          { "label": "Sparadrap médical", "note": null },
+          { "label": "Disques de coton", "note": null },
+          { "label": "Cotons-tiges (pas pour traiter les plaies profondes)", "note": null }
+        ]
+      },
+      {
+        "heading": "Solutions",
+        "items": [
+          { "label": "Sérum physiologique (NaCl 0,9 %)", "note": "Utilisé pour : rincer les yeux, nettoyer les petites plaies, retirer les saletés." },
+          { "label": "Chlorhexidine 0,05 %", "note": "Convient pour traiter de petites lésions superficielles de la peau. Ne pas utiliser de solutions concentrées." }
+        ]
+      },
+      {
+        "heading": "Instruments",
+        "items": [
+          { "label": "Thermomètre électronique", "note": null },
+          { "label": "Pince à épiler", "note": null },
+          { "label": "Ciseaux à bouts ronds", "note": null },
+          { "label": "Gants jetables", "note": null },
+          { "label": "Seringues sans aiguille (2 à 20 ml)", "note": "Elles peuvent servir à faire boire le chat ou à rincer une plaie sur indication du vétérinaire." },
+          { "label": "Petite lampe torche", "note": "Utile pour examiner la bouche ou chercher des tiques." }
+        ]
+      },
+      {
+        "heading": "En complément",
+        "items": [
+          { "label": "Poche de froid", "note": "Utilisée en cas de contusions, d'œdèmes, de piqûres d'insectes. À appliquer uniquement à travers un tissu." }
+        ]
+      },
+      {
+        "heading": "Pour le transport",
+        "items": [
+          { "label": "Caisse de transport", "note": null },
+          { "label": "Alèse absorbante de rechange", "note": null },
+          { "label": "Plaid ou serviette", "note": null },
+          { "label": "Une muselière n'est pas nécessaire", "note": "Une grande serviette permet de maintenir en toute sécurité un chat effrayé." }
+        ]
+      }
+    ],
+    "footerNote": null
+  },
+  {
+    "icon": "HelpOutline",
+    "title": "Animal venant d'un refuge ou d'un éleveur — questions importantes",
+    "intro": "L'arrivée d'un nouveau membre dans la maison est une vraie fête. Mais au-delà de l'espace à préparer, il est important de connaître des informations essentielles sur le nouvel animal.",
+    "warning": null,
+    "sections": [
+      {
+        "heading": null,
+        "items": [
+          { "label": "Nourriture et rythme de repas habituels. Un changement brutal entraîne diarrhée et troubles digestifs.", "note": null },
+          { "label": "Vaccins déjà réalisés. Demander le carnet de santé vétérinaire.", "note": null },
+          { "label": "Date du dernier traitement antipuces et vermifuge.", "note": null },
+          { "label": "Lieu habituel de repos, de sommeil et de la litière.", "note": null },
+          { "label": "Contact avec d'autres personnes.", "note": null },
+          { "label": "S'il connaît déjà des ordres.", "note": null },
+          { "label": "S'il a déjà eu des troubles digestifs ou intestinaux.", "note": null },
+          { "label": "Avec quels adultes et enfants l'animal était-il le plus à l'aise.", "note": null },
+          { "label": "Si l'animal ou ses parents ont eu des maladies.", "note": null }
+        ]
+      }
+    ],
+    "footerNote": null
+  }
+]

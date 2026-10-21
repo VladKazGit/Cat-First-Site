@@ -1,0 +1,15 @@
+[
+  { "id": "bezopasnost", "title": "Безопасность", "subtitle": "Защита дома", "icon": "Security" },
+  { "id": "opasnosti", "title": "Опасности в доме", "subtitle": "Скрытые угрозы", "icon": "Warning" },
+  { "id": "eda_i_voda", "title": "Еда и вода", "subtitle": "Обустройство зоны питания", "icon": "Restaurant" },
+  { "id": "vybor_korma", "title": "Выбор корма", "subtitle": "Рацион вашего питомца", "icon": "RestaurantMenu" },
+  { "id": "klimat", "title": "Климат-контроль", "subtitle": "Уют в жару и холод", "icon": "Thermostat" },
+  { "id": "igry", "title": "Игры", "subtitle": "Безопасность и активность", "icon": "SportsEsports" },
+  { "id": "tualet", "title": "Туалет", "subtitle": "Лоток и наполнитель", "icon": "Wc" },
+  { "id": "uhod", "title": "Уход", "subtitle": "Шерсть, когти, гигиена", "icon": "CleaningServices" },
+  { "id": "samovygul", "title": "Самовыгул", "subtitle": "Риски и альтернативы", "icon": "DirectionsRun" },
+  { "id": "cvety", "title": "Цветы", "subtitle": "Какие растения опасны", "icon": "LocalFlorist" },
+  { "id": "aktivnost", "title": "Активность", "subtitle": "Физическая и умственная нагрузка", "icon": "FitnessCenter" },
+  { "id": "son_i_otdyh", "title": "Сон и отдых", "subtitle": "Создание идеального места", "icon": "Weekend" },
+  { "id": "rabochee_mesto", "title": "Ваше рабочее место", "subtitle": "Обустройство рядом с хозяином", "icon": "Work" }
+]

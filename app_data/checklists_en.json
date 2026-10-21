@@ -1,0 +1,384 @@
+[
+  {
+    "icon": "LocalHospital",
+    "title": "Vet Clinic Visit",
+    "intro": null,
+    "warning": null,
+    "sections": [
+      {
+        "heading": null,
+        "items": [
+          { "label": "Vet passport", "note": null },
+          { "label": "Carrier", "note": null },
+          { "label": "Absorbent pad", "note": null },
+          { "label": "Favorite treat", "note": null },
+          { "label": "Medications (if any)", "note": null },
+          { "label": "Recent test results", "note": null },
+          { "label": "Video of symptoms (if any)", "note": null },
+          { "label": "List of questions for the vet", "note": null },
+          { "label": "Notes on the cat's behavior over the past few days", "note": null }
+        ]
+      }
+    ],
+    "footerNote": null
+  },
+  {
+    "icon": "Pets",
+    "title": "Bringing Home Your First Kitten",
+    "intro": null,
+    "warning": null,
+    "sections": [
+      { "heading": "Before the kitten arrives", "items": [] },
+      {
+        "heading": "Home safety",
+        "items": [
+          { "label": "Install \"anti-cat\" safety nets on windows.", "note": null },
+          { "label": "Secure windows set to tilt-open ventilation mode.", "note": null },
+          { "label": "Move electrical cords out of reach.", "note": null },
+          { "label": "Store household chemicals and medications out of reach.", "note": null },
+          { "label": "Remove toxic houseplants.", "note": null },
+          { "label": "Check for narrow gaps behind furniture and appliances.", "note": null },
+          { "label": "Secure tall furniture and shelves.", "note": null },
+          { "label": "Remove small objects, threads, rubber bands, and bags.", "note": null },
+          { "label": "Make high places safe to prevent falls.", "note": null }
+        ]
+      },
+      { "heading": "Essential supplies", "items": [] },
+      {
+        "heading": "Litter box",
+        "items": [
+          { "label": "Litter box.", "note": null },
+          { "label": "Litter.", "note": null },
+          { "label": "Scoop.", "note": null },
+          { "label": "Litter mat.", "note": null }
+        ]
+      },
+      {
+        "heading": "Food and water (1 or more of each)",
+        "items": [
+          { "label": "Food bowl.", "note": null },
+          { "label": "Water bowl or fountain.", "note": null },
+          { "label": "Food the kitten was already eating.", "note": null },
+          { "label": "Treats.", "note": null }
+        ]
+      },
+      {
+        "heading": "Sleep and rest",
+        "items": [
+          { "label": "Bed.", "note": null },
+          { "label": "Blanket.", "note": null },
+          { "label": "Hideout or house.", "note": null }
+        ]
+      },
+      {
+        "heading": "Play",
+        "items": [
+          { "label": "Scratching post.", "note": null },
+          { "label": "Wand toy.", "note": null },
+          { "label": "Balls.", "note": null },
+          { "label": "Interactive toys.", "note": null }
+        ]
+      },
+      {
+        "heading": "For transport",
+        "items": [
+          { "label": "Carrier.", "note": null },
+          { "label": "Absorbent pad.", "note": null },
+          { "label": "ID tag (if needed).", "note": null }
+        ]
+      },
+      {
+        "heading": "First day at home",
+        "items": [
+          { "label": "Open the carrier and let the kitten come out on its own.", "note": null },
+          { "label": "Show it where the litter box is.", "note": null },
+          { "label": "Show it the food and water bowls.", "note": null },
+          { "label": "Don't introduce the whole apartment at once — start with one room and open up more space as the kitten shows interest.", "note": null },
+          { "label": "Avoid picking it up unless necessary.", "note": null },
+          { "label": "Let it explore the space calmly.", "note": null },
+          { "label": "Don't invite guests on the first day.", "note": null }
+        ]
+      },
+      {
+        "heading": "First 7 days",
+        "items": [
+          { "label": "Feed the food it's used to.", "note": null },
+          { "label": "Don't switch litter.", "note": null },
+          { "label": "Stick to a feeding schedule.", "note": null },
+          { "label": "Play daily, 10–20 minutes per session.", "note": null },
+          { "label": "Monitor its appetite.", "note": null },
+          { "label": "Monitor its water intake.", "note": null },
+          { "label": "Monitor its bowel movements and urination.", "note": null },
+          { "label": "Gradually introduce the rest of the rooms.", "note": null }
+        ]
+      },
+      {
+        "heading": "Veterinary care",
+        "items": [
+          { "label": "Schedule an initial checkup.", "note": null },
+          { "label": "Check for a microchip.", "note": null },
+          { "label": "Check the vaccination schedule.", "note": null },
+          { "label": "Discuss parasite prevention.", "note": null },
+          { "label": "Ask about a recommended diet.", "note": null }
+        ]
+      },
+      {
+        "heading": "If you have other pets at home",
+        "items": [
+          { "label": "Prepare a separate room.", "note": null },
+          { "label": "Separate bowls.", "note": null },
+          { "label": "Separate litter box.", "note": null },
+          { "label": "Don't introduce the animals right away.", "note": null },
+          { "label": "Do regular scent swapping between the animals using scented items.", "note": null },
+          { "label": "Gradually arrange their first meetings.", "note": null }
+        ]
+      },
+      {
+        "heading": "After the adjustment period",
+        "items": [
+          { "label": "Choose a suitable food.", "note": null },
+          { "label": "Set up a feeding routine.", "note": null },
+          { "label": "Set up vertical space.", "note": null },
+          { "label": "Get additional scratching posts.", "note": null },
+          { "label": "Schedule spaying or neutering (based on age and your vet's recommendations).", "note": null },
+          { "label": "Create a digital pet passport.", "note": null }
+        ]
+      }
+    ],
+    "footerNote": null
+  },
+  {
+    "icon": "Groups",
+    "title": "Introducing Two Cats",
+    "intro": null,
+    "warning": null,
+    "sections": [
+      {
+        "heading": "Before the meeting",
+        "items": [
+          { "label": "Separate room", "note": null },
+          { "label": "A second (or third) litter box", "note": null },
+          { "label": "Separate bowls", "note": null },
+          { "label": "Separate bed", "note": null },
+          { "label": "Toys", "note": null },
+          { "label": "Pheromones (if needed)", "note": null }
+        ]
+      },
+      {
+        "heading": "First few days",
+        "items": [
+          { "label": "Scent swapping", "note": null },
+          { "label": "Feeding on either side of the door", "note": null },
+          { "label": "Short meetings", "note": null },
+          { "label": "Don't force interaction", "note": null }
+        ]
+      }
+    ],
+    "footerNote": "Remember the resource rule: \"number of cats + 1.\""
+  },
+  {
+    "icon": "LocalShipping",
+    "title": "Moving to a New Apartment",
+    "intro": null,
+    "warning": null,
+    "sections": [
+      {
+        "heading": "One week before",
+        "items": [
+          { "label": "Update the address on the tag/collar", "note": null },
+          { "label": "Prepare the carrier", "note": null },
+          { "label": "Stock up on food and treats", "note": null }
+        ]
+      },
+      {
+        "heading": "On moving day",
+        "items": [
+          { "label": "Keep the cat in a separate room", "note": null },
+          { "label": "Don't let it out until the move is finished", "note": null },
+          { "label": "Set up the litter box and bowls first", "note": null }
+        ]
+      }
+    ],
+    "footerNote": null
+  },
+  {
+    "icon": "Flight",
+    "title": "Traveling",
+    "intro": null,
+    "warning": null,
+    "sections": [
+      {
+        "heading": "Documents",
+        "items": [
+          { "label": "Passport", "note": null },
+          { "label": "Microchip", "note": null },
+          { "label": "Vaccinations", "note": null },
+          { "label": "Certificates", "note": "Allow extra time for possible checks by a specialist right at the airport." }
+        ]
+      },
+      {
+        "heading": "Items",
+        "items": [
+          { "label": "Carrier", "note": null },
+          { "label": "Water", "note": null },
+          { "label": "Food and snacks", "note": null },
+          { "label": "Absorbent pads", "note": null },
+          { "label": "A toy with a familiar scent", "note": null },
+          { "label": "Prepare medications", "note": "Depending on your cat's needs." },
+          { "label": "Get calming pheromones or a calming collar.", "note": null }
+        ]
+      }
+    ],
+    "footerNote": null
+  },
+  {
+    "icon": "Healing",
+    "title": "After Surgery",
+    "intro": null,
+    "warning": null,
+    "sections": [
+      {
+        "heading": null,
+        "items": [
+          { "label": "Make sure the surgical suit/cone stays on", "note": null },
+          { "label": "Give medications", "note": null },
+          { "label": "Check the incision", "note": "Ask your vet how often this is needed." },
+          { "label": "Limit jumping", "note": null },
+          { "label": "Monitor appetite", "note": null },
+          { "label": "Monitor litter box use", "note": null }
+        ]
+      }
+    ],
+    "footerNote": null
+  },
+  {
+    "icon": "Vaccines",
+    "title": "Vaccination",
+    "intro": null,
+    "warning": null,
+    "sections": [
+      {
+        "heading": "Before",
+        "items": [
+          { "label": "The cat should be healthy", "note": null },
+          { "label": "Vet passport", "note": null },
+          { "label": "Appointment time booked", "note": null }
+        ]
+      },
+      {
+        "heading": "After",
+        "items": [
+          { "label": "Monitor temperature", "note": null },
+          { "label": "Watch its condition for 48 hours", "note": null },
+          { "label": "Limit active play", "note": null }
+        ]
+      }
+    ],
+    "footerNote": null
+  },
+  {
+    "icon": "ExitToApp",
+    "title": "When the Owner Is Away",
+    "intro": null,
+    "warning": null,
+    "sections": [
+      {
+        "heading": "If the pet stays home",
+        "items": [
+          { "label": "Food", "note": null },
+          { "label": "Water", "note": null },
+          { "label": "Litter box", "note": null },
+          { "label": "Toys", "note": null },
+          { "label": "Contact info for the person checking in on the pet", "note": null },
+          { "label": "The cat's passport and contact info for vet clinics to go to in an emergency", "note": null }
+        ]
+      }
+    ],
+    "footerNote": null
+  },
+  {
+    "icon": "MedicalServices",
+    "title": "Emergency First Aid Kit",
+    "intro": "An emergency first aid kit is a set of items you may need for injuries, burns, bleeding, or other urgent situations. It doesn't replace veterinary care, but it lets you provide quick first aid before getting to the clinic.",
+    "warning": "Important: do not use human medications without your vet's guidance. Many drugs that are safe for people are toxic to cats.",
+    "sections": [
+      {
+        "heading": "Documents",
+        "items": [
+          { "label": "Vet passport", "note": null },
+          { "label": "Contact info for your regular vet", "note": null },
+          { "label": "Address of the nearest 24-hour vet clinic", "note": null },
+          { "label": "Medical history and current medications", "note": null }
+        ]
+      },
+      {
+        "heading": "Bandaging supplies",
+        "items": [
+          { "label": "Sterile gauze pads", "note": null },
+          { "label": "Sterile bandages in various sizes", "note": null },
+          { "label": "Self-adhesive bandage", "note": null },
+          { "label": "Medical adhesive tape", "note": null },
+          { "label": "Cotton pads", "note": null },
+          { "label": "Cotton swabs (not for deep wounds)", "note": null }
+        ]
+      },
+      {
+        "heading": "Solutions",
+        "items": [
+          { "label": "Saline solution (0.9% NaCl)", "note": "Used for: rinsing eyes, cleaning minor wounds, removing debris." },
+          { "label": "Chlorhexidine 0.05%", "note": "Suitable for treating minor surface skin injuries. Do not use concentrated solutions." }
+        ]
+      },
+      {
+        "heading": "Tools",
+        "items": [
+          { "label": "Digital thermometer", "note": null },
+          { "label": "Tweezers", "note": null },
+          { "label": "Scissors with rounded tips", "note": null },
+          { "label": "Disposable gloves", "note": null },
+          { "label": "Needle-free syringes (2–20 ml)", "note": "Useful for giving water orally or flushing wounds as directed by your vet." },
+          { "label": "Small flashlight", "note": "Useful for checking the mouth or looking for ticks." }
+        ]
+      },
+      {
+        "heading": "Additional items",
+        "items": [
+          { "label": "Cold pack", "note": "Used for bruises, swelling, and insect bites. Apply only wrapped in cloth." }
+        ]
+      },
+      {
+        "heading": "For transport",
+        "items": [
+          { "label": "Carrier", "note": null },
+          { "label": "Spare absorbent pad", "note": null },
+          { "label": "Blanket or towel", "note": null },
+          { "label": "No muzzle needed", "note": "A large towel will help safely restrain a frightened cat." }
+        ]
+      }
+    ],
+    "footerNote": null
+  },
+  {
+    "icon": "HelpOutline",
+    "title": "Getting a Cat from a Shelter or Breeder — Key Questions",
+    "intro": "Welcoming a new family member is exciting. But beyond setting up a space for them, it's important to get key information about the new cat.",
+    "warning": null,
+    "sections": [
+      {
+        "heading": null,
+        "items": [
+          { "label": "Usual food and feeding schedule. A sudden change can cause diarrhea and digestive issues.", "note": null },
+          { "label": "Vaccinations already given. Ask for the vet passport.", "note": null },
+          { "label": "Date of the last flea and deworming treatment.", "note": null },
+          { "label": "Usual spots for resting, sleeping, and the litter box.", "note": null },
+          { "label": "How it interacts with other people.", "note": null },
+          { "label": "Whether it already knows any commands.", "note": null },
+          { "label": "Any history of digestive or stool issues.", "note": null },
+          { "label": "Which adults or children the cat got along with best.", "note": null },
+          { "label": "Any illnesses in the cat or its parents.", "note": null }
+        ]
+      }
+    ],
+    "footerNote": null
+  }
+]

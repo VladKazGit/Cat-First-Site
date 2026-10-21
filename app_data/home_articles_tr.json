@@ -1,0 +1,528 @@
+[
+  {
+    "id": "bezopasnost",
+    "title": "Güvenlik",
+    "intro": "Evin, kedin için bir kaledir. Her köşenin güvenli ve rahat olduğundan emin ol.",
+    "heroImage": "dom_bezopasnost_hero",
+    "sections": [
+      {
+        "heading": "Pencere fileleri",
+        "body": "Normal sineklikler bir kedinin sıçrayışına ya da pençelerine dayanamaz. Açık pencereler ise kedinin sıkışmasına ya da pencereden düşmesine yol açabilir.\n\nKediler için iki temel koruma filesi türü vardır:\n1) \"Kedi güvenlik fileleri\" — yüksek dayanıklı çelik tel ile üretilir ve çerçeveye tüm çevre boyunca metal bağlantı elemanlarıyla sağlam şekilde sabitlenir.\n2) Açık pencere boşlukları için plastik kilit sistemleri — bunlara \"dikey havalandırma koruması\" da denir.",
+        "style": "plain",
+        "image": "dom_bezopasnost_setki"
+      },
+      {
+        "heading": "Köşe koruması",
+        "body": "Mobilyalarla duvarlar arasındaki boşlukları kontrol et. Kediler dar aralıklara sıkışabilir. Genellikle bunlar:\n• dolaplarla duvar arasında;\n• buzdolabının arkasında;\n• çamaşır makinesinin arkasında;\n• koltukla duvar arasında.\n\nKural basit: ya kedi oraya girememeli, ya da girerse çıkabilmeli.",
+        "style": "plain",
+        "image": "dom_bezopasnost_uglov"
+      },
+      {
+        "heading": "Elektrik",
+        "body": "Kabloları özel kablo kanallarına gizle. Yavru kediler kabloları kemirmeyi sever, bu da elektrik çarpmasına, ölüme ya da ağız içi yanıklara yol açabilir.\n\nTehlikeli yerler:\n• uzatma kabloları;\n• telefon şarj kabloları;\n• bilgisayar kabloları;\n• ışıklı süslemeler;\n• televizyon kabloları.\n\nKabloları bir araya toplayıp gizlemek için özel kablo kanalları kullanmak işe yarar.\n\nKedilerin kabloları merak, koku ya da insan tepkisi nedeniyle kemirebileceğini unutma. Bu olduğunda kediyi korkutma, ona bağırma; onu olabildiğince sakin bir şekilde kablolardan uzaklaştır.",
+        "style": "plain",
+        "image": "dom_bezopasnost_elektro"
+      },
+      {
+        "heading": "Ağır mobilyalar",
+        "body": "Kitaplıkları ve televizyonları duvara sabitle. Kediler harika zıplayıcılardır ve ağırlıkları, sabitlenmemiş eşyaları devirerek kedinin ya da çevredekilerin yaralanmasına yol açabilir.\n\nDikkat edilmesi gereken başlıca eşyalar:\n• kitaplıklar;\n• komodinler;\n• raf üniteleri;\n• televizyonlar;\n• duvar rafları;\n• şarap dolapları.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Ev kimyasalları",
+        "body": "Her türlü ev kimyasalı hayvanlar için tehlikelidir. Bunlara şunlar dahildir:\n• cam temizleyiciler;\n• banyo temizleyicileri;\n• zemin temizleyicileri;\n• bulaşık deterjanları vb.\n\nTüylere bulaşsa bile kedi bu maddeyi yalayarak vücuduna alır ve iç organlarına ulaşır. Tüm temizlik ürünlerini kedinin bulunduğu alanlardan uzakta, kapalı dolap ve kapaklar arkasında sakla.\n\nÖzellikle tehlikeli olanlar: çamaşır suyu, boru açıcılar, fırın temizleyiciler, bulaşık makinesi tabletleri, çamaşır kapsülleri, konsantre ürünler.",
+        "style": "warning",
+        "image": "dom_bezopasnost_himiya"
+      },
+      {
+        "heading": "Balkon",
+        "body": "Temiz havada vakit geçirebilmek, bir hayvanın yaşamının önemli bir parçasıdır. Ama balkon, temiz hava ve güneşin yanında tehlike de barındırabilir.\n\nEn önemli ve ilk kural, balkonun tüm çevresinde özel koruma filelerinin bulunmasıdır. Ayrıca tüm teknik boşlukları kapatmak gerekir: kediler meraklıdır ve erişebildikleri her yere burunlarını sokarlar.",
+        "style": "plain",
+        "image": "dom_bezopasnost_balkon"
+      },
+      {
+        "heading": "Ek noktalar",
+        "body": "Mutfak: sıcak ocak; bıçaklar; açık fırın; çöp kovası.\n\nBanyo: tuvalet kapağı kapalı tutulmalı; çamaşır makinesi çalıştırmadan önce her zaman kontrol edilmeli; dolaplar kapalı olmalı; hap ve kapsüller saklanmalı.\n\nMumlar ve kokular: uçucu yağlar; difüzörler; tütsüler; mumlar.\n\nPoşetler ve filmler: plastik poşetler; ambalaj filmi; streç film.\n\nİplikler ve lastikler: iplikler; nakış ipliği; lastik bantlar; saç lastikleri.",
+        "style": "plain",
+        "image": "dom_bezopasnost_dop"
+      }
+    ]
+  },
+  {
+    "id": "eda_i_voda",
+    "title": "Yiyecek ve su",
+    "intro": "Konfor ve doğal ihtiyaç ilkelerini izleyerek kedin için mükemmel bir beslenme alanı oluştur.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "1. Kap seçimi",
+        "body": "Malzeme önemlidir. Plastik bakteri biriktirir ve kedi aknesine yol açabilir. Önerilenler: cam, seramik, paslanmaz çelik.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "2. İdeal yer",
+        "body": "Kediler alışkanlık ve güvenlik canlılarıdır. Yemeği asla kum kabının yanına koyma.\n• Hava akımı olmayan sessiz bir köşe;\n• Gürültülü cihazlardan uzak;\n• Güvenlik için odaya hakim bir konum.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "3. Konfor yüksekliği",
+        "body": "Standlı kaplar, özellikle yaşlı kedilerde boyun ve eklemler üzerindeki yükü azaltır. Kabın 15 derecelik doğru eğimi, yutmayı daha doğal hale getirir. Yüksekliği, ayakta duran kedinin boyuna göre seç.",
+        "style": "plain",
+        "image": "dom_eda_vysota"
+      },
+      {
+        "heading": "Tavsiye: kap boyutları",
+        "body": "Kabın genişliği: iç çapı, kedinin yüzünün (bıyıklarıyla birlikte) genişliğinden en az 1,5-2 kat daha büyük olmalı. Çoğu yetişkin kedi için ideal çap 15-18 cm, iri ırklar için (örneğin maine coon) 18-22 cm'dir. Çap 12-13 cm'den küçükse, kedinin bıyıkları kenarlara sürekli değer.\n\nKabın derinliği: kuru ve yaş mama için ideal olanı 2-4 cm'dir. Kenar yüksekliği, kedinin yüzünün yüksekliğinin yaklaşık 1/2-3/4'ü kadar olmalı. 5-6 cm'den yüksek kenarlar yalnızca büyük miktarda mama için uygundur, ama günlük besleme için daha az konforludur.",
+        "style": "tip",
+        "image": "dom_eda_sovet"
+      }
+    ]
+  },
+  {
+    "id": "klimat",
+    "title": "Sıcak ve soğuk",
+    "intro": "Dostunu aşırı ısınmadan ve üşümeden nasıl korursun.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "Yaz sıcağı",
+        "body": "• Her zaman erişilebilir bir yerde taze su bulundur. Kediler sıcakken daha çok su içer.\n• Soğutucu matlar ya da nemli havlular kullan, ama kediyi üzerlerinde yatmaya zorlama.\n• Klimadan doğrudan hava akımından kaçın — en iyisi, kediye doğrudan üflemeyen serin bir hava. Klima filtrelerini gerektiğinde temizle.\nYapma: kediye buz gibi su dökme; vücuduna buz koyma; zorla su içirme.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Sıcak çarpması riski!",
+        "body": "Şunlara dikkat et: ağzı açık hızlı nefes alma; ciddi halsizlik; parlak kırmızı diş etleri; yemek ve su reddi; koordinasyon bozukluğu.\nBu belirtiler görüldüğünde acil veteriner yardımı gerekebilir.",
+        "style": "warning",
+        "image": null
+      },
+      {
+        "heading": "Kış dönemi",
+        "body": "Zeminden uzak rahat yataklar + kuru havayı nemlendirme. Evde sıcak köşeler oluştur: hava akımından korunan bir yatak ve konum, ısıyı korumaya yardımcı olur.\n\nKışın önemli olanlar: hava akımından kaçınmak; yatağı soğuk bir pencerenin yanına koymamak; hava nemini %40-60 arasında tutmak; dışarı çıkan kedilerde yürüyüş sonrası pençeleri silmek.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Gizli tehlikeler",
+        "body": "Sıcak kalorifer peteklerinde uzun temas sonucu yanık oluşabilir. Havalandırma modundaki pencerelerde üşüme ve yaralanma riski vardır.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Unutmaman gereken önemli şey",
+        "body": "Kediler kendileri için rahat sıcaklığı kendileri seçer. Dostun sürekli soğuk zemine yatıyor, battaniyenin altına ya da kaloriferin yanına saklanıyorsa, bu ona çok sıcak ya da çok soğuk geldiğinin işaretidir.",
+        "style": "tip",
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "igry",
+    "title": "Oyunlar",
+    "intro": "Ev kedisi için oyun sadece eğlence değil, avcılık içgüdüsünün ortaya çıkma biçimidir. Günlük 15-30 dakikalık oyun seansları stresi, obeziteyi ve yıkıcı davranışları önlemeye yardımcı olur.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "Önce güvenlik: malzeme seçimi",
+        "body": "Oyuncaklarda malzeme önemlidir. Kediler pençeleriyle oynar, ama oyuncakları ağızlarına da alır.\n\nDoğal malzemeler: yün, tüy, pamuk ve keten, jüt ve sisal, ahşap.\nSentetik malzemeler: polar kumaş, gıda sınıfı silikon, kaliteli ABS plastik.\n\nŞunlardan kaçın: keskin kokulu ucuz plastik (çabuk kırılır, keskin kenarlar, zehirli koku yayar), uzun tüylü ve simli malzemeler (iplikler kolayca kopar, yutulursa bağırsak tıkanıklığına yol açar), sünger (kedi kemirip parçalayabilir, küçük parçalar midede sıkışabilir).\n\nKüçük parçalar: dikili boncuk, yapıştırılmış göz ya da düğme içermemeli — kedi bunları kolayca koparıp yutabilir, bu da ciddi sindirim sistemi yaralanmasına yol açar.",
+        "style": "warning",
+        "image": "dom_igry_materialy"
+      },
+      {
+        "heading": "Genel oyuncak listesi",
+        "body": "Tekstil ve yün: pamuk/ketenden yumuşak sesli oyuncak; %100 yünden keçe toplar; yapıştırma parçası olmayan kumaş fare ve balık oyuncakları; kedi otu dolu keseler; kalın polardan yastık oyuncaklar.\n\nAhşap ve doğal lifler: kemirmek için mataçi (matatabi) çubukları; preslenmiş kedi otu topları; ahşap labirent kutuları; sisal/jüt halatından toplar; direk ve paspas tipi tırmalama tahtaları.\n\nSilikon ve kauçuk: gıda sınıfı silikondan çiğneme oyuncakları; masaj yapan diş fırçası oyuncaklar; dayanıklı kauçuktan diş halkaları.\n\nPlastik etkileşimli oyuncaklar (yalnızca ABS plastik): çok katlı toplu labirent piramitler; etkileşimli bulmaca mama kapları; devrilmez ödül dozajlayıcılar; içinde çıngırak olan kapalı plastik toplar.\n\nBirlikte oynanan oyuncaklar: polar şeritli ya da doğal tüylü olta oyuncaklar; uzun tekstil yılan ipleri.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Kendi kendine eğlenme",
+        "body": "Bulmacalar ve labirentli mama kapları, sen evde yokken kediyi meşgul eder. En iyi motivasyon, sevdiği kuru ödüllerdir.\n\nÖrnekler: kedinin pençesiyle hareket ettirdiği kapaklı mama bulmacaları (Puzzle Feeders); Catit Senses Food Tree; farklı zorluk seviyelerinde Nina Ottosson bulmaca oyuncakları; mama dolu etkileşimli top (Treat Ball); koklama paspası (Snuffle Mat); bulmaca kutusu (Peekaboo Box).",
+        "style": "plain",
+        "image": "dom_igry_samorazvlech"
+      },
+      {
+        "heading": "Dikkat",
+        "body": "Lazerler: \"av\" yakalanamadığı için hayal kırıklığına yol açabilir. Oyunu her zaman kedinin pençeleriyle sıkabileceği gerçek bir oyuncakla bitir.\n\nKurdeleler: kediyi asla kurdele ya da iplerle denetimsiz bırakma — boğulma ya da ip yutma riski vardır. En iyisi bunları kedinin erişemeyeceği kapalı kutularda saklamak.",
+        "style": "warning",
+        "image": null
+      },
+      {
+        "heading": "En önemli kural: kontrol",
+        "body": "Hiçbir oyuncak %100 güvenli değildir. Kedinin oyuncak koleksiyonunu aşınma, kopan parçalar ya da yırtıklar açısından düzenli olarak kontrol et. En iyi güvence senin dikkatindir.",
+        "style": "tip",
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "tualet",
+    "title": "Tuvalet",
+    "intro": "Kum kabının ve kedi kumunun doğru seçimi, kedinin tuvaletini gerektiği yerde yapıp yapmayacağını doğrudan etkiler.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "Kum kabı seçimi",
+        "body": "Açık tip (\"klasik\") — kedi için maksimum görüş alanı sağlar, yavru ve yaşlı hayvanlar için idealdir. Kenar yüksekliği 15-20 cm, kum kabı uzunluğu kedinin boyunun 1,5-2 katı olmalı.\n\nKapalı kutu (\"gizlilik\") — kokuları ve kumu gizler, etrafa saçılmayı önler. Bazı kediler kendini sıkışmış hissedebilir — ilk zamanlarda kapağını çıkar.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Kum kabı nereye konulmalı?",
+        "body": "Sessiz bir yer — ev aletlerinin gürültüsünden ve koridorların telaşından uzakta.\nYemekten uzakta — kediler yiyip içtikleri yerde tuvaletini yapmayı sevmez.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Kedi kumu türleri",
+        "body": "Mineral (bentonit kili, topaklanan) — kokuyu çok iyi tutar, sağlam topaklar oluşturur, doldururken toz çıkarır.\n\nAhşap (preslenmiş talaş, emici) — ekonomiktir, ıslanınca ufalanır, küçük miktarlarda tuvalete dökülebilir, çevre dostudur.\n\nSilika jel (emici) — maksimum emicilik ve koku giderme sağlar, ama yüksek sesle çıtırdar ve ürkek kedileri korkutabilir.\n\nBitkisel kumlar (soya, mısır, tahıl bazlı) — tuvalete mükemmel şekilde dökülür, iz bırakmadan çözünür, kazara yenirse güvenlidir, ama daha pahalıdır ve bahçede saklanırsa kemirgenleri çeker.",
+        "style": "plain",
+        "image": "dom_tualet_mineralny",
+        "blocks": [
+          {
+            "text": "Mineral (bentonit kili, topaklanan) — kokuyu çok iyi tutar, sağlam topaklar oluşturur, doldururken toz çıkarır."
+          },
+          {
+            "image": "dom_tualet_mineralny"
+          },
+          {
+            "text": "Ahşap (preslenmiş talaş, emici) — ekonomiktir, ıslanınca ufalanır, küçük miktarlarda tuvalete dökülebilir, çevre dostudur."
+          },
+          {
+            "image": "dom_tualet_drevesny"
+          },
+          {
+            "text": "Silika jel (emici) — maksimum emicilik ve koku giderme sağlar, ama yüksek sesle çıtırdar ve ürkek kedileri korkutabilir."
+          },
+          {
+            "image": "dom_tualet_silikagel"
+          },
+          {
+            "text": "Bitkisel kumlar (soya, mısır, tahıl bazlı) — tuvalete mükemmel şekilde dökülür, iz bırakmadan çözünür, kazara yenirse güvenlidir, ama daha pahalıdır ve bahçede saklanırsa kemirgenleri çeker."
+          },
+          {
+            "image": "dom_tualet_rastitelny"
+          }
+        ]
+      },
+      {
+        "heading": "Kum kabı altın kuralı: N + 1",
+        "body": "Evindeki kedi sayısından bir fazla kum kabına sahip olmalısın. Bu, stresi ve bölge çatışmalarını önler.",
+        "style": "tip",
+        "image": null
+      },
+      {
+        "heading": "Bakım ve hijyen",
+        "body": "Her gün: günde 1-2 kez topak ve katı atıkların temizlenmesi.\n2 haftada/ayda bir: kumun tamamen değiştirilmesi ve kum kabının yumuşak bir deterjanla yıkanması.\n\nMalzeme önemlidir: plastik daha uygun fiyatlıdır, ama zamanla kokuyu emer ve çizik ile kırıkları nedeniyle bakteri üreme ortamı oluşturur. Seramik ya da metal daha hijyeniktir, ama daha pahalıdır.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Gizli tehditler",
+        "body": "Kokulandırıcılar: lavanta kokusu sana hoş gelebilir, ama hassas burunlu kediyi rahatsız eder.\nGürültülü konumlar: çamaşır makinesinin yanındaki bir kum kabı, ani korkuya ve o yerin reddedilmesine yol açabilir.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Kedi kum kabını görmezden geliyorsa",
+        "body": "Sağlık: önce veterinerde sistit ya da idrar yolu taşı olasılığını dışla.\nDavranış: temizliğini kontrol et, kum türünü ya da yerini değiştir.\n\nKediler stres, uygun olmayan kum, güçlü koku ya da kum taneleriyle temas ederken çıkan ürkütücü sesler nedeniyle tuvaleti görmezden gelebilir.",
+        "style": "plain",
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "uhod",
+    "title": "Bakım",
+    "intro": "Düzenli bakım, kedinin sağlığındaki değişiklikleri zamanında fark etmene yardımcı olur. Çoğu işlem sadece birkaç dakika sürer, ama önemli olan bunları sakin ve düzenli bir şekilde yapmaktır.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "Evde neleri kontrol etmelisin",
+        "body": "• gözler — irin, aşırı sulanma ya da kızarıklık var mı;\n• burun — olağandışı bir akıntı var mı;\n• kulaklar — kötü koku, aşırı kulak kiri ya da sürekli kaşınma var mı;\n• diş ve diş etleri — plak, kötü koku, kızarıklık;\n• cilt ve tüy — kepek, kabuklanma, tüy dökülmesi, parazit, düğümlenme;\n• pençe ve tırnaklar — çatlaklar, hasarlar, aşırı uzamış tırnaklar;\n• kilo ve vücut durumu — ani değişiklikler dikkat gerektirir;\n• davranış — iştah, hareketlilik, uyku, kum kabı kullanımı.",
+        "style": "plain",
+        "image": "dom_uhod_provera"
+      },
+      {
+        "heading": "Günlük / periyodik",
+        "body": "Her gün: taze su; normal iştah; temiz kum kabı; kısa bir genel kontrol; hareket ve oyun.\n\nPeriyodik olarak: fırçalama; tırnak kontrolü; diş temizliği; kulak ve göz muayenesi; kilo takibi.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Önemli",
+        "body": "Bakım, veteriner muayenesinin yerini tutmaz. Yeni bir şişlik, uzun süreli halsizlik, yemek reddi, ani davranış değişikliği, sürekli kaşınma ya da başka olağandışı belirtiler veterinere gitme nedenidir.",
+        "style": "warning",
+        "image": null
+      },
+      {
+        "heading": "Tırnaklar: kesim",
+        "body": "Kedinin tırnaklarını genellikle çok kısaltmak gerekmez. Ana amaç, tırnağın canlı kısmına dokunmadan yalnızca sivri ucunu almaktır.\n\nHazırlık: kedi tırnak makası; iyi aydınlatma; sakin bir ortam; işlem sonrası bir ödül.\n\nNasıl kesilir: 1) kedinin pençelerine dokunulmaya sakince alışmasına izin ver; 2) tırnağın çıkması için pati yastığına nazikçe bas; 3) tırnağın açık/pembe iç kısmını bul; 4) yalnızca şeffaf sivri ucu kes (birkaç milimetre); 5) kedi gerginleşirse bir-iki pençeyle devam et, gerisini sonraya bırak.\n\nNe sıklıkla: tırnakları düzenli olarak kontrol et, sıklık yaşa, hareketliliğe ve tırmalama tahtası kullanımına bağlıdır. Canlı kısma yanlışlıkla dokunursan kanama ve acı olabilir; hayvanlar için kanama durdurucu bir ürün kullan, işlemi zorla sürdürme. Tırmalama tahtaları, kedinin doğal tırnak bakımının ve davranışının önemli bir parçası olmaya devam eder.",
+        "style": "plain",
+        "image": "dom_uhod_kogti"
+      },
+      {
+        "heading": "Fırçalama",
+        "body": "Fırçalamak, dökülen tüyleri temizlemeye ve kedinin kendini temizlerken yuttuğu tüy miktarını azaltmaya yardımcı olur.\n\nFaydaları: evde daha az dökülen tüy; daha az düğümlenme; cilt durumunu takip etmek daha kolay; parazit, tahriş ve yaraları fark etmek daha kolay; özellikle uzun tüylü kediler için faydalıdır.\n\nAraç seçimi: kısa tüy — yumuşak fırça ya da lastik eldiven; orta uzunlukta tüy — uygun diş uzunluğunda fırça ve tarak; uzun tüy — tüyü köküne kadar dikkatlice açan tarak ve fırça.",
+        "style": "plain",
+        "image": "dom_uhod_vychesyvanie"
+      }
+    ]
+  },
+  {
+    "id": "samovygul",
+    "title": "Sahipsiz dışarı çıkış",
+    "intro": "Kedinin sokakta serbestçe dolaşması \"doğal\" gibi görünse de, günümüzün şehir ortamı ölümcül tehlikeler barındırır. İstatistiklere göre, gereken bakımı alan ev kedileri 15-20 yıl yaşarken, sokakta yaşayan kediler yalnızca 4-5 yıl yaşayabiliyor.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "Başlıca riskler",
+        "body": "Trafik kazaları ve kötü niyetli kişiler tarafından zehirlenme, şehirde kedi ölümlerinin en sık nedenidir.\n\nYırtıcılar ve köpekler: başıboş sürüler ve yabani hayvanlar tehdit oluşturur.\nEnfeksiyonlar: viral lösemi, bağışıklık yetmezliği ve kuduz — bu hastalıklar kedinin yiyebileceği hayvanlardan bulaşabilir.\nİnsan zalimliği: zehirleyenler, sokak hayvanlarına düşman kişiler ve kötü niyetli insanlar, savunmasız ve güvenen bir hayvana zarar verebilir.",
+        "style": "warning",
+        "image": null
+      },
+      {
+        "heading": "Serbest dolaşıma alternatif: tasmayla yürüyüş",
+        "body": "Senin gözetiminde güvenli bir dünya keşfi. Her kedi tasmayla yürümeyi sevmez, ama doğru hazırlıkla bu, kedinin günlerine güzel bir çeşitlilik katabilir.\n\nYürüyüş sırasında dikkat edilmesi gerekenler: güncel aşıların yapılmış olması; hayvanın dışarıda herhangi bir şey yemesine ya da biriyle temas etmesine izin vermemek — yalnızca senin elinden ya da evden gelen yiyecek.",
+        "style": "plain",
+        "image": "dom_samovygul_shleyka"
+      },
+      {
+        "heading": "Kedi çadırı (catio)",
+        "body": "Temiz hava alabilmeyi sağlayan file kaplı bir ek yapı. Müstakil bir evin varsa kediler için ayrı bir ek yapı kurabilirsin. Bu tür yapıların temel amacı, güvenli bir dışarı çıkış ortamı oluşturmaktır.\n\nBu tür kedi çadırları genellikle masif ahşap ve fileden yapılır. Etrafta tehlikeli hayvanlar olabiliyorsa, daha sağlam file ve alt kazma önleyici tedbirler kullanılır.",
+        "style": "plain",
+        "image": "dom_samovygul_volier"
+      }
+    ]
+  },
+  {
+    "id": "cvety",
+    "title": "Çiçekler",
+    "intro": "Kediler bitkileri keşfetmeyi sever, ama bazıları zehirli ve hayati tehlike oluşturur. Bu rehber, güvenli bitkiler seçmene ve dostunu korumana yardımcı olacak.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "Tehlikeli çiçekler listesi",
+        "body": "Zambak ve gün zambağı — özellikle tehlikelidir, ciddi böbrek hasarına yol açabilir.\nDiffenbahya — ağız ve boğazda tahriş ve şişlik.\nFilodendron — mukoza tahrişi, salya akması, yutma güçlüğü.\nMonstera — çözünmeyen kalsiyum oksalat içerir, ağızda yanma ve şişliğe yol açar.\nKaladyum — ağız tahrişi, dil ve dudak şişmesi.\nSpatifilyum (barış zambağı) — mukoza tahrişi ve salya akması.\nSansevyera (paslanmaz bitki) — kusma ve ishale yol açabilir.\nSarmaşık — kusma, ishal ve karın ağrısı görülebilir.\nSikas (sago palmiyesi) — son derece zehirlidir, ciddi karaciğer hasarına yol açabilir.\nAzalea ve orman gülü — kusma, halsizlik, kalp ritmi bozuklukları.\nZakkum — çok zehirlidir, ciddi kalp sorunlarına yol açabilir.\nLaleler — özellikle soğanları tehlikelidir, kusma ve sindirim sistemi tahrişi.\nNergisler — soğanları zehirlidir, kusma, ishal, nörolojik belirtiler.\nSümbüller — soğanları sindirim sistemi tahrişine yol açar.\nKrizantemler — salya akması, kusma, ishal, koordinasyon bozukluğu.\nKalanşo — kalp faaliyeti için zehirlidir.\nAloe vera — kusma, ishal ve halsizlik.",
+        "style": "warning",
+        "image": null
+      },
+      {
+        "heading": "Önleme",
+        "body": "Önlem, güvenliğin anahtarıdır. Bir bitkinin kedin için güvenli olduğundan emin değilsen, onu dostunun ulaşamayacağı bir yere koymak en iyisidir. Şüphe duyuyorsan başka bir bitki seç.",
+        "style": "tip",
+        "image": null
+      },
+      {
+        "heading": "Zehirlenme durumunda ne yapmalı?",
+        "body": "1. Panik yapma ve kediyi izole et — mümkünse ağzındaki bitki kalıntılarını al ve hayvana başka bir şey yedirme.\n2. Bitkinin fotoğrafını çek — doğru panzehiri seçebilmesi için veterinerin, dostunun hangi toksinle zehirlendiğini tam olarak bilmesi önemlidir.\n3. Hemen kliniğe git — veterinerin talimatı olmadan kendi başına kusturmaya çalışma. Her dakika önemli olabilir.",
+        "style": "plain",
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "aktivnost",
+    "title": "Hareket",
+    "intro": "Hareket, kedinin sağlığının ve uzun ömürlülüğünün anahtarıdır. Aktif bir yaşam için ona alan yarat.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "Günlük egzersiz",
+        "body": "Düzenli oyunlar (günde 15-30 dakika) obeziteyi önlemeye yardımcı olur ve kas tonusunu korur. Av taklidi yapmak için olta oyuncak ve lazer işaretçi kullan.\n\nFaydaları: stresi azaltır; gece hareketliliğini azaltır; yıkıcı davranışları önler; kiloyu kontrol etmeye yardımcı olur; avcılık içgüdüsünü tatmin eder.",
+        "style": "plain",
+        "image": "dom_aktivnost_ezhednevnye"
+      },
+      {
+        "heading": "Dikey parkurlar",
+        "body": "Kedi ağaçları ve duvar basamakları kullanmak, kedinin tırmanma içgüdüsünü gerçekleştirmesine ve yükseklikte kendini güvende hissetmesine olanak tanır.\n\nBunlara dahil olanlar: 80 cm'den yüksek tırmalama tahtaları; duvar rafları; kedi ağaçları; pencere hamakları; köprücükler.",
+        "style": "plain",
+        "image": "dom_aktivnost_vertikalnye"
+      },
+      {
+        "heading": "Kedinin daha fazla oyuna ihtiyacı olduğunu nasıl anlarsın",
+        "body": "Kedi sıkılıyorsa şunları yapabilir:\n• geceleri seni uyandırmak;\n• mobilyaları tırmalamak;\n• yüksek sesle miyavlamak;\n• aşırı yemek;\n• kendini yalayarak tüylerini dökmek;\n• ayaklarına saldırmak.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Oyun süreci",
+        "body": "Genel süreç: avlanma → yakalama → yemek → dinlenme. Yani: oynadınız, küçük bir ödül ya da mama verdin, kedi dinleniyor. Bu döngü, doğal davranışa en yakın olanıdır.\n\n1. Av arama — oyuncağı yavaşça hareket ettir, mobilyaların arkasına gizle, kedinin gözlemleyip \"takip etmesine\" izin ver.\n2. Kovalama — hız ve yönü değiştir, kuş ya da fare davranışını taklit et, kedinin sinsice yaklaşmasına izin ver.\n3. Yakalama — oyuncağı sürekli çekme, kedinin \"avı\" birkaç kez başarıyla yakalamasına izin ver, pençeleriyle tutup ısırmasına fırsat ver.\n\nKedinin yeterince oynadığını nasıl anlarsın: oyundan sonra sakince dinleniyor; sürekli ilgi talep etmiyor; normal kilosunu koruyor; mobilyaları daha az tahrip ediyor; oyuncaklara ilgi gösteriyor.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Koşu çarkı",
+        "body": "Özellikle dışarı çıkma imkânı olmayan bir dairede yaşayan ev kedisinin enerjisini harcamasına yardımcı olur. Oyunlara güzel bir tamamlayıcıdır, ama sahibiyle etkileşimin yerini tutmaz.\n\nFaydaları: obezite riskini azaltır; kas ve eklemleri formda tutar; sıkıntı ve stresi azaltır; aktif ırklar için faydalıdır (bengal, habeş, oryantal, savannah).\n\nBilinmesi gerekenler: her kedi çarkı hemen kullanmaya başlamaz — bazılarının alışması birkaç hafta sürebilir; kediyi asla zorla koşturma; ilgisini ödüllerle teşvik et; çark yumuşak ve neredeyse sessiz dönmeli.",
+        "style": "plain",
+        "image": "dom_aktivnost_koleso"
+      },
+      {
+        "heading": "Zihinsel uyarım",
+        "body": "Mama bulmacaları ve etkileşimli oyuncaklar, kedinin yemeğini \"avlamasını\" sağlar; bu da doğal davranışı taklit eder ve sıkıntıyı önler.\n\nÖrnekler: kaydırmalı kapaklı kutular; mama dolu dozajlayıcı toplar; ödül labirentleri; delikli kutular; koklama paspasları.",
+        "style": "plain",
+        "image": "dom_aktivnost_intellekt"
+      },
+      {
+        "heading": "Tavsiyeler",
+        "body": "\"Oyuncak setini her hafta değiştir. Yenilik, kedinin merakı için en iyi teşviktir.\"\nOn beş dakikalık tek bir uzun oyun yerine, 10-15 dakikalık iki kısa oyun daha iyidir — böylece kedi yorulmadan ilgisini korur.",
+        "style": "tip",
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "rabochee_mesto",
+    "title": "Çalışma alanın",
+    "intro": "Kedi dostu bir ev ofisi düzenlemek, senin konforun ile dostunun güvenliği arasında bir denge gerektirir.",
+    "heroImage": "dom_rabota_hero",
+    "sections": [
+      {
+        "heading": "01. Alanı bölmek",
+        "body": "Kediler olup bitenin merkezinde olmayı sever. Onları masadan kovmak yerine, kendilerine özel bir alan ayır: pencere kenarında bir bölge (kuşları izlemek için ideal) ya da masanın yanındaki rafın ikinci katı kedinin dinlenmesi için.\n\nMasa üstüne monte edilen ve farklı yönlere döndürülebilen konsollu bir raf iyi bir seçenektir — kedi yakında olur, ama çalışma alanına engel olmaz.",
+        "style": "plain",
+        "image": "dom_rabota_razdelenie"
+      },
+      {
+        "heading": "02. Kabloları düzenlemek",
+        "body": "Koruyucu kutular — prizlere erişimi engellemek için elektrik çoklu prizlerini özel kutulara gizle.\nOluklu borular — kedinin kemirmeye meyilli olduğu kabloları (şarj kabloları, monitör kabloları) sert borular içine al.",
+        "style": "plain",
+        "image": "dom_rabota_provoda"
+      },
+      {
+        "heading": "03. Klavye koruması",
+        "body": "Ünlü \"tuşların üzerinde yürüyüş\" olayı, dosyaların yanlışlıkla silinmesine ya da meslektaşlarına tuhaf mesajlar gönderilmesine yol açabilir.\n\nKlavyenin üzerine şeffaf akrilik bir köprü koru ya da bir \"sahte klavye\" kullan — yanında duran eski bir klavye dikkatini dağıtabilir.",
+        "style": "plain",
+        "image": "dom_rabota_klaviatura"
+      },
+      {
+        "heading": "04. Ergonomi ve yükseklik",
+        "body": "Mobilyaları hem dostunun zıplama alışkanlığını hem de kendi sağlığını göz önünde bulundurarak seç.\n\nYükseklik ayarlı masa (önerilir): kedi fazla ısrarcı olduğunda çalışma yüzeyini hızlıca yükseltmeni sağlar. Önemli: masanın yüksekliği değişirken hareketli mekanizmaların ve paneller arasındaki boşlukların kediyi sıkıştırabileceğini unutma.\n\nSandalyenin sağlamlığı (önemli): tekerlekleri sabitlenmiş beş ayaklı bir taban, kedinin sırt kısmına aniden atlaması ya da sandalyenin tekerleklerinin altında uyuyakalması durumunda devrilmeyi önler.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Dikkat: önerilmez",
+        "body": "• Dizüstü bilgisayarın yanında kahve fincanı bırakmak;\n• kedinin yanında kokulu mum kullanmak;\n• masada ilaç bulundurmak;\n• açık makas bırakmak;\n• çalışma alanında iplik ve saç lastiği saklamak.",
+        "style": "warning",
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "opasnosti",
+    "title": "Evdeki tehlikeler",
+    "intro": "Evin bir kale, ama meraklı bir kedi için gizli tuzaklarla dolu. Bir trajediyi nasıl önleyeceğini öğren.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "Dikey havalandırma",
+        "body": "Vasistas modunda açık bir pencere ölümcül bir tuzaktır. Kediler dışarı çıkmaya çalışır, dar aralığa kayar ve sıkışır; bu da boğulmaya, doku ölümüne ya da omurga yaralanmalarına yol açabilir.\n\nÇözüm: yan koruma parmaklıkları ya da \"kedi güvenlik\" sistemleri (sinek teli değil).",
+        "style": "warning",
+        "image": "dom_opasnosti_provetrivanie"
+      },
+      {
+        "heading": "Küçük eşyalar",
+        "body": "Saç lastikleri, iğneler ve iplikler kedi tarafından yeni bir oyuncak olarak algılanabilir. Bu gibi durumlarda avcılık içgüdüsü, pençe ya da iç organ yaralanmalarına yol açabilir. Yutulan bir iplik bağırsağı akordeon gibi \"toplayabilir\".",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Risk bölgesi: mutfak",
+        "body": "Sıcak ocaklar, açık bulaşık makineleri ve çamaşır makinesi tamburları — kediler orada sıcaklık ya da bir sığınak arar. Kedi üzerine çıktığında ocağın kendiliğinden açılmaması önemlidir. En iyisi mekanik düğmelere sahip olmak ya da dokunmatik paneli kilitlemektir.",
+        "style": "plain",
+        "image": "dom_opasnosti_kuhnya"
+      },
+      {
+        "heading": "Zehirli maddeler",
+        "body": "Evdeki birçok alışılmış eşya insanlar için güvenlidir, ama kediler için küçük miktarlarda bile tehlikeli ya da ölümcül derecede zehirli olabilir.\n\nEv kimyasalları: zemin temizleyiciler, çamaşır suyu, tesisat temizleyicileri, fırın temizleyicileri, çamaşır kapsülleri.\nUçucu yağlar: çay ağacı, okaliptüs, nane, narenciye, tarçın, karanfil.\nİlaçlar: parasetamol, ibuprofen, antidepresanlar, demir içeren vitaminler, soğuk algınlığı ilaçları. Veteriner önermeden kediye asla insan ilacı verme.",
+        "style": "warning",
+        "image": "dom_opasnosti_toksiny"
+      },
+      {
+        "heading": "Risk bölgesi: yataklar",
+        "body": "Tehlikeli malzemeler: güvenli kumaş ve dolgu maddelerinden yapılmış yataklar seç, güçlü kimyasal koku yayan malzemelerden kaçın, kumaşın renk vermediğinden ve tüy bırakmadığından emin ol.\n\nParça yutma riski: dikili boncuk, düğme ya da dekoratif kordonlu yataklar seçme; oyuncakları ve yatakları hasar açısından düzenli olarak kontrol et.\n\nYapı sağlamlığı: duvar raflarını sağlam şekilde sabitle, ilk yırtılma belirtisinde ürünü değiştir.\n\nAşırı ısınma tehlikesi: yatakları ısıtıcıların ve kaloriferlerin yanına koyma.\n\nTemizlik ve alerjenler: çıkarılabilir kılıfları düzenli olarak yıka, kolay temizlenen malzemeler kullan.",
+        "style": "plain",
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "vybor_korma",
+    "title": "Dostunun beslenme düzeni",
+    "intro": "Doğru beslenme için kısa ve öz bir rehber.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "İyi bir mamanın kısa kuralları",
+        "body": "Artıları: ilk bileşen olarak et; taurin içeriği; vitamin ve mineraller.\n\nEksileri: şeker ve tatlandırıcılar; boyalar; belirsiz sakatatlar.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Kuru mu, yaş mama mı",
+        "body": "Kuru mama — saklaması ve porsiyonlaması kolaydır, kapta daha uzun bırakılabilir, daha ekonomiktir, otomatik mama kaplarına uygundur. Dezavantajları: az nem içerir (yaklaşık %8-10), sürekli su erişimi gerektirir.\n\nYaş mama — %70-85 su içerir, su dengesini korumaya yardımcı olur, az su içen kediler için daha çekicidir. Dezavantajları: daha pahalıdır, açıldıktan sonra hızla bozulur, kapta uzun süre bırakılamaz.\n\nKombine beslenme: örneğin sabah yaş mama, gün içinde küçük bir porsiyon kuru mama, akşam yaş mama.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "İçeriğe göre mama seçimi",
+        "body": "Besin değerinin eksiksizliğine ve bilginin güvenilirliğine dikkat et. Etiket, mamanın tam ve dengeli olduğunu ve hayvanın belirli yaşına ve durumuna uygun olduğunu belirtmeli.\n\nGaranti analizini kontrol et (minimum % ham protein ve yağ, maksimum % lif ve nem). AAFCO standartları, yetişkin kediler için kuru mamada en az %26, yavrular için %30 ham protein önerir.\n\nProtein: kediler zorunlu etoburdur, bu yüzden mamanın temeli et ya da balık olmalı. İçerik listesindeki ilk sıralar belirli bileşenler olmalı (\"tavuk\", \"hindi\", \"somon\"), \"et ve sakatatlar\" gibi belirsiz ifadeler değil. Taurin bulunması şart.\n\nYağlar: hayvansal kaynaklar tercih edilir (tavuk yağı, balık yağı, somon yağı) — omega-3 ve omega-6 kaynağıdır.\n\nKarbonhidrat ve lif: kedilerin fazla karbonhidrata ihtiyacı yoktur, mısır/buğday/pirinç en iyi temel seçim değildir. Lif orta miktarda (yaklaşık %3-6) faydalıdır.\n\nKatkı maddeleri: doğal koruyucular tercih edilmeli (E vitamini, C vitamini, biberiye özütü), BHA, BHT, etoksikinden kaçın.\n\nKalitesiz mamanın riskleri: alerjiler, sindirim sorunları, obezite, besin eksiklikleri.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Pazarlama sözcükleri: kanma",
+        "body": "\"Premium\", \"Süper premium\", \"Holistic\", \"GDO'suz\", \"Doğal\" gibi etiketler sıkça ve çoğu zaman anlamsızca kullanılır — pazarlama etiketleri yerine gerçek içeriğe ve garanti analizine bak.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Mama seçerken kontrol listesi",
+        "body": "• Tam ve dengeli mama, ambalajda Complete/Tam ifadesi ve doğru hayvan kategorisi (yavru/yetişkin/kısırlaştırılmış/yaşlı) belirtilmiş;\n• İlk bileşenler protein: belirli bir isim (\"tavuk\", \"somon\", \"hindi\"), \"et\" gibi genel ifadeler değil;\n• Yağlar somut olarak belirtilmiş (tavuk yağı, balık yağı), genel ifadeler değil;\n• Katkı maddelerinde BHA, BHT, etoksikin, yapay boya ve lezzet artırıcı yok;\n• Vitamin ve mineraller mevcut, garanti analizi AAFCO standartlarına uygun;\n• Ambalaj kontrol edilmiş: satın almadan önce son kullanma tarihi ve ambalajın sağlamlığı kontrol edilmiş.",
+        "style": "tip",
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "son_i_otdyh",
+    "title": "Uyku ve dinlenme: mükemmel bir köşe yaratmak",
+    "intro": "Doğru alan düzenlemesi, dostunun fiziksel ve zihinsel sağlığını doğrudan etkiler.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "Genel kural: sessiz sığınaklar",
+        "body": "Her kedinin kimsenin rahatsız etmeyeceği bir yeri olmalı: kutular, tüneller ya da polar kozalar.",
+        "style": "plain",
+        "image": "dom_son_ubezhische"
+      },
+      {
+        "heading": "Yüzey çeşitliliği",
+        "body": "Kediler seçeneğe değer verir — yumuşak pelüş yataklardan basit karton kutulara kadar her yerin günün farklı saatlerinde ayrı bir kullanım amacı vardır. Kendi kedinin neyi sevdiğini gözlemle.\n\nSeçenekler: yumuşak yataklar, kutular, raflar.",
+        "style": "plain",
+        "image": "dom_son_poverhnosti"
+      },
+      {
+        "heading": "Dikey alan",
+        "body": "Yüksek gözlem noktaları, kedilerin bölgeyi kontrol etmesine olanak tanıyarak stres ve kaygı düzeyini azaltır. Bu alana birden fazla giriş-çıkış yolu olması önemlidir.\n\nMinimalist duvar rafları; çok katlı oyun kompleksleri.",
+        "style": "plain",
+        "image": "dom_son_vertikal"
+      },
+      {
+        "heading": "Sürüde uyum",
+        "body": "Birden fazla evcil hayvan olan bir evde mükemmel dinlenme formülü basittir: N + 1. Kaynak rekabetinden kaçınmak için yatak sayısı kedi sayısından bir fazla olmalı. Daha da iyisi, farklı yerlerde daha da fazla yatak bulunmasıdır.",
+        "style": "plain",
+        "image": "dom_son_garmoniya"
+      },
+      {
+        "heading": "Yatak türleri",
+        "body": "Kapalı kapsül evler — dinlenirken saklanmayı tercih eden kediler için idealdir.\nKenarlı yataklar — yüksek kenarlı yumuşak sepetler, top gibi kıvrılarak uyumayı seven kediler için idealdir.\nHamaklar — kalorifer peteklerine, sandalye ayaklarına ya da pencerelere takılan asılı yapılar; yükseklikte dinlenmeyi tercih eden aktif dostların favori yeridir.\nMinderler ve paspaslar — taşınabilir düz döşemeler, iri kediler ya da boylu boyunca uzanarak uyumayı sevenler için uygundur.\nYataklar — her gün için kare ya da dikdörtgen yumuşak seçenekler.",
+        "style": "plain",
+        "image": "dom_son_lezhanki"
+      }
+    ]
+  }
+]

@@ -1,0 +1,323 @@
+[
+  {
+    "icon": "Pets",
+    "title": "Našli ste životinju na ulici",
+    "blocks": [
+      {
+        "heading": null,
+        "body": "Ne mora svaka mačka koju nađete odmah da ide kući. Ali ako je životinja u opasnosti, povrijeđena, iscrpljena ili joj je očigledno potrebna pomoć, postupajte mirno i redom."
+      },
+      {
+        "heading": "Prvo — vaša sigurnost",
+        "body": "Hvatati samo u rukavicama ili preko peškira. Nakon ugriza ili ogrebotine oprati ranu vodom i sapunom i istog dana se javiti ljekaru."
+      },
+      {
+        "heading": "1. Prvo procijenite situaciju",
+        "body": "Prije nego što priđete životinji, uvjerite se da je sigurno i za vas i za mačku.\nObratite pažnju:\n• Da li je u blizini prometan put.\n• Da li mačka može da istrči pred automobil.\n• Da li su u blizini psi ili drugi izvori opasnosti.\n• Da li je mačka zaglavljena (ispod automobila, u šahtu, na drvetu itd.).\nAko je mjesto opasno, prvo pokušajte da sklonite životinju iz zone rizika."
+      },
+      {
+        "heading": "2. Ne pokušavajte odmah da podignete mačku",
+        "body": "Čak i najmirnija mačka, kad je boli ili je jako uplašena, može:\n• da ugrize;\n• da ogrebe;\n• da se otrgne i pobjegne.\nBolje je:\n• govoriti mirno;\n• čučnuti na odstojanju;\n• ne gledati je uporno u oči;\n• prilaziti polako.\nAko imate hranu ili poslasticu, stavite je u blizini."
+      },
+      {
+        "heading": "3. Ako uspjete da uhvatite mačku",
+        "body": "Najbolje je koristiti:\n• transporter;\n• kartonsku kutiju sa rupama za zrak;\n• debeo peškir za nježno pridržavanje.\nNe prevozite mačku u naručju ili u otvorenoj korpi."
+      },
+      {
+        "heading": "4. Provjerite stanje životinje (imajte na umu da može biti u šoku od hvatanja)",
+        "body": "Obratite pažnju:\nDisanje\n• mirno;\n• ubrzano;\n• otežano;\n• sa otvorenim ustima.\nSvijest\n• reaguje;\n• leži nepomično;\n• pokušava da ustane;\n• dezorijentirana.\nVidljive povrede\n• krv;\n• prelomi;\n• opekotine;\n• rane;\n• izraženo šepanje.\nOpće stanje\n• iscrpljenost;\n• dehidracija;\n• prljavo krzno;\n• iscedak iz očiju ili nosa;\n• krajnja iznemoglost."
+      },
+      {
+        "heading": "5. Nemojte je odmah obilno nahraniti",
+        "body": "Jako gladnoj mački ne treba naglo davati veliku količinu hrane.\nAko je životinja slaba:\n• prvo ponudite malo vode;\n• zatim malu porciju vlažne hrane.\nNe davati: mlijeko; kobasicu; kosti; hranu sa stola."
+      },
+      {
+        "heading": "6. Ako je mačka povrijeđena",
+        "body": "Prije odlaska veterinaru:\n• držite životinju u toplom;\n• ograničite njeno kretanje;\n• ne pokušavajte sami da namještate prelome;\n• ne obrađujte duboke rane alkoholom ili jodom.\nAko je krvarenje jako, pritisnite čistu tkaninu na ranu i što brže stignite do klinike."
+      },
+      {
+        "heading": "7. Ne upoznajte je odmah sa svojim ljubimcima",
+        "body": "Čak i ako mačka izgleda zdravo. Važno je zapamtiti: može prenositi infekcije ili parazite.\nZbog toga vam treba:\n• posebna soba;\n• poseban toalet;\n• posebne činije;\n• bez direktnog kontakta.\nKarantin bi trebalo da traje dok mačku ne pregleda veterinar."
+      },
+      {
+        "heading": "8. Posjetite veterinarsku kliniku",
+        "body": "Najbolje u prva 24 sata. Veterinar će moći:\n• da provjeri mikročip;\n• da procijeni uzrast;\n• da procijeni opće zdravlje;\n• da provjeri buve i krpelje;\n• da prepiše tretman protiv parazita;\n• da uradi potrebne analize;\n• da napravi raspored vakcinacije."
+      },
+      {
+        "heading": "9. Pokušajte da pronađete vlasnika",
+        "body": "Prije nego što odlučite da zadržite mačku:\n• provjerite da li ima pločicu sa podacima;\n• zamolite veterinara da provjeri mikročip;\n• objavite oglase u lokalnim grupama i četovima;\n• obavijestite obližnja prihvatilišta.\nŽivotinja se možda izgubila sasvim nedavno. A možda i nije. Nažalost, nisu svi vlasnici dobri prema svojim životinjama niti im žele dobro."
+      },
+      {
+        "heading": "10. Ako odlučite da zadržite mačku",
+        "body": "Poslije karantina treba:\n• sprovesti tretman protiv parazita;\n• vakcinirati je;\n• sterilizirati je (po potrebi);\n• postepeno je upoznati sa drugim životinjama;\n• izabrati odgovarajuću ishranu;\n• urediti siguran prostor u kući."
+      },
+      {
+        "heading": "Kad odmah treba ići veterinaru",
+        "body": "Ne odlažite posjetu ako mačka ima makar jedan od ovih znakova:\n• otežano disanje;\n• jako krvarenje;\n• ne može da stoji;\n• prelom;\n• otvorena rana;\n• gubitak svijesti;\n• grčevi;\n• sumnja na trovanje;\n• veoma teška iscrpljenost;\n• mače mlađe od 8 sedmica nađeno samo, bez majke."
+      },
+      {
+        "heading": "Važan savjet",
+        "body": "Čak i ako nađena mačka djeluje pitomo i zdravo, ne puštajte je nazad na ulicu odmah pošto ste je uhvatili.\nPrvo provjerite mikročip i pokušajte da nađete vlasnika preko veterinarskih klinika, prihvatilišta i lokalnih zajednica. Ako se vlasnik ne nađe, životinji će i dalje biti potrebni veterinarski pregled, karantin i tretman protiv parazita prije upoznavanja sa drugim ljubimcima."
+      }
+    ]
+  },
+  {
+    "icon": "Pets",
+    "title": "Našli ste mače na ulici",
+    "blocks": [
+      {
+        "heading": null,
+        "body": "Našli ste mačiće bez majke. Ne žurite da ih odmah uzmete. U većini slučajeva mačka-majka ostavlja mlade na nekoliko sati da nađe hranu, a zatim se vraća."
+      },
+      {
+        "heading": "1. Procijenite situaciju",
+        "body": "Prije nego što se umiješate, odgovorite na nekoliko pitanja.\nDa li mačići izgledaju njegovano? • čisto krzno; • mirno spavaju; • leže zajedno; • ne plaču neprestano; • topli su na dodir.\nMajka je najvjerovatnije u blizini i uskoro će se vratiti.\n\nIma li znakova opasnosti? • mačići su hladni; • glasno mjauču bez prestanka; • puze na različite strane; • prekriveni su muvama; • leže pored puta; • na kiši su; • imaju povrede; • nema sigurnog skloništa u blizini.\nU takvoj situaciji pomoć može biti potrebna odmah."
+      },
+      {
+        "heading": "2. Posmatrajte",
+        "body": "Ako je mjesto sigurno: posmatrajte mačiće 3-6 sati sa odstojanja.\nVažno: • ne stojte odmah pored njih; • ne dirajte mačiće; • ne plašite majku.\nMačka-majka možda neće prići dok vidi čovjeka."
+      },
+      {
+        "heading": "3. Kad ne možete da čekate",
+        "body": "Mačiće treba odmah spasti ako:\n• je majka uginula;\n• su mačići povrijeđeni;\n• leže pored puta;\n• su u blizini psi;\n• su mačići jako promrzli;\n• su mokri;\n• je u blizini gradilište;\n• su mačići u vodi ili na drugom opasnom mjestu;\n• su mačići nađeni u kesi ili kutiji."
+      },
+      {
+        "heading": "4. Ako ste morali da uzmete mačiće",
+        "body": "Mačiće uzimajte u rukavicama ili preko tkanine. Ako vas mače ugrize ili ogrebe do krvi, operite ranu vodom i sapunom i javite se ljekaru.\nPrvo pravilo: zagrijavanje je važnije od hranjenja. Promrzlo mače ne može pravilno da svari hranu.\nKoristite: • toplo ćebe; • grijač umotan u peškir; • flašu sa toplom vodom.\nIzvor toplote ne smije da bude vruć. Mačići ne mogu da se odmaknu niti da vam pokažu da im je prevruće, pa je pregrijavanje opasno koliko i pothlađivanje.\n\nKako ga pravilno koristiti: grijač uvijek umotajte u peškir ili ćebe; grijač treba da pokriva otprilike polovinu kutije, da bi mačići mogli da se odmaknu ako im postane pretoplo; nikad ne stavljajte mačiće direktno na grijač; redovno rukom provjeravajte temperaturu — treba da bude prijatno toplo, a ne vruće."
+      },
+      {
+        "heading": "5. Ne dajte im kravlje mlijeko",
+        "body": "Mačići ga teško vare i može izazvati težak proliv. Koristite samo zamjenu za majčino mlijeko za mačiće.\nAko je trenutno nemate, prvo zagrijte mačiće i što prije se obratite veterinarskoj klinici ili prihvatilištu."
+      },
+      {
+        "heading": "6. Procijenite približan uzrast",
+        "body": "Mlađi od 1 sedmice: oči zatvorene; uši savijene; jedva puze. Treba ih hraniti svaka 2-3 sata, i tokom noći (ovo je od ključne važnosti!).\n1-2 sedmice: oči počinju da se otvaraju; puze aktivnije. Hranjenje svaka 3 sata.\n3-4 sedmice: počinju da hodaju; pojavljuju se mliječni zubi. Možete postepeno da počnete sa vlažnom hranom za mačiće.\nStariji od mjesec dana: sigurno hodaju; igraju se; jedu sami. I dalje im je potreban veterinarski pregled."
+      },
+      {
+        "heading": "7. Poslije svakog hranjenja",
+        "body": "Kod mačića mlađih od 3-4 sedmice crijeva i bešika još ne mogu potpuno sami da rade.\nPoslije svakog hranjenja treba nježno masirati područje ispod repa toplim, vlažnim pamučnim jastučićem ili mekanom tkaninom, oponašajući majčino lizanje. To pomaže mačetu da mokri i prazni crijeva. Zato unaprijed pripremite upijajuću podlogu ili tkaninu."
+      },
+      {
+        "heading": "8. Kako smjestiti mačiće",
+        "body": "Pripremite: kutiju; mekan peškir; toplo sklonište; bez promaje; tišinu.\nIdealna temperatura zavisi od uzrasta: 0-1 sedmica: oko 30-32°C; 2-3 sedmice: oko 27-29°C; 4 sedmice i više: oko 24-26°C.\nPobrinite se da mačići mogu da se odmaknu od izvora toplote ako im postane pretoplo."
+      },
+      {
+        "heading": "9. Obavezno ih pokažite veterinaru",
+        "body": "Čak i ako mačići izgledaju zdravo. Pregled treba da obuhvati: određivanje uzrasta; procjenu težine; provjeru dehidracije; pregled očiju; provjeru parazita; plan hranjenja; rokove tretmana protiv glista; raspored vakcinacije.\n\nHitno idite u kliniku, bez odlaganja, ako: su mačići hladni i ne zagrijavaju se; ne sisaju; stalno plaču; ne kreću se; teško dišu; ima krvi; ima izraženog proliva; stomak je jako naduvan; iz očiju ili nosa izlazi gnoj; imaju grčeve."
+      },
+      {
+        "heading": "Važno",
+        "body": "Ako su mačići na sigurnom mjestu, djeluju sito i toplo i mirno spavaju, najbolje je prvo posmatrati sa odstojanja. U mnogim slučajevima mačka-majka se vraća u roku od nekoliko sati. Mačiće treba uzeti samo kad im je život zaista u opasnosti ili ste sigurni da se majka neće vratiti. To povećava šanse mladih za zdrav razvoj i smanjuje rizik od komplikacija povezanih sa hranjenjem na ruke."
+      }
+    ]
+  },
+  {
+    "icon": "Wc",
+    "title": "Ne može da mokri ili da obavi nuždu",
+    "blocks": [
+      {
+        "heading": null,
+        "body": "Ako mačka više puta odlazi u toalet, napinje se, plače od bola, liže područje polnih organa i izbacuje vrlo malo mokraće ili ništa, to je hitan slučaj.\n\nZapušenje uretre je posebno opasno kod mačora: zahtijeva hitnu veterinarsku pomoć, jer bez liječenja brzo može postati opasno po život."
+      }
+    ]
+  },
+  {
+    "icon": "Air",
+    "title": "Otežano disanje",
+    "blocks": [
+      {
+        "heading": null,
+        "body": "Otvorena usta, ubrzano disanje, ispružen vrat, vidno pojačan rad stomaka, bučno ili zviždavo disanje i plavičaste ili veoma blijede desni uvijek su razlog da odmah krenete u kliniku. Prije polaska držite mačku što mirnijom, ne tjerajte je da se kreće i ne čekajte „da prođe samo“."
+      }
+    ]
+  },
+  {
+    "icon": "Science",
+    "title": "Trovanje",
+    "blocks": [
+      {
+        "heading": null,
+        "body": "Slinjenje, povraćanje, proliv, nesiguran hod, otežano disanje, letargija i grčevi mogu biti znaci trovanja. Sklonite životinju od izvora, sačuvajte ambalažu, biljku ili predmet, ne izazivajte povraćanje kod kuće bez uputstva veterinara i odmah se obratite veterinaru ili centru za trovanja."
+      }
+    ]
+  },
+  {
+    "icon": "Toys",
+    "title": "Strano tijelo",
+    "blocks": [
+      {
+        "heading": null,
+        "body": "Ako je mačka progutala konac, traku, gumicu, malu igračku ili drugi predmet, može se javiti povraćanje, proliv, bol u stomaku, odbijanje hrane, letargija, trljanje usta šapom ili napinjanje u toaletu. Ako vidite da dugačak predmet viri iz usta ili čmara, ne vucite ga: to može povrijediti crijeva, a životinju treba hitno pregledati."
+      }
+    ]
+  },
+  {
+    "icon": "MonitorHeart",
+    "title": "Grčevi",
+    "blocks": [
+      {
+        "heading": null,
+        "body": "Tokom napada ne stavljajte ruke mački u usta, ne pokušavajte da je zadržite i sklonite tvrde predmete u blizini da se ne povrijedi. Mjerite trajanje napada: ako je prvi, traje nekoliko minuta, ponavlja se ili mačka poslije njega ne dolazi k svijesti, potrebna je hitna pomoć; poslije napada držite životinju na mirnom mjestu i odmah se obratite klinici."
+      }
+    ]
+  },
+  {
+    "icon": "Bloodtype",
+    "title": "Jako krvarenje",
+    "blocks": [
+      {
+        "heading": null,
+        "body": "Kod jakog krvarenja stavite sterilnu gazu ili čistu tkaninu i čvrsto, direktno pritiskajte. Ako se zavoj natopi, ne skidajte ga — stavite još jedan sloj preko i nastavite da pritiskate; ako krvari noga, možete je na putu do klinike držati iznad nivoa srca."
+      }
+    ]
+  },
+  {
+    "icon": "Healing",
+    "title": "Povreda ili pad",
+    "blocks": [
+      {
+        "heading": null,
+        "body": "Čak i ako mačka poslije pada ustane i djeluje „dobro“, može imati skrivene povrede koje će se pokazati kasnije.\nDo pregleda držite je u toplom, mirnom i da se kreće što manje, naročito ako šepa, boli je, teško diše, letargična je ili odbija hranu; poslije padova sa visine pažljivo pratite znake šoka i povreda glave ili grudnog koša."
+      }
+    ]
+  },
+  {
+    "icon": "ChildCare",
+    "title": "Povreda koju su nanijela djeca: prva pomoć i prevencija",
+    "blocks": [
+      {
+        "heading": null,
+        "body": "Ako je dijete bacilo, ispustilo ili snažno stegnulo mačku, a nakon toga mački ide krv na usta, izrazito je malaksala ili apatična, ili traži toplotu, to je kritično stanje. Takvi znaci vrlo vjerovatno ukazuju na teške unutrašnje povrede: povredu glave i mozga, oštećenje unutrašnjih organa (pluća, jetre), unutrašnje krvarenje ili prijelome vilice ili rebara."
+      },
+      {
+        "heading": "Opasne greške",
+        "body": "• Kupanje mačke u stanju šoka. Pranje je izuzetno jak stres. U traumatskom šoku tjelesna temperatura naglo pada, a kupanje pojačava pothlađivanje i šok i može dovesti do prestanka disanja ili rada srca.\n• Samostalno liječenje po savjetima s interneta. Vrijeme utrošeno na traženje informacija kada postoje znaci unutrašnjeg krvarenja ili šoka direktno ugrožava život životinje. Lijekovi za ljude bez preporuke veterinara najčešće su otrovni za životinje: naprimjer, paracetamol i metamizol su smrtonosni za mačke."
+      },
+      {
+        "heading": "Dio 1. Prva pomoć",
+        "body": "Ako sumnjate na tešku povredu, glavni zadatak je da ne naškodite i da mačku što prije odvezete u kliniku."
+      },
+      {
+        "heading": "Korak 1. Osigurajte mir",
+        "body": "• Smjestite mačku u tihu, zamračenu i dobro provjetrenu prostoriju.\n• Stavite je u transporter ili čvrstu kartonsku kutiju s ravnim, tvrdim dnom na koje ste prostrli mekanu tkaninu.\n• Ne drmajte mačku, ne grdite je, ne premještajte je stalno i ne uzimajte je u naručje bez potrebe.",
+        "image": "travma_ot_detey_1"
+      },
+      {
+        "heading": "Korak 2. Sačuvajte toplotu",
+        "body": "• U traumatskom i hipovolemijskom šoku organizam brzo gubi toplotu.\n• Pažljivo pokrijte mačku laganim ćebetom ili peškirom.\n• Ako su šape i uši hladne (znak pothlađenosti), stavite pored nje flašu s toplom vodom, obavezno umotanu u debelu tkaninu da se ne opeče. Ne pregrijavajte je i ne koristite prevruću vodu."
+      },
+      {
+        "heading": "Korak 3. Pregled i higijena",
+        "body": "• Ne perite mačku! Nikakva voda.\n• Ako se vidi vanjsko krvarenje, pažljivo pritisnite na ranu sterilnu gazu ili čist zavoj.\n• Stavite pored nje činiju sa svježom vodom. Nikada ne sipajte vodu ili tečnu hranu na silu: ako je refleks gutanja poremećen ili je glava povrijeđena, mačka se može zagrcnuti."
+      },
+      {
+        "heading": "Korak 4. Hitno veterinaru",
+        "body": "• Potreban je pregled kod veterinara uživo bez odlaganja. Odvezite mačku u najbližu veterinarsku kliniku i prevozite je što pažljivije.\n• Ako fizički ne možete odmah krenuti, hitno se obratite veterinaru putem servisa za online konsultacije: reći će vam kako da stabilizujete stanje.\n• Ne dajte nikakve lijekove iz kućne apoteke dok ih veterinar ne propiše."
+      },
+      {
+        "heading": "Dio 2. Razgovor s djetetom i prevencija",
+        "body": "Život djece i kućnih ljubimaca pod istim krovom zahtijeva stalan nadzor i dosljedan odgoj."
+      },
+      {
+        "heading": "Korak 1. Objasnite posljedice",
+        "body": "• Ne kažnjavajte dijete fizički i ne vičite: to izaziva samo strah i agresiju, ali ne uči razumijevanju.\n• Ozbiljno razgovarajte kao sa sebi ravnim. Objasnite da je mačka živo biće i da osjeća bol isto kao čovjek.\n• Koristite poređenja koja dijete razumije: „Sjećaš li se kad si pao i kad te boljelo? Mačku sada boli još više, ali ona to ne može reći riječima.”"
+      },
+      {
+        "heading": "Korak 2. Postavite jasna pravila",
+        "body": "Dogovorite se o granicama i pazite da se poštuju:\n• Dodir. Ne smije: stezati, bacati, vući za rep, uši ili šape. Smije: nježno i lagano maziti po leđima.\n• Odmor i san. Ne smije: buditi je, izvlačiti iz kućice ili skrovišta. Smije: ostaviti mačku na miru dok se ne probudi.\n• Hrana i toalet. Ne smije: ometati je, plašiti, smetati joj. Smije: jednostavno ne prilaziti činijama i toaletu.\n• Nadzor odraslih. Ne smije: ostavljati djecu mlađu od 7 godina nasamo s mačkom. Smije: svaki kontakt isključivo uz prisustvo odraslih."
+      },
+      {
+        "heading": "Korak 3. Naučite ga pravilnom kontaktu",
+        "body": "• Pokažite djetetu kako da mazi mačku: niz dlaku, po glavi i leđima.\n• Objasnite koja se mjesta ne diraju: stomak, šape, rep, oči i uši.\n• Naučite ga da pravilno drži mačku: jedna ruka pridržava grudi, a druga zadnje noge odozdo, da mačka nikada ne visi u zraku."
+      },
+      {
+        "heading": "Korak 4. Razvijajte saosjećanje",
+        "body": "• Uključite dijete u svakodnevnu brigu o mački u skladu s uzrastom.\n• Povjerite mu jednostavne zadatke: da sipa suhu hranu po rasporedu, mijenja vodu u činiji, sklanja igračke.\n• Pohvalite ga za brigu i nježan odnos."
+      },
+      {
+        "heading": "Najvažnije",
+        "body": "Sva odgovornost za zdravlje životinje i siguran kontakt djeteta s mačkom leži na odraslima. Djeca ne umiju uvijek procijeniti svoju snagu i shvatiti posljedice svojih postupaka. Zadatak roditelja je da stvore sigurno okruženje, da na vrijeme reaguju kada je zdravlje životinje ugroženo i da nauče djecu da se prema živim bićima odnose brižno i odgovorno."
+      }
+    ]
+  },
+  {
+    "icon": "Sick",
+    "title": "Povraćanje ili proliv (sa krvlju)",
+    "blocks": [
+      {
+        "heading": null,
+        "body": "Ako se povraćanje ili proliv ponavljaju, traju duže od nekoliko sati, mačka postane letargična, ne zadržava vodu ili se u povraćenom sadržaju ili stolici pojavi krv, potreban je hitan veterinarski pregled.\nTo može biti povezano sa trovanjem, infekcijom ili opstrukcijom, a pokušaj da se „odleži kod kuće“ povećava rizik od dehidracije i pogoršanja. Ne tjerajte mačku da jede ili pije."
+      }
+    ]
+  },
+  {
+    "icon": "NoFood",
+    "title": "Odbijanje hrane i vode",
+    "blocks": [
+      {
+        "heading": null,
+        "body": "Ako odrasla mačka nije normalno jela oko 24 sata — a mače mnogo kraće — to je već razlog za hitnu posjetu.\n• Kod mačaka koje prestanu da jedu brzo raste rizik od masne jetre (hepatička lipidoza).\n• Suve ili blijede desni, slabost, upale oči, rijetko mokrenje ili odbijanje vode čine situaciju još hitnijom."
+      }
+    ]
+  },
+  {
+    "icon": "Thermostat",
+    "title": "Problemi sa temperaturom / pothlađivanje",
+    "blocks": [
+      {
+        "heading": null,
+        "body": "Ako je mačka hladna na dodir, slaba, pospana, loše diše, nesigurna ili prestane da reaguje, može biti u pitanju pothlađivanje.\nNormalna tjelesna temperatura mačke je približno 38.0-39.2°C.\nKod pothlađivanja sklonite mačku sa hladnoće, osušite je, pokrijte i zagrijavajte postepeno toplim — ne vrućim — izvorima toplote, bez trljanja kože."
+      }
+    ]
+  },
+  {
+    "icon": "Bed",
+    "title": "Gubitak svijesti / slabost",
+    "blocks": [
+      {
+        "heading": null,
+        "body": "Iznenadna slabost, nesvjestica, mlitavost, izostanak reakcije ili kolaps uvijek su hitan slučaj.\nProvjerite da li životinja diše i ima otkucaje srca; ako ne diše, odmah pozovite dežurnu veterinarsku kliniku — veterinar će vam telefonom reći šta da radite dok ne stignete."
+      }
+    ]
+  },
+  {
+    "icon": "Accessible",
+    "title": "Paraliza zadnjih nogu",
+    "blocks": [
+      {
+        "heading": null,
+        "body": "Iznenadna slabost ili paraliza zadnjih nogu, jak bol, hladne ili blijede zadnje šape i otežano disanje mogu ukazivati na tromboemboliju aorte — to je hitno stanje. Obično se javlja iznenada, često uz krik od bola, i zahtijeva hitnu pomoć, a ne čekanje do jutra."
+      }
+    ]
+  },
+  {
+    "icon": "WbSunny",
+    "title": "Toplotni udar",
+    "blocks": [
+      {
+        "heading": null,
+        "body": "Ubrzano disanje sa otvorenim ustima, jarko crvene ili veoma blijede desni, povraćanje, proliv, slabost, nesiguran hod, grčevi, kolaps i gubitak svijesti tipični su znaci toplotnog udara. Odmah prenesite mačku na hladnije mjesto, rashladite je vodom sobne temperature ili hladnijom, ne koristite ledenu vodu ni led, ne tjerajte je da pije i što prije stignite do veterinara."
+      }
+    ]
+  },
+  {
+    "icon": "Coronavirus",
+    "title": "Teška alergijska reakcija",
+    "blocks": [
+      {
+        "heading": null,
+        "body": "Iznenadni otok lica ili njuške, koprivnjača, povraćanje, proliv, nemir, otežano disanje ili iznenadni kolaps mogu biti znaci anafilakse.\nOna može da se razvije veoma brzo poslije ujeda insekta, vakcine, lijeka ili drugog alergena, pa ne smijete da čekate: uklonite mogući izvor ako je sigurno i hitno odvedite mačku veterinaru."
+      }
+    ]
+  },
+  {
+    "icon": "LocalFireDepartment",
+    "title": "Opekotine",
+    "blocks": [
+      {
+        "heading": null,
+        "body": "Kod svježe opekotine ili oparine što prije rashladite mjesto hladnom vodom ili vlažnim oblogom, ali ne koristite led i ne stavljajte kreme ni masti.\nPoslije hlađenja držite mačku u toplom i mirnom i što prije je pokažite veterinaru; kod hemijske opekotine važno je, ako je moguće, ponijeti ambalažu supstance, da bi veterinar razumio njen sastav."
+      }
+    ]
+  }
+]

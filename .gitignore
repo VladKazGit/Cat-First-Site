@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+# page screenshots for reports: regenerate with tools/shots.py
+screens/

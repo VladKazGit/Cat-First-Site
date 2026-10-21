@@ -1,0 +1,528 @@
+[
+  {
+    "id": "bezopasnost",
+    "title": "Sécurité",
+    "intro": "Ta maison est une forteresse pour ton chat. Assure-toi que chaque recoin de l'espace est sûr et confortable.",
+    "heroImage": "dom_bezopasnost_hero",
+    "sections": [
+      {
+        "heading": "Moustiquaires aux fenêtres",
+        "body": "Les moustiquaires classiques ne résistent pas au saut d'un chat ni à ses griffes. Et une fenêtre ouverte peut faire tomber ton chat ou le coincer.\n\nDeux types principaux de protections pour fenêtres :\n1) Les « moustiquaires anti-chat » — fabriquées en fil d'acier haute résistance et solidement fixées au cadre par des attaches métalliques sur tout le pourtour.\n2) Les bloqueurs en plastique pour les ouvertures en oscillo-battant — aussi appelés « protection d'aération verticale ».",
+        "style": "plain",
+        "image": "dom_bezopasnost_setki"
+      },
+      {
+        "heading": "Protéger les recoins",
+        "body": "Vérifie les espaces entre les meubles et les murs. Un chat peut rester coincé dans un espace étroit. C'est souvent le cas :\n• entre une armoire et le mur ;\n• derrière le réfrigérateur ;\n• derrière le lave-linge ;\n• entre le canapé et le mur.\n\nLa règle est simple : soit ton chat ne doit pas pouvoir s'y glisser, soit il doit pouvoir en ressortir.",
+        "style": "plain",
+        "image": "dom_bezopasnost_uglov"
+      },
+      {
+        "heading": "Électricité",
+        "body": "Range les câbles dans des goulottes spéciales. Les chatons adorent mordiller les fils, ce qui peut provoquer une électrocution, la mort ou des brûlures des muqueuses.\n\nEndroits à risque :\n• rallonges ;\n• chargeurs de téléphone ;\n• câbles d'ordinateur ;\n• guirlandes lumineuses ;\n• câbles de télévision.\n\nDes goulottes spéciales pour rassembler et dissimuler les câbles peuvent beaucoup aider.\n\nGarde à l'esprit qu'un chat peut mordiller les câbles par curiosité, à cause d'une odeur ou pour attirer ton attention. Si cela arrive, ne le gronde pas, ne crie pas sur lui : détourne-le calmement des câbles.",
+        "style": "plain",
+        "image": "dom_bezopasnost_elektro"
+      },
+      {
+        "heading": "Meubles lourds",
+        "body": "Fixe les bibliothèques et les téléviseurs au mur. Les chats sont d'excellents sauteurs, et leur poids peut faire basculer un meuble mal fixé, au risque de blesser le chat ou les personnes autour.\n\nÀ surveiller en priorité :\n• bibliothèques ;\n• commodes ;\n• étagères ;\n• téléviseurs ;\n• étagères murales ;\n• meubles à vin.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Produits ménagers",
+        "body": "Tous les produits ménagers sont dangereux pour les animaux. Cela concerne notamment les produits pour :\n• nettoyer les vitres ;\n• nettoyer la salle de bain ;\n• laver les sols ;\n• faire la vaisselle, etc.\n\nMême s'il n'en avale pas directement, ton chat peut en lécher les traces sur son pelage, et le produit finira dans son organisme. Range tous les produits loin des zones où évolue ton chat, dans des placards et tiroirs fermés.\n\nSont particulièrement dangereux : l'eau de Javel, les déboucheurs de canalisation, les nettoyants pour four, les tablettes de lave-vaisselle, les capsules de lessive et les produits concentrés.",
+        "style": "warning",
+        "image": "dom_bezopasnost_himiya"
+      },
+      {
+        "heading": "Balcon",
+        "body": "Profiter de l'air frais est important pour le bien-être de ton chat. Mais en plus du soleil et de l'air pur, le balcon peut cacher des dangers.\n\nLa première règle essentielle : installer des filets de protection sur tout le pourtour du balcon. Pense aussi à boucher toutes les ouvertures techniques : les chats sont curieux et fourrent leur nez partout où c'est possible.",
+        "style": "plain",
+        "image": "dom_bezopasnost_balkon"
+      },
+      {
+        "heading": "Points supplémentaires",
+        "body": "Cuisine : plaque de cuisson chaude ; couteaux ; four ouvert ; poubelle.\n\nSalle de bain : abattant des toilettes fermé ; toujours vérifier le lave-linge avant de le lancer ; placards fermés ; rangement des comprimés et gélules.\n\nBougies et parfums d'ambiance : huiles essentielles ; diffuseurs ; encens ; bougies.\n\nSacs et films : sacs en plastique ; film d'emballage ; film étirable.\n\nFils et élastiques : fils à coudre ; fil à broder ; élastiques ; chouchous et élastiques à cheveux.",
+        "style": "plain",
+        "image": "dom_bezopasnost_dop"
+      }
+    ]
+  },
+  {
+    "id": "eda_i_voda",
+    "title": "Nourriture et eau",
+    "intro": "Crée un espace repas idéal pour ton chat, en respectant son confort et ses besoins naturels.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "1. Choisir les gamelles",
+        "body": "Le matériau compte. Le plastique retient les bactéries et peut provoquer de l'acné féline. Ce qui est recommandé : le verre, la céramique, l'acier inoxydable.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "2. L'emplacement idéal",
+        "body": "Les chats sont des animaux d'habitude, attachés à leur sécurité. Ne place jamais la nourriture à côté du bac à litière.\n• Un coin calme, à l'abri des courants d'air ;\n• Loin des appareils bruyants ;\n• Une vue sur la pièce pour se sentir en sécurité.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "3. La hauteur idéale",
+        "body": "Des gamelles sur un support réduisent la tension sur le cou et les articulations, surtout chez les chats âgés. Une gamelle légèrement inclinée à 15 degrés rend la déglutition plus naturelle. Choisis la hauteur en fonction de la taille de ton chat debout.",
+        "style": "plain",
+        "image": "dom_eda_vysota"
+      },
+      {
+        "heading": "Conseil : la taille des gamelles",
+        "body": "Largeur de la gamelle : le diamètre intérieur doit être au moins 1,5 à 2 fois plus large que le museau du chat (moustaches comprises). Pour la plupart des chats adultes, le diamètre idéal est de 15 à 18 cm ; pour les grandes races (comme le maine coon), 18 à 22 cm. En dessous de 12-13 cm de diamètre, les moustaches du chat touchent trop souvent les bords.\n\nProfondeur de la gamelle : entre 2 et 4 cm est idéal, pour les croquettes comme pour la pâtée. La hauteur du rebord doit représenter environ 1/2 à 3/4 de la hauteur du museau du chat. Des rebords de plus de 5-6 cm ne conviennent qu'à de grandes quantités de nourriture, mais sont moins pratiques au quotidien.",
+        "style": "tip",
+        "image": "dom_eda_sovet"
+      }
+    ]
+  },
+  {
+    "id": "klimat",
+    "title": "Chaleur et froid",
+    "intro": "Comment protéger ton compagnon des coups de chaleur et du froid.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "Fortes chaleurs",
+        "body": "• Laisse toujours à disposition une gamelle d'eau fraîche. Les chats boivent plus quand il fait chaud.\n• Utilise des tapis rafraîchissants ou des serviettes humides, sans jamais forcer ton chat à s'y allonger.\n• Évite les courants d'air directs de la climatisation — l'idéal est un air frais sans flux direct sur le chat. Nettoie les filtres de la climatisation régulièrement.\nÀ ne pas faire : ne verse pas d'eau glacée sur ton chat ; ne lui applique pas de glace sur le corps ; ne le force pas à boire.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Risque de coup de chaleur !",
+        "body": "Surveille : une respiration rapide, gueule ouverte ; un abattement important ; des gencives rouge vif ; un refus de manger ou de boire ; des troubles de la coordination.\nEn présence de ces symptômes, une consultation vétérinaire en urgence peut être nécessaire.",
+        "style": "warning",
+        "image": null
+      },
+      {
+        "heading": "Période hivernale",
+        "body": "Des couchages douillets surélevés, loin du sol, associés à un air intérieur suffisamment humide. Crée des îlots de chaleur dans la maison : une couverture et un endroit à l'abri des courants d'air aideront ton chat à garder sa chaleur.\n\nEn hiver, il est important de : éviter les courants d'air ; ne pas placer le couchage près d'une fenêtre froide ; maintenir un taux d'humidité de 40 à 60 % ; sécher ses pattes après les sorties (si ton chat sort dehors).",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Dangers cachés",
+        "body": "Radiateurs brûlants — un contact prolongé peut provoquer des brûlures. Fenêtres en oscillo-battant — risque de refroidissement et de blessures.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Un point important à retenir",
+        "body": "Les chats choisissent eux-mêmes la température qui leur convient. Si ton compagnon s'allonge sans cesse sur le sol froid, se cache sous une couverture ou reste collé au radiateur, c'est le signe qu'il a trop chaud ou trop froid.",
+        "style": "tip",
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "igry",
+    "title": "Jeux",
+    "intro": "Pour un chat d'intérieur, jouer n'est pas juste un divertissement : c'est une façon d'exprimer son instinct de chasseur. Des sessions quotidiennes de 15 à 30 minutes aident à prévenir le stress, l'obésité et les comportements destructeurs.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "La sécurité avant tout : bien choisir les matériaux",
+        "body": "Le matériau des jouets compte. Les chats jouent avec leurs pattes, mais les prennent aussi dans la gueule.\n\nMatériaux naturels : laine, plumes, coton et lin, jute et sisal, bois.\nMatériaux synthétiques : polaire, silicone alimentaire, plastique ABS de bonne qualité.\n\nÉvite le plastique bon marché à l'odeur forte (se casse vite, bords coupants, odeur toxique), les poils longs et le lurex (les fils se détachent facilement et provoquent une occlusion intestinale s'ils sont avalés), ainsi que la mousse (ton chat peut la mâchouiller et de petits morceaux peuvent se coincer dans l'estomac).\n\nPetites pièces : pas de perles, d'yeux collés ou de boutons — ton chat pourrait facilement les arracher et les avaler, ce qui entraînerait une grave blessure digestive.",
+        "style": "warning",
+        "image": "dom_igry_materialy"
+      },
+      {
+        "heading": "Liste générale des jouets",
+        "body": "Textile et laine : jouet couineur souple en coton/lin ; balles en laine feutrée 100 % naturelle ; souris et poissons en tissu sans éléments collés ; petits sachets d'herbe à chat ; coussinets à mâchouiller en polaire épaisse.\n\nBois et fibres naturelles : bâtonnets de matatabi à ronger ; boules compressées d'herbe à chat ; labyrinthes en bois à énigmes ; balles en corde de sisal/jute ; griffoirs colonnes et tapis à griffer.\n\nSilicone et caoutchouc : jouets à mâcher en silicone alimentaire ; brosses à dents-jouets de massage dentaire ; anneaux de dentition en caoutchouc résistant.\n\nJouets interactifs en plastique (uniquement en plastique ABS) : pyramides à plusieurs niveaux avec des balles ; mangeoires-casse-têtes interactives ; distributeurs de friandises culbutants ; balles en plastique fermées avec grelot.\n\nJouets pour jouer ensemble : cannes à pêche avec rubans en polaire ou plumes naturelles ; longs cordons-serpents en tissu.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "S'occuper seul",
+        "body": "Les casse-têtes et les mangeoires-labyrinthes occupent ton chat en ton absence. La meilleure motivation reste ses croquettes ou friandises préférées.\n\nExemples : gamelles-casse-têtes (Puzzle Feeders) avec des trappes que le chat déplace avec sa patte ; Catit Senses Food Tree ; jouets-casse-têtes Nina Ottosson de différents niveaux de difficulté ; balle distributrice de croquettes (Treat Ball) ; tapis de fouille (Snuffle Mat) ; boîte à surprises (Peekaboo Box).",
+        "style": "plain",
+        "image": "dom_igry_samorazvlech"
+      },
+      {
+        "heading": "Attention",
+        "body": "Pointeurs laser : ils peuvent créer de la frustration, car la « proie » ne peut jamais être attrapée. Termine toujours la séance avec un vrai jouet que ton chat peut serrer entre ses pattes.\n\nRubans : ne laisse jamais ton chat seul avec des rubans ou des cordelettes — risque d'étranglement ou d'ingestion du fil. Le mieux est de les ranger dans des boîtes fermées, hors de sa portée.",
+        "style": "warning",
+        "image": null
+      },
+      {
+        "heading": "La règle d'or : la surveillance",
+        "body": "Aucun jouet n'est sûr à 100 %. Inspecte régulièrement les jouets de ton chat pour repérer l'usure, des pièces arrachées ou des déchirures. Ta vigilance reste la meilleure garantie de sécurité.",
+        "style": "tip",
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "tualet",
+    "title": "Litière",
+    "intro": "Bien choisir le bac et la litière influence directement le fait que ton chat fasse ses besoins au bon endroit.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "Choisir le bac",
+        "body": "Le bac ouvert (« classique ») — offre une vue dégagée, idéal pour les chatons et les chats âgés. Choisis des rebords de 15 à 20 cm de haut, et une longueur de bac égale à 1,5 à 2 fois la longueur du chat.\n\nLe bac fermé (« intimité ») — dissimule les odeurs et la litière, limite les projections. Certains chats peuvent s'y sentir piégés : retire la porte les premiers temps.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Où placer le bac ?",
+        "body": "Un endroit calme — loin du bruit des appareils ménagers et de l'agitation des couloirs.\nLoin de la nourriture — les chats n'aiment pas faire leurs besoins là où ils mangent ou boivent.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Les différents types de litière",
+        "body": "Minérale (argile bentonite, agglomérante) — retient très bien les odeurs, forme des blocs solides, mais peut dégager de la poussière au versement.\n\nVégétale à base de bois (sciure compressée, absorbante) — économique, se désagrège en poudre au contact de l'eau, peut être jetée dans les toilettes en petites quantités, écologique.\n\nSilice (absorbante) — pouvoir absorbant et anti-odeurs maximal, mais elle craque bruyamment et peut effrayer les chats peureux.\n\nLitières végétales (soja, maïs, céréales) — se jettent facilement dans les toilettes, se dissolvent complètement, sans danger en cas d'ingestion accidentelle, mais plus chères et attirent les rongeurs si elles sont stockées, par exemple, dans une résidence secondaire.",
+        "style": "plain",
+        "image": "dom_tualet_mineralny",
+        "blocks": [
+          {
+            "text": "Minérale (argile bentonite, agglomérante) — retient très bien les odeurs, forme des blocs solides, mais peut dégager de la poussière au versement."
+          },
+          {
+            "image": "dom_tualet_mineralny"
+          },
+          {
+            "text": "Végétale à base de bois (sciure compressée, absorbante) — économique, se désagrège en poudre au contact de l'eau, peut être jetée dans les toilettes en petites quantités, écologique."
+          },
+          {
+            "image": "dom_tualet_drevesny"
+          },
+          {
+            "text": "Silice (absorbante) — pouvoir absorbant et anti-odeurs maximal, mais elle craque bruyamment et peut effrayer les chats peureux."
+          },
+          {
+            "image": "dom_tualet_silikagel"
+          },
+          {
+            "text": "Litières végétales (soja, maïs, céréales) — se jettent facilement dans les toilettes, se dissolvent complètement, sans danger en cas d'ingestion accidentelle, mais plus chères et attirent les rongeurs si elles sont stockées, par exemple, dans une résidence secondaire."
+          },
+          {
+            "image": "dom_tualet_rastitelny"
+          }
+        ]
+      },
+      {
+        "heading": "La règle d'or des bacs : N + 1",
+        "body": "Prévois toujours un bac de plus que le nombre de chats à la maison. Cela évite le stress et les conflits territoriaux.",
+        "style": "tip",
+        "image": null
+      },
+      {
+        "heading": "Entretien et hygiène",
+        "body": "Chaque jour : retirer les mottes et déchets solides 1 à 2 fois par jour.\nToutes les 2 semaines / tous les mois : vider entièrement et laver le bac avec un produit doux.\n\nLe matériau compte : le plastique est plus abordable, mais absorbe les odeurs avec le temps et les fissures ou rayures peuvent abriter des bactéries. La céramique ou le métal se désinfectent plus facilement, mais coûtent plus cher.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Dangers cachés",
+        "body": "Parfums : l'odeur de lavande te plaît, mais elle repousse ton chat, dont l'odorat est bien plus sensible.\nEndroits bruyants : un bac placé près du lave-linge peut provoquer une frayeur soudaine et faire que ton chat déserte l'endroit.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Si ton chat évite le bac à litière",
+        "body": "Côté santé : fais d'abord vérifier par le vétérinaire l'absence de cystite ou de calculs urinaires.\nCôté comportement : vérifie la propreté du bac, change de type de litière ou d'emplacement.\n\nUn chat peut éviter sa litière à cause du stress, d'une litière inadaptée, d'une odeur trop forte ou d'un bruit effrayant au contact des granulés.",
+        "style": "plain",
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "uhod",
+    "title": "Toilettage",
+    "intro": "Un entretien régulier permet de repérer à temps tout changement dans l'état de ton chat. La plupart des gestes ne prennent que quelques minutes, mais l'important est de les faire calmement et régulièrement.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "Ce qu'il faut vérifier à la maison",
+        "body": "• yeux — absence de pus, de larmoiement important ou de rougeur ;\n• nez — absence d'écoulement inhabituel ;\n• oreilles — absence de forte odeur, de cérumen abondant ou de grattage permanent ;\n• dents et gencives — plaque dentaire, mauvaise haleine, rougeur ;\n• peau et pelage — pellicules, croûtes, zones dégarnies, parasites, nœuds ;\n• pattes et griffes — fissures, blessures, griffes trop longues ;\n• poids et corpulence — tout changement brusque mérite attention ;\n• comportement — appétit, activité, sommeil, utilisation du bac à litière.",
+        "style": "plain",
+        "image": "dom_uhod_provera"
+      },
+      {
+        "heading": "Au quotidien / périodiquement",
+        "body": "Chaque jour : eau fraîche ; appétit normal ; bac à litière propre ; un rapide contrôle de son état général ; activité et jeux.\n\nPériodiquement : brossage ; vérification des griffes ; brossage des dents ; contrôle des oreilles et des yeux ; suivi du poids.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Important",
+        "body": "Le toilettage ne remplace pas une visite chez le vétérinaire. Une nouvelle bosse, un abattement prolongé, un refus de manger, un changement brutal de comportement, un grattage permanent ou tout autre symptôme inhabituel doivent t'amener à consulter.",
+        "style": "warning",
+        "image": null
+      },
+      {
+        "heading": "Les griffes : la coupe",
+        "body": "En général, il n'est pas nécessaire de beaucoup raccourcir les griffes du chat. L'objectif est simplement de retirer la pointe acérée, sans toucher à la partie vivante de la griffe.\n\nCe qu'il te faut : un coupe-griffes pour chat ; un bon éclairage ; un endroit calme ; une friandise pour après.\n\nComment couper : 1) laisse ton chat s'habituer calmement à ce qu'on touche ses pattes ; 2) appuie doucement sur le coussinet pour faire sortir la griffe ; 3) repère la partie claire/rosée à l'intérieur de la griffe ; 4) ne coupe que la pointe transparente et acérée (quelques millimètres) ; 5) si ton chat s'agite, occupe-toi d'une ou deux pattes et continue plus tard.\n\nÀ quelle fréquence : vérifie les griffes régulièrement — la fréquence dépend de l'âge, de l'activité et de la présence d'un griffoir. Si tu touches accidentellement la partie vivante, du sang et une douleur peuvent apparaître : utilise un produit hémostatique pour animaux et n'insiste pas. Les griffoirs restent une part essentielle de l'entretien naturel des griffes et du comportement du chat.",
+        "style": "plain",
+        "image": "dom_uhod_kogti"
+      },
+      {
+        "heading": "Le brossage",
+        "body": "Le brossage aide à retirer les poils morts et réduit la quantité de poils avalés par le chat pendant sa toilette.\n\nLes bénéfices : moins de poils dans la maison ; moins de nœuds ; un meilleur contrôle de l'état de la peau ; il devient plus facile de repérer des parasites, une irritation ou une petite blessure ; particulièrement utile pour les chats à poil long.\n\nComment choisir son outil : poil court — une brosse douce ou une mitaine en caoutchouc ; poil mi-long — une brosse aux dents adaptées et un peigne ; poil long — un peigne et une brosse qui permettent de démêler délicatement jusqu'à la racine.",
+        "style": "plain",
+        "image": "dom_uhod_vychesyvanie"
+      }
+    ]
+  },
+  {
+    "id": "samovygul",
+    "title": "Sorties sans surveillance",
+    "intro": "Laisser un chat se déplacer librement dehors peut sembler « naturel », mais l'environnement urbain moderne cache des dangers mortels. Statistiquement, un chat d'intérieur bien entretenu vit de 15 à 20 ans, contre seulement 4 à 5 ans pour un chat qui vit dehors.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "Les principaux risques",
+        "body": "La circulation et les empoisonnements malveillants sont la cause de mortalité la plus fréquente chez les chats en ville.\n\nPrédateurs et chiens : les meutes errantes et les animaux sauvages représentent une menace.\nInfections : leucose féline, immunodéficience et rage — des maladies qui peuvent être transmises par des animaux que le chat aurait pu croiser ou dévorer.\nCruauté humaine : empoisonneurs, chasseurs d'animaux et simples personnes malveillantes peuvent nuire à un animal sans défense et confiant.",
+        "style": "warning",
+        "image": null
+      },
+      {
+        "heading": "Alternative aux sorties libres : les balades en harnais",
+        "body": "Une façon d'explorer le monde en toute sécurité, sous ta surveillance. Tous les chats n'aiment pas les balades en harnais, mais avec une bonne préparation, elles peuvent devenir un vrai moment de plaisir dans son quotidien.\n\nÀ respecter pendant la balade : vaccins à jour ; ne pas laisser ton chat manger quoi que ce soit ni entrer en contact avec qui que ce soit dehors — seule la nourriture donnée par toi ou venant de la maison est autorisée.",
+        "style": "plain",
+        "image": "dom_samovygul_shleyka"
+      },
+      {
+        "heading": "Enclos extérieur (catio)",
+        "body": "Une extension grillagée qui permet de profiter de l'air frais. Si tu as une maison individuelle, tu peux aménager une structure dédiée pour ton chat. L'objectif principal de ces installations est de créer un espace extérieur sécurisé.\n\nCes enclos sont généralement construits en bois massif et en grillage. S'il y a des animaux dangereux aux alentours, on utilise un grillage renforcé et des dispositifs anti-fouissement.",
+        "style": "plain",
+        "image": "dom_samovygul_volier"
+      }
+    ]
+  },
+  {
+    "id": "cvety",
+    "title": "Plantes",
+    "intro": "Les chats adorent explorer les plantes, mais certaines sont toxiques et peuvent mettre leur vie en danger. Ce guide t'aide à choisir des plantes sûres et à protéger ton compagnon.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "Liste des plantes dangereuses",
+        "body": "Lys et hémérocalles — particulièrement dangereux, peuvent provoquer une grave atteinte rénale.\nDieffenbachia — irritation et gonflement de la bouche et de la gorge.\nPhilodendron — irritation des muqueuses, salivation, difficultés à avaler.\nMonstera — contient des oxalates de calcium insolubles, provoque des brûlures et un gonflement de la bouche.\nCaladium — irritation de la bouche, gonflement de la langue et des lèvres.\nSpathiphyllum — irritation des muqueuses et salivation.\nSansevieria — peut provoquer des vomissements et de la diarrhée.\nLierre — vomissements, diarrhée et douleurs abdominales possibles.\nCycas — extrêmement toxique, peut provoquer une grave atteinte hépatique.\nAzalée et rhododendron — vomissements, faiblesse, troubles du rythme cardiaque.\nLaurier-rose — très toxique, peut provoquer de graves troubles cardiaques.\nTulipes — les bulbes sont particulièrement dangereux, vomissements et irritation digestive.\nNarcisses — les bulbes sont toxiques, vomissements, diarrhée, symptômes neurologiques.\nJacinthes — les bulbes provoquent une irritation digestive.\nChrysanthèmes — salivation, vomissements, diarrhée, troubles de la coordination.\nKalanchoé — toxique pour le cœur.\nAloe vera — vomissements, diarrhée et abattement.",
+        "style": "warning",
+        "image": null
+      },
+      {
+        "heading": "Prévention",
+        "body": "La prévention est la meilleure protection. Si tu n'es pas sûr qu'une plante soit sans danger pour ton chat, place-la plutôt hors de sa portée. En cas de doute, choisis une autre plante.",
+        "style": "tip",
+        "image": null
+      },
+      {
+        "heading": "Que faire en cas d'empoisonnement ?",
+        "body": "1. Ne panique pas et isole ton chat — retire les restes de plante de sa gueule si possible, et ne lui donne rien d'autre à manger.\n2. Prends une photo de la plante — le vétérinaire a besoin de savoir précisément quelle toxine est en cause pour choisir le bon antidote.\n3. Direction la clinique immédiatement — n'essaie pas de provoquer des vomissements toi-même sans l'avis d'un vétérinaire. Chaque minute peut compter.",
+        "style": "plain",
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "aktivnost",
+    "title": "Activité",
+    "intro": "Le mouvement est la clé de la santé et de la longévité de ton chat. Crée-lui un espace propice à une vie active.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "L'exercice quotidien",
+        "body": "Des jeux réguliers (15 à 30 minutes par jour) aident à prévenir l'obésité et à entretenir le tonus musculaire. Utilise des cannes à pêche et des pointeurs laser pour imiter la chasse.\n\nLes bienfaits : réduit le stress ; diminue l'activité nocturne ; prévient les comportements destructeurs ; aide à contrôler le poids ; satisfait l'instinct de chasseur.",
+        "style": "plain",
+        "image": "dom_aktivnost_ezhednevnye"
+      },
+      {
+        "heading": "Les parcours verticaux",
+        "body": "Les arbres à chat et les marches murales permettent à ton chat d'exprimer son instinct de grimpeur et de se sentir en sécurité en hauteur.\n\nCela inclut : des griffoirs d'au moins 80 cm de haut ; des étagères murales ; des arbres à chat ; des hamacs de fenêtre ; des passerelles.",
+        "style": "plain",
+        "image": "dom_aktivnost_vertikalnye"
+      },
+      {
+        "heading": "Comment savoir si ton chat a besoin de jouer davantage",
+        "body": "Quand un chat s'ennuie, il peut :\n• te réveiller la nuit ;\n• griffer les meubles ;\n• miauler fort ;\n• manger en excès ;\n• se lécher jusqu'à se créer des zones dégarnies ;\n• attaquer tes pieds.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Le déroulement du jeu",
+        "body": "Le cycle naturel : chasse → capture → repas → repos. Concrètement : on joue, on donne une petite friandise ou un peu de croquettes, puis le chat se repose. Ce cycle se rapproche au maximum de son comportement naturel.\n\n1. La traque — bouge le jouet lentement, cache-le derrière un meuble, laisse ton chat observer et « pister » sa proie.\n2. La poursuite — varie la vitesse et la direction, imite le comportement d'un oiseau ou d'une souris, laisse ton chat s'approcher furtivement.\n3. La capture — ne retire pas le jouet en permanence, laisse ton chat attraper sa « proie » plusieurs fois avec succès, laisse-le la tenir avec ses pattes et la mordiller.\n\nComment savoir si ton chat a eu son compte : il se repose calmement après le jeu ; il ne réclame pas une attention constante ; il garde un poids normal ; il abîme moins les meubles ; il montre de l'intérêt pour ses jouets.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "La roue pour chat",
+        "body": "Elle aide un chat d'intérieur à dépenser son énergie, surtout s'il vit en appartement sans accès libre à l'extérieur. Un bon complément aux jeux, mais qui ne remplace pas les moments passés avec toi.\n\nLes bienfaits : réduit le risque d'obésité ; entretient le tonus musculaire et articulaire ; diminue l'ennui et le stress ; utile pour les races actives (bengal, abyssin, oriental, savannah).\n\nÀ savoir : tous les chats ne se mettent pas à l'utiliser tout de suite — certains ont besoin de plusieurs semaines pour s'y habituer ; ne force jamais ton chat à courir ; encourage son intérêt avec des friandises ; la roue doit tourner de façon fluide et quasi silencieuse.",
+        "style": "plain",
+        "image": "dom_aktivnost_koleso"
+      },
+      {
+        "heading": "La stimulation mentale",
+        "body": "Les jeux-casse-têtes alimentaires et les jouets interactifs obligent le chat à « chercher » sa nourriture, ce qui reproduit son comportement naturel et prévient l'ennui.\n\nExemples : boîtes à couvercles coulissants ; balles distributrices de croquettes ; labyrinthes à friandises ; boîtes percées de trous ; tapis de fouille.",
+        "style": "plain",
+        "image": "dom_aktivnost_intellekt"
+      },
+      {
+        "heading": "Conseils",
+        "body": "« Change de jouets chaque semaine. La nouveauté est le meilleur stimulant pour la curiosité d'un chat. »\nMieux vaut deux courtes séances de 10 à 15 minutes qu'une seule longue : ton chat n'a pas le temps de se lasser et reste intéressé.",
+        "style": "tip",
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "rabochee_mesto",
+    "title": "Ton espace de travail",
+    "intro": "Aménager un bureau à la maison qui plaise à ton chat demande de trouver un équilibre entre ton confort et sa sécurité.",
+    "heroImage": "dom_rabota_hero",
+    "sections": [
+      {
+        "heading": "01. Partager l'espace",
+        "body": "Les chats aiment être au cœur de l'action. Plutôt que de le chasser du bureau, prévois-lui une zone bien à lui : un coin près de la fenêtre (idéal pour observer les oiseaux) ou une étagère près du bureau où il peut se reposer.\n\nUne bonne option est une étagère sur bras articulé, fixée au plan de travail et orientable dans différentes directions — ton chat reste près de toi sans gêner ton espace de travail.",
+        "style": "plain",
+        "image": "dom_rabota_razdelenie"
+      },
+      {
+        "heading": "02. Organiser les câbles",
+        "body": "Boîtiers de protection — cache les multiprises dans des boîtiers spéciaux pour empêcher tout accès aux prises.\nGaines rigides — utilise des gaines rigides pour les câbles que ton chat a tendance à mordiller (chargeurs, câbles d'écran).",
+        "style": "plain",
+        "image": "dom_rabota_provoda"
+      },
+      {
+        "heading": "03. Protéger le clavier",
+        "body": "La fameuse « balade sur les touches » peut entraîner la suppression accidentelle de fichiers ou l'envoi de messages étranges à tes collègues.\n\nUtilise un support-pont transparent en acrylique au-dessus du clavier, ou un « faux clavier » — un vieux clavier posé à côté peut détourner son attention.",
+        "style": "plain",
+        "image": "dom_rabota_klaviatura"
+      },
+      {
+        "heading": "04. Ergonomie et hauteur",
+        "body": "Choisis ton mobilier en tenant compte à la fois des sauts de ton chat et de ta propre santé.\n\nBureau réglable en hauteur (recommandé) : permet de relever rapidement le plan de travail si ton chat devient trop insistant. Attention : lors du réglage, les mécanismes mobiles et les espaces entre les panneaux peuvent pincer ton chat.\n\nStabilité du fauteuil (important) : un piétement à cinq branches avec roulettes verrouillables évite le basculement si ton chat saute soudainement sur le dossier, ou l'écrase s'il s'est endormi sous les roulettes.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Attention : à éviter",
+        "body": "• Laisser une tasse de café près de l'ordinateur portable ;\n• utiliser des bougies parfumées près de ton chat ;\n• garder des médicaments sur le bureau ;\n• laisser des ciseaux ouverts ;\n• ranger des fils ou des élastiques à cheveux sur ton espace de travail.",
+        "style": "warning",
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "opasnosti",
+    "title": "Dangers à la maison",
+    "intro": "Ta maison est une forteresse, mais pour un chat curieux, elle regorge de pièges cachés. Découvre comment éviter le drame.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "L'aération en oscillo-battant",
+        "body": "Une fenêtre entrouverte en oscillo-battant est un piège mortel. En essayant de sortir, le chat glisse dans l'étroite ouverture et reste coincé, ce qui peut entraîner une asphyxie, une nécrose des tissus ou des lésions de la colonne vertébrale.\n\nLa solution : des grilles de protection latérales ou des systèmes « anti-chat » (et non de simples moustiquaires).",
+        "style": "warning",
+        "image": "dom_opasnosti_provetrivanie"
+      },
+      {
+        "heading": "Les petits objets",
+        "body": "Les élastiques à cheveux, aiguilles et fils peuvent être perçus par ton chat comme un nouveau jouet. Son instinct de chasseur peut alors provoquer des blessures aux pattes ou aux organes internes. Un fil avalé peut « plisser » l'intestin comme un accordéon.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Zone à risque : la cuisine",
+        "body": "Plaques de cuisson chaudes, lave-vaisselle ouverts et tambours de lave-linge — les chats y cherchent chaleur ou refuge. Il est important que la plaque ne puisse pas s'allumer simplement parce que ton chat y grimpe. Le mieux est d'avoir des boutons mécaniques ou un verrou pour panneau tactile.",
+        "style": "plain",
+        "image": "dom_opasnosti_kuhnya"
+      },
+      {
+        "heading": "Substances toxiques",
+        "body": "Beaucoup d'objets du quotidien sont sans danger pour les humains, mais peuvent être dangereux, voire mortels, pour les chats, même en petite quantité.\n\nProduits ménagers : nettoyants pour sols, eau de Javel, produits pour la plomberie, nettoyants pour four, capsules de lessive.\nHuiles essentielles : arbre à thé, eucalyptus, menthe, agrumes, cannelle, girofle.\nMédicaments : paracétamol, ibuprofène, antidépresseurs, compléments de fer, médicaments contre le rhume. Ne donne jamais de médicament humain à ton chat sans l'avis d'un vétérinaire.",
+        "style": "warning",
+        "image": "dom_opasnosti_toksiny"
+      },
+      {
+        "heading": "Zone à risque : les couchages",
+        "body": "Matériaux dangereux : choisis des couchages en tissus et garnitures sûrs, évite les matériaux à l'odeur chimique forte, vérifie que le tissu ne déteint pas et ne perd pas de peluches.\n\nRisque d'ingestion de petites pièces : évite les couchages avec des perles, boutons ou cordons décoratifs cousus ; vérifie régulièrement l'état des jouets et couchages.\n\nSolidité de la structure : fixe solidement les étagères murales, et remplace le produit au moindre signe de déchirure.\n\nRisque de surchauffe : ne place pas les couchages près des radiateurs ou appareils de chauffage.\n\nPropreté et allergènes : lave régulièrement les housses amovibles, privilégie des matériaux faciles à nettoyer.",
+        "style": "plain",
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "vybor_korma",
+    "title": "L'alimentation de ton compagnon",
+    "intro": "Un guide compact pour bien nourrir ton chat.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "Les règles essentielles d'une bonne nourriture",
+        "body": "Les plus : la viande en premier ingrédient ; la présence de taurine ; des vitamines et minéraux.\n\nLes moins : sucre et édulcorants ; colorants ; sous-produits animaux non précisés.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Croquettes ou pâtée",
+        "body": "Les croquettes — faciles à conserver et à doser, peuvent rester plus longtemps dans la gamelle, plus économiques, adaptées aux distributeurs automatiques. Inconvénients : peu d'humidité (environ 8-10 %), nécessitent un accès permanent à l'eau.\n\nLa pâtée — contient 70 à 85 % d'eau, aide à maintenir l'hydratation, plus attirante pour les chats qui boivent peu. Inconvénients : plus chère, se dégrade vite une fois ouverte, ne doit pas rester longtemps dans la gamelle.\n\nAlimentation mixte : par exemple, pâtée le matin, une petite portion de croquettes l'après-midi, et pâtée le soir.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Choisir sa nourriture selon la composition",
+        "body": "Fie-toi à la complétude nutritionnelle et à la fiabilité des informations. L'étiquette doit indiquer que l'aliment est complet et équilibré, et adapté à l'âge et à l'état de ton chat.\n\nVérifie l'analyse garantie (le pourcentage minimum de protéines et de matières grasses brutes, le pourcentage maximum de fibres et d'humidité). Les normes AAFCO recommandent au moins 26 % de protéines brutes dans les croquettes pour chats adultes, et 30 % pour les chatons.\n\nProtéines : les chats sont des carnivores stricts, la base de leur alimentation doit donc être la viande ou le poisson. Les premiers ingrédients de la liste doivent être précis (« poulet », « dinde », « saumon »), et non des formulations vagues comme « viandes et sous-produits animaux ». La présence de taurine est indispensable.\n\nMatières grasses : privilégie les sources animales (graisse de poulet, huile de poisson, huile de saumon) — source d'oméga-3 et d'oméga-6.\n\nGlucides et fibres : les chats n'ont pas besoin de beaucoup de glucides ; le maïs, le blé ou le riz ne sont pas les meilleures bases. Les fibres sont utiles en quantité modérée (environ 3-6 %).\n\nAdditifs : privilégie les conservateurs naturels (vitamine E, vitamine C, extrait de romarin), évite le BHA, le BHT et l'éthoxyquine.\n\nLes risques d'une nourriture de mauvaise qualité : allergies, troubles digestifs, obésité, carences nutritionnelles.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Les mots marketing : ne te laisse pas avoir",
+        "body": "Des mentions comme « Premium », « Super premium », « Holistic », « Sans OGM » ou « Naturel » sont souvent utilisées sans grande signification réelle — fie-toi à la composition réelle et à l'analyse garantie, pas aux étiquettes marketing.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Check-list pour choisir sa nourriture",
+        "body": "• Aliment complet, avec la mention « Complet » sur l'emballage, adapté à la bonne catégorie (chatons/adultes/stérilisés/seniors) ;\n• Les premiers ingrédients sont des protéines précises (« poulet », « saumon », « dinde »), et non des formulations vagues comme « viande » ;\n• Les matières grasses sont précisément identifiées (graisse de poulet, huile de poisson), sans formulation vague ;\n• Additifs sans BHA, BHT, éthoxyquine, colorants artificiels ni exhausteurs de goût ;\n• Présence de vitamines et minéraux, analyse garantie conforme aux normes AAFCO ;\n• Emballage vérifié : date de péremption et étanchéité avant l'achat.",
+        "style": "tip",
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "son_i_otdyh",
+    "title": "Sommeil et repos : créer le coin idéal",
+    "intro": "Un espace bien organisé influence directement la santé physique et mentale de ton compagnon.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "Règle générale : des refuges tranquilles",
+        "body": "Chaque chat doit avoir un endroit où personne ne viendra le déranger : cartons, tunnels ou cocons en polaire.",
+        "style": "plain",
+        "image": "dom_son_ubezhische"
+      },
+      {
+        "heading": "La diversité des surfaces",
+        "body": "Les chats apprécient d'avoir le choix — des couchages moelleux en peluche aux simples boîtes en carton, chaque endroit a sa raison d'être selon le moment de la journée. Observe ce que ton chat préfère personnellement.\n\nOptions : couchages moelleux, cartons, étagères.",
+        "style": "plain",
+        "image": "dom_son_poverhnosti"
+      },
+      {
+        "heading": "L'espace vertical",
+        "body": "Les points d'observation en hauteur permettent aux chats de surveiller leur territoire, ce qui réduit le stress et l'anxiété. Il est important que ces espaces soient accessibles par plusieurs chemins.\n\nÉtagères murales minimalistes ; arbres à chat à plusieurs niveaux.",
+        "style": "plain",
+        "image": "dom_son_vertikal"
+      },
+      {
+        "heading": "L'harmonie dans le groupe",
+        "body": "Dans un foyer avec plusieurs chats, la formule du repos idéal est simple : N + 1. Le nombre de couchages doit dépasser d'un le nombre de chats, pour éviter la compétition pour les ressources. Et l'idéal est même d'en avoir encore plus, répartis dans différents endroits.",
+        "style": "plain",
+        "image": "dom_son_garmoniya"
+      },
+      {
+        "heading": "Les différents types de couchages",
+        "body": "Les maisonnettes fermées — idéales pour les chats qui aiment se cacher pour se reposer.\nAvec rebords — des paniers moelleux à bords hauts, parfaits pour les chats qui aiment dormir en boule.\nLes hamacs — des structures suspendues qui se fixent aux radiateurs, aux pieds de chaise ou aux fenêtres ; le repaire préféré des chats actifs qui aiment se reposer en hauteur.\nMatelas et tapis — des couchages plats et mobiles, adaptés aux grands chats ou à ceux qui aiment dormir allongés de tout leur long.\nCoussins — des modèles carrés ou rectangulaires, moelleux, pour un usage quotidien.",
+        "style": "plain",
+        "image": "dom_son_lezhanki"
+      }
+    ]
+  }
+]

@@ -1,0 +1,528 @@
+[
+  {
+    "id": "bezopasnost",
+    "title": "Sicherheit",
+    "intro": "Dein Zuhause ist eine Festung für deine Katze. Achte darauf, dass jede Ecke sicher und komfortabel ist.",
+    "heroImage": "dom_bezopasnost_hero",
+    "sections": [
+      {
+        "heading": "Schutzgitter an Fenstern",
+        "body": "Normale Fliegengitter halten dem Sprung einer Katze oder ihren Krallen nicht stand. Und gekippte Fenster können dazu führen, dass die Katze stecken bleibt oder aus dem Fenster fällt.\n\nEs gibt zwei Hauptarten von Schutzgittern für Katzen:\n1) „Katzenschutzgitter“ — aus hochfestem Stahldraht gefertigt und rundum mit Metallbefestigungen sicher am Rahmen verankert.\n2) Kunststoff-Kippfenstersicherungen für offene Fensterflügel — auch als „Kippfenster-Absicherung“ bezeichnet.",
+        "style": "plain",
+        "image": "dom_bezopasnost_setki"
+      },
+      {
+        "heading": "Schutz von Ecken und Nischen",
+        "body": "Überprüfe die Spalten zwischen Möbeln und Wänden. Katzen können in engen Zwischenräumen stecken bleiben. Typische Stellen sind:\n• zwischen Schränken und der Wand;\n• hinter dem Kühlschrank;\n• hinter der Waschmaschine;\n• zwischen Sofa und Wand.\n\nDie Regel ist einfach: Entweder darf die Katze gar nicht erst hineinkommen, oder sie muss wieder herauskommen können.",
+        "style": "plain",
+        "image": "dom_bezopasnost_uglov"
+      },
+      {
+        "heading": "Elektrizität",
+        "body": "Verstecke Kabel in speziellen Kabelkanälen. Kätzchen knabbern gerne an Kabeln, was zu einem Stromschlag, zum Tod oder zu Verätzungen der Schleimhäute führen kann.\n\nGefährliche Stellen:\n• Verlängerungskabel;\n• Handyladekabel;\n• Computerkabel;\n• Lichterketten;\n• Fernsehkabel.\n\nSpezielle Kabelkanäle helfen dabei, die Kabel zu bündeln und zu verstecken.\n\nWichtig zu wissen: Katzen knabbern manchmal aus Neugier, wegen des Geruchs oder wegen der Reaktion des Menschen an Kabeln. Falls das passiert — erschrecke die Katze nicht, schreie sie nicht an, sondern lenke sie so ruhig wie möglich von den Kabeln ab.",
+        "style": "plain",
+        "image": "dom_bezopasnost_elektro"
+      },
+      {
+        "heading": "Schwere Möbel",
+        "body": "Befestige Bücherregale und Fernseher an der Wand. Katzen sind hervorragende Springer, und ihr Gewicht kann ungesicherte Möbelstücke zum Umkippen bringen, was zu Verletzungen der Katze oder anderer Personen führen kann.\n\nWichtige Gegenstände, auf die du achten solltest:\n• Bücherschränke;\n• Kommoden;\n• Regale;\n• Fernseher;\n• Wandregale;\n• Weinschränke.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Haushaltschemikalien",
+        "body": "Jede Art von Haushaltschemikalien ist gefährlich für Tiere. Dazu gehören Mittel zum:\n• Fensterputzen;\n• Badreinigen;\n• Bodenwischen;\n• Geschirrspülen usw.\n\nSelbst wenn ein Mittel nur aufs Fell gelangt, leckt die Katze es ab, und es gelangt in ihre inneren Organe. Bewahre alle Mittel außerhalb der Reichweite der Katze auf, hinter geschlossenen Schränken und Türen.\n\nBesonders gefährlich sind: Bleichmittel, Rohrreiniger, Backofenreiniger, Spülmaschinentabs, Waschmittelkapseln und Konzentrate.",
+        "style": "warning",
+        "image": "dom_bezopasnost_himiya"
+      },
+      {
+        "heading": "Balkon",
+        "body": "Frische Luft ist ein wichtiger Teil des Lebens deiner Katze. Aber der Balkon kann neben frischer Luft und Sonne auch Gefahren bergen.\n\nDie wichtigste und erste Regel: spezielle Schutznetze rund um den gesamten Balkon. Zusätzlich solltest du alle technischen Öffnungen absichern — Katzen sind neugierig und stecken ihre Nase überall hinein, wo es möglich ist.",
+        "style": "plain",
+        "image": "dom_bezopasnost_balkon"
+      },
+      {
+        "heading": "Weitere Punkte",
+        "body": "Küche: heißes Kochfeld; Messer; offener Backofen; Mülleimer.\n\nBad: geschlossener Toilettendeckel; Waschmaschine vor jedem Start immer kontrollieren; geschlossene Schränke; sichere Aufbewahrung von Tabletten und Kapseln.\n\nKerzen und Duftstoffe: ätherische Öle; Diffusoren; Räucherwerk; Kerzen.\n\nTüten und Folien: Plastiktüten; Verpackungsfolie; Frischhaltefolie.\n\nFäden und Gummibänder: Nähfäden; Sticktwist; Gummibänder; Haargummis.",
+        "style": "plain",
+        "image": "dom_bezopasnost_dop"
+      }
+    ]
+  },
+  {
+    "id": "eda_i_voda",
+    "title": "Essen und Wasser",
+    "intro": "Schaffe den perfekten Essplatz für deine Katze, indem du auf Komfort und natürliche Bedürfnisse achtest.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "1. Die Wahl der Näpfe",
+        "body": "Das Material spielt eine Rolle. Plastik sammelt Bakterien an und kann Katzenakne verursachen. Empfohlen werden: Glas, Keramik, Edelstahl.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "2. Der ideale Platz",
+        "body": "Katzen sind Gewohnheitstiere und brauchen Sicherheit. Stelle das Futter niemals neben die Katzentoilette.\n• Eine ruhige, zugfreie Ecke;\n• Fernab von lauten Geräten;\n• Mit Überblick über den Raum für ein Gefühl der Sicherheit.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "3. Die richtige Höhe",
+        "body": "Näpfe auf einem Ständer entlasten Nacken und Gelenke, besonders bei älteren Katzen. Eine leichte Neigung des Napfes um 15 Grad macht das Schlucken natürlicher. Wähle die Höhe passend zur Größe deiner stehenden Katze.",
+        "style": "plain",
+        "image": "dom_eda_vysota"
+      },
+      {
+        "heading": "Tipp: die richtige Napfgröße",
+        "body": "Breite des Napfes: Der Innendurchmesser sollte mindestens 1,5- bis 2-mal so breit sein wie die Schnauze der Katze (mitsamt Schnurrhaaren). Für die meisten erwachsenen Katzen ist ein Durchmesser von 15–18 cm optimal, für große Rassen (zum Beispiel Maine Coon) 18–22 cm. Ist der Durchmesser kleiner als 12–13 cm, berühren die Schnurrhaare häufiger den Rand.\n\nTiefe des Napfes: optimal sind 2–4 cm für Trocken- und Nassfutter. Die Randhöhe sollte etwa 1/2 bis 3/4 der Schnauzenhöhe der Katze betragen. Ränder über 5–6 cm eignen sich nur für große Futtermengen, sind aber für die tägliche Fütterung weniger praktisch.",
+        "style": "tip",
+        "image": "dom_eda_sovet"
+      }
+    ]
+  },
+  {
+    "id": "klimat",
+    "title": "Hitze und Kälte",
+    "intro": "Wie du dein Haustier vor Überhitzung und Unterkühlung schützt.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "Sommerhitze",
+        "body": "• Stelle immer eine Schüssel mit frischem Wasser bereit. Katzen trinken mehr, wenn ihnen heiß ist.\n• Verwende Kühlmatten oder feuchte Handtücher, aber zwinge die Katze nicht, darauf zu liegen.\n• Vermeide direkte Zugluft von der Klimaanlage — optimal ist kühle Luft ohne direkten Luftstrom auf die Katze. Reinige die Filter der Klimaanlage bei Bedarf.\nWas du nicht tun solltest: die Katze nicht mit eiskaltem Wasser übergießen; ihr keine Eiswürfel auf den Körper legen; sie nicht zum Trinken zwingen.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Risiko eines Hitzschlags!",
+        "body": "Achte auf: schnelle Atmung mit offenem Maul; starke Mattigkeit; leuchtend rotes Zahnfleisch; Verweigerung von Futter und Wasser; Koordinationsstörungen.\nBei solchen Symptomen kann dringend tierärztliche Hilfe nötig sein.",
+        "style": "warning",
+        "image": null
+      },
+      {
+        "heading": "Winterzeit",
+        "body": "Gemütliche Schlafplätze etwas über dem Boden + Befeuchtung der trockenen Heizungsluft. Schaffe warme Rückzugsorte in der Wohnung: eine Unterlage und ein zugfreier Platz helfen, die Wärme zu halten.\n\nIm Winter ist wichtig: Zugluft vermeiden; das Körbchen nicht neben ein kaltes Fenster stellen; die Luftfeuchtigkeit bei 40–60 % halten; nach Spaziergängen die Pfoten abwischen (falls die Katze nach draußen geht).",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Versteckte Gefahren",
+        "body": "Heiße Heizkörper — bei längerem Kontakt sind Verbrennungen möglich. Gekippte Fenster — Gefahr von Unterkühlung und Verletzungen.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Was du dir merken solltest",
+        "body": "Katzen suchen sich selbst die für sie angenehme Temperatur aus. Wenn sich deine Katze ständig auf den kalten Boden legt oder sich unter einer Decke oder neben dem Heizkörper versteckt, ist das ein Signal, dass ihr zu heiß oder zu kalt ist.",
+        "style": "tip",
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "igry",
+    "title": "Spiele",
+    "intro": "Für eine Wohnungskatze ist Spielen nicht nur Unterhaltung, sondern das Ausleben des Jagdinstinkts. Tägliche Spieleinheiten von 15–30 Minuten helfen, Stress, Übergewicht und destruktivem Verhalten vorzubeugen.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "Sicherheit geht vor: die Wahl der Materialien",
+        "body": "Das Material von Spielzeug ist wichtig. Katzen spielen mit den Pfoten, nehmen Spielzeug aber auch ins Maul.\n\nNatürliche Materialien: Wolle, Federn, Baumwolle und Leinen, Jute und Sisal, Holz.\nSynthetische Materialien: Fleece, lebensmittelechtes Silikon, hochwertiges ABS-Kunststoff.\n\nVermeide billigen Kunststoff mit stechendem Geruch (bricht schnell, hat scharfe Kanten, riecht giftig), langen Flor und Lurex-Fäden (Fäden lösen sich leicht und können beim Verschlucken einen Darmverschluss verursachen) sowie Schaumstoff (die Katze kann ihn zerbeißen, kleine Stücke bleiben im Magen stecken).\n\nKleine Teile: keine aufgeklebten Perlen, Augen oder Knöpfe — die Katze kann sie leicht abbeißen und verschlucken, was zu einer schweren Verletzung des Magen-Darm-Trakts führen kann.",
+        "style": "warning",
+        "image": "dom_igry_materialy"
+      },
+      {
+        "heading": "Allgemeine Liste an Spielzeug",
+        "body": "Textil und Wolle: weiches Quietschspielzeug aus Baumwolle/Leinen; gefilzte Kugeln aus 100 % Wolle; Stoffmäuse und -fische ohne aufgeklebte Teile; Kissen mit Katzenminze; Kuschelkissen-Spielzeug aus dichtem Fleece.\n\nHolz und Naturfasern: Matatabi-Stäbchen zum Nagen; gepresste Katzenminze-Kugeln; hölzerne Labyrinth-Boxen zur Förderung; Bälle aus Sisal-/Jute-Seil; Kratzsäulen und Kratzmatten.\n\nSilikon und Gummi: Kauspielzeug aus lebensmittelechtem Silikon; Massage-Zahnbürsten-Spielzeug; Zahnringe aus robustem Gummi.\n\nInteraktives Kunststoffspielzeug (ausschließlich ABS-Kunststoff): mehrstufige Kugelbahn-Pyramiden; interaktive Futter-Rätselspielzeuge; standfeste Leckerli-Spender; geschlossene Plastikkugeln mit Glöckchen.\n\nSpielzeug für das gemeinsame Spiel: Angelspiele mit Fleecebändern oder Naturfedern; lange Textilschnüre in Schlangenform.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Selbstbeschäftigung",
+        "body": "Rätselspielzeug und Labyrinth-Futterstationen beschäftigen die Katze, wenn du nicht zu Hause bist. Die beste Motivation sind ihre liebsten Trockenleckerlis.\n\nBeispiele: Futter-Rätselspielzeug (Puzzle Feeder) mit Deckeln, die die Katze mit der Pfote bewegt; Catit Senses Food Tree; Nina Ottosson Puzzle Toys in verschiedenen Schwierigkeitsstufen; interaktiver Futterball (Treat Ball); Schnüffelmatte (Snuffle Mat); Rätselbox (Peekaboo Box).",
+        "style": "plain",
+        "image": "dom_igry_samorazvlech"
+      },
+      {
+        "heading": "Vorsicht",
+        "body": "Laserpointer: können frustrierend wirken, da die „Beute“ nie gefangen werden kann. Beende das Spiel immer mit einem echten Spielzeug, das die Katze mit den Pfoten greifen kann.\n\nBänder: Lasse die Katze niemals unbeaufsichtigt mit Bändern oder Schnüren allein — es besteht die Gefahr des Erstickens oder Verschluckens. Bewahre sie am besten in geschlossenen Boxen außerhalb der Reichweite der Katze auf.",
+        "style": "warning",
+        "image": null
+      },
+      {
+        "heading": "Die wichtigste Regel: Kontrolle",
+        "body": "Kein Spielzeug ist zu 100 % sicher. Überprüfe das Spielzeugarsenal deiner Katze regelmäßig auf Abnutzung, lose Teile oder Risse. Deine Aufmerksamkeit ist die beste Garantie für Sicherheit.",
+        "style": "tip",
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "tualet",
+    "title": "Die Toilette",
+    "intro": "Die richtige Wahl von Katzentoilette und Streu hat direkten Einfluss darauf, ob deine Katze dort ihr Geschäft verrichtet, wo sie soll.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "Die Wahl der Katzentoilette",
+        "body": "Offener Typ („Klassiker“) — maximaler Überblick für die Katze, ideal für Kätzchen und ältere Tiere. Wähle Ränder mit einer Höhe von 15–20 cm; die Länge der Toilette sollte dem 1,5- bis 2-Fachen der Katzenlänge entsprechen.\n\nGeschlossene Box („Privatsphäre“) — verbirgt Gerüche und Streu und verhindert, dass Streu herausgeschleudert wird. Manche Katzen fühlen sich darin eingesperrt — entferne in der Anfangszeit die Klappe.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Wo stellst du die Katzentoilette auf?",
+        "body": "Ein ruhiger Ort — fernab vom Lärm von Haushaltsgeräten und dem Trubel im Flur.\nWeit weg vom Futter — Katzen erledigen ihr Geschäft nicht gerne dort, wo sie essen oder trinken.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Arten von Katzenstreu",
+        "body": "Mineralstreu (Bentonit-Ton, klumpend) — bindet Gerüche sehr gut, bildet feste Klumpen, staubt beim Einfüllen.\n\nHolzstreu (gepresste Sägespäne, saugfähig) — günstig, zerfällt beim Nasswerden zu Krümeln, kann in kleinen Mengen in die Toilette gespült werden, umweltfreundlich.\n\nSilikagel (saugfähig) — maximale Saugfähigkeit und Geruchsbindung, knistert aber laut und kann ängstliche Katzen abschrecken.\n\nPflanzliche Streu (aus Soja, Mais, Getreide) — ideal für die Toilettenspülung, löst sich rückstandslos auf, ist bei versehentlichem Verzehr unbedenklich, aber teurer und zieht bei Lagerung im Gartenhaus Nagetiere an.",
+        "style": "plain",
+        "image": "dom_tualet_mineralny",
+        "blocks": [
+          {
+            "text": "Mineralstreu (Bentonit-Ton, klumpend) — bindet Gerüche sehr gut, bildet feste Klumpen, staubt beim Einfüllen."
+          },
+          {
+            "image": "dom_tualet_mineralny"
+          },
+          {
+            "text": "Holzstreu (gepresste Sägespäne, saugfähig) — günstig, zerfällt beim Nasswerden zu Krümeln, kann in kleinen Mengen in die Toilette gespült werden, umweltfreundlich."
+          },
+          {
+            "image": "dom_tualet_drevesny"
+          },
+          {
+            "text": "Silikagel (saugfähig) — maximale Saugfähigkeit und Geruchsbindung, knistert aber laut und kann ängstliche Katzen abschrecken."
+          },
+          {
+            "image": "dom_tualet_silikagel"
+          },
+          {
+            "text": "Pflanzliche Streu (aus Soja, Mais, Getreide) — ideal für die Toilettenspülung, löst sich rückstandslos auf, ist bei versehentlichem Verzehr unbedenklich, aber teurer und zieht bei Lagerung im Gartenhaus Nagetiere an."
+          },
+          {
+            "image": "dom_tualet_rastitelny"
+          }
+        ]
+      },
+      {
+        "heading": "Die goldene Regel für Katzentoiletten: N + 1",
+        "body": "Du solltest immer eine Katzentoilette mehr haben, als Katzen im Haushalt leben. Das beugt Stress und Revierkonflikten vor.",
+        "style": "tip",
+        "image": null
+      },
+      {
+        "heading": "Pflege und Hygiene",
+        "body": "Täglich: Klumpen und feste Ausscheidungen 1–2 Mal am Tag entfernen.\nAlle 2 Wochen/monatlich: kompletter Streuwechsel und Reinigung der Toilette mit einem milden Reinigungsmittel.\n\nDas Material spielt eine Rolle: Plastik ist günstiger, nimmt aber mit der Zeit Gerüche an und bietet durch Kratzer und Absplitterungen einen Nährboden für Bakterien. Keramik oder Metall lassen sich hygienischer desinfizieren, sind aber teurer.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Versteckte Stolperfallen",
+        "body": "Duftstoffe: Der Lavendelduft ist für dich angenehm, stößt aber die Katze mit ihrer feinen Nase ab.\nLaute Standorte: Eine Toilette neben der Waschmaschine führt schnell zu plötzlichem Erschrecken und dazu, dass die Katze den Ort meidet.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Wenn die Katze die Toilette meidet",
+        "body": "Medizinisch: Schließe zunächst beim Tierarzt eine Blasenentzündung oder Harnsteine aus.\nVerhalten: Überprüfe die Sauberkeit, wechsle die Streuart oder den Standort.\n\nKatzen meiden die Toilette manchmal wegen Stress, ungeeigneter Streu, starkem Geruch oder erschreckenden Geräuschen beim Kontakt mit den Streupartikeln.",
+        "style": "plain",
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "uhod",
+    "title": "Pflege",
+    "intro": "Regelmäßige Pflege hilft dir, Veränderungen im Befinden deiner Katze rechtzeitig zu bemerken. Die meisten Maßnahmen dauern nur wenige Minuten, wichtiger ist, sie ruhig und regelmäßig durchzuführen.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "Was du zu Hause überprüfen solltest",
+        "body": "• Augen — kein Eiter, kein starker Tränenfluss und keine Rötung;\n• Nase — keine ungewöhnlichen Ausflüsse;\n• Ohren — kein starker Geruch, keine große Menge Ohrenschmalz oder ständiges Kratzen;\n• Zähne und Zahnfleisch — Zahnbelag, unangenehmer Geruch, Rötung;\n• Haut und Fell — Schuppen, Krusten, Haarausfall, Parasiten, Verfilzungen;\n• Pfoten und Krallen — Risse, Verletzungen, zu lange Krallen;\n• Gewicht und Körperzustand — plötzliche Veränderungen erfordern Aufmerksamkeit;\n• Verhalten — Appetit, Aktivität, Schlaf, Nutzung der Katzentoilette.",
+        "style": "plain",
+        "image": "dom_uhod_provera"
+      },
+      {
+        "heading": "Täglich / gelegentlich",
+        "body": "Täglich: frisches Wasser; normaler Appetit; saubere Katzentoilette; kurze Zustandskontrolle; Aktivität und Spielen.\n\nGelegentlich: Bürsten; Krallenkontrolle; Zähneputzen; Kontrolle von Ohren und Augen; Gewichtskontrolle.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Wichtig",
+        "body": "Pflege ersetzt keinen tierärztlichen Check-up. Eine neue Beule, anhaltende Mattigkeit, Futterverweigerung, eine plötzliche Verhaltensänderung, ständiges Kratzen oder andere ungewöhnliche Symptome sind ein Grund, einen Tierarzt aufzusuchen.",
+        "style": "warning",
+        "image": null
+      },
+      {
+        "heading": "Krallen: Schneiden",
+        "body": "In der Regel müssen die Krallen einer Katze nicht stark gekürzt werden. Die Hauptaufgabe besteht darin, nur die scharfe Spitze zu entfernen, ohne den lebenden Teil der Kralle zu berühren.\n\nVorbereitung: eine Katzenkrallenschere; gutes Licht; ein ruhiger Ort; ein Leckerli nach der Prozedur.\n\nSo schneidest du richtig: 1) lass die Katze sich in Ruhe daran gewöhnen, dass du ihre Pfoten berührst; 2) drücke vorsichtig auf das Ballen, damit die Kralle austritt; 3) suche den hellen/rosafarbenen inneren Teil der Kralle; 4) schneide nur die durchsichtige, scharfe Spitze ab (wenige Millimeter); 5) wenn die Katze nervös wird — behandle nur eine oder zwei Pfoten und mach später weiter.\n\nWie oft: Kontrolliere die Krallen regelmäßig, die Häufigkeit hängt vom Alter, der Aktivität und dem Vorhandensein eines Kratzbaums ab. Wenn du versehentlich den lebenden Teil triffst, kann es bluten und schmerzen — verwende ein blutstillendes Mittel für Tiere und setze die Prozedur nicht mit Gewalt fort. Kratzbäume und Kratzmöbel bleiben ein wichtiger Teil der natürlichen Krallenpflege und des Verhaltens deiner Katze.",
+        "style": "plain",
+        "image": "dom_uhod_kogti"
+      },
+      {
+        "heading": "Bürsten",
+        "body": "Bürsten hilft, ausgefallenes Fell zu entfernen und die Menge an Haaren zu verringern, die die Katze beim Putzen verschluckt.\n\nVorteile: weniger Haare in der Wohnung; weniger Verfilzungen; leichtere Kontrolle des Hautzustands; einfacheres Erkennen von Parasiten, Reizungen und kleinen Wunden; besonders nützlich für langhaarige Katzen.\n\nDie richtige Wahl des Werkzeugs: kurzes Fell — weiche Bürste oder Gummihandschuh; mittellanges Fell — Bürste mit passender Zinkenlänge und Kamm; langes Fell — Kamm und Bürste, mit denen du das Fell vorsichtig bis zum Ansatz durchkämmen kannst.",
+        "style": "plain",
+        "image": "dom_uhod_vychesyvanie"
+      }
+    ]
+  },
+  {
+    "id": "samovygul",
+    "title": "Freilauf",
+    "intro": "Der freie Auslauf der Katze im Freien scheint „natürlich“, doch die moderne Stadtumgebung birgt tödliche Gefahren. Statistiken zufolge werden Wohnungskatzen bei guter Pflege 15–20 Jahre alt, während Straßenkatzen nur 4–5 Jahre leben.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "Die wichtigsten Risiken",
+        "body": "Verkehr und Vergiftung durch böswillige Menschen sind die häufigsten Todesursachen für Katzen in der Stadt.\n\nRaubtiere und Hunde: streunende Rudel und wildlebende Tiere stellen eine Bedrohung dar.\nInfektionen: Leukämie, Immunschwäche und Tollwut — diese Krankheiten können von Tieren übertragen werden, die die Katze möglicherweise gefressen hat.\nGrausamkeit von Menschen: Giftmischer, organisierte Tierhasser und einfach böswillige Menschen können dem wehrlosen, vertrauensvollen Tier schaden.",
+        "style": "warning",
+        "image": null
+      },
+      {
+        "heading": "Alternative zum Freilauf: Spaziergänge am Geschirr",
+        "body": "Sichere Erkundung der Welt unter deiner Aufsicht. Nicht jede Katze mag Spaziergänge am Geschirr, aber bei richtiger Vorbereitung können sie eine schöne Abwechslung im Katzenalltag sein.\n\nWichtig beim Spaziergang: ein aktueller Impfschutz; erlaube dem Tier nicht, draußen etwas zu fressen oder mit anderen Tieren oder Menschen in Kontakt zu kommen — nur Futter aus deiner Hand oder von zu Hause.",
+        "style": "plain",
+        "image": "dom_samovygul_shleyka"
+      },
+      {
+        "heading": "Freigehege (Catio)",
+        "body": "Ein vergitterter Anbau, der frische Luft ermöglicht. Bei einem eigenen Haus kannst du einen separaten Anbau für die Katze errichten. Das Hauptziel solcher Konstruktionen ist die Schaffung einer sicheren Auslaufumgebung.\n\nSolche Gehege werden meist aus massivem Holz und Gittern gebaut. Wenn in der Umgebung gefährliche Tiere unterwegs sein könnten, kommen verstärkte Gitter und ein Schutz gegen Untergraben zum Einsatz.",
+        "style": "plain",
+        "image": "dom_samovygul_volier"
+      }
+    ]
+  },
+  {
+    "id": "cvety",
+    "title": "Blumen",
+    "intro": "Katzen erkunden gerne Pflanzen, aber manche davon sind giftig und lebensgefährlich. Dieser Leitfaden hilft dir, sichere Pflanzen auszuwählen und deine Katze zu schützen.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "Liste gefährlicher Pflanzen",
+        "body": "Lilien und Taglilien — besonders gefährlich, können schwere Nierenschäden verursachen.\nDieffenbachie — Reizung und Schwellung von Mund und Rachen.\nPhilodendron — Reizung der Schleimhäute, Speichelfluss, Schluckbeschwerden.\nMonstera — enthält unlösliche Calciumoxalate, verursacht Brennen und Schwellungen im Maul.\nCaladium — Reizung des Mauls, Schwellung von Zunge und Lippen.\nEinblatt (Spathiphyllum) — Reizung der Schleimhäute und Speichelfluss.\nBogenhanf (Sansevieria) — kann Erbrechen und Durchfall verursachen.\nEfeu — mögliches Erbrechen, Durchfall und Bauchschmerzen.\nSagopalme (Cycas) — extrem giftig, kann schwere Leberschäden verursachen.\nAzalee und Rhododendron — Erbrechen, Schwäche, Herzrhythmusstörungen.\nOleander — sehr giftig, kann schwere Herzstörungen verursachen.\nTulpen — besonders die Zwiebeln sind gefährlich, Erbrechen und Reizung des Magen-Darm-Trakts.\nNarzissen — die Zwiebeln sind giftig, Erbrechen, Durchfall, neurologische Symptome.\nHyazinthen — die Zwiebeln verursachen Reizungen des Magen-Darm-Trakts.\nChrysanthemen — Speichelfluss, Erbrechen, Durchfall, Koordinationsstörungen.\nKalanchoe — schädlich für die Herztätigkeit.\nAloe vera — Erbrechen, Durchfall und Mattigkeit.",
+        "style": "warning",
+        "image": null
+      },
+      {
+        "heading": "Vorbeugung",
+        "body": "Vorbeugung ist der Schlüssel zur Sicherheit. Wenn du dir nicht sicher bist, ob eine Pflanze für die Katze unbedenklich ist, stelle sie besser dorthin, wo die Katze nicht herankommt. Im Zweifelsfall wähle lieber eine andere Pflanze.",
+        "style": "tip",
+        "image": null
+      },
+      {
+        "heading": "Was tun bei einer Vergiftung?",
+        "body": "1. Bewahre Ruhe und isoliere die Katze — entferne, falls möglich, Pflanzenreste aus dem Maul, und lass das Tier nichts weiter fressen.\n2. Fotografiere die Pflanze — der Tierarzt muss genau wissen, mit welchem Gift sich die Katze vergiftet hat, um das passende Gegenmittel zu wählen.\n3. Sofort in die Klinik — versuche nicht, ohne tierärztliche Anweisung selbst Erbrechen auszulösen. Jede Minute kann zählen.",
+        "style": "plain",
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "aktivnost",
+    "title": "Aktivität",
+    "intro": "Bewegung ist der Schlüssel zu Gesundheit und einem langen Leben deiner Katze. Schaffe Raum für ein aktives Katzenleben.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "Tägliches Pensum",
+        "body": "Regelmäßiges Spielen (15–30 Minuten am Tag) hilft, Übergewicht vorzubeugen und den Muskeltonus zu erhalten. Nutze Federangeln und Laserpointer, um die Jagd zu imitieren.\n\nDer Nutzen: reduziert Stress; verringert nächtliche Aktivität; beugt destruktivem Verhalten vor; hilft beim Gewichtsmanagement; befriedigt den Jagdinstinkt.",
+        "style": "plain",
+        "image": "dom_aktivnost_ezhednevnye"
+      },
+      {
+        "heading": "Vertikale Klettermöglichkeiten",
+        "body": "Kratzbäume und Wandstufen ermöglichen es der Katze, ihren Kletterinstinkt auszuleben und sich in der Höhe sicher zu fühlen.\n\nDazu gehören: Kratzsäulen ab 80 cm Höhe; Wandregale; Kratzbäume; Fensterhängematten; Kletterbrücken.",
+        "style": "plain",
+        "image": "dom_aktivnost_vertikalnye"
+      },
+      {
+        "heading": "Woran du erkennst, dass deine Katze mehr Spielzeit braucht",
+        "body": "Wenn sich die Katze langweilt, kann sie:\n• dich nachts wecken;\n• Möbel zerkratzen;\n• laut miauen;\n• zu viel fressen;\n• sich bis zu kahlen Stellen belecken;\n• nach deinen Füßen schnappen.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Der Spielablauf",
+        "body": "Der allgemeine Ablauf: Jagen → Fangen → Fressen → Ausruhen. Das heißt: gespielt, ein kleines Leckerli oder etwas Futter gegeben, die Katze ruht sich aus. Dieser Kreislauf kommt dem natürlichen Verhalten am nächsten.\n\n1. Beutesuche — bewege das Spielzeug langsam, verstecke es hinter Möbeln, gib der Katze die Möglichkeit, zu beobachten und zu „pirschen“.\n2. Verfolgung — ändere Geschwindigkeit und Richtung, imitiere das Verhalten eines Vogels oder einer Maus, lass die Katze sich anschleichen.\n3. Fangen — ziehe das Spielzeug nicht ständig weg, lass die Katze die „Beute“ mehrmals erfolgreich fangen und erlaube ihr, es mit den Pfoten zu halten und zu beißen.\n\nWoran du erkennst, dass es genug war: die Katze ruht sich nach dem Spielen entspannt aus; verlangt nicht ständig Aufmerksamkeit; hält ein normales Gewicht; beschädigt seltener Möbel; zeigt Interesse an Spielzeug.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Laufrad",
+        "body": "Hilft der Wohnungskatze, überschüssige Energie abzubauen, besonders wenn sie keinen freien Zugang nach draußen hat. Eine gute Ergänzung zum Spielen, ersetzt aber nicht den Kontakt mit dir.\n\nDer Nutzen: senkt das Risiko von Übergewicht; hält Muskeln und Gelenke in Form; verringert Langeweile und Stress; nützlich für aktive Rassen (Bengalen, Abessinier, Orientalisch Kurzhaar, Savannah).\n\nWichtig zu wissen: nicht jede Katze nutzt das Laufrad sofort — manche brauchen mehrere Wochen zur Gewöhnung; zwinge die Katze niemals mit Gewalt zum Laufen; fördere das Interesse mit Leckerlis; das Rad sollte sich sanft und nahezu geräuschlos drehen.",
+        "style": "plain",
+        "image": "dom_aktivnost_koleso"
+      },
+      {
+        "heading": "Geistige Anregung",
+        "body": "Futter-Rätselspielzeug und interaktives Spielzeug bringen die Katze dazu, sich ihr Futter zu „erjagen“, was das natürliche Verhalten imitiert und Langeweile vorbeugt.\n\nBeispiele: Dosen mit Schiebedeckeln; Futterbälle als Spender; Leckerli-Labyrinthe; Boxen mit Löchern; Schnüffelmatten.",
+        "style": "plain",
+        "image": "dom_aktivnost_intellekt"
+      },
+      {
+        "heading": "Tipps",
+        "body": "„Wechsle das Spielzeugset jede Woche. Neuheit ist der beste Anreiz für die Neugier deiner Katze.“\nBesser zwei kurze Spieleinheiten von 10–15 Minuten als eine lange — so wird die Katze nicht müde und bleibt interessiert.",
+        "style": "tip",
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "rabochee_mesto",
+    "title": "Dein Arbeitsplatz",
+    "intro": "Ein katzenfreundliches Homeoffice einzurichten erfordert eine Balance zwischen deinem Komfort und der Sicherheit deiner Katze.",
+    "heroImage": "dom_rabota_hero",
+    "sections": [
+      {
+        "heading": "01. Raumaufteilung",
+        "body": "Katzen wollen mittendrin sein. Anstatt sie ständig vom Schreibtisch zu verscheuchen, richte ihnen eine eigene Zone ein: einen Fensterplatz (ideal zum Vogelbeobachten) oder ein zweites Regalbrett neben dem Schreibtisch als Ruheplatz für die Katze.\n\nEine gute Option ist ein Regal auf Halterungen, das an der Tischplatte befestigt wird und sich in verschiedene Richtungen drehen lässt — die Katze ist in deiner Nähe, stört aber nicht deinen Arbeitsbereich.",
+        "style": "plain",
+        "image": "dom_rabota_razdelenie"
+      },
+      {
+        "heading": "02. Kabelmanagement",
+        "body": "Schutzboxen — verstecke Steckdosenleisten in speziellen Boxen, damit die Katze keinen Zugang zu den Steckdosen hat.\nKabelschläuche — verwende feste Kabelschläuche für Kabel, an denen die Katze gerne knabbert (Ladekabel, Monitorkabel).",
+        "style": "plain",
+        "image": "dom_rabota_provoda"
+      },
+      {
+        "heading": "03. Tastaturschutz",
+        "body": "Der berühmte „Spaziergang über die Tasten“ kann dazu führen, dass versehentlich Dateien gelöscht oder seltsame Nachrichten an Kollegen verschickt werden.\n\nVerwende durchsichtige Acryl-Brücken über der Tastatur oder eine „Ersatztastatur“ — eine alte Tastatur daneben kann die Aufmerksamkeit der Katze ablenken.",
+        "style": "plain",
+        "image": "dom_rabota_klaviatura"
+      },
+      {
+        "heading": "04. Ergonomie und Höhe",
+        "body": "Wähle Möbel unter Berücksichtigung der Sprungfreude deiner Katze und deiner eigenen Gesundheit.\n\nHöhenverstellbarer Schreibtisch (empfohlen): ermöglicht es, die Arbeitsfläche schnell anzuheben, wenn die Katze zu aufdringlich wird. Wichtig: Beachte, dass sich die Katze beim Verstellen der Tischhöhe an den beweglichen Mechanismen und Zwischenräumen einklemmen kann.\n\nStandfestigkeit des Bürostuhls (wichtig): Ein Fünf-Stern-Fuß mit feststellbaren Rollen verhindert ein Umkippen, wenn die Katze plötzlich auf die Rückenlehne springt oder unter den Rollen des Stuhls eingedöst ist.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Vorsicht: nicht empfohlen",
+        "body": "• Eine Kaffeetasse neben dem Laptop stehen lassen;\n• Duftkerzen in der Nähe der Katze verwenden;\n• Medikamente auf dem Schreibtisch aufbewahren;\n• offene Scheren liegen lassen;\n• Nähfäden und Haargummis am Arbeitsplatz aufbewahren.",
+        "style": "warning",
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "opasnosti",
+    "title": "Gefahren im Haus",
+    "intro": "Dein Zuhause ist eine Festung, doch für eine neugierige Katze steckt es voller versteckter Fallen. Erfahre, wie du eine Tragödie verhinderst.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "Gekippte Fenster",
+        "body": "Ein gekipptes Fenster ist eine tödliche Falle. Katzen versuchen hindurchzuklettern, rutschen in den schmalen Spalt und bleiben stecken, was zu Ersticken, Gewebenekrose oder Wirbelsäulenverletzungen führen kann.\n\nDie Lösung: seitliche Schutzgitter oder spezielle Katzenschutzsysteme (keine Fliegengitter).",
+        "style": "warning",
+        "image": "dom_opasnosti_provetrivanie"
+      },
+      {
+        "heading": "Kleine Gegenstände",
+        "body": "Haargummis, Nadeln und Fäden können von der Katze als neues Spielzeug wahrgenommen werden. Der Jagdinstinkt kann in solchen Fällen zu Verletzungen an den Pfötchen oder inneren Organen führen. Ein verschluckter Faden kann den Darm wie eine Ziehharmonika zusammenraffen.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Risikozone: Küche",
+        "body": "Heiße Herdplatten, offene Geschirrspüler und Waschmaschinentrommeln — Katzen suchen dort Wärme oder ein Versteck. Wichtig ist, dass sich der Herd nicht einschaltet, nur weil die Katze auf ihm herumläuft. Am besten sind mechanische Schalter oder eine Sperre für das Touch-Bedienfeld.",
+        "style": "plain",
+        "image": "dom_opasnosti_kuhnya"
+      },
+      {
+        "heading": "Giftige Substanzen",
+        "body": "Viele alltägliche Dinge im Haushalt sind für Menschen unbedenklich, können für Katzen aber schon in kleinen Mengen gefährlich oder sogar tödlich giftig sein.\n\nHaushaltschemikalien: Bodenreiniger, Bleichmittel, Sanitärreiniger, Backofenreiniger, Waschmittelkapseln.\nÄtherische Öle: Teebaum, Eukalyptus, Minze, Zitrusfrüchte, Zimt, Nelke.\nMedikamente: Paracetamol, Ibuprofen, Antidepressiva, Eisenpräparate, Erkältungsmittel. Gib deiner Katze niemals Medikamente für Menschen ohne Anweisung des Tierarztes.",
+        "style": "warning",
+        "image": "dom_opasnosti_toksiny"
+      },
+      {
+        "heading": "Risikozone: Schlafplätze",
+        "body": "Gefährliche Materialien: Wähle Schlafplätze aus sicheren Stoffen und Füllungen, vermeide Materialien mit starkem chemischem Geruch, achte darauf, dass der Stoff nicht abfärbt oder fusselt.\n\nRisiko des Verschluckens von Teilen: Wähle keine Schlafplätze mit aufgenähten Perlen, Knöpfen oder Zierschnüren; überprüfe Spielzeug und Schlafplätze regelmäßig auf Schäden.\n\nStandfestigkeit der Konstruktion: Befestige Wandregale sicher und ersetze das Produkt bei ersten Anzeichen von Rissen.\n\nÜberhitzungsgefahr: Stelle Schlafplätze nicht neben Heizkörper oder Heizlüfter.\n\nSauberkeit und Allergene: Wasche abnehmbare Bezüge regelmäßig und verwende Materialien, die sich leicht reinigen lassen.",
+        "style": "plain",
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "vybor_korma",
+    "title": "Die Ernährung deines Haustiers",
+    "intro": "Ein kompakter Leitfaden zur richtigen Ernährung.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "Kurzregeln für gutes Futter",
+        "body": "Pluspunkte: Fleisch als erste Zutat; enthaltenes Taurin; Vitamine und Mineralstoffe.\n\nMinuspunkte: Zucker und Süßungsmittel; Farbstoffe; unspezifizierte Nebenerzeugnisse.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Trocken- oder Nassfutter",
+        "body": "Trockenfutter — einfach zu lagern und zu dosieren, kann länger im Napf bleiben, ist günstiger und eignet sich für automatische Futterspender. Nachteile: wenig Feuchtigkeit (etwa 8-10 %), erfordert ständigen Zugang zu Wasser.\n\nNassfutter — enthält 70-85 % Wasser, hilft den Flüssigkeitshaushalt zu unterstützen, ist attraktiver für Katzen, die wenig trinken. Nachteile: teurer, verdirbt nach dem Öffnen schnell, darf nicht lange im Napf stehen bleiben.\n\nKombinierte Fütterung: zum Beispiel morgens Nassfutter, tagsüber eine kleine Portion Trockenfutter, abends wieder Nassfutter.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Futterauswahl nach Inhaltsstoffen",
+        "body": "Achte auf vollständige Ernährung und verlässliche Angaben. Das Etikett sollte angeben, dass das Futter alleinig und ausgewogen ist und für das jeweilige Alter und den Zustand der Katze geeignet ist.\n\nPrüfe die garantierte Analyse (Mindest-% Rohprotein und Rohfett, Höchst-% Rohfaser und Feuchtigkeit). Die AAFCO-Standards empfehlen mindestens 26 % Rohprotein in Trockenfutter für erwachsene Katzen und 30 % für Kätzchen.\n\nProtein: Katzen sind obligate Fleischfresser, daher sollte die Grundlage des Futters Fleisch oder Fisch sein. Die ersten Positionen in der Zutatenliste sollten konkrete Zutaten sein („Huhn“, „Pute“, „Lachs“) und keine vagen Formulierungen wie „Fleisch und tierische Nebenerzeugnisse“. Taurin muss unbedingt enthalten sein.\n\nFette: Bevorzugt werden tierische Quellen (Hühnerfett, Fischöl, Lachsöl) als Quelle für Omega-3 und Omega-6.\n\nKohlenhydrate und Ballaststoffe: Katzen benötigen keine großen Mengen an Kohlenhydraten, Mais/Weizen/Reis sind keine gute Wahl als Basis. Ballaststoffe sind in moderater Menge sinnvoll (etwa 3-6 %).\n\nZusatzstoffe: bevorzuge natürliche Konservierungsstoffe (Vitamin E, Vitamin C, Rosmarinextrakt), vermeide BHA, BHT und Ethoxyquin.\n\nRisiken von minderwertigem Futter: Allergien, Verdauungsprobleme, Übergewicht, Nährstoffmangel.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Marketingbegriffe: lass dich nicht täuschen",
+        "body": "Bezeichnungen wie „Premium“, „Super-Premium“, „Holistic“, „GMO-frei“ oder „Natürlich“ werden häufig verwendet, sagen aber wenig aus — orientiere dich an der tatsächlichen Zusammensetzung und der garantierten Analyse, nicht an Marketingbegriffen.",
+        "style": "plain",
+        "image": null
+      },
+      {
+        "heading": "Checkliste bei der Futterauswahl",
+        "body": "• Alleinfuttermittel, auf der Verpackung steht „Complete“/„Vollständig“, passend für die jeweilige Kategorie (Kätzchen/erwachsen/kastriert/Senior);\n• Erste Zutaten sind Protein mit konkreter Bezeichnung („Huhn“, „Lachs“, „Pute“), keine allgemeinen Formulierungen wie „Fleisch“;\n• Fette sind konkret benannt (Hühnerfett, Fischöl), ohne allgemeine Formulierungen;\n• Zusatzstoffe ohne BHA, BHT, Ethoxyquin, künstliche Farb- und Geschmacksverstärker;\n• Vitamine und Mineralstoffe sind enthalten, die garantierte Analyse entspricht den AAFCO-Standards;\n• Verpackung vor dem Kauf geprüft: Haltbarkeitsdatum und Unversehrtheit der Verpackung.",
+        "style": "tip",
+        "image": null
+      }
+    ]
+  },
+  {
+    "id": "son_i_otdyh",
+    "title": "Schlaf und Ruhe: den perfekten Platz schaffen",
+    "intro": "Eine durchdachte Raumgestaltung wirkt sich direkt auf die körperliche und mentale Gesundheit deiner Katze aus.",
+    "heroImage": null,
+    "sections": [
+      {
+        "heading": "Allgemeine Regel: ruhige Rückzugsorte",
+        "body": "Jede Katze sollte einen Ort haben, an dem sie niemand stört: Kartons, Tunnel oder Fleece-Höhlen.",
+        "style": "plain",
+        "image": "dom_son_ubezhische"
+      },
+      {
+        "heading": "Vielfalt an Oberflächen",
+        "body": "Katzen schätzen Auswahl — von weichen Plüschbetten bis zu einfachen Kartons hat jeder Ort zu unterschiedlichen Tageszeiten seinen Zweck. Beobachte, was speziell deine Katze bevorzugt.\n\nOptionen: weiche Betten, Kartons, Regale.",
+        "style": "plain",
+        "image": "dom_son_poverhnosti"
+      },
+      {
+        "heading": "Vertikaler Raum",
+        "body": "Hohe Aussichtspunkte ermöglichen es Katzen, ihr Revier zu überblicken, was Stress und Angst reduziert. Wichtig ist, dass es mehrere Wege gibt, diesen Bereich zu erreichen und wieder zu verlassen.\n\nSchlichte Wandregale; mehrstöckige Kletterkomplexe.",
+        "style": "plain",
+        "image": "dom_son_vertikal"
+      },
+      {
+        "heading": "Harmonie im Katzenrudel",
+        "body": "In einem Haushalt mit mehreren Katzen ist die Formel für den perfekten Ruheplatz einfach: N + 1. Die Anzahl der Schlafplätze sollte die Anzahl der Katzen um eins übersteigen, um Konkurrenz um Ressourcen zu vermeiden. Noch besser — sogar noch mehr, an verschiedenen Orten verteilt.",
+        "style": "plain",
+        "image": "dom_son_garmoniya"
+      },
+      {
+        "heading": "Arten von Schlafplätzen",
+        "body": "Geschlossene Kuschelhöhlen — ideal für Katzen, die sich beim Ausruhen gerne verstecken.\nMit hohem Rand — weiche Körbchen mit hohen Kanten, ideal für Katzen, die sich zusammengerollt schlafen legen.\nHängematten — hängende Konstruktionen, die an Heizkörpern, Stuhlbeinen oder Fenstern befestigt werden; der Lieblingsplatz aktiver Katzen, die es hoch und erhöht mögen.\nMatratzen und Matten — mobile, flache Unterlagen, geeignet für große Katzen oder solche, die gerne lang ausgestreckt schlafen.\nSchlafkissen — quadratische oder rechteckige weiche Varianten für den Alltag.",
+        "style": "plain",
+        "image": "dom_son_lezhanki"
+      }
+    ]
+  }
+]
