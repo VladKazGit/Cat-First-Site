@@ -109,6 +109,7 @@ def check_completeness():
 
 
 ATTR = re.compile(r'\b(href|src)="([^"]*)"')
+SRCSET = re.compile(r'\bsrcset="([^"]*)"')
 
 
 def check_links_and_rules():
@@ -129,7 +130,8 @@ def check_links_and_rules():
         for label in my_cat:  # the app section as a UI element (a link, heading or card), not the words inside an article
             if re.search(rf'>\s*{re.escape(label)}\s*<', doc):
                 problems.append(f'{f.relative_to(DIST)}: mentions "{label}"')
-        for attr, url in ATTR.findall(doc):
+        refs = ATTR.findall(doc) + [('src', part.split()[0]) for ss in SRCSET.findall(doc) for part in ss.split(',')]
+        for attr, url in refs:
             nlinks += 1
             u = urlsplit(url)
             if u.scheme in ('http', 'https'):

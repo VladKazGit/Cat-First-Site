@@ -12,6 +12,8 @@ import shutil
 import sys
 from pathlib import Path
 
+from sync_from_app import SMALL_WIDTHS
+
 sys.stdout.reconfigure(encoding='utf-8')
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / 'app_data'
@@ -29,6 +31,10 @@ E = html.escape
 
 APP_STR = json.loads((DATA / 'app_strings.json').read_text(encoding='utf-8'))
 SIZES = json.loads((DATA / 'image_sizes.json').read_text(encoding='utf-8'))
+# how wide each kind of picture is on the page (CSS px): lets the browser pick the right srcset copy
+SLOT_SIZES = {'wide': '(max-width: 1023px) 100vw, 700px', 'wide head': '(max-width: 1023px) 100vw, 760px',
+              'cell': '(max-width: 767px) 100vw, 340px', 'cover': '(max-width: 767px) 100vw, 580px',
+              'frame': '(max-width: 767px) 100vw, 460px'}
 
 P = {  # outline icons, 24x24, stroke = currentColor
     'arrow': '<path d="M5 12h14M13 6l6 6-6 6"/>',
@@ -150,14 +156,19 @@ class Page:
     def link(self, key, lang=None):
         return self.url(f'{lang or self.lang}/{key}.html')
 
-    def pic(self, name, alt, cls='wide', lazy=True):
+    def pic(self, name, alt, cls='wide', lazy=True, sizes=None, priority=False):
+        """An <img> with srcset (480 / 800 / full), so a phone or a small slot downloads a smaller copy."""
         if not name or name not in SIZES:
             return ''
         w, h = SIZES[name]
-        portrait = ' portrait' if h > w * 1.05 else ''
+        portrait = h > w * 1.05
         self.used_imgs.add(name)
-        return (f'<img class="{cls}{portrait}" src="{self.url("img/" + name + ".webp")}" width="{w}" height="{h}" '
-                f'alt="{E(alt)}"{" loading=lazy" if lazy else ""} decoding="async" data-img="{name}">')
+        srcset = ', '.join([f'{self.url(f"img/{name}-{sw}.webp")} {sw}w' for sw in SMALL_WIDTHS if sw < w] +
+                           [f'{self.url(f"img/{name}.webp")} {w}w'])
+        sizes = sizes or ('(max-width: 767px) 100vw, 420px' if portrait and cls.startswith('wide') else SLOT_SIZES[cls])
+        return (f'<img class="{cls}{" portrait" if portrait else ""}" src="{self.url("img/" + name + ".webp")}" '
+                f'srcset="{srcset}" sizes="{sizes}" width="{w}" height="{h}" alt="{E(alt)}"'
+                f'{" loading=lazy" if lazy else ""}{" fetchpriority=high" if priority else ""} decoding="async" data-img="{name}">')
 
 
 def fmt(t, key, **kw):
@@ -208,7 +219,7 @@ def hub_hero(pg, chip, title, lead, stats, image):
     st = ''.join(f'<span>{ic(i, "ic sm")}{E(s)}</span>' for i, s in stats)
     return (f'<section class="wrap"><div class="hero-card"><div><span class="chip">{E(chip)}</span><h1>{E(title)}</h1>'
             f'<p class="lead">{E(lead)}</p><div class="stats">{st}</div></div>'
-            f'<div class="hero-pic">{pg.pic(image, title, "frame", lazy=False)}</div></div></section>')
+            f'<div class="hero-pic">{pg.pic(image, title, "frame", lazy=False, priority=True)}</div></div></section>')
 
 
 def row_card(href, icon, k, title, meta, badge='', em=False):
@@ -259,8 +270,13 @@ def abs_or_rel(pg, target):
 def p_index(lang, C):
     pg = Page(lang, 'index')
     t, a = pg.t, pg.a
-    shots = ''.join(f'<img class="phone {cls}" src="{pg.url(f"img/hero/phone_{s}.webp")}" width="560" height="{h}" alt="">'
-                    for s, cls, h in (('profile', 'left', 1041), ('home', 'mid', 1073), ('article', 'right', 1064)))
+    shots = ''.join(
+        f'<img class="phone {cls}" src="{pg.url(f"img/hero/phone_{s}.webp")}" srcset="{pg.url(f"img/hero/phone_{s}-280.webp")} 280w, '
+        f'{pg.url(f"img/hero/phone_{s}.webp")} 560w" sizes="{sz}" width="560" height="{h}" alt=""'
+        f'{" fetchpriority=high" if cls == "mid" else ""}>'
+        for s, cls, h, sz in (('profile', 'left', 1041, '(max-width: 767px) 31vw, 190px'),
+                              ('home', 'mid', 1073, '(max-width: 767px) 38vw, 230px'),
+                              ('article', 'right', 1064, '(max-width: 767px) 31vw, 190px')))
     vals = [('lock', 'mint', 'v1'), ('shield', 'lav', 'v2'), ('globe', 'peach', 'v3'), ('phone', 'sky', 'v4')]
     vcards = ''.join(f'<div class="vcard {c}">{ic(i)}<b>{E(t[k + "_t"])}</b><small>{E(t[k + "_s"])}</small></div>' for i, c, k in vals)
     DC, KN, CL, EM = C['safe_home_categories'], C['knowledge'], C['checklists'], C['emergency']
@@ -395,7 +411,7 @@ def p_knowledge(lang, C):
 def gallery(pg, names, title):
     """One picture at a time, like the app's comic pager: swipe/scroll (works without JS), arrows and dots (gallery.js)."""
     n = len(names)
-    slides = ''.join(f'<figure class="gslide">{pg.pic(name, f"{title} ({j}/{n})", "frame", lazy=j > 1)}</figure>'
+    slides = ''.join(f'<figure class="gslide">{pg.pic(name, f"{title} ({j}/{n})", "frame", lazy=j > 1, sizes="(max-width: 940px) 100vw, 900px")}</figure>'
                      for j, name in enumerate(names, 1))
     dots = ''.join(f'<button type="button" aria-label="{j} / {n}"></button>' for j in range(1, n + 1))
     return (f'<section class="wrap"><div class="gallery" data-gallery><div class="gtrack" tabindex="0" role="region" '

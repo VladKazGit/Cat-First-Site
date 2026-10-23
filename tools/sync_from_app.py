@@ -34,6 +34,7 @@ STRING_KEYS = ['nav_home_safety', 'nav_knowledge', 'nav_checklists', 'nav_emerge
                'emergency_critical_badge', 'about_section_title', 'settings_support_section_title', 'disclaimer_text',
                'generic_expand', 'generic_collapse', 'home_settings_link']
 MAX_W = 1200
+SMALL_WIDTHS = (480, 800)  # extra copies for srcset: phones and small slots take these instead of the full one
 
 
 def android_unescape(s):
@@ -109,6 +110,9 @@ def main():
         if im.width > MAX_W:
             im = im.resize((MAX_W, round(im.height * MAX_W / im.width)), Image.LANCZOS)
         im.save(IMG / f'{name}.webp', 'WEBP', quality=80, method=6)
+        for w in SMALL_WIDTHS:
+            if w < im.width:
+                im.resize((w, round(im.height * w / im.width)), Image.LANCZOS).save(IMG / f'{name}-{w}.webp', 'WEBP', quality=80, method=6)
         sizes[name] = [im.width, im.height]
     (DATA / 'image_sizes.json').write_text(json.dumps(sizes, indent=0), encoding='utf-8')
 

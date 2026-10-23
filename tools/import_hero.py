@@ -27,6 +27,8 @@ def main():
         im = im.crop(opaque_box(im))
         im = im.resize((PHONE_W, round(im.height * PHONE_W / im.width)), Image.LANCZOS)
         im.save(HERO / f'{name}.webp', 'WEBP', quality=86, method=6)
+        half = (PHONE_W // 2, round(im.height / 2))  # for phones' small screens (srcset)
+        im.resize(half, Image.LANCZOS).save(HERO / f'{name}-{half[0]}.webp', 'WEBP', quality=86, method=6)
         print(name, im.size)
 
     im = Image.open(ORIG / 'store_badges.webp').convert('RGBA')
