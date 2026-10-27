@@ -19,7 +19,7 @@ ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / 'app_data'
 SRC = ROOT / 'src'
 DIST = ROOT / 'dist'
-BASE_URL = ''  # e.g. 'https://example.org/' once hosting is chosen: enables absolute hreflang, canonical and sitemap
+BASE_URL = 'https://catfirst.org/'  # absolute hreflang, canonical, og:url and sitemap.xml; '' for relative only
 YEAR = 2026
 MAIL = 'catfirstsupport@gmail.com'
 PLAY = 'https://play.google.com/store/apps/details?id=com.catfirst.app'
@@ -65,6 +65,8 @@ def ic(name, cls='ic'):
 
 
 def slug(title):
+    """English title -> URL part: 'Injured by a Child: First Aid…' -> 'injured-by-a-child', "Can't…" -> 'cant-…'."""
+    title = re.split(r'\s*[:(\u2014]\s*', title)[0].replace("'", '').replace('\u2019', '')
     s = re.sub(r'[^a-z0-9]+', '-', title.lower()).strip('-')
     while len(s) > 40 and '-' in s:
         s = s.rsplit('-', 1)[0]
@@ -77,9 +79,17 @@ def load(name, lang):
 
 # Slugs come from the English content; every language has the same items in the same order (checked below).
 EN = {n: load(n, 'en') for n in ('safe_home_categories', 'home_articles', 'knowledge', 'checklists', 'emergency')}
+DOM_SLUGS = {c['id']: slug(c['title']) for c in EN['safe_home_categories']}
+KN_SLUGS = {c['id']: c['id'].replace('_', '-') for c in EN['knowledge']}
 CL_SLUGS = [slug(c['title']) for c in EN['checklists']]
 EM_SLUGS = [slug(e['title']) for e in EN['emergency']]
-assert len(set(CL_SLUGS)) == len(CL_SLUGS) and len(set(EM_SLUGS)) == len(EM_SLUGS)
+assert all(len(set(x)) == len(x) for x in (list(DOM_SLUGS.values()), CL_SLUGS, EM_SLUGS))
+
+
+def dir_of(lang, key):
+    """Folder of a page: every page is <lang>/<key>/index.html, so its address ends with '/' and has no '.html'."""
+    parts = [x for x in (lang, key) if x]
+    return '/'.join(parts) + '/' if parts else ''
 
 
 # --- text, like the app's ParagraphText / splitInlineList ------------------------------------------------------------
@@ -145,7 +155,8 @@ class Page:
 
     def __init__(self, lang, key):
         self.lang, self.key = lang, key
-        self.path = f'{lang}/{key}.html' if lang else f'{key}.html'
+        self.dir = dir_of(lang, key)
+        self.path = self.dir + 'index.html'
         self.t = I18N.get(lang, {})
         self.a = APP_STR.get(lang, {})
         self.used_imgs = set()
@@ -154,7 +165,9 @@ class Page:
         return posixpath.relpath(target, posixpath.dirname(self.path) or '.')
 
     def link(self, key, lang=None):
-        return self.url(f'{lang or self.lang}/{key}.html')
+        """Relative address of another page's folder, ending with '/'."""
+        rel = posixpath.relpath(dir_of(lang or self.lang, key).rstrip('/') or '.', posixpath.dirname(self.path) or '.')
+        return './' if rel == '.' else rel + '/'
 
     def pic(self, name, alt, cls='wide', lazy=True, sizes=None, priority=False):
         """An <img> with srcset (480 / 800 / full), so a phone or a small slot downloads a smaller copy."""
@@ -178,8 +191,8 @@ def fmt(t, key, **kw):
 # --- shared blocks -----------------------------------------------------------------------------------------------------
 def nav_items(pg):
     a, t = pg.a, pg.t
-    return [('index', t['home']), ('dom/index', a['nav_home_safety']), ('znaniya/index', a['nav_knowledge']),
-            ('checklists/index', a['nav_checklists']), ('srochnye/index', a['nav_emergency']), ('support', t['support'])]
+    return [('', t['home']), ('safe-home', a['nav_home_safety']), ('knowledge', a['nav_knowledge']),
+            ('checklists', a['nav_checklists']), ('emergency', a['nav_emergency']), ('support', t['support'])]
 
 
 def lang_switch(pg):
@@ -210,7 +223,7 @@ def cta(pg):
 
 
 def crumbs(pg, *items):
-    parts = [f'<a href="{pg.link("index")}">{ic("home", "ic sm")}{E(pg.t["home"])}</a>'] + [
+    parts = [f'<a href="{pg.link("")}">{ic("home", "ic sm")}{E(pg.t["home"])}</a>'] + [
         f'<a href="{pg.link(k)}">{E(t)}</a>' if k else f'<span aria-current="page">{E(t)}</span>' for k, t in items]
     return f'<nav class="crumbs wrap" aria-label="{E(pg.t["breadcrumbs"])}">' + '<span aria-hidden="true">/</span>'.join(parts) + '</nav>'
 
@@ -232,13 +245,14 @@ def render(pg, title, body, desc, active=None):
     t = pg.t
     nav = ''.join(f'<a href="{pg.link(k)}"{" aria-current=page class=on" if k == active else ""}>{E(l)}</a>'
                   for k, l in nav_items(pg))
-    alts = ''.join(f'<link rel="alternate" hreflang="{I18N[l]["html_lang"]}" href="{abs_or_rel(pg, f"{l}/{pg.key}.html")}">'
+    alts = ''.join(f'<link rel="alternate" hreflang="{I18N[l]["html_lang"]}" href="{BASE_URL + dir_of(l, pg.key) if BASE_URL else pg.link(pg.key, l)}">'
                    for l in LANGS)
-    alts += f'<link rel="alternate" hreflang="x-default" href="{abs_or_rel(pg, "index.html")}">'
-    canon = f'<link rel="canonical" href="{BASE_URL}{pg.path}">' if BASE_URL else ''
+    root = BASE_URL or posixpath.relpath('.', posixpath.dirname(pg.path)) + '/'
+    alts += f'<link rel="alternate" hreflang="x-default" href="{root}">'
+    canon = f'<link rel="canonical" href="{BASE_URL}{pg.dir}">' if BASE_URL else ''
     og = (f'<meta property="og:type" content="website"><meta property="og:title" content="{E(title)}">'
           f'<meta property="og:description" content="{E(desc)}"><meta property="og:locale" content="{t["og_locale"]}">'
-          + (f'<meta property="og:image" content="{BASE_URL}icons/icon-192.png"><meta property="og:url" content="{BASE_URL}{pg.path}">' if BASE_URL else ''))
+          + (f'<meta property="og:image" content="{BASE_URL}icons/icon-192.png"><meta property="og:url" content="{BASE_URL}{pg.dir}">' if BASE_URL else ''))
     full_title = title if title == 'Cat First' else f'{title} — Cat First'
     script = f'<script src="{pg.url("gallery.js")}" defer></script>' if 'data-gallery' in body else ''
     doc = f'''<!doctype html>
@@ -247,11 +261,11 @@ def render(pg, title, body, desc, active=None):
 <link rel="icon" href="{pg.url("favicon.ico")}" sizes="48x48"><link rel="icon" type="image/png" href="{pg.url("icons/icon-192.png")}" sizes="192x192">
 <link rel="apple-touch-icon" href="{pg.url("icons/icon-180.png")}">{canon}{alts}{og}<link rel="stylesheet" href="{pg.url("style.css")}">{script}</head>
 <body><a class="skip" href="#main">{E(t["skip"])}</a>
-<header class="top"><div class="wrap row"><a class="logo" href="{pg.link("index")}"><img src="{pg.url("icons/icon-64.png")}" width="32" height="32" alt="">Cat First</a>
+<header class="top"><div class="wrap row"><a class="logo" href="{pg.link("")}"><img src="{pg.url("icons/icon-64.png")}" width="32" height="32" alt="">Cat First</a>
 <nav class="nav" aria-label="{E(t["menu"])}">{nav}</nav>{lang_switch(pg)}
 <details class="menu"><summary aria-label="{E(t["menu"])}">{ic("menu")}</summary><nav aria-label="{E(t["menu"])}">{nav}</nav></details></div></header>
 <main id="main">{body}</main>
-<footer class="foot"><div class="wrap"><div class="row fr"><nav aria-label="Cat First"><a href="{pg.link("index")}">{E(pg.a["about_section_title"])}</a><a href="{pg.link("support")}">{E(t["support"])}</a></nav>
+<footer class="foot"><div class="wrap"><div class="row fr"><nav aria-label="Cat First"><a href="{pg.link("")}">{E(pg.a["about_section_title"])}</a><a href="{pg.link("support")}">{E(t["support"])}</a></nav>
 <a class="mail" href="mailto:{MAIL}">{ic("mail", "ic sm")}{MAIL}</a></div>
 <div class="row fr small"><span>© {YEAR} Cat First · {E(t["hero_chip"])}</span><span>{ic("nocookie", "ic sm")}{E(t["no_cookies"])}</span></div></div></footer>
 </body></html>
@@ -262,13 +276,9 @@ def render(pg, title, body, desc, active=None):
     PAGES.append(pg)
 
 
-def abs_or_rel(pg, target):
-    return BASE_URL + target if BASE_URL else pg.url(target)
-
-
 # --- pages --------------------------------------------------------------------------------------------------------------
 def p_index(lang, C):
-    pg = Page(lang, 'index')
+    pg = Page(lang, '')
     t, a = pg.t, pg.a
     shots = ''.join(
         f'<img class="phone {cls}" src="{pg.url(f"img/hero/phone_{s}.webp")}" srcset="{pg.url(f"img/hero/phone_{s}-280.webp")} 280w, '
@@ -281,10 +291,10 @@ def p_index(lang, C):
     vcards = ''.join(f'<div class="vcard {c}">{ic(i)}<b>{E(t[k + "_t"])}</b><small>{E(t[k + "_s"])}</small></div>' for i, c, k in vals)
     DC, KN, CL, EM = C['safe_home_categories'], C['knowledge'], C['checklists'], C['emergency']
     topics = [
-        ('dom/index', 'home', 'mint', t['dom_title'], fmt(t, 'n_topics', n=len(DC)), [c['title'] for c in DC[1:5]], 'dom_son_lezhanki'),
-        ('znaniya/index', 'book', 'lav', a['knowledge_hub_title'], fmt(t, 'n_articles', n=len(KN)), [c['title'] for c in KN[:4]], 'znanie_povedenie_comic_1'),
-        ('checklists/index', 'list', 'peach', a['nav_checklists'], fmt(t, 'n_lists', n=len(CL)), [c['title'] for c in CL[:4]], 'dom_samovygul_shleyka'),
-        ('srochnye/index', 'aid', 'rose', a['nav_emergency'], fmt(t, 'n_situations', n=len(EM)), [e['title'] for e in EM[3:7]], None),
+        ('safe-home', 'home', 'mint', t['dom_title'], fmt(t, 'n_topics', n=len(DC)), [c['title'] for c in DC[1:5]], 'dom_son_lezhanki'),
+        ('knowledge', 'book', 'lav', a['knowledge_hub_title'], fmt(t, 'n_articles', n=len(KN)), [c['title'] for c in KN[:4]], 'znanie_povedenie_comic_1'),
+        ('checklists', 'list', 'peach', a['nav_checklists'], fmt(t, 'n_lists', n=len(CL)), [c['title'] for c in CL[:4]], 'dom_samovygul_shleyka'),
+        ('emergency', 'aid', 'rose', a['nav_emergency'], fmt(t, 'n_situations', n=len(EM)), [e['title'] for e in EM[3:7]], None),
     ]
     tcards = ''.join(
         f'<a class="tcard{" danger" if p is None else ""}" href="{pg.link(h)}">'
@@ -292,34 +302,34 @@ def p_index(lang, C):
         + f'<div class="tb"><span class="chip{" red" if p is None else ""}">{E(n)}</span><h3>{E(ti)}</h3><ul class="dots">'
         + ''.join(f'<li>{E(x)}</li>' for x in ex) + f'</ul><span class="more">{E(t["open_section"])} {ic("arrow", "ic sm")}</span></div></a>'
         for h, icn, pc, ti, n, ex, p in topics)
-    chips = ''.join(f'<a class="chip red" href="{pg.link("srochnye/" + EM_SLUGS[i])}">{E(EM[i]["title"])}</a>' for i in range(3, 9))
+    chips = ''.join(f'<a class="chip red" href="{pg.link("emergency/" + EM_SLUGS[i])}">{E(EM[i]["title"])}</a>' for i in range(3, 9))
     body = f'''<section class="wrap hero"><div><span class="chip">{E(t["hero_chip"])}</span><h1 class="display">{E(t["hero_title"])}</h1>
 <p class="lead">{E(t["hero_lead"])}</p>{stores(pg)}</div>
 <div class="phones" role="img" aria-label="{E(t["hero_alt"])}">{shots}</div></section>
 <section class="wrap"><h2 class="h2">{E(t["why"])}</h2><div class="grid4">{vcards}</div></section>
 <section class="wrap"><div class="shead"><h2 class="h2">{E(t["topics"])}</h2><span class="kicker">{E(t["in_app"])}</span></div><div class="grid2">{tcards}</div></section>
 <section class="wrap"><div class="emband">{ic("alert", "ic big red")}<div><h2>{E(a["nav_emergency"])}</h2><p>{E(t["em_lead"])}</p>
-<div class="chips">{chips}</div></div><a class="btn ghost" href="{pg.link("srochnye/index")}">{E(t["all_situations"])} {ic("arrow", "ic sm")}</a></div></section>
+<div class="chips">{chips}</div></div><a class="btn ghost" href="{pg.link("emergency")}">{E(t["all_situations"])} {ic("arrow", "ic sm")}</a></div></section>
 {disclaimer(pg)}'''
-    render(pg, t['hero_title'], body, t['site_desc'], 'index')
+    render(pg, t['hero_title'], body, t['site_desc'], '')
 
 
 def p_dom(lang, C):
     DC = C['safe_home_categories']
     arts = {x['id']: x for x in C['home_articles']}
-    pg = Page(lang, 'dom/index')
+    pg = Page(lang, 'safe-home')
     t, a = pg.t, pg.a
-    cards = ''.join(row_card(pg.link('dom/' + c['id']), 'home', k, c['title'],
+    cards = ''.join(row_card(pg.link('safe-home/' + DOM_SLUGS[c['id']]), 'home', k, c['title'],
                              E(fmt(t, 'n_sections', n=len(arts[c['id']]['sections']))) + ' • ' + E(c.get('subtitle') or ''))
                     for k, c in enumerate(DC))
     body = (crumbs(pg, (None, t['dom_title'])) +
             hub_hero(pg, t['dom_chip'], t['dom_title'], a['safe_home_intro'], [('home', fmt(t, 'n_topics', n=len(DC)))], 'dom_bezopasnost_hero') +
             f'<section class="wrap"><div class="grid2 rows">{cards}</div></section>' + cta(pg) + disclaimer(pg))
-    render(pg, t['dom_title'], body, a['safe_home_intro'], 'dom/index')
+    render(pg, t['dom_title'], body, a['safe_home_intro'], 'safe-home')
 
     for k, c in enumerate(DC):
         art = arts[c['id']]
-        pg = Page(lang, 'dom/' + c['id'])
+        pg = Page(lang, 'safe-home/' + DOM_SLUGS[c['id']])
         secs = ''
         for i, s in enumerate(art['sections'], 1):
             style = s.get('style')
@@ -342,15 +352,15 @@ def p_dom(lang, C):
             secs += (f'<details class="sec{cls}" id="s{i}" data-sec open><summary>{num_badge(i, s["heading"])}'
                      f'<h2 class="sh">{E(s["heading"])}</h2>{lab}{ic("chev", "ic sm chev")}</summary><div class="sb">{inner}</div></details>')
         others = [DC[(k + j) % len(DC)] for j in (1, 2, 3)]
-        more = ''.join(row_card(pg.link('dom/' + o['id']), 'home', (k + j) % 6, o['title'], E(o.get('subtitle') or ''))
+        more = ''.join(row_card(pg.link('safe-home/' + DOM_SLUGS[o['id']]), 'home', (k + j) % 6, o['title'], E(o.get('subtitle') or ''))
                        for j, o in enumerate(others, 1))
-        body = (crumbs(pg, ('dom/index', t['dom_title']), (None, art['title'])) +
-                f'<section class="wrap art-head" data-article="dom/{c["id"]}"><span class="chip">{E(t["dom_title"])}</span><h1>{E(art["title"])}</h1>'
+        body = (crumbs(pg, ('safe-home', t['dom_title']), (None, art['title'])) +
+                f'<section class="wrap art-head" data-article="safe-home/{DOM_SLUGS[c["id"]]}"><span class="chip">{E(t["dom_title"])}</span><h1>{E(art["title"])}</h1>'
                 f'<p class="lead">{E(art.get("intro") or "")}</p>{pg.pic(art.get("heroImage"), art["title"], "wide head", lazy=False)}</section>' +
                 article_body(pg, art['sections'], secs) +
                 f'<section class="wrap"><div class="shead"><h2 class="h2">{E(t["more_in_section"])}</h2></div><div class="grid3">{more}</div></section>' +
                 disclaimer(pg) + cta(pg))
-        render(pg, art['title'], body, art.get('intro') or c.get('subtitle') or art['title'], 'dom/index')
+        render(pg, art['title'], body, art.get('intro') or c.get('subtitle') or art['title'], 'safe-home')
 
 
 def num_badge(i, heading):
@@ -370,10 +380,10 @@ def article_body(pg, sections, secs):
 
 def p_knowledge(lang, C):
     KN = C['knowledge']
-    pg = Page(lang, 'znaniya/index')
+    pg = Page(lang, 'knowledge')
     t, a = pg.t, pg.a
     cards = ''.join(
-        f'<a class="kcard{" wide" if i == len(KN) - 1 else ""}" href="{pg.link("znaniya/" + c["id"])}"><div class="krow">'
+        f'<a class="kcard{" wide" if i == len(KN) - 1 else ""}" href="{pg.link("knowledge/" + KN_SLUGS[c["id"]])}"><div class="krow">'
         f'<span class="chip soft">{E(fmt(t, "n_sections", n=len(c["sections"])))}</span><span class="tile {PASTELS[i % 6]}">{ic("book")}</span></div>'
         f'<h2 class="h3">{E(c["title"])}</h2><p>{E(c.get("subtitle") or "")}</p><span class="more">{E(t["read"])} {ic("arrow", "ic sm")}</span></a>'
         for i, c in enumerate(KN))
@@ -382,10 +392,10 @@ def p_knowledge(lang, C):
                      [('book', fmt(t, 'n_articles', n=len(KN))), ('list', fmt(t, 'n_sections', n=sum(len(c['sections']) for c in KN)))],
                      'znanie_povedenie_comic_2') +
             f'<section class="wrap"><div class="grid2">{cards}</div></section>' + cta(pg) + disclaimer(pg))
-    render(pg, a['knowledge_hub_title'], body, a['knowledge_hub_intro'], 'znaniya/index')
+    render(pg, a['knowledge_hub_title'], body, a['knowledge_hub_intro'], 'knowledge')
 
     for k, c in enumerate(KN):
-        pg = Page(lang, 'znaniya/' + c['id'])
+        pg = Page(lang, 'knowledge/' + KN_SLUGS[c['id']])
         comics = c.get('comicImages') or []
         strip = gallery(pg, comics, c['title']) if comics else ''
         secs = ''
@@ -397,15 +407,15 @@ def p_knowledge(lang, C):
             secs += (f'<details class="sec" id="s{i}" data-sec open><summary>{num_badge(i, s["heading"])}'
                      f'<h2 class="sh">{E(s["heading"])}</h2>{ic("chev", "ic sm chev")}</summary><div class="sb">{inner}</div></details>')
         others = [KN[(k + j) % len(KN)] for j in (1, 2, 3)]
-        more = ''.join(row_card(pg.link('znaniya/' + o['id']), 'book', (k + j) % 6, o['title'], E(o.get('subtitle') or ''))
+        more = ''.join(row_card(pg.link('knowledge/' + KN_SLUGS[o['id']]), 'book', (k + j) % 6, o['title'], E(o.get('subtitle') or ''))
                        for j, o in enumerate(others, 1))
-        body = (crumbs(pg, ('znaniya/index', a['knowledge_hub_title']), (None, c['title'])) +
-                f'<section class="wrap art-head" data-article="znaniya/{c["id"]}"><span class="chip">{E(a["knowledge_hub_title"])}</span><h1>{E(c["title"])}</h1>'
+        body = (crumbs(pg, ('knowledge', a['knowledge_hub_title']), (None, c['title'])) +
+                f'<section class="wrap art-head" data-article="knowledge/{KN_SLUGS[c["id"]]}"><span class="chip">{E(a["knowledge_hub_title"])}</span><h1>{E(c["title"])}</h1>'
                 f'<p class="lead">{E(c.get("intro") or c.get("subtitle") or "")}</p></section>' + strip +
                 article_body(pg, c['sections'], secs) +
                 f'<section class="wrap"><div class="shead"><h2 class="h2">{E(t["more_in_section"])}</h2></div><div class="grid3">{more}</div></section>' +
                 disclaimer(pg) + cta(pg))
-        render(pg, c['title'], body, c.get('subtitle') or c['title'], 'znaniya/index')
+        render(pg, c['title'], body, c.get('subtitle') or c['title'], 'knowledge')
 
 
 def gallery(pg, names, title):
@@ -426,7 +436,7 @@ CL_ICONS = ['aid', 'home', 'shield', 'home', 'globe', 'aid', 'shield', 'home', '
 
 def p_checklists(lang, C):
     CL = C['checklists']
-    pg = Page(lang, 'checklists/index')
+    pg = Page(lang, 'checklists')
     t, a = pg.t, pg.a
     cards = ''.join(row_card(pg.link('checklists/' + CL_SLUGS[k]), CL_ICONS[k % 10], k, c['title'],
                              f'<em>{E(fmt(t, "n_items", n=sum(len(s["items"]) for s in c["sections"])))}</em> • ' +
@@ -436,7 +446,7 @@ def p_checklists(lang, C):
             hub_hero(pg, t['cl_chip'], a['nav_checklists'], t['cl_lead'], [('list', fmt(t, 'n_lists', n=len(CL)))], 'kogtetochka') +
             f'<section class="wrap"><div class="shead"><h2 class="h2">{E(a["checklists_title"])}</h2></div><div class="grid2 rows">{cards}</div></section>' +
             cta(pg) + disclaimer(pg))
-    render(pg, a['nav_checklists'], body, t['cl_lead'], 'checklists/index')
+    render(pg, a['nav_checklists'], body, t['cl_lead'], 'checklists')
 
     for k, c in enumerate(CL):
         pg = Page(lang, 'checklists/' + CL_SLUGS[k])
@@ -455,12 +465,12 @@ def p_checklists(lang, C):
         others = [(j, CL[(k + j) % len(CL)]) for j in (1, 2, 3)]
         more = ''.join(row_card(pg.link('checklists/' + CL_SLUGS[(k + j) % len(CL)]), 'list', (k + j) % 6, o['title'],
                                 E(fmt(t, 'n_items', n=sum(len(s['items']) for s in o['sections'])))) for j, o in others)
-        body = (crumbs(pg, ('checklists/index', a['nav_checklists']), (None, c['title'])) +
+        body = (crumbs(pg, ('checklists', a['nav_checklists']), (None, c['title'])) +
                 f'<section class="wrap art-head narrow" data-article="checklists/{CL_SLUGS[k]}"><span class="chip">{E(a["nav_checklists"])}</span>'
                 f'<h1>{E(c["title"])}</h1>{parts}</section>' +
                 f'<section class="wrap"><div class="shead"><h2 class="h2">{E(t["more_in_section"])}</h2></div><div class="grid3">{more}</div></section>' +
                 disclaimer(pg) + cta(pg))
-        render(pg, c['title'], body, c.get('intro') or c['title'], 'checklists/index')
+        render(pg, c['title'], body, c.get('intro') or c['title'], 'checklists')
 
 
 def alarm(pg):
@@ -471,9 +481,9 @@ def alarm(pg):
 
 def p_emergency(lang, C):
     EM = C['emergency']
-    pg = Page(lang, 'srochnye/index')
+    pg = Page(lang, 'emergency')
     t, a = pg.t, pg.a
-    cards = ''.join(row_card(pg.link('srochnye/' + EM_SLUGS[k]), 'aid', 3, e['title'], '', a['emergency_critical_badge'], em=True)
+    cards = ''.join(row_card(pg.link('emergency/' + EM_SLUGS[k]), 'aid', 3, e['title'], '', a['emergency_critical_badge'], em=True)
                     for k, e in enumerate(EM))
     urgent = ''.join(f'<li>{E(u)}</li>' for u in a['emergency_urgent_reasons'])
     body = (crumbs(pg, (None, a['nav_emergency'])) + alarm(pg) +
@@ -482,24 +492,24 @@ def p_emergency(lang, C):
             f'<div class="grid2 rows">{cards}</div></section>'
             f'<section class="wrap" id="urgent"><div class="card urgent"><h2 class="h2">{E(a["emergency_urgent_today_title"])}</h2>'
             f'<ul class="bang">{urgent}</ul></div></section>' + disclaimer(pg))
-    render(pg, a['nav_emergency'], body, t['em_lead'], 'srochnye/index')
+    render(pg, a['nav_emergency'], body, t['em_lead'], 'emergency')
 
     for k, e in enumerate(EM):
-        pg = Page(lang, 'srochnye/' + EM_SLUGS[k])
+        pg = Page(lang, 'emergency/' + EM_SLUGS[k])
         blocks = ''
         for b in e['blocks']:
             head = f'<h2 class="h2">{E(b["heading"])}</h2>' if b.get('heading') else ''
             blocks += f'<div class="card emblock" data-sec>{head}{prose(b.get("body"))}{pg.pic(b.get("image"), e["title"])}</div>'
         others = [EM[(k + j) % len(EM)] for j in (1, 2, 3)]
-        more = ''.join(row_card(pg.link('srochnye/' + EM_SLUGS[(k + j) % len(EM)]), 'aid', 3, o['title'], '', a['emergency_critical_badge'], em=True)
+        more = ''.join(row_card(pg.link('emergency/' + EM_SLUGS[(k + j) % len(EM)]), 'aid', 3, o['title'], '', a['emergency_critical_badge'], em=True)
                        for j, o in enumerate(others, 1))
-        body = (crumbs(pg, ('srochnye/index', a['nav_emergency']), (None, e['title'])) + alarm(pg) +
-                f'<section class="wrap art-head narrow" data-article="srochnye/{EM_SLUGS[k]}"><span class="chip red">{E(a["emergency_critical_badge"])}</span>'
+        body = (crumbs(pg, ('emergency', a['nav_emergency']), (None, e['title'])) + alarm(pg) +
+                f'<section class="wrap art-head narrow" data-article="emergency/{EM_SLUGS[k]}"><span class="chip red">{E(a["emergency_critical_badge"])}</span>'
                 f'<h1>{E(e["title"])}</h1>{blocks}'
-                f'<p><a class="btn ghost" href="{pg.link("srochnye/index")}#urgent">{E(a["emergency_urgent_today_title"])} {ic("arrow", "ic sm")}</a></p></section>'
+                f'<p><a class="btn ghost" href="{pg.link("emergency")}#urgent">{E(a["emergency_urgent_today_title"])} {ic("arrow", "ic sm")}</a></p></section>'
                 f'<section class="wrap"><div class="shead"><h2 class="h2">{E(t["more_in_section"])}</h2></div><div class="grid3">{more}</div></section>' +
                 disclaimer(pg))
-        render(pg, e['title'], body, f'{a["nav_emergency"]}: {e["title"]}', 'srochnye/index')
+        render(pg, e['title'], body, f'{a["nav_emergency"]}: {e["title"]}', 'emergency')
 
 
 def p_support(lang, C):
@@ -517,21 +527,32 @@ def p_support(lang, C):
 
 
 def p_root():
-    """dist/index.html: language list (no automatic redirect, nothing remembered)."""
-    pg = Page(None, 'index')
-    links = ''.join(f'<li><a href="{l}/index.html" hreflang="{I18N[l]["html_lang"]}" lang="{I18N[l]["html_lang"]}">'
+    """dist/index.html: opens the version in the browser's language (navigator.languages, read on the device; nothing
+    sent or stored), English if none fits; without JS it is a list of the 14 languages."""
+    pg = Page(None, '')
+    links = ''.join(f'<li><a href="{l}/" hreflang="{I18N[l]["html_lang"]}" lang="{I18N[l]["html_lang"]}">'
                     f'{E(I18N[l]["lang_name"])}</a></li>' for l in LANGS)
-    alts = ''.join(f'<link rel="alternate" hreflang="{I18N[l]["html_lang"]}" href="{BASE_URL}{l}/index.html">' for l in LANGS)
+    alts = ''.join(f'<link rel="alternate" hreflang="{I18N[l]["html_lang"]}" href="{BASE_URL}{l}/">' for l in LANGS)
     doc = f'''<!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="color-scheme" content="light dark"><meta name="theme-color" content="#F2EEE6" media="(prefers-color-scheme: light)"><meta name="theme-color" content="#1B1B19" media="(prefers-color-scheme: dark)"><title>Cat First</title><meta name="description" content="{E(I18N["en"]["site_desc"])}">
 <link rel="icon" href="favicon.ico" sizes="48x48"><link rel="icon" type="image/png" href="icons/icon-192.png" sizes="192x192">
-<link rel="apple-touch-icon" href="icons/icon-180.png">{alts}<link rel="stylesheet" href="style.css"></head>
+<link rel="apple-touch-icon" href="icons/icon-180.png">{alts}<link rel="stylesheet" href="style.css">
+<script>{AUTO_LANG}</script></head>
 <body><main class="wrap langpage"><img src="icons/icon-192.png" width="96" height="96" alt=""><h1>Cat First</h1>
 <p class="lead">{E(I18N["en"]["choose_lang"])}</p><ul class="langlist">{links}</ul></main></body></html>
 '''
     (DIST / 'index.html').write_text(doc, encoding='utf-8')
     PAGES.append(pg)
+
+
+# languages without their own version that readers usually understand in one of ours
+LANG_ALIASES = {'pt': 'pt-br', 'hr': 'bs', 'sh': 'bs'}
+AUTO_LANG = ('(function(){var have=' + json.dumps(LANGS) + ',alias=' + json.dumps(LANG_ALIASES) + ','
+             'list=navigator.languages&&navigator.languages.length?navigator.languages:[navigator.language||""];'
+             'for(var i=0;i<list.length;i++){var c=String(list[i]).toLowerCase(),p=c.split("-")[0],'
+             't=have.indexOf(c)>=0?c:have.indexOf(p)>=0?p:alias[p];if(t){location.replace(t+"/");return}}'
+             'location.replace("en/")})();')
 
 
 def check_order():
@@ -567,7 +588,7 @@ def main():
             f(lang, C)
     p_root()
     if BASE_URL:
-        urls = ''.join(f'<url><loc>{BASE_URL}{p.path}</loc></url>' for p in PAGES)
+        urls = ''.join(f'<url><loc>{BASE_URL}{p.dir}</loc></url>' for p in PAGES)
         (DIST / 'sitemap.xml').write_text('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
                                           + urls + '</urlset>\n', encoding='utf-8')
     used = set().union(*(p.used_imgs for p in PAGES))

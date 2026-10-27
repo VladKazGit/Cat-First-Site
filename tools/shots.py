@@ -14,8 +14,8 @@ PROFILE = r'C:\Users\mango\AppData\Local\Temp\cfs\chprof_site'
 TMP = Path(r'C:\Users\mango\AppData\Local\Temp\cfs\shot_tmp.png')
 BASE = 'http://127.0.0.1:8766/'
 OUT = Path(__file__).resolve().parent.parent / 'screens'
-PAGES = [('index', 'главная'), ('dom/tualet', 'статья'), ('checklists/vet-clinic-visit', 'чек-лист'),
-         ('srochnye/poisoning', 'срочная'), ('support', 'поддержка')]
+PAGES = [('', 'главная'), ('safe-home/litter-box/', 'статья'), ('checklists/vet-clinic-visit/', 'чек-лист'),
+         ('emergency/poisoning/', 'срочная'), ('support/', 'поддержка')]
 
 
 FRAME = Path(r'C:\Users\mango\AppData\Local\Temp\cfs\phone_frame.html')
@@ -48,5 +48,5 @@ DARK = '--dark' in args
 for lang in [a for a in args if a != '--dark'] or ['ru', 'en']:
     for n, (key, name) in enumerate(PAGES, 1):
         for w, dev in ((1280, 'компьютер'), (390, 'телефон')):
-            o = shot(f'{BASE}{lang}/{key}.html', w, OUT / f'{lang}_{n}_{name}_{dev}{"_тёмная" if DARK else ""}.png', dark=DARK)
+            o = shot(f'{BASE}{lang}/{key}', w, OUT / f'{lang}_{n}_{name}_{dev}{"_тёмная" if DARK else ""}.png', dark=DARK)
             print(o.name, Image.open(o).size, flush=True)

@@ -32,7 +32,8 @@ STRING_KEYS = ['nav_home_safety', 'nav_knowledge', 'nav_checklists', 'nav_emerge
                'knowledge_hub_intro', 'safe_home_intro', 'checklists_title', 'emergency_banner_title',
                'emergency_banner_body', 'emergency_critical_situations', 'emergency_urgent_today_title',
                'emergency_critical_badge', 'about_section_title', 'settings_support_section_title', 'disclaimer_text',
-               'generic_expand', 'generic_collapse', 'home_settings_link']
+               'generic_expand', 'generic_collapse', 'home_settings_link',
+               'nav_my_cat']  # not shown on the site: check.py makes sure it never appears
 MAX_W = 1200
 SMALL_WIDTHS = (480, 800)  # extra copies for srcset: phones and small slots take these instead of the full one
 

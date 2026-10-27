@@ -31,7 +31,14 @@ python tools/check.py
 cd dist
 python -m http.server 8766 --bind 127.0.0.1
 ```
-Затем http://127.0.0.1:8766/ (выбор языка) или http://127.0.0.1:8766/ru/index.html.
+Затем http://127.0.0.1:8766/ — откроется версия на языке браузера (без JS — список языков), или сразу
+http://127.0.0.1:8766/ru/. Адреса страниц — папки без `.html`: `/ru/safe-home/litter-box/`, `/de/emergency/poisoning/`;
+имена статей — из английских названий (`slug()` в `build.py`), одинаковые на всех языках.
 
-`BASE_URL` в `tools/build.py` пока пустой: после выбора хостинга вписать адрес — появятся абсолютные `hreflang`,
-`canonical`, `og:url` и `sitemap.xml`.
+## Публикация
+Адрес сайта — https://catfirst.org/ (`BASE_URL` в `tools/build.py`: из него полные адреса `hreflang`, `canonical`,
+`og:url`, `sitemap.xml`). Домен куплен в Cloudflare Registrar; записи DNS для сайта — только «DNS only» (серое облачко),
+иначе Cloudflare добавит свою cookie и скрипт.
+
+Каждый push в `main` запускает `.github/workflows/pages.yml`: GitHub собирает сайт (`build.py`), проверяет
+(`check.py`) и публикует `dist/` в GitHub Pages. Если проверка не прошла, публикации нет.

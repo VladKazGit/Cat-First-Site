@@ -17,8 +17,6 @@ sys.path.insert(0, str(Path(__file__).parent))
 import build  # noqa: E402  (slugs, languages, split_inline)
 
 ALLOWED_HOSTS = {'play.google.com', 'apps.apple.com'}
-APP_RES = Path('C:/Users/mango/AndroidStudioProjects/Cat_First-Android/app/src/main/res')
-VALUES = {'ru': 'values-ru', 'en': 'values', 'pt-br': 'values-pt-rBR'}
 problems = []
 
 
@@ -43,7 +41,7 @@ def expected(lang):
         imgs = [a.get('heroImage')] + [s.get('image') for s in a['sections'] if not s.get('blocks')] + \
             [b.get('image') for s in a['sections'] for b in (s.get('blocks') or [])]
         texts = [a['title'], a.get('intro')] + [x for s in a['sections'] for x in [s['heading'], s.get('body')] + [b.get('text') for b in (s.get('blocks') or [])]]
-        rows.append((f'dom/{c["id"]}', len(a['sections']), 0, [i for i in imgs if i], texts))
+        rows.append((f'safe-home/{build.DOM_SLUGS[c["id"]]}', len(a['sections']), 0, [i for i in imgs if i], texts))
     exp['dom'] = rows
     rows = []
     for c in L('knowledge'):
@@ -51,7 +49,7 @@ def expected(lang):
             [b.get('image') for s in c['sections'] for b in (s.get('blocks') or [])]
         texts = [c['title'], c.get('intro') or c.get('subtitle')] + [x for s in c['sections'] for x in
                                                                      [s['heading']] + ([b.get('text') for b in s['blocks']] if s.get('blocks') else [s.get('body')])]
-        rows.append((f'znaniya/{c["id"]}', len(c['sections']), 0, [i for i in imgs if i], texts))
+        rows.append((f'knowledge/{build.KN_SLUGS[c["id"]]}', len(c['sections']), 0, [i for i in imgs if i], texts))
     exp['znaniya'] = rows
     rows = []
     for k, c in enumerate(L('checklists')):
@@ -62,7 +60,7 @@ def expected(lang):
     rows = []
     for k, e in enumerate(L('emergency')):
         texts = [e['title']] + [x for b in e['blocks'] for x in (b.get('heading'), b.get('body'))]
-        rows.append((f'srochnye/{build.EM_SLUGS[k]}', len(e['blocks']), 0, [b['image'] for b in e['blocks'] if b.get('image')], texts))
+        rows.append((f'emergency/{build.EM_SLUGS[k]}', len(e['blocks']), 0, [b['image'] for b in e['blocks'] if b.get('image')], texts))
     exp['srochnye'] = rows
     return exp
 
@@ -77,7 +75,7 @@ def check_completeness():
             got = {'articles': 0, 'sections': 0, 'items': 0, 'images': 0}
             want = {'articles': len(rows), 'sections': 0, 'items': 0, 'images': 0}
             for key, nsec, nitems, imgs, texts in rows:
-                f = DIST / lang / f'{key}.html'
+                f = DIST / build.dir_of(lang, key) / 'index.html'
                 if not f.exists():
                     problems.append(f'{lang}: missing page {key}')
                     continue
@@ -108,6 +106,11 @@ def check_completeness():
     return table
 
 
+def exists(target):
+    """A file, or a folder address that has an index.html."""
+    return (target / 'index.html').exists() if target.is_dir() or str(target).endswith(('/', '\\')) else target.exists()
+
+
 ATTR = re.compile(r'\b(href|src)="([^"]*)"')
 SRCSET = re.compile(r'\bsrcset="([^"]*)"')
 
@@ -115,10 +118,7 @@ SRCSET = re.compile(r'\bsrcset="([^"]*)"')
 def check_links_and_rules():
     files = list(DIST.rglob('*.html'))
     ids_cache = {}
-    my_cat = set()
-    for lang in build.LANGS:
-        xml = (APP_RES / VALUES.get(lang, 'values-' + lang) / 'strings.xml').read_text(encoding='utf-8')
-        my_cat.add(re.search(r'<string name="nav_my_cat">(.*?)</string>', xml).group(1))
+    my_cat = {build.APP_STR[lang]['nav_my_cat'] for lang in build.LANGS}  # from app_data: runs without the app repo
     external = defaultdict(int)
     nlinks = 0
     for f in files:
@@ -133,7 +133,12 @@ def check_links_and_rules():
         refs = ATTR.findall(doc) + [('src', part.split()[0]) for ss in SRCSET.findall(doc) for part in ss.split(',')]
         for attr, url in refs:
             nlinks += 1
+            own = build.BASE_URL and url.startswith(build.BASE_URL)
             u = urlsplit(url)
+            if own:  # the site's own absolute address (hreflang, canonical): must point to a built page
+                if not exists(DIST / unquote(url[len(build.BASE_URL):].split('#')[0])):
+                    problems.append(f'{f.relative_to(DIST)}: broken {url}')
+                continue
             if u.scheme in ('http', 'https'):
                 external[u.hostname] += 1
                 if u.hostname not in ALLOWED_HOSTS or attr == 'src':
@@ -147,6 +152,8 @@ def check_links_and_rules():
                 problems.append(f'{f.relative_to(DIST)}: scheme {url}')
                 continue
             target = (f.parent / unquote(u.path)).resolve() if u.path else f
+            if u.path.endswith('/') or target.is_dir():  # folder address -> its index.html
+                target = target / 'index.html'
             if not target.exists():
                 problems.append(f'{f.relative_to(DIST)}: broken {url}')
                 continue
@@ -155,6 +162,14 @@ def check_links_and_rules():
                     ids_cache[target] = set(re.findall(r'\bid="([^"]+)"', target.read_text(encoding='utf-8')))
                 if u.fragment not in ids_cache[target]:
                     problems.append(f'{f.relative_to(DIST)}: missing anchor {url}')
+    sitemap = DIST / 'sitemap.xml'
+    if build.BASE_URL:
+        locs = re.findall(r'<loc>([^<]+)</loc>', sitemap.read_text(encoding='utf-8')) if sitemap.exists() else []
+        if len(locs) != len(files):
+            problems.append(f'sitemap.xml: {len(locs)} addresses for {len(files)} pages')
+        for loc in locs:
+            if not loc.startswith(build.BASE_URL) or not exists(DIST / loc[len(build.BASE_URL):]):
+                problems.append(f'sitemap.xml: broken {loc}')
     for js in DIST.rglob('*.js'):
         src = js.read_text(encoding='utf-8')
         for bad in ('localStorage', 'sessionStorage', 'indexedDB', 'cookie', 'fetch(', 'XMLHttpRequest', 'http:', 'https:', 'sendBeacon'):

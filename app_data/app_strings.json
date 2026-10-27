@@ -19,6 +19,7 @@
   "generic_expand": "Развернуть",
   "generic_collapse": "Свернуть",
   "home_settings_link": "Настройки",
+  "nav_my_cat": "Мой кот",
   "emergency_urgent_reasons": [
    "Кошка не ест >24ч, котёнок >12ч.",
    "Кровь в моче или кале.",
@@ -50,6 +51,7 @@
   "generic_expand": "Expand",
   "generic_collapse": "Collapse",
   "home_settings_link": "Settings",
+  "nav_my_cat": "My Cat",
   "emergency_urgent_reasons": [
    "Cat hasn't eaten for >24h, kitten >12h.",
    "Blood in urine or stool.",
@@ -81,6 +83,7 @@
   "generic_expand": "Розгорнути",
   "generic_collapse": "Згорнути",
   "home_settings_link": "Налаштування",
+  "nav_my_cat": "Мій кіт",
   "emergency_urgent_reasons": [
    "Кіт не їсть >24г, кошеня >12г.",
    "Кров у сечі або калі.",
@@ -112,6 +115,7 @@
   "generic_expand": "Erweitern",
   "generic_collapse": "Einklappen",
   "home_settings_link": "Einstellungen",
+  "nav_my_cat": "Meine Katze",
   "emergency_urgent_reasons": [
    "Katze frisst seit >24h nicht, Kätzchen >12h.",
    "Blut im Urin oder Kot.",
@@ -143,6 +147,7 @@
   "generic_expand": "Expandir",
   "generic_collapse": "Contraer",
   "home_settings_link": "Ajustes",
+  "nav_my_cat": "Mi gato",
   "emergency_urgent_reasons": [
    "El gato no come hace >24h, el gatito >12h.",
    "Sangre en la orina o las heces.",
@@ -174,6 +179,7 @@
   "generic_expand": "Développer",
   "generic_collapse": "Réduire",
   "home_settings_link": "Réglages",
+  "nav_my_cat": "Mon chat",
   "emergency_urgent_reasons": [
    "Le chat ne mange pas depuis >24h, le chaton >12h.",
    "Sang dans les urines ou les selles.",
@@ -205,6 +211,7 @@
   "generic_expand": "Espandi",
   "generic_collapse": "Comprimi",
   "home_settings_link": "Impostazioni",
+  "nav_my_cat": "Il mio gatto",
   "emergency_urgent_reasons": [
    "Il gatto non mangia da >24h, il gattino da >12h.",
    "Sangue nelle urine o nelle feci.",
@@ -236,6 +243,7 @@
   "generic_expand": "Rozwiń",
   "generic_collapse": "Zwiń",
   "home_settings_link": "Ustawienia",
+  "nav_my_cat": "Mój kot",
   "emergency_urgent_reasons": [
    "Kot nie je od >24h, kociak >12h.",
    "Krew w moczu lub kale.",
@@ -267,6 +275,7 @@
   "generic_expand": "Expandir",
   "generic_collapse": "Recolher",
   "home_settings_link": "Configurações",
+  "nav_my_cat": "O Meu Gato",
   "emergency_urgent_reasons": [
    "O gato não come há >24h, o filhote >12h.",
    "Sangue na urina ou nas fezes.",
@@ -298,6 +307,7 @@
   "generic_expand": "Genişlet",
   "generic_collapse": "Daralt",
   "home_settings_link": "Ayarlar",
+  "nav_my_cat": "Kedim",
   "emergency_urgent_reasons": [
    "Kedi >24 saattir, yavru kedi >12 saattir yemiyor.",
    "İdrarda veya dışkıda kan.",
@@ -329,6 +339,7 @@
   "generic_expand": "Жаю",
   "generic_collapse": "Жию",
   "home_settings_link": "Параметрлер",
+  "nav_my_cat": "Менің мысығым",
   "emergency_urgent_reasons": [
    "Мысық 24 сағаттан артық, мысық баласы 12 сағаттан артық тамақ ішпеді.",
    "Несепте немесе нәжісте қан бар.",
@@ -360,6 +371,7 @@
   "generic_expand": "Ανάπτυξη",
   "generic_collapse": "Σύμπτυξη",
   "home_settings_link": "Ρυθμίσεις",
+  "nav_my_cat": "Η γάτα μου",
   "emergency_urgent_reasons": [
    "Η γάτα δεν τρώει >24 ώρες, το γατάκι >12 ώρες.",
    "Αίμα στα ούρα ή στα κόπρανα.",
@@ -391,6 +403,7 @@
   "generic_expand": "Прошири",
   "generic_collapse": "Скупи",
   "home_settings_link": "Подешавања",
+  "nav_my_cat": "Моја мачка",
   "emergency_urgent_reasons": [
    "Мачка не једе >24 ч, маче >12 ч.",
    "Крв у урину или столици.",
@@ -422,6 +435,7 @@
   "generic_expand": "Proširi",
   "generic_collapse": "Skupi",
   "home_settings_link": "Postavke",
+  "nav_my_cat": "Moja mačka",
   "emergency_urgent_reasons": [
    "Mačka ne jede >24 h, mače >12 h.",
    "Krv u urinu ili stolici.",
