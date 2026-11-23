@@ -123,6 +123,10 @@
 900,
 600
 ],
+"dom_son_korobka": [
+900,
+600
+],
 "dom_son_lezhanki": [
 900,
 600
@@ -166,6 +170,10 @@
 "dom_uhod_vychesyvanie": [
 512,
 343
+],
+"holiday_8": [
+1200,
+675
 ],
 "lotok_kotenok_1": [
 1200,

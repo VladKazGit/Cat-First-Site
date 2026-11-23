@@ -6,6 +6,9 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+  schedule:
+    # daily in December and January: the holiday bar disappears after build.HOLIDAY_BAR_UNTIL by itself
+    - cron: '17 4 * 12,1 *'
 
 permissions:
   contents: read

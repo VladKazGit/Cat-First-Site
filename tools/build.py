@@ -3,6 +3,7 @@ site's own texts (src/i18n/<lang>.json). Static files only: no cookies or browse
 requests. Language = URL (/ru/, /en/...).
     python tools/build.py
 """
+import datetime
 import html
 import json
 import os
@@ -12,7 +13,7 @@ import shutil
 import sys
 from pathlib import Path
 
-from sync_from_app import SMALL_WIDTHS
+from sync_from_app import HOLIDAY_PICTURE, SMALL_WIDTHS
 
 sys.stdout.reconfigure(encoding='utf-8')
 ROOT = Path(__file__).resolve().parent.parent
@@ -21,6 +22,8 @@ SRC = ROOT / 'src'
 DIST = ROOT / 'dist'
 BASE_URL = 'https://catfirst.org/'  # absolute hreflang, canonical, og:url and sitemap.xml; '' for relative only
 YEAR = 2026
+# the home page banner 'New in the app: Праздник с котом' until this day (the workflow rebuilds daily in Dec and Jan)
+HOLIDAY_BANNER_UNTIL = datetime.date(2027, 1, 15)
 MAIL = 'catfirstsupport@gmail.com'
 PLAY = 'https://play.google.com/store/apps/details?id=com.catfirst.app'
 APPSTORE = 'https://apps.apple.com/us/app/cat-first/id6811563624'
@@ -41,6 +44,9 @@ P = {  # outline icons, 24x24, stroke = currentColor
     'chev': '<path d="M6 9l6 6 6-6"/>',
     'chevl': '<path d="M15 5l-7 7 7 7"/>',
     'chevr': '<path d="M9 5l7 7-7 7"/>',
+    # the app's ic_christmas_tree.xml (filled: class 'fill')
+    'tree': '<path d="M12 .6l.85 1.75 1.9.27-1.38 1.34.33 1.9L12 4.96l-1.7.9.33-1.9L9.25 2.62l1.9-.27z"/>'
+            '<path d="M12 5.2L7.6 10.4h2.1l-3.6 4.5h2.4l-4.1 4.7h15.2l-4.1-4.7h2.4l-3.6-4.5h2.1z"/><path d="M10.6 19.6h2.8v3.2h-2.8z"/>',
     'ok': '<circle cx="12" cy="12" r="9"/><path d="M8 12.5l3 3 5-6"/>',
     'no': '<circle cx="12" cy="12" r="9"/><path d="M9 9l6 6M15 9l-6 6"/>',
     'bulb': '<path d="M9 18h6M10 21h4M12 3a6 6 0 0 0-4 10.5c.8.8 1 1.5 1 2.5h6c0-1 .2-1.7 1-2.5A6 6 0 0 0 12 3z"/>',
@@ -78,7 +84,7 @@ def load(name, lang):
 
 
 # Slugs come from the English content; every language has the same items in the same order (checked below).
-EN = {n: load(n, 'en') for n in ('safe_home_categories', 'home_articles', 'knowledge', 'checklists', 'emergency')}
+EN = {n: load(n, 'en') for n in ('safe_home_categories', 'home_articles', 'knowledge', 'checklists', 'emergency', 'holiday')}
 DOM_SLUGS = {c['id']: slug(c['title']) for c in EN['safe_home_categories']}
 KN_SLUGS = {c['id']: c['id'].replace('_', '-') for c in EN['knowledge']}
 CL_SLUGS = [slug(c['title']) for c in EN['checklists']]
@@ -303,7 +309,7 @@ def p_index(lang, C):
         + ''.join(f'<li>{E(x)}</li>' for x in ex) + f'</ul><span class="more">{E(t["open_section"])} {ic("arrow", "ic sm")}</span></div></a>'
         for h, icn, pc, ti, n, ex, p in topics)
     chips = ''.join(f'<a class="chip red" href="{pg.link("emergency/" + EM_SLUGS[i])}">{E(EM[i]["title"])}</a>' for i in range(3, 9))
-    body = f'''<section class="wrap hero"><div><span class="chip">{E(t["hero_chip"])}</span><h1 class="display">{E(t["hero_title"])}</h1>
+    body = holiday_banner(pg, C) + f'''<section class="wrap hero"><div><span class="chip">{E(t["hero_chip"])}</span><h1 class="display">{E(t["hero_title"])}</h1>
 <p class="lead">{E(t["hero_lead"])}</p>{stores(pg)}</div>
 <div class="phones" role="img" aria-label="{E(t["hero_alt"])}">{shots}</div></section>
 <section class="wrap"><h2 class="h2">{E(t["why"])}</h2><div class="grid4">{vcards}</div></section>
@@ -330,27 +336,7 @@ def p_dom(lang, C):
     for k, c in enumerate(DC):
         art = arts[c['id']]
         pg = Page(lang, 'safe-home/' + DOM_SLUGS[c['id']])
-        secs = ''
-        for i, s in enumerate(art['sections'], 1):
-            style = s.get('style')
-            cls = {'tip': ' tip', 'warning': ' warn'}.get(style, '')
-            label = {'tip': (ic('bulb', 'ic sm'), t['tip']), 'warning': (ic('alert', 'ic sm'), t['warning'])}.get(style)
-            lab = f'<span class="slabel">{label[0]}{E(label[1])}</span>' if label else ''
-            if s.get('blocks'):
-                blocks = s['blocks']
-                texts = [b for b in blocks if b.get('text')]
-                pics = [b for b in blocks if b.get('image')]
-                if pics and len(pics) == len(texts) and all(b.get('text') and b.get('image') for b in blocks):
-                    inner = '<div class="tgrid">' + ''.join(
-                        f'<figure>{pg.pic(b["image"], s["heading"], "cell")}<figcaption>{prose(b["text"], True)}</figcaption></figure>'
-                        for b in blocks) + '</div>'
-                else:
-                    inner = ''.join((prose(b['text'], True) if b.get('text') else '') +
-                                    (pg.pic(b['image'], s['heading']) if b.get('image') else '') for b in blocks)
-            else:
-                inner = prose(s.get('body'), True) + pg.pic(s.get('image'), s['heading'])
-            secs += (f'<details class="sec{cls}" id="s{i}" data-sec open><summary>{num_badge(i, s["heading"])}'
-                     f'<h2 class="sh">{E(s["heading"])}</h2>{lab}{ic("chev", "ic sm chev")}</summary><div class="sb">{inner}</div></details>')
+        secs = home_sections(pg, art['sections'])
         others = [DC[(k + j) % len(DC)] for j in (1, 2, 3)]
         more = ''.join(row_card(pg.link('safe-home/' + DOM_SLUGS[o['id']]), 'home', (k + j) % 6, o['title'], E(o.get('subtitle') or ''))
                        for j, o in enumerate(others, 1))
@@ -361,6 +347,44 @@ def p_dom(lang, C):
                 f'<section class="wrap"><div class="shead"><h2 class="h2">{E(t["more_in_section"])}</h2></div><div class="grid3">{more}</div></section>' +
                 disclaimer(pg) + cta(pg))
         render(pg, art['title'], body, art.get('intro') or c.get('subtitle') or art['title'], 'safe-home')
+
+
+def home_sections(pg, sections):
+    """Sections of a "Дом"-style article (also the holiday one): tip / warning styles, pictures, text-and-picture grids."""
+    t, secs = pg.t, ''
+    for i, s in enumerate(sections, 1):
+        style = s.get('style')
+        cls = {'tip': ' tip', 'warning': ' warn'}.get(style, '')
+        label = {'tip': (ic('bulb', 'ic sm'), t['tip']), 'warning': (ic('alert', 'ic sm'), t['warning'])}.get(style)
+        lab = f'<span class="slabel">{label[0]}{E(label[1])}</span>' if label else ''
+        if s.get('blocks'):
+            blocks = s['blocks']
+            texts = [b for b in blocks if b.get('text')]
+            pics = [b for b in blocks if b.get('image')]
+            if pics and len(pics) == len(texts) and all(b.get('text') and b.get('image') for b in blocks):
+                inner = '<div class="tgrid">' + ''.join(
+                    f'<figure>{pg.pic(b["image"], s["heading"], "cell")}<figcaption>{prose(b["text"], True)}</figcaption></figure>'
+                    for b in blocks) + '</div>'
+            else:
+                inner = ''.join((prose(b['text'], True) if b.get('text') else '') +
+                                (pg.pic(b['image'], s['heading']) if b.get('image') else '') for b in blocks)
+        else:
+            inner = prose(s.get('body'), True) + pg.pic(s.get('image'), s['heading'])
+        secs += (f'<details class="sec{cls}" id="s{i}" data-sec open><summary>{num_badge(i, s["heading"])}'
+                 f'<h2 class="sh">{E(s["heading"])}</h2>{lab}{ic("chev", "ic sm chev")}</summary><div class="sb">{inner}</div></details>')
+    return secs
+
+
+def holiday_banner(pg, C):
+    """Home page: the app's new section "Праздник с котом" (its title and the topics of its sections, from the app) and
+    the store badges, on the app's red holiday tile colour with falling snow, until HOLIDAY_BANNER_UNTIL."""
+    if datetime.date.today() > HOLIDAY_BANNER_UNTIL:
+        return ''
+    t, title = pg.t, pg.a['nav_holiday']
+    topics = ''.join(f'<li>{E(s["heading"].split(":")[0].strip())}</li>' for s in C['holiday'][0]['sections'])
+    return (f'<section class="wrap"><div class="holiday"><div><span class="chip festive">{ic("tree", "ic sm fill")}{E(t["new_in_app"])}</span>'
+            f'<h2>{E(title)}</h2><ul class="dots">{topics}</ul><p class="hcta">{E(t["holiday_cta"])}</p>{stores(pg)}</div>'
+            f'<div class="hpic">{pg.pic(HOLIDAY_PICTURE, title, "frame", lazy=False)}</div></div></section>')
 
 
 def num_badge(i, heading):

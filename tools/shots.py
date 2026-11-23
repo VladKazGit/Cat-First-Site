@@ -42,11 +42,12 @@ def shot(url, w, out, h=9000, dark=False):
     return out
 
 
-OUT.mkdir(exist_ok=True)
-args = sys.argv[1:]
-DARK = '--dark' in args
-for lang in [a for a in args if a != '--dark'] or ['ru', 'en']:
-    for n, (key, name) in enumerate(PAGES, 1):
-        for w, dev in ((1280, 'компьютер'), (390, 'телефон')):
-            o = shot(f'{BASE}{lang}/{key}', w, OUT / f'{lang}_{n}_{name}_{dev}{"_тёмная" if DARK else ""}.png', dark=DARK)
-            print(o.name, Image.open(o).size, flush=True)
+if __name__ == '__main__':
+    OUT.mkdir(exist_ok=True)
+    args = sys.argv[1:]
+    dark = '--dark' in args
+    for lang in [a for a in args if a != '--dark'] or ['ru', 'en']:
+        for n, (key, name) in enumerate(PAGES, 1):
+            for w, dev in ((1280, 'компьютер'), (390, 'телефон')):
+                o = shot(f'{BASE}{lang}/{key}', w, OUT / f'{lang}_{n}_{name}_{dev}{"_тёмная" if dark else ""}.png', dark=dark)
+                print(o.name, Image.open(o).size, flush=True)

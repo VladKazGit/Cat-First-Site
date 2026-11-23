@@ -5,14 +5,14 @@
   --bg:#F2EEE6;--card:#FFFFFF;--line:#E6E1D8;--text:#2B2B28;--muted:#6B6B6B;--head:#1F4E3D;--pri:#2F6F5A;--pri-dark:#1F4E3D;
   --terra:#8A5A44;--peach:#FBE6D9;--mint:#DCEEE6;--lav:#E6E1F5;--rose:#F6E1E6;--sky:#DCEAF5;--sage:#E7EEDD;--tile:#E3E5E0;
   --red:#D64545;--red-text:#B83232;--red-bg:#FDECEC;--note:#FFF0B8;--note-text:#4A3900;--tip:#E9F3EC;--foot:#1F4E3D;--foot-text:#DCEEE6;
-  --top:#F6F3EE;--nic:rgba(255,255,255,.5);--cta:#1F4E3D;--on-pri:#FFFFFF;
+  --top:#F6F3EE;--nic:rgba(255,255,255,.5);--cta:#1F4E3D;--on-pri:#FFFFFF;--holiday:#B3202E;
   --font:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
 }
 @media (prefers-color-scheme:dark){:root{
   --bg:#1B1B19;--card:#242422;--line:#353532;--text:#ECE8E0;--muted:#AFAFAF;--head:#F2EEE6;--pri:#7FD9BB;--pri-dark:#7FD9BB;
   --terra:#D9A98A;--peach:#3D2E22;--mint:#23372E;--lav:#2E293D;--rose:#3D2429;--sky:#20313D;--sage:#2B3323;--tile:#2E302D;
   --red:#E28686;--red-text:#E28686;--red-bg:#3A2222;--note:#4A3F17;--note-text:#FFE9A6;--tip:#1F3229;--foot:#132E25;--foot-text:#CFE7DC;
-  --top:#20201E;--nic:rgba(255,255,255,.08);--cta:#183D30;--on-pri:#1B1B19}}
+  --top:#20201E;--nic:rgba(255,255,255,.08);--cta:#183D30;--on-pri:#1B1B19;--holiday:#8E1A25}}
 *{box-sizing:border-box}
 html{background:var(--foot)}
 body{margin:0;background:var(--bg);color:var(--text);font:400 16px/1.7 var(--font);-webkit-font-smoothing:antialiased;overflow-wrap:break-word}
@@ -31,7 +31,7 @@ p{margin:0 0 10px}
 main>section,main>nav{margin-top:48px}main>nav.crumbs{margin-top:28px}
 .row{display:flex;align-items:center;gap:24px}
 .ic{width:22px;height:22px;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round;flex-shrink:0}
-.ic.sm{width:16px;height:16px}.ic.xs{width:12px;height:12px}.ic.big{width:30px;height:30px}.ic.red{color:var(--red)}
+.ic.fill{fill:currentColor;stroke:none}.ic.sm{width:16px;height:16px}.ic.xs{width:12px;height:12px}.ic.big{width:30px;height:30px}.ic.red{color:var(--red)}
 .skip{position:absolute;left:-9999px;top:8px;background:var(--card);padding:8px 14px;border-radius:10px;z-index:10}.skip:focus{left:8px}
 /* header + footer */
 .top{background:var(--top);border-bottom:1px solid var(--line)}
@@ -57,7 +57,7 @@ main>section,main>nav{margin-top:48px}main>nav.crumbs{margin-top:28px}
 .foot .small{margin-top:28px;font-size:12px;opacity:.9}.foot .small span{display:flex;align-items:center;gap:6px}
 /* chips, buttons */
 .chip{display:inline-flex;align-items:center;gap:6px;background:var(--peach);color:var(--terra);font-size:12px;font-weight:600;padding:4px 12px;border-radius:999px;letter-spacing:.02em;line-height:1.5}
-.chip.red{background:var(--red-bg);color:var(--red-text)}.chip.soft{background:var(--bg);color:var(--muted)}
+.chip.red{background:var(--red-bg);color:var(--red-text)}.chip.festive{background:rgba(255,255,255,.18);color:#fff}.chip.soft{background:var(--bg);color:var(--muted)}
 .chip.light{background:rgba(255,255,255,.14);color:#DCEEE6}
 .btn{display:inline-flex;align-items:center;gap:8px;border-radius:999px;padding:10px 20px;font-weight:600;font-size:14px;background:var(--pri);color:var(--on-pri)}
 .btn.ghost{background:transparent;color:var(--pri);border:1.5px solid var(--pri)}
@@ -196,3 +196,15 @@ img.wide.portrait{width:auto;max-height:620px;margin-left:auto;margin-right:auto
   .sec summary{padding:16px 18px;gap:10px}.sb{padding:0 18px 20px}.foot nav{flex-wrap:wrap;gap:14px}.slabel{display:none}
   .lsw summary span{display:none}.langlist{grid-template-columns:1fr}}
 @media print{.top,.foot,.cta,.toc,.skip{display:none}body{background:#fff}}
+/* seasonal home page banner 'New in the app: Праздник с котом' (the app's red holiday tile, snow like on the tile) */
+.holiday{display:grid;grid-template-columns:minmax(0,1.15fr) minmax(0,1fr);gap:32px;align-items:center;border-radius:24px;padding:36px 40px;
+  color:#fff;background-color:var(--holiday);
+  background-image:radial-gradient(circle,rgba(255,255,255,.32) 0 1.2px,transparent 1.7px),radial-gradient(circle,rgba(255,255,255,.2) 0 2px,transparent 2.6px);
+  background-size:54px 42px,95px 75px;background-position:0 0,20px 14px;animation:snow 12s linear infinite}
+.holiday h2{color:#fff;font-size:32px;font-weight:600;margin:12px 0 6px}
+.holiday .dots li::before{background:#fff;box-shadow:none}
+.holiday .hcta{font-weight:600;margin:10px 0 0}.holiday .stores{margin-top:14px}
+.holiday .hpic img{width:100%;height:auto;border-radius:18px}
+@keyframes snow{to{background-position:54px 294px,20px 314px}}
+@media (prefers-reduced-motion:reduce){.holiday{animation:none}}
+@media (max-width:767px){.holiday{grid-template-columns:1fr;gap:20px;padding:24px 20px}.holiday h2{font-size:26px}}

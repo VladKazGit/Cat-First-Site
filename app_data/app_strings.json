@@ -19,6 +19,7 @@
   "generic_expand": "Развернуть",
   "generic_collapse": "Свернуть",
   "home_settings_link": "Настройки",
+  "nav_holiday": "Праздник с котом",
   "nav_my_cat": "Мой кот",
   "emergency_urgent_reasons": [
    "Кошка не ест >24ч, котёнок >12ч.",
@@ -51,6 +52,7 @@
   "generic_expand": "Expand",
   "generic_collapse": "Collapse",
   "home_settings_link": "Settings",
+  "nav_holiday": "Holidays with your cat",
   "nav_my_cat": "My Cat",
   "emergency_urgent_reasons": [
    "Cat hasn't eaten for >24h, kitten >12h.",
@@ -67,7 +69,7 @@
   "nav_home_safety": "Дім",
   "nav_knowledge": "Знання",
   "nav_checklists": "Чек-листи",
-  "nav_emergency": "Термінові ситуації",
+  "nav_emergency": "Термі­нові ситуації",
   "knowledge_hub_title": "База знань",
   "knowledge_hub_intro": "Ваш експертний путівник у світі котів.",
   "safe_home_intro": "Ваш дім - це фортеця для кота. Переконайтеся, що кожен куточок простору безпечний і комфортний.",
@@ -83,6 +85,7 @@
   "generic_expand": "Розгорнути",
   "generic_collapse": "Згорнути",
   "home_settings_link": "Налаштування",
+  "nav_holiday": "Свято з котом",
   "nav_my_cat": "Мій кіт",
   "emergency_urgent_reasons": [
    "Кіт не їсть >24г, кошеня >12г.",
@@ -99,7 +102,7 @@
   "nav_home_safety": "Zuhause",
   "nav_knowledge": "Wissen",
   "nav_checklists": "Checklisten",
-  "nav_emergency": "Notfallsituationen",
+  "nav_emergency": "Notfall­situationen",
   "knowledge_hub_title": "Wissensdatenbank",
   "knowledge_hub_intro": "Dein fachkundiger Leitfaden zur Welt der Katzen.",
   "safe_home_intro": "Dein Zuhause ist eine Festung für deine Katze. Achte darauf, dass jede Ecke sicher und gemütlich ist.",
@@ -115,6 +118,7 @@
   "generic_expand": "Erweitern",
   "generic_collapse": "Einklappen",
   "home_settings_link": "Einstellungen",
+  "nav_holiday": "Feiertage mit Katze",
   "nav_my_cat": "Meine Katze",
   "emergency_urgent_reasons": [
    "Katze frisst seit >24h nicht, Kätzchen >12h.",
@@ -147,6 +151,7 @@
   "generic_expand": "Expandir",
   "generic_collapse": "Contraer",
   "home_settings_link": "Ajustes",
+  "nav_holiday": "Fiestas con tu gato",
   "nav_my_cat": "Mi gato",
   "emergency_urgent_reasons": [
    "El gato no come hace >24h, el gatito >12h.",
@@ -179,6 +184,7 @@
   "generic_expand": "Développer",
   "generic_collapse": "Réduire",
   "home_settings_link": "Réglages",
+  "nav_holiday": "Les fêtes avec votre chat",
   "nav_my_cat": "Mon chat",
   "emergency_urgent_reasons": [
    "Le chat ne mange pas depuis >24h, le chaton >12h.",
@@ -211,6 +217,7 @@
   "generic_expand": "Espandi",
   "generic_collapse": "Comprimi",
   "home_settings_link": "Impostazioni",
+  "nav_holiday": "Le feste con il gatto",
   "nav_my_cat": "Il mio gatto",
   "emergency_urgent_reasons": [
    "Il gatto non mangia da >24h, il gattino da >12h.",
@@ -243,6 +250,7 @@
   "generic_expand": "Rozwiń",
   "generic_collapse": "Zwiń",
   "home_settings_link": "Ustawienia",
+  "nav_holiday": "Święta z kotem",
   "nav_my_cat": "Mój kot",
   "emergency_urgent_reasons": [
    "Kot nie je od >24h, kociak >12h.",
@@ -275,6 +283,7 @@
   "generic_expand": "Expandir",
   "generic_collapse": "Recolher",
   "home_settings_link": "Configurações",
+  "nav_holiday": "Festas com seu gato",
   "nav_my_cat": "O Meu Gato",
   "emergency_urgent_reasons": [
    "O gato não come há >24h, o filhote >12h.",
@@ -307,6 +316,7 @@
   "generic_expand": "Genişlet",
   "generic_collapse": "Daralt",
   "home_settings_link": "Ayarlar",
+  "nav_holiday": "Kedinizle yılbaşı",
   "nav_my_cat": "Kedim",
   "emergency_urgent_reasons": [
    "Kedi >24 saattir, yavru kedi >12 saattir yemiyor.",
@@ -339,6 +349,7 @@
   "generic_expand": "Жаю",
   "generic_collapse": "Жию",
   "home_settings_link": "Параметрлер",
+  "nav_holiday": "Мысықпен мереке",
   "nav_my_cat": "Менің мысығым",
   "emergency_urgent_reasons": [
    "Мысық 24 сағаттан артық, мысық баласы 12 сағаттан артық тамақ ішпеді.",
@@ -371,6 +382,7 @@
   "generic_expand": "Ανάπτυξη",
   "generic_collapse": "Σύμπτυξη",
   "home_settings_link": "Ρυθμίσεις",
+  "nav_holiday": "Γιορτές με τη γάτα",
   "nav_my_cat": "Η γάτα μου",
   "emergency_urgent_reasons": [
    "Η γάτα δεν τρώει >24 ώρες, το γατάκι >12 ώρες.",
@@ -403,6 +415,7 @@
   "generic_expand": "Прошири",
   "generic_collapse": "Скупи",
   "home_settings_link": "Подешавања",
+  "nav_holiday": "Празници са мачком",
   "nav_my_cat": "Моја мачка",
   "emergency_urgent_reasons": [
    "Мачка не једе >24 ч, маче >12 ч.",
@@ -435,6 +448,7 @@
   "generic_expand": "Proširi",
   "generic_collapse": "Skupi",
   "home_settings_link": "Postavke",
+  "nav_holiday": "Praznici s mačkom",
   "nav_my_cat": "Moja mačka",
   "emergency_urgent_reasons": [
    "Mačka ne jede >24 h, mače >12 h.",

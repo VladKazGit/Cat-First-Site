@@ -27,15 +27,17 @@ LANGS = {
     'pt-br': ('pt', 'values-pt-rBR'), 'tr': ('tr', 'values-tr'), 'kk': ('kk', 'values-kk'), 'el': ('el', 'values-el'),
     'sr': ('sr', 'values-sr'), 'bs': ('bs', 'values-bs'),
 }
-CONTENT = ['safe_home_categories', 'home_articles', 'knowledge', 'checklists', 'emergency']
+CONTENT = ['safe_home_categories', 'home_articles', 'knowledge', 'checklists', 'emergency', 'holiday']
 STRING_KEYS = ['nav_home_safety', 'nav_knowledge', 'nav_checklists', 'nav_emergency', 'knowledge_hub_title',
                'knowledge_hub_intro', 'safe_home_intro', 'checklists_title', 'emergency_banner_title',
                'emergency_banner_body', 'emergency_critical_situations', 'emergency_urgent_today_title',
                'emergency_critical_badge', 'about_section_title', 'settings_support_section_title', 'disclaimer_text',
                'generic_expand', 'generic_collapse', 'home_settings_link',
+               'nav_holiday',
                'nav_my_cat']  # not shown on the site: check.py makes sure it never appears
 MAX_W = 1200
 SMALL_WIDTHS = (480, 800)  # extra copies for srcset: phones and small slots take these instead of the full one
+HOLIDAY_PICTURE = 'holiday_8'  # the home page banner's picture; the holiday article itself is not on the site
 
 
 def android_unescape(s):
@@ -73,7 +75,7 @@ def image_names():
     def walk(x):
         if isinstance(x, dict):
             for k, v in x.items():
-                if k in ('image', 'heroImage') and v:
+                if k in ('image', 'heroImage', 'footerImage') and v:
                     names.add(v)
                 elif k in ('images', 'comicImages') and v:
                     names.update(v)
@@ -84,8 +86,9 @@ def image_names():
                 walk(e)
     for code, _ in LANGS.values():
         for n in CONTENT:
-            walk(json.loads((APP / 'assets/content' / f'{n}_{code}.json').read_text(encoding='utf-8')))
-    return sorted(names)
+            if n != 'holiday':
+                walk(json.loads((APP / 'assets/content' / f'{n}_{code}.json').read_text(encoding='utf-8')))
+    return sorted(names | {HOLIDAY_PICTURE})
 
 
 def main():
@@ -95,11 +98,14 @@ def main():
     for code, _ in LANGS.values():
         for n in CONTENT:
             shutil.copy(APP / 'assets/content' / f'{n}_{code}.json', DATA / f'{n}_{code}.json')
-    disc = ios_disclaimers()
+    # the iOS clone lives in a temp folder that gets cleaned: without it, keep the disclaimers synced before
+    disc = ios_disclaimers() if IOS_TEXTS.exists() else {}
+    old_file = DATA / 'app_strings.json'
+    old = json.loads(old_file.read_text(encoding='utf-8')) if old_file.exists() else {}
     strings = {}
     for lang, (code, values) in LANGS.items():
         s = app_strings(values)
-        s['disclaimer'] = disc.get(code) or s['disclaimer_text']
+        s['disclaimer'] = disc.get(code) or old.get(lang, {}).get('disclaimer') or s['disclaimer_text']
         strings[lang] = s
     (DATA / 'app_strings.json').write_text(json.dumps(strings, ensure_ascii=False, indent=1), encoding='utf-8')
 
