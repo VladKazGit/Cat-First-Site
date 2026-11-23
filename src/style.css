@@ -199,12 +199,11 @@ img.wide.portrait{width:auto;max-height:620px;margin-left:auto;margin-right:auto
 /* seasonal home page banner 'New in the app: Праздник с котом' (the app's red holiday tile, snow like on the tile) */
 .holiday{display:grid;grid-template-columns:minmax(0,1.15fr) minmax(0,1fr);gap:32px;align-items:center;border-radius:24px;padding:36px 40px;
   color:#fff;background-color:var(--holiday);
-  background-image:radial-gradient(circle,rgba(255,255,255,.32) 0 1.2px,transparent 1.7px),radial-gradient(circle,rgba(255,255,255,.2) 0 2px,transparent 2.6px);
-  background-size:54px 42px,95px 75px;background-position:0 0,20px 14px;animation:snow 12s linear infinite}
+  background-image:url(img/snow-a.svg),url(img/snow-b.svg);background-position:0 0,130px 60px;animation:snow 16s linear infinite}
 .holiday h2{color:#fff;font-size:32px;font-weight:600;margin:12px 0 6px}
 .holiday .dots li::before{background:#fff;box-shadow:none}
 .holiday .hcta{font-weight:600;margin:10px 0 0}.holiday .stores{margin-top:14px}
 .holiday .hpic img{width:100%;height:auto;border-radius:18px}
-@keyframes snow{to{background-position:54px 294px,20px 314px}}
+@keyframes snow{to{background-position:0 300px,130px 450px}}
 @media (prefers-reduced-motion:reduce){.holiday{animation:none}}
 @media (max-width:767px){.holiday{grid-template-columns:1fr;gap:20px;padding:24px 20px}.holiday h2{font-size:26px}}

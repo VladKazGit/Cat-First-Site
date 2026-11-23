@@ -176,8 +176,12 @@ def check_links_and_rules():
             if bad in src:
                 problems.append(f'{js.relative_to(DIST)}: contains {bad}')
     for css in DIST.rglob('*.css'):
-        if re.search(r'url\(|@import', css.read_text(encoding='utf-8')):
-            problems.append(f'{css.relative_to(DIST)}: url()/@import')
+        text = css.read_text(encoding='utf-8')
+        if '@import' in text:
+            problems.append(f'{css.relative_to(DIST)}: @import')
+        for ref in re.findall(r'url\(\s*[\'"]?([^)\'"]+)', text):  # only the site's own files
+            if re.match(r'[a-z]+:|//', ref) or not (css.parent / ref).exists():
+                problems.append(f'{css.relative_to(DIST)}: url({ref})')
     return len(files), nlinks, dict(external)
 
 

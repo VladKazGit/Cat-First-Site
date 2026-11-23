@@ -8,6 +8,7 @@ import html
 import json
 import os
 import posixpath
+import random
 import re
 import shutil
 import sys
@@ -375,6 +376,28 @@ def home_sections(pg, sections):
     return secs
 
 
+# the banner's snow: two tiles (w, h, flakes, radius range, opacity range); flakes at random places, so no rows,
+# and the two layers fall at different speeds (style.css), so the repeat is not seen
+SNOW_LAYERS = {'snow-a': (400, 300, 50, (0.9, 1.5), (0.22, 0.38)), 'snow-b': (520, 390, 25, (1.6, 2.4), (0.14, 0.24))}
+
+
+def write_snow():
+    """dist/img/snow-*.svg; a fixed seed, so every build draws the same snow. A flake near an edge is drawn on the
+    other side too, so the tile joins without a seam."""
+    for name, (w, h, n, (r0, r1), (o0, o1)) in SNOW_LAYERS.items():
+        rnd = random.Random(name)
+        dots = []
+        for _ in range(n):
+            x, y, r, o = rnd.uniform(0, w), rnd.uniform(0, h), rnd.uniform(r0, r1), rnd.uniform(o0, o1)
+            for dx in (-w, 0, w):
+                for dy in (-h, 0, h):
+                    if -r <= x + dx <= w + r and -r <= y + dy <= h + r:
+                        dots.append(f'<circle cx="{x + dx:.1f}" cy="{y + dy:.1f}" r="{r:.2f}" fill-opacity="{o:.2f}"/>')
+        (DIST / f'img/{name}.svg').write_text(
+            f'<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}" fill="#fff">'
+            + ''.join(dots) + '</svg>\n', encoding='utf-8')
+
+
 def holiday_banner(pg, C):
     """Home page: the app's new section "Праздник с котом" (its title and the topics of its sections, from the app) and
     the store badges, on the app's red holiday tile colour with falling snow, until HOLIDAY_BANNER_UNTIL."""
@@ -600,6 +623,7 @@ def main():
     shutil.copy(SRC / 'style.css', DIST / 'style.css')
     shutil.copy(SRC / 'gallery.js', DIST / 'gallery.js')
     shutil.copytree(SRC / 'img', DIST / 'img')
+    write_snow()
     shutil.copytree(SRC / 'hero', DIST / 'img/hero')
     shutil.copytree(SRC / 'badges', DIST / 'img/badges')
     shutil.copytree(SRC / 'icons', DIST / 'icons')
