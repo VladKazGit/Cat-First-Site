@@ -24,7 +24,7 @@ jobs:
     runs-on: ubuntu-latest
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: ${{ steps.first_try.outputs.page_url || steps.second_try.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -40,5 +40,13 @@ jobs:
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist
-      - id: deployment
+      # GitHub sometimes does not find the artifact it has just stored ("No artifacts named github-pages"): one more try
+      - id: first_try
+        uses: actions/deploy-pages@v4
+        continue-on-error: true
+      - name: Wait before the second try
+        if: steps.first_try.outcome == 'failure'
+        run: sleep 60
+      - id: second_try
+        if: steps.first_try.outcome == 'failure'
         uses: actions/deploy-pages@v4
